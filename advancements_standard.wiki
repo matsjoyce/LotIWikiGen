@@ -1,0 +1,1586 @@
+This is an auto-generated wiki page listing all the advancements avalible for catagories of units currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.
+This was generated at Wed Mar 29 10:48:23 2017 using version git-2b2f8a7 of LotI and version 0.3.4 of the generation script.
+As this is auto-generated, DO NOT EDIT THIS PAGE.
+Instead, create a new issule at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
+
+Other LotI-related wiki pages:
+
+* https://wiki.wesnoth.org/LotI_Items &ndash; items, such as weapons and books
+* https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
+* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit specific advancements
+* https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
+* https://wiki.wesnoth.org/DeadlyUnitsFromLotI
+
+== Legacies and Books ==
+
+=== aware of legacy possessed &ndash; awareness ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<br/>
+=== better at melee combat (Book of Magical Swordplay) &ndash; BoMS1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements BoMS to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<br/>
+=== better at self-protection from attacks (5% more defence on all terrains; Book of Magical Swordplay) &ndash; BoMS2 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#better_at_melee_combat_(Book_of_Magical_Swordplay)_.E2.80.93_BoMS1|BoMS1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Chance to get hit in forests reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in caves reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in mushroom groves reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in villages reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in castles reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in shallow waters reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in deep water reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in swamps reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on hills reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on mountains reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on sands reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 5%</span><br/>
+<br/>
+=== fighting faster (Book of Magical Swordplay) &ndash; BoMS3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#better_at_melee_combat_(Book_of_Magical_Swordplay)_.E2.80.93_BoMS1|BoMS1]], [[#better_at_self-protection_from_attacks_(5%_more_defence_on_all_terrains;_Book_of_Magical_Swordplay)_.E2.80.93_BoMS2|BoMS2]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks (melee attacks only)</span><br/>
+<br/>
+=== able to cast an incinerating fireball (Book of Fireballs) &ndash; BoF1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements BoF to be achieved first</i></span><br/>
+<span style='color:green'>New attack: fireball (6 - 5)</span><br/>
+<span style='color:green'>New weapon special for the fireball attack: magical</span><br/>
+<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
+<br/>
+=== better at casting fireballs (Book of Fireballs) &ndash; BoF2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_an_incinerating_fireball_(Book_of_Fireballs)_.E2.80.93_BoF1|BoF1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fireball attack</span><br/>
+<br/>
+=== casting fireballs that do more damage (Book of Fireballs) &ndash; BoF3 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_an_incinerating_fireball_(Book_of_Fireballs)_.E2.80.93_BoF1|BoF1]], [[#better_at_casting_fireballs_(Book_of_Fireballs)_.E2.80.93_BoF2|BoF2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the fireball attack</span><br/>
+<br/>
+=== able to hit more enemies with fireballs (Book of Fireballs) &ndash; BoF4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_an_incinerating_fireball_(Book_of_Fireballs)_.E2.80.93_BoF1|BoF1]], [[#better_at_casting_fireballs_(Book_of_Fireballs)_.E2.80.93_BoF2|BoF2]], [[#casting_fireballs_that_do_more_damage_(Book_of_Fireballs)_.E2.80.93_BoF3|BoF3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<span style='color:green'>1 fewer attacks for the fireball attack</span><br/>
+<br/>
+=== able to poison weapons (Book of Herbal Tinctures and Malignancies) &ndash; BoHTaM1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements BoHTaM to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): poison</span><br/>
+<br/>
+=== capable of self-healing (Book of Herbal Tinctures and Malignancies) &ndash; BoHTaM2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_poison_weapons_(Book_of_Herbal_Tinctures_and_Malignancies)_.E2.80.93_BoHTaM1|BoHTaM1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (13)]]</span><br/>
+<br/>
+=== able to poison weapons of all adjacent allies (Book of Herbal Tinctures and Malignancies) &ndash; BoHTaM3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_poison_weapons_(Book_of_Herbal_Tinctures_and_Malignancies)_.E2.80.93_BoHTaM1|BoHTaM1]], [[#capable_of_self-healing_(Book_of_Herbal_Tinctures_and_Malignancies)_.E2.80.93_BoHTaM2|BoHTaM2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_dummy|radiation]]</span><br/>
+<br/>
+=== improving the damage of all nearby allies by 15% (Tome of Bards) &ndash; ToB1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ToB to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|bardsong (15)]]</span><br/>
+<br/>
+=== improving the damage of all nearby allies by 30% (Tome of Bards) &ndash; ToB2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#improving_the_damage_of_all_nearby_allies_by_15%_(Tome_of_Bards)_.E2.80.93_ToB1|ToB1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|bardsong (15)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|bardsong (30)]]</span><br/>
+<br/>
+=== improving the damage of all nearby allies by 40% (Tome of Bards) &ndash; ToB3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#improving_the_damage_of_all_nearby_allies_by_15%_(Tome_of_Bards)_.E2.80.93_ToB1|ToB1]], [[#improving_the_damage_of_all_nearby_allies_by_30%_(Tome_of_Bards)_.E2.80.93_ToB2|ToB2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|bardsong (30)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|bardsong (40)]]</span><br/>
+<br/>
+=== able to cast necromantic spells (Tome of Liches) &ndash; ToL1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ToL to be achieved first</i></span><br/>
+<span style='color:green'>New attack: chill wave (13 - 2)</span><br/>
+<span style='color:green'>New weapon special for the chill wave attack: magical</span><br/>
+<span style='color:green'>New attack: shadow wave (21 - 1)</span><br/>
+<span style='color:green'>New weapon special for the shadow wave attack: magical</span><br/>
+<br/>
+=== better at casting necromantic spells (Tome of Liches) &ndash; ToL2 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_necromantic_spells_(Tome_of_Liches)_.E2.80.93_ToL1|ToL1]], ToL to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the chill wave attack</span><br/>
+<span style='color:green'>Damage increased by 3 for the shadow wave attack</span><br/>
+<br/>
+=== a lich after death (Tome of Liches) &ndash; ToL3,ToL ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_necromantic_spells_(Tome_of_Liches)_.E2.80.93_ToL1|ToL1]], [[#better_at_casting_necromantic_spells_(Tome_of_Liches)_.E2.80.93_ToL2|ToL2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#necromancy_.E2.80.93_dummy|necromancy]]</span><br/>
+<br/>
+=== better at melee combat (1 more damage, 2% better defences; The Fencer's Study) &ndash; TFS1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements TFS to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in caves reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in mushroom groves reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in villages reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in castles reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in shallow waters reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in deep water reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in swamps reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on hills reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on mountains reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on sands reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 2%</span><br/>
+<br/>
+=== able to transform into the form of a wolf when attacking (20% more damage and 20% more attacks; Guide to Lycanthropy) &ndash; GtL1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements GtL to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: werewolf (20% - 20% melee blade)</span><br/>
+<br/>
+=== able to transform into the form of a direwolf when attacking (5% more damage, 40% more attacks and poison; Guide to Lycanthropy) &ndash; GtL2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements GtL, [[#able_to_transform_into_the_form_of_a_wolf_when_attacking_(20%_more_damage_and_20%_more_attacks;_Guide_to_Lycanthropy)_.E2.80.93_GtL1|GtL1]] to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: direwolf (5% - 40% melee blade)</span><br/>
+<span style='color:green'>New weapon special for the direwolf attack: poison</span><br/>
+<br/>
+=== able to transform into the form of a hellhound when attacking (berserk; Guide to Lycanthropy) &ndash; GtL3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements GtL, [[#able_to_transform_into_the_form_of_a_wolf_when_attacking_(20%_more_damage_and_20%_more_attacks;_Guide_to_Lycanthropy)_.E2.80.93_GtL1|GtL1]], [[#able_to_transform_into_the_form_of_a_direwolf_when_attacking_(5%_more_damage,_40%_more_attacks_and_poison;_Guide_to_Lycanthropy)_.E2.80.93_GtL2|GtL2]] to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: hellhound (% - % melee fire)</span><br/>
+<span style='color:green'>New weapon special for the hellhound attack: berserk</span><br/>
+<br/>
+=== able to breathe fire when in hellhound form (10-5 damage; Guide to Lycanthropy) &ndash; GtL4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements GtL, [[#able_to_transform_into_the_form_of_a_wolf_when_attacking_(20%_more_damage_and_20%_more_attacks;_Guide_to_Lycanthropy)_.E2.80.93_GtL1|GtL1]], [[#able_to_transform_into_the_form_of_a_direwolf_when_attacking_(5%_more_damage,_40%_more_attacks_and_poison;_Guide_to_Lycanthropy)_.E2.80.93_GtL2|GtL2]], [[#able_to_transform_into_the_form_of_a_hellhound_when_attacking_(berserk;_Guide_to_Lycanthropy)_.E2.80.93_GtL3|GtL3]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: hellhound fire breath (10 - 5)</span><br/>
+<br/>
+=== better at breathing fire in the form of the hellhound (Guide to Lycanthropy) &ndash; GtL5 ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements GtL, [[#able_to_transform_into_the_form_of_a_wolf_when_attacking_(20%_more_damage_and_20%_more_attacks;_Guide_to_Lycanthropy)_.E2.80.93_GtL1|GtL1]], [[#able_to_transform_into_the_form_of_a_direwolf_when_attacking_(5%_more_damage,_40%_more_attacks_and_poison;_Guide_to_Lycanthropy)_.E2.80.93_GtL2|GtL2]], [[#able_to_transform_into_the_form_of_a_hellhound_when_attacking_(berserk;_Guide_to_Lycanthropy)_.E2.80.93_GtL3|GtL3]], [[#able_to_breathe_fire_when_in_hellhound_form_(10-5_damage;_Guide_to_Lycanthropy)_.E2.80.93_GtL4|GtL4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the hellhound fire breath attack</span><br/>
+<br/>
+=== improving the resistances of all nearby allies by 20% (Tome of Bards, Volume II) &ndash; ToBVII1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ToBVII to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (POWER)_.E2.80.93_resistance|Song of Rock (20)]]</span><br/>
+<br/>
+=== improving the resistances of all nearby allies by 25% and decreasing enemy damage by 20% (Tome of Bards, Volume II) &ndash; ToBVII2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ToBVII, [[#improving_the_resistances_of_all_nearby_allies_by_20%_(Tome_of_Bards,_Volume_II)_.E2.80.93_ToBVII1|ToBVII1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#NAME (POWER)_.E2.80.93_resistance|Song of Rock (20)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (POWER)_.E2.80.93_resistance|Song of Metal (25)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
+<br/>
+=== improving the damage of nearby party members by 15% (Tome of Bards, Volume II) &ndash; ToBVII2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ToBVII, [[#improving_the_resistances_of_all_nearby_allies_by_20%_(Tome_of_Bards,_Volume_II)_.E2.80.93_ToBVII1|ToBVII1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Song of Punk (15)]]</span><br/>
+<br/>
+=== hitting more enemies with spells (Koschei's Journal) &ndash; KJ1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements KJ to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (ranged fire attacks only): [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
+<span style='color:green'>New weapon special (ranged cold attacks only): [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
+<span style='color:green'>New weapon special (ranged arcane attacks only): [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
+<br/>
+=== hitting even more enemies with spells, one less attack (Koschei's Journal) &ndash; KJ2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements KJ, [[#hitting_more_enemies_with_spells_(Koschei's_Journal)_.E2.80.93_KJ1|KJ1]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (ranged fire attacks only): [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<span style='color:green'>Remove weapon special (ranged fire attacks only): cone</span><br/>
+<span style='color:green'>1 fewer attacks (ranged fire attacks only)</span><br/>
+<span style='color:green'>New weapon special (ranged cold attacks only): [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<span style='color:green'>Remove weapon special (ranged cold attacks only): cone</span><br/>
+<span style='color:green'>1 fewer attacks (ranged cold attacks only)</span><br/>
+<span style='color:green'>New weapon special (ranged arcane attacks only): [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<span style='color:green'>Remove weapon special (ranged arcane attacks only): cone</span><br/>
+<span style='color:green'>1 fewer attacks (ranged arcane attacks only)</span><br/>
+<br/>
+=== attack twice in a row (Wrathful Combat Techniques) &ndash; WCT1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements WCT to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: fury (2) (% - % melee )</span><br/>
+<span style='color:green'>New weapon special for the fury (2) attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
+<br/>
+=== attack thrice in a row (Wrathful Combat Techniques) &ndash; WCT2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements WCT, [[#attack_twice_in_a_row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT1|WCT1]] to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: fury (3) (% - % melee )</span><br/>
+<span style='color:green'>New weapon special for the fury (3) attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
+<br/>
+=== attack five times in a row (Wrathful Combat Techniques) &ndash; WCT3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements WCT, [[#attack_twice_in_a_row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT1|WCT1]], [[#attack_thrice_in_a_row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT2|WCT2]] to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: fury (5) (% - % melee )</span><br/>
+<span style='color:green'>New weapon special for the fury (5) attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
+<br/>
+=== able to use the Wrath ability to increase damage in subsequent attacks (Wrathful Combat Techniques) &ndash; WCT4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements WCT, [[#attack_twice_in_a_row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT1|WCT1]], [[#attack_thrice_in_a_row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT2|WCT2]], [[#attack_five_times_in_a_row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT3|WCT3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#wrath_.E2.80.93_dummy|wrath]]</span><br/>
+<br/>
+=== possessing the leadership of a level 3 unit (How to be an Overlord) &ndash; HtbaO1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements HtbaO to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: leadership level 3</span><br/>
+<br/>
+=== possessing the leadership of a level 4 unit (How to be an Overlord) &ndash; HtbaO2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#possessing_the_leadership_of_a_level_3_unit_(How_to_be_an_Overlord)_.E2.80.93_HtbaO1|HtbaO1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: leadership level 3</span><br/>
+<span style='color:#60A0FF'>New ability: leadership level 4</span><br/>
+<br/>
+=== leading allies to charge into battle (How to be an Overlord) &ndash; HtbaO2b ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#possessing_the_leadership_of_a_level_4_unit_(How_to_be_an_Overlord)_.E2.80.93_HtbaO2|HtbaO2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
+<br/>
+=== possessing the leadership of a level 5 unit (How to be an Overlord) &ndash; HtbaO3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#possessing_the_leadership_of_a_level_4_unit_(How_to_be_an_Overlord)_.E2.80.93_HtbaO2|HtbaO2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: leadership level 4</span><br/>
+<span style='color:#60A0FF'>New ability: leadership level 5</span><br/>
+<br/>
+=== able to cast fireball (Serendipity) &ndash; Srn1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements Srn to be achieved first</i></span><br/>
+<span style='color:green'>New attack: fireball (7 - 4)</span><br/>
+<span style='color:green'>New weapon special for the fireball attack: magical</span><br/>
+<br/>
+=== darkening nearby hexes (Serendipity) &ndash; Srn2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_fireball_(Serendipity)_.E2.80.93_Srn1|Srn1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#darkens_.E2.80.93_illuminates|darkens]]</span><br/>
+<br/>
+=== hiding in twilight (Serendipity) &ndash; Srn3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#darkening_nearby_hexes_(Serendipity)_.E2.80.93_Srn2|Srn2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#twilightstalk_.E2.80.93_hides|twilightstalk]]</span><br/>
+<br/>
+=== regenerating (Serendipity) &ndash; Srn4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#hiding_in_twilight_(Serendipity)_.E2.80.93_Srn3|Srn3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (7)]]</span><br/>
+<br/>
+=== dealing double damage to dwarves (Serendipity) &ndash; Srn5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#regenerating_(Serendipity)_.E2.80.93_Srn4|Srn4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#misnania_.E2.80.93_damage|misnania]]</span><br/>
+<br/>
+=== piercing enemies with melee (Serendipity) &ndash; Srn6 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#dealing_double_damage_to_dwarves_(Serendipity)_.E2.80.93_Srn5|Srn5]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#pierce_.E2.80.93_dummy|pierce]]</span><br/>
+<br/>
+=== able to cast a spell that lowers enemy terrain defences (Heart of Darkness) &ndash; HoD1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements HoD to be achieved first</i></span><br/>
+<span style='color:green'>New attack: ill luck (3 - 3)</span><br/>
+<span style='color:green'>New weapon special for the ill luck attack: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
+<br/>
+=== able to cast a spell that lowers enemy resistances (Heart of Darkness) &ndash; HoD2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_spell_that_lowers_enemy_terrain_defences_(Heart_of_Darkness)_.E2.80.93_HoD1|HoD1]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: misfortune (4 - 3)</span><br/>
+<span style='color:green'>New weapon special for the misfortune attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
+<br/>
+=== able to cast a spell that lowers enemy damage (Heart of Darkness) &ndash; HoD3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_spell_that_lowers_enemy_resistances_(Heart_of_Darkness)_.E2.80.93_HoD2|HoD2]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: hex (5 - 3)</span><br/>
+<span style='color:green'>New weapon special for the hex attack: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
+<br/>
+=== able to cast a spell that converts enemies to Revenants if killed (Heart of Darkness) &ndash; HoD4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_spell_that_lowers_enemy_damage_(Heart_of_Darkness)_.E2.80.93_HoD3|HoD3]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: reanimation (5 - 2)</span><br/>
+<span style='color:green'>New weapon special for the reanimation attack: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Revenant)]]</span><br/>
+<br/>
+=== able to cast a spell that lowers enemy terrain defences, resistance and damage (Heart of Darkness) &ndash; HoD5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_spell_that_converts_enemies_to_Revenants_if_killed_(Heart_of_Darkness)_.E2.80.93_HoD4|HoD4]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: curse (3 - 2)</span><br/>
+<span style='color:green'>New weapon special for the curse attack: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
+<span style='color:green'>New weapon special for the curse attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
+<span style='color:green'>New weapon special for the curse attack: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
+<br/>
+=== having a 1% chance to make the opponent's soul explode on hit, killing him and damaging his nearby allies (Raijer's Bloody Field) &ndash; RBF1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements RBF to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#soul annihilation_.E2.80.93_damage|soul annihilation]]</span><br/>
+<br/>
+=== having a chance to drain the enemy's soul on hit, killing him instantly and healing from it (Raijer's Bloody Field) &ndash; RBF2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements RBF to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#nosferatu's gorge_.E2.80.93_damage|nosferatu's gorge]]</span><br/>
+<br/>
+=== having a chance to drain the enemy's soul on hit, killing him instantly and healing nearby allies (Raijer's Bloody Field) &ndash; RBF3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements RBF to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#Raijer's saloon_.E2.80.93_damage|Raijer's saloon]]</span><br/>
+<br/>
+=== having a 1% chance to drain the enemy's soul, converting him into a ghost fighting on your side (Raijer's Bloody Field) &ndash; RBF4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements RBF to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#soul extraction_.E2.80.93_damage|soul extraction]]</span><br/>
+<br/>
+=== having a 1% chance to drain the enemy's soul gaining wrath stacks (Raijer's Bloody Field) &ndash; RBF5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements RBF to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#soul thrash_.E2.80.93_damage|soul thrash]]</span><br/>
+<br/>
+=== 15%/5%/5%/-5% to fire/blade/impact/cold resistance, 1 more melee damage (Fire Dragon Legacy) &ndash; FDL1 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by -5%</span><br/>
+<br/>
+=== 10% better fire resistance, able to breathe fire 11-4, some fire penetration (Fire Dragon Legacy) &ndash; FDL2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy, [[#15%/5%/5%/-5%_to_fire/blade/impact/cold_resistance,_1_more_melee_damage_(Fire_Dragon_Legacy)_.E2.80.93_FDL1|FDL1]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: fire breath legacy (14 - 4)</span><br/>
+<span style='color:green'>New weapon special for the fire breath legacy attack: marksman</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
+<br/>
+=== breathing fire better, more fire penetration, 5%/2%/2% better resistance to fire/blade/impact (Fire Dragon Legacy) &ndash; FDL3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy, [[#10%_better_fire_resistance,_able_to_breathe_fire_11-4,_some_fire_penetration_(Fire_Dragon_Legacy)_.E2.80.93_FDL2|FDL2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fire breath legacy attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
+<span style='color:green'>Damage increased by 3 for the fire breath legacy attack</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
+<br/>
+=== breathing fire faster, more fire penetration (Fire Dragon Legacy) &ndash; FDL4 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy, [[#breathing_fire_better,_more_fire_penetration,_5%/2%/2%_better_resistance_to_fire/blade/impact_(Fire_Dragon_Legacy)_.E2.80.93_FDL3|FDL3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the fire breath legacy attack</span><br/>
+<span style='color:green'>1 more attacks for the fire breath legacy attack</span><br/>
+<br/>
+=== breathing fire with large blast radius, more fire penetration (Fire Dragon Legacy) &ndash; FDL5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy, [[#breathing_fire_faster,_more_fire_penetration_(Fire_Dragon_Legacy)_.E2.80.93_FDL4|FDL4]] to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: explosive fire breath legacy (% - %  )</span><br/>
+<span style='color:green'>New weapon special for the explosive fire breath legacy attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<br/>
+=== 15%/5%/5%/-5% to cold/blade/pierce/fire resistance, 1 more melee damage (Ice Dragon Legacy) &ndash; IDL1 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by -5%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
+<br/>
+=== 10% better cold resistance, able to breathe cold 11-4, some cold penetration (Ice Dragon Legacy) &ndash; IDL2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy, [[#15%/5%/5%/-5%_to_cold/blade/pierce/fire_resistance,_1_more_melee_damage_(Ice_Dragon_Legacy)_.E2.80.93_IDL1|IDL1]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: ice breath legacy (11 - 4)</span><br/>
+<span style='color:green'>New weapon special for the ice breath legacy attack: slow</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
+<br/>
+=== breathing cold better, 5%/2%/2% better resistance to cold/blade/pierce, more cold penetration (Ice Dragon Legacy) &ndash; IDL3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy, [[#10%_better_cold_resistance,_able_to_breathe_cold_11-4,_some_cold_penetration_(Ice_Dragon_Legacy)_.E2.80.93_IDL2|IDL2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the ice breath legacy attack</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
+<br/>
+=== breathing cold faster, more cold penetration (Ice Dragon Legacy) &ndash; IDL4 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy, [[#breathing_cold_better,_5%/2%/2%_better_resistance_to_cold/blade/pierce,_more_cold_penetration_(Ice_Dragon_Legacy)_.E2.80.93_IDL3|IDL3]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the ice breath legacy attack</span><br/>
+<br/>
+=== hitting more enemies with breath and more cold penetration (Ice Dragon Legacy) &ndash; IDL5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy, [[#breathing_cold_faster,_more_cold_penetration_(Ice_Dragon_Legacy)_.E2.80.93_IDL4|IDL4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the ice breath legacy attack: [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
+<br/>
+=== 2 more melee damage, 2% to fire, cold and arcane resistance (Dark Dragon Legacy) &ndash; DDL1 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 2%</span><br/>
+<br/>
+=== able to breathe darkness 9-4 (Dark Dragon Legacy) &ndash; DDL2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy, [[#2_more_melee_damage,_2%_to_fire,_cold_and_arcane_resistance_(Dark_Dragon_Legacy)_.E2.80.93_DDL1|DDL1]] to be achieved first</i></span><br/>
+<span style='color:green'>New attack: dark breath legacy (9 - 4)</span><br/>
+<span style='color:green'>New weapon special for the dark breath legacy attack: drain</span><br/>
+<br/>
+===  5% better resistance to fire, arcane and cold, 5% arcane penetration (Dark Dragon Legacy) &ndash; DDL3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy, [[#able_to_breathe_darkness_9-4_(Dark_Dragon_Legacy)_.E2.80.93_DDL2|DDL2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
+<br/>
+=== 8% more arcane penetration (Dark Dragon Legacy) &ndash; DDL4 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy, [[#_5%_better_resistance_to_fire,_arcane_and_cold,_5%_arcane_penetration_(Dark_Dragon_Legacy)_.E2.80.93_DDL3|DDL3]] to be achieved first</i></span><br/>
+<br/>
+=== highly precise when breathing darkness (Dark Dragon Legacy) &ndash; DDL5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy, [[#8%_more_arcane_penetration_(Dark_Dragon_Legacy)_.E2.80.93_DDL4|DDL4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the dark breath legacy attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
+<br/>
+=== more skeleton-like - resistances: cold +15%, pierce +15%, blade +10%, impact -5%, fire -5%, arcane -10% (Undead Legacy) &ndash; UL1 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements undead_legacy, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by -5%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 15%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by -5%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by -10%</span><br/>
+<br/>
+=== more spirit-like - resistances: cold +15%, physical +10%, fire -5%, arcane -5%; hitpoints -8 (Undead Legacy) &ndash; UL2 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements undead_legacy, [[#more_skeleton-like_-_resistances:_cold_+15%,_pierce_+15%,_blade_+10%,_impact_-5%,_fire_-5%,_arcane_-10%_(Undead_Legacy)_.E2.80.93_UL1|UL1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by -10%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by -5%</span><br/>
+<span style='color:#60A0FF'>8 fewer hitpoints per level</span><br/>
+<span style='color=#60A0FF'>Full heal</span><br/>
+<br/>
+=== able to leech enemies in melee range; -10% arcane resistance (Undead Legacy) &ndash; UL3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements undead_legacy, [[#more_spirit-like_-_resistances:_cold_+15%,_physical_+10%,_fire_-5%,_arcane_-5%;_hitpoints_-8_(Undead_Legacy)_.E2.80.93_UL2|UL2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by -10%</span><br/>
+<br/>
+=== immune to poison, drain and plague (Undead Legacy) &ndash; UL4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements undead_legacy, [[#able_to_leech_enemies_in_melee_range;_-10%_arcane_resistance_(Undead_Legacy)_.E2.80.93_UL3|UL3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span><br/>
+<br/>
+=== a lich after death (Undead Legacy) &ndash; UL5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements undead_legacy, [[#immune_to_poison,_drain_and_plague_(Undead_Legacy)_.E2.80.93_UL4|UL4]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#necromancy_.E2.80.93_dummy|necromancy]]</span><br/>
+<br/>
+=== 10% increased damage for adjacent units (Legacy of Kings) &ndash; LoK1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Legacy of Kings (10)]]</span><br/>
+<br/>
+=== 15% increased damage for adjacent units (Legacy of Kings) &ndash; LoK2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings, [[#10%_increased_damage_for_adjacent_units_(Legacy_of_Kings)_.E2.80.93_LoK1|LoK1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Legacy of Kings (10)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Legacy of Kings (15)]]</span><br/>
+<br/>
+=== 15% increased damage for adjacent units, 10 % better resistances (Legacy of Kings) &ndash; LoK3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings, [[#15%_increased_damage_for_adjacent_units_(Legacy_of_Kings)_.E2.80.93_LoK2|LoK2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Legacy of Kings (15)]]</span><br/>
+<br/>
+=== 20% increased damage for adjacent units, 15 % better resistances (Legacy of Kings) &ndash; LoK4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings, [[#15%_increased_damage_for_adjacent_units,_10_%_better_resistances_(Legacy_of_Kings)_.E2.80.93_LoK3|LoK3]] to be achieved first</i></span><br/>
+<br/>
+=== 25% increased damage for adjacent units, 20 % better resistances (Legacy of Kings) &ndash; LoK5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings, [[#20%_increased_damage_for_adjacent_units,_15_%_better_resistances_(Legacy_of_Kings)_.E2.80.93_LoK4|LoK4]] to be achieved first</i></span><br/>
+<br/>
+=== 5% physical resistances, 1 more melee damage (Legacy of Titans) &ndash; LoT1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_titans, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
+<br/>
+=== 3% physical resistances, 2 more melee damage, regeneration (Legacy of Titans) &ndash; LoT2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_titans, [[#5%_physical_resistances,_1_more_melee_damage_(Legacy_of_Titans)_.E2.80.93_LoT1|LoT1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
+<span style='color:#60A0FF'>New ability: regenerates</span><br/>
+<br/>
+=== 3% physical resistances, 1 more melee damage (Legacy of Titans) &ndash; LoT3 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_titans, [[#3%_physical_resistances,_2_more_melee_damage,_regeneration_(Legacy_of_Titans)_.E2.80.93_LoT2|LoT2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
+<br/>
+=== -10% to damage of all adjacent enemies (Legacy of Sorrow) &ndash; LoS1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_sorrow, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (10)]]</span><br/>
+<br/>
+=== -15% to damage of all adjacent enemies (Legacy of Sorrow) &ndash; LoS2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_sorrow, [[#-10%_to_damage_of_all_adjacent_enemies_(Legacy_of_Sorrow)_.E2.80.93_LoS1|LoS1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (10)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
+<br/>
+=== -20% to damage of all adjacent enemies (Legacy of Sorrow) &ndash; LoS3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_sorrow, [[#-15%_to_damage_of_all_adjacent_enemies_(Legacy_of_Sorrow)_.E2.80.93_LoS2|LoS2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
+<br/>
+=== -25% to damage of all adjacent enemies (Legacy of Sorrow) &ndash; LoS4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_sorrow, [[#-20%_to_damage_of_all_adjacent_enemies_(Legacy_of_Sorrow)_.E2.80.93_LoS3|LoS3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (25)]]</span><br/>
+<br/>
+=== -10% to non-physical resistances of all adjacent enemies (Legacy of Sorrow) &ndash; LoS5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_sorrow, [[#-20%_to_damage_of_all_adjacent_enemies_(Legacy_of_Sorrow)_.E2.80.93_LoS3|LoS3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (10)]]</span><br/>
+<br/>
+=== -20% to non-physical resistances of all adjacent enemies (Legacy of Sorrow) &ndash; LoS6 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_sorrow, [[#-10%_to_non-physical_resistances_of_all_adjacent_enemies_(Legacy_of_Sorrow)_.E2.80.93_LoS5|LoS5]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (10)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (20)]]</span><br/>
+<br/>
+=== illuminating (Legacy of Light) &ndash; LoL1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: illuminates</span><br/>
+<br/>
+=== lawful (Legacy of Light) &ndash; LoL-lawful ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Sets alignment to lawful</span><br/>
+<br/>
+=== able to illuminate also the day (Legacy of Light) &ndash; LoL2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#illuminating_(Legacy_of_Light)_.E2.80.93_LoL1|LoL1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: illuminates</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#improved illumination_.E2.80.93_illuminates|improved illumination]]</span><br/>
+<br/>
+=== illuminating incredibly (Legacy of Light) &ndash; LoL3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#able_to_illuminate_also_the_day_(Legacy_of_Light)_.E2.80.93_LoL2|LoL2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#improved illumination_.E2.80.93_illuminates|improved illumination]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#great illumination_.E2.80.93_illuminates|great illumination]]</span><br/>
+<br/>
+=== turning undead back to life (Legacy of Light) &ndash; LoL4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#illuminating_incredibly_(Legacy_of_Light)_.E2.80.93_LoL3|LoL3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#purify_.E2.80.93_dummy|purify]]</span><br/>
+<br/>
+=== healing nearby allies (Legacy of Light) &ndash; LoL-healing1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#illuminating_(Legacy_of_Light)_.E2.80.93_LoL1|LoL1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (8)]]</span><br/>
+<br/>
+=== healing nearby allies more efficiently (Legacy of Light) &ndash; LoL-healing2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#illuminating_(Legacy_of_Light)_.E2.80.93_LoL1|LoL1]], [[#healing_nearby_allies_(Legacy_of_Light)_.E2.80.93_LoL-healing1|LoL-healing1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (8)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (16)]]</span><br/>
+<br/>
+=== healing nearby allies even more efficiently (Legacy of Light) &ndash; LoL-healing3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_light, [[#illuminating_(Legacy_of_Light)_.E2.80.93_LoL1|LoL1]], [[#healing_nearby_allies_more_efficiently_(Legacy_of_Light)_.E2.80.93_LoL-healing2|LoL-healing2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (16)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (24)]]</span><br/>
+<br/>
+=== 5% more resistant to fire and arcane (Legacy of Phoenix) &ndash; LoP1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_phoenix, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
+<br/>
+=== 4% more resistant to fire and arcane (Legacy of Phoenix) &ndash; LoP2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_phoenix, [[#5%_more_resistant_to_fire_and_arcane_(Legacy_of_Phoenix)_.E2.80.93_LoP1|LoP1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 4%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 4%</span><br/>
+<br/>
+=== 4% more resistant to fire and arcane (Legacy of Phoenix) &ndash; LoP3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_phoenix, [[#4%_more_resistant_to_fire_and_arcane_(Legacy_of_Phoenix)_.E2.80.93_LoP2|LoP2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 4%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 4%</span><br/>
+<br/>
+=== burning nearby enemies for an amount of damage that increases over time (Legacy of Phoenix) &ndash; LoP3-flaming ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_phoenix, [[#4%_more_resistant_to_fire_and_arcane_(Legacy_of_Phoenix)_.E2.80.93_LoP2|LoP2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#flaming radiance_.E2.80.93_dummy|flaming radiance]]</span><br/>
+<br/>
+=== 3% more resistant to fire and arcane, 1% more resistant to cold (Legacy of Phoenix) &ndash; LoP4 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_phoenix, [[#4%_more_resistant_to_fire_and_arcane_(Legacy_of_Phoenix)_.E2.80.93_LoP3|LoP3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 1%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 3%</span><br/>
+<br/>
+=== able to resist death to some extent (Legacy of Phoenix) &ndash; LoP4-brace ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_phoenix, [[#4%_more_resistant_to_fire_and_arcane_(Legacy_of_Phoenix)_.E2.80.93_LoP3|LoP3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#from the ashes_.E2.80.93_dummy|from the ashes]]</span><br/>
+<br/>
+=== 10% to all resistances if there are no adjacent allies (Legacy of Exile) &ndash; LoE1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_exile, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#exile_.E2.80.93_resistance|exile]]</span><br/>
+<br/>
+=== 20% to all resistances if there are no adjacent allies (Legacy of Exile) &ndash; LoE2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_exile, [[#10%_to_all_resistances_if_there_are_no_adjacent_allies_(Legacy_of_Exile)_.E2.80.93_LoE1|LoE1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#exile_.E2.80.93_resistance|exile]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#forsaken_.E2.80.93_resistance|forsaken]]</span><br/>
+<br/>
+=== twice as resistant to all kinds of damage when attacking (Legacy of Exile) &ndash; LoE3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_exile, [[#20%_to_all_resistances_if_there_are_no_adjacent_allies_(Legacy_of_Exile)_.E2.80.93_LoE2|LoE2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal_.E2.80.93_resistance|zeal]]</span><br/>
+<br/>
+=== 4 more damage, but reducing the damage of nearby allies if there are some (Legacy of Exile) &ndash; LoE4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_exile, [[#twice_as_resistant_to_all_kinds_of_damage_when_attacking_(Legacy_of_Exile)_.E2.80.93_LoE3|LoE3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#anathema_.E2.80.93_leadership|anathema]]</span><br/>
+<br/>
+=== able to transform temporarily to ice (taking less damage, dealing 20% more damage; Legacy of the Freezing North) &ndash; LotFN1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_the_freezing_north, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: iceform (20% - % melee impact)</span><br/>
+<span style='color:green'>New weapon special for the iceform attack: [[LotI_Abilities#iceform_.E2.80.93_damage|iceform]]</span><br/>
+<br/>
+=== dealing more damage in the icy form (Legacy of the Freezing North) &ndash; LotFN2 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_transform_temporarily_to_ice_(taking_less_damage,_dealing_20%_more_damage;_Legacy_of_the_Freezing_North)_.E2.80.93_LotFN1|LotFN1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 10% for the iceform attack</span><br/>
+<br/>
+=== 3% more resistant to cold, blade and pierce (Legacy of the Freezing North) &ndash; LotFN3 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#dealing_more_damage_in_the_icy_form_(Legacy_of_the_Freezing_North)_.E2.80.93_LotFN2|LotFN2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 3%</span><br/>
+<br/>
+=== faster, 1 more ranged damage (Legacy of the Free) &ndash; LotF1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_the_free, [[#aware_of_legacy_possessed_.E2.80.93_awareness|awareness]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
+<br/>
+=== faster, 5% harder to hit (Legacy of the Free) &ndash; LotF2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#faster,_1_more_ranged_damage_(Legacy_of_the_Free)_.E2.80.93_LotF1|LotF1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in forests reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in caves reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in mushroom groves reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in villages reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in castles reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in shallow waters reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in deep water reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in swamps reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on hills reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on mountains reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on sands reduced by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 5%</span><br/>
+<br/>
+=== able to hit an enemy who misses a shot (Legacy of the Free) &ndash; LotF3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#faster,_5%_harder_to_hit_(Legacy_of_the_Free)_.E2.80.93_LotF2|LotF2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (ranged attacks only): [[LotI_Abilities#parry_.E2.80.93_dummy|parry]]</span><br/>
+<br/>
+=== faster, 1 more ranged damage (Legacy of the Free) &ndash; LotF4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_hit_an_enemy_who_misses_a_shot_(Legacy_of_the_Free)_.E2.80.93_LotF3|LotF3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
+<br/>
+=== regaining half of the max MP after attacking (Legacy of the Free) &ndash; LotF5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#faster,_1_more_ranged_damage_(Legacy_of_the_Free)_.E2.80.93_LotF4|LotF4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
+<br/>
+
+== Soul Eater and God Advancements ==
+
+=== better protected from cold (5% better resistances) &ndash; resist_cold1 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements resist_cold to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
+<br/>
+=== better protected from fire (5% better resistances) &ndash; resist_fire1 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements resist_fire to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
+<br/>
+=== better protected from arcane damage (5% better resistances) &ndash; resist_arcane1 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements resist_arcane to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
+<br/>
+=== better protected from blade (5% better resistances) &ndash; resist_blade1 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements resist_blade to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
+<br/>
+=== better protected from piercing attacks (5% better resistances) &ndash; resist_pierce1 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements resist_pierce to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
+<br/>
+=== better protected from impacts (5% better resistances) &ndash; resist_impact1 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements resist_impact to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
+<br/>
+=== having more hitpoints &ndash; health1 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements health to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>7 more hitpoints per level</span><br/>
+<br/>
+=== regenerating 4 additional hitpoints per turn &ndash; regeneration1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements regeneration to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: regenerates</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (12)]]</span><br/>
+<br/>
+=== regenerating 3 additional hitpoints per turn &ndash; regeneration2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#regenerating_4_additional_hitpoints_per_turn_.E2.80.93_regeneration1|regeneration1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (12)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (15)]]</span><br/>
+<br/>
+=== regenerating 3 additional hitpoints per turn &ndash; regeneration3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#regenerating_4_additional_hitpoints_per_turn_.E2.80.93_regeneration1|regeneration1]], [[#regenerating_3_additional_hitpoints_per_turn_.E2.80.93_regeneration2|regeneration2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (15)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (18)]]</span><br/>
+<br/>
+=== regenerating 2 additional hitpoints per turn &ndash; regeneration4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#regenerating_4_additional_hitpoints_per_turn_.E2.80.93_regeneration1|regeneration1]], [[#regenerating_3_additional_hitpoints_per_turn_.E2.80.93_regeneration2|regeneration2]], [[#regenerating_3_additional_hitpoints_per_turn_.E2.80.93_regeneration3|regeneration3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (18)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (20)]]</span><br/>
+<br/>
+=== regenerating 2 additional hitpoints per turn &ndash; regeneration5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#regenerating_4_additional_hitpoints_per_turn_.E2.80.93_regeneration1|regeneration1]], [[#regenerating_3_additional_hitpoints_per_turn_.E2.80.93_regeneration2|regeneration2]], [[#regenerating_3_additional_hitpoints_per_turn_.E2.80.93_regeneration3|regeneration3]], [[#regenerating_2_additional_hitpoints_per_turn_.E2.80.93_regeneration4|regeneration4]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (20)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (22)]]</span><br/>
+<br/>
+=== regenerating 2 additional hitpoints per turn &ndash; regeneration6 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#regenerating_4_additional_hitpoints_per_turn_.E2.80.93_regeneration1|regeneration1]], [[#regenerating_3_additional_hitpoints_per_turn_.E2.80.93_regeneration2|regeneration2]], [[#regenerating_3_additional_hitpoints_per_turn_.E2.80.93_regeneration3|regeneration3]], [[#regenerating_2_additional_hitpoints_per_turn_.E2.80.93_regeneration4|regeneration4]], [[#regenerating_2_additional_hitpoints_per_turn_.E2.80.93_regeneration5|regeneration5]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (22)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates (VALUE)_.E2.80.93_regenerate|regenerates (24)]]</span><br/>
+<br/>
+=== able to heal from enemies' attacks &ndash; absorb1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements absorb to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#absorbs (1)_.E2.80.93_dummy|absorbs (1)]]</span><br/>
+<br/>
+=== able to heal from enemies' attacks better &ndash; absorb2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_heal_from_enemies'_attacks_.E2.80.93_absorb1|absorb1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#absorbs (1)_.E2.80.93_dummy|absorbs (1)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#absorbs (2)_.E2.80.93_dummy|absorbs (2)]]</span><br/>
+<br/>
+=== able to heal allies &ndash; heal1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements heal to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: cures</span><br/>
+<br/>
+=== able to heal allies better &ndash; heal2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_heal_allies_.E2.80.93_heal1|heal1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: cures</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (11)]]</span><br/>
+<br/>
+=== able to heal allies better &ndash; heal3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_heal_allies_.E2.80.93_heal1|heal1]], [[#able_to_heal_allies_better_.E2.80.93_heal2|heal2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (11)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (14)]]</span><br/>
+<br/>
+=== able to heal allies better &ndash; heal4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_heal_allies_.E2.80.93_heal1|heal1]], [[#able_to_heal_allies_better_.E2.80.93_heal2|heal2]], [[#able_to_heal_allies_better_.E2.80.93_heal3|heal3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (14)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (16)]]</span><br/>
+<br/>
+=== able to lead allies into battle (leadership of a level 4 unit) &ndash; leadership1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements leadership to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: leadership level 4</span><br/>
+<br/>
+=== able to lead allies into battle (leadership of a level 5 unit) &ndash; leadership2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_lead_allies_into_battle_(leadership_of_a_level_4_unit)_.E2.80.93_leadership1|leadership1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: leadership level 4</span><br/>
+<span style='color:#60A0FF'>New ability: leadership level 5</span><br/>
+<br/>
+=== able to lead allies into battle to fight like furious savages &ndash; leadership3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_lead_allies_into_battle_(leadership_of_a_level_5_unit)_.E2.80.93_leadership2|leadership2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
+<br/>
+=== able to leave the mortal shell to attack almost immune to physical damage &ndash; spirit1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements spirit to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: spiritual transformation (20% - % melee arcane)</span><br/>
+<span style='color:green'>New weapon special for the spiritual transformation attack: [[LotI_Abilities#spiritual attack_.E2.80.93_damage|spiritual attack]]</span><br/>
+<br/>
+=== doing more damage in the spiritual form &ndash; spirit2 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_leave_the_mortal_shell_to_attack_almost_immune_to_physical_damage_.E2.80.93_spirit1|spirit1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 10% for the spiritual transformation attack</span><br/>
+<br/>
+=== striking faster in the spiritual form &ndash; spirit2_attacks ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_leave_the_mortal_shell_to_attack_almost_immune_to_physical_damage_.E2.80.93_spirit1|spirit1]] to be achieved first</i></span><br/>
+<span style='color:green'>10% more attacks for the spiritual transformation attack</span><br/>
+<br/>
+=== decreasing fire resistance of all adjacent enemies by 5% more &ndash; fire_penetrate1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fire_penetrate to be achieved first</i></span><br/>
+<br/>
+=== decreasing cold resistance of all adjacent enemies by 5% more &ndash; cold_penetrate1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements cold_penetrate to be achieved first</i></span><br/>
+<br/>
+=== decreasing arcane resistance of all adjacent enemies by 5% more &ndash; arcane_penetrate1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements arcane_penetrate to be achieved first</i></span><br/>
+<br/>
+=== decreasing blade resistance of all adjacent enemies by 5% more &ndash; blade_penetrate1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements blade_penetrate to be achieved first</i></span><br/>
+<br/>
+=== decreasing impact resistance of all adjacent enemies by 5% more &ndash; impact_penetrate1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements impact_penetrate to be achieved first</i></span><br/>
+<br/>
+=== decreasing pierce resistance of all adjacent enemies by 5% more &ndash; pierce_penetrate1 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements pierce_penetrate to be achieved first</i></span><br/>
+<br/>
+
+== Soul Eater Advancements ==
+
+=== capable to use lightning (huge damage, few attacks) &ndash; lightning1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements lightning to be achieved first</i></span><br/>
+<span style='color:green'>New attack: lightning (35 - 1)</span><br/>
+<span style='color:green'>New weapon special for the lightning attack: magical</span><br/>
+<br/>
+=== casting lightnings faster &ndash; lightning2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the lightning attack: swarm</span><br/>
+<span style='color:green'>Damage decreased by 7 for the lightning attack</span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== casting lightnings better &ndash; lightning3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 5 for the lightning attack</span><br/>
+<br/>
+=== using lightnings very very very fast &ndash; lightning4_firststrike ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4|lightning4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the lightning attack: firststrike</span><br/>
+<span style='color:green'>Damage decreased by 3 for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4|lightning4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the lightning attack</span><br/>
+<br/>
+=== using lightnings without need to be at good health &ndash; lightning5_noswarm ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5|lightning5]] to be achieved first</i></span><br/>
+<span style='color:green'>Remove weapon special for the lightning attack: swarm</span><br/>
+<span style='color:green'>1 fewer attacks for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning6 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5|lightning5]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 3 for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings faster &ndash; lightning6_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5|lightning5]], [[#shooting_lightnings_better_.E2.80.93_lightning6|lightning6]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning7 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5|lightning5]], [[#shooting_lightnings_better_.E2.80.93_lightning6|lightning6]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings faster &ndash; lightning7_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5|lightning5]], [[#shooting_lightnings_better_.E2.80.93_lightning6|lightning6]], [[#shooting_lightnings_better_.E2.80.93_lightning7|lightning7]], [[#shooting_lightnings_faster_.E2.80.93_lightning6_speed|lightning6_speed]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== capable to use thunder (huge damage, huge radius) &ndash; thunder1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements thunder to be achieved first</i></span><br/>
+<span style='color:green'>New attack: thunder (30 - 1)</span><br/>
+<span style='color:green'>New weapon special for the thunder attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<br/>
+=== casting stronger thunder &ndash; thunder2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_thunder_(huge_damage,_huge_radius)_.E2.80.93_thunder1|thunder1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 10 for the thunder attack</span><br/>
+<br/>
+=== casting stronger thunder &ndash; thunder3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_thunder_(huge_damage,_huge_radius)_.E2.80.93_thunder1|thunder1]], [[#casting_stronger_thunder_.E2.80.93_thunder2|thunder2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 8 for the thunder attack</span><br/>
+<br/>
+=== casting thunders faster &ndash; thunder4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_thunder_(huge_damage,_huge_radius)_.E2.80.93_thunder1|thunder1]], [[#casting_stronger_thunder_.E2.80.93_thunder2|thunder2]], [[#casting_stronger_thunder_.E2.80.93_thunder3|thunder3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 15 for the thunder attack</span><br/>
+<span style='color:green'>1 more attacks for the thunder attack</span><br/>
+<br/>
+=== casting stronger thunder &ndash; thunder5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_thunder_(huge_damage,_huge_radius)_.E2.80.93_thunder1|thunder1]], [[#casting_stronger_thunder_.E2.80.93_thunder2|thunder2]], [[#casting_stronger_thunder_.E2.80.93_thunder3|thunder3]], [[#casting_thunders_faster_.E2.80.93_thunder4|thunder4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 7 for the thunder attack</span><br/>
+<br/>
+=== casting stronger thunder &ndash; thunder6 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_thunder_(huge_damage,_huge_radius)_.E2.80.93_thunder1|thunder1]], [[#casting_stronger_thunder_.E2.80.93_thunder2|thunder2]], [[#casting_stronger_thunder_.E2.80.93_thunder3|thunder3]], [[#casting_thunders_faster_.E2.80.93_thunder4|thunder4]], [[#casting_stronger_thunder_.E2.80.93_thunder5|thunder5]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 5 for the thunder attack</span><br/>
+<br/>
+=== capable to use fireball &ndash; fireball1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fireball to be achieved first</i></span><br/>
+<span style='color:green'>New attack: fireball (7 - 4)</span><br/>
+<span style='color:green'>New weapon special for the fireball attack: magical</span><br/>
+<br/>
+=== casting fireballs better &ndash; fireball2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fireball attack</span><br/>
+<br/>
+=== casting fireballs faster &ndash; fireball3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]], [[#casting_fireballs_better_.E2.80.93_fireball2|fireball2]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the fireball attack</span><br/>
+<br/>
+=== using fireballs with explosive range &ndash; fireball3_range ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]], [[#casting_fireballs_better_.E2.80.93_fireball2|fireball2]], [[#casting_fireballs_faster_.E2.80.93_fireball3|fireball3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<br/>
+=== casting fireballs faster &ndash; fireball4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]], [[#casting_fireballs_better_.E2.80.93_fireball2|fireball2]], [[#casting_fireballs_faster_.E2.80.93_fireball3|fireball3]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the fireball attack</span><br/>
+<br/>
+=== shooting fireballs with better precision &ndash; fireball4_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]], [[#casting_fireballs_better_.E2.80.93_fireball2|fireball2]], [[#casting_fireballs_faster_.E2.80.93_fireball3|fireball3]], [[#casting_fireballs_faster_.E2.80.93_fireball4|fireball4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
+<span style='color:green'>Remove weapon special for the fireball attack: magical</span><br/>
+<br/>
+=== casting fireballs faster &ndash; fireball5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]], [[#casting_fireballs_better_.E2.80.93_fireball2|fireball2]], [[#casting_fireballs_faster_.E2.80.93_fireball3|fireball3]], [[#casting_fireballs_faster_.E2.80.93_fireball4|fireball4]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the fireball attack</span><br/>
+<br/>
+=== shooting fireballs with better precision &ndash; fireball5_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]], [[#casting_fireballs_better_.E2.80.93_fireball2|fireball2]], [[#casting_fireballs_faster_.E2.80.93_fireball3|fireball3]], [[#casting_fireballs_faster_.E2.80.93_fireball4|fireball4]], [[#shooting_fireballs_with_better_precision_.E2.80.93_fireball4_precision|fireball4_precision]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#guided_.E2.80.93_chance_to_hit|guided]]</span><br/>
+<span style='color:green'>Remove weapon special for the fireball attack: focused</span><br/>
+<br/>
+=== casting fireballs with greater damage &ndash; fireball6 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_fireball_.E2.80.93_fireball1|fireball1]], [[#casting_fireballs_better_.E2.80.93_fireball2|fireball2]], [[#casting_fireballs_faster_.E2.80.93_fireball3|fireball3]], [[#casting_fireballs_faster_.E2.80.93_fireball4|fireball4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the fireball attack</span><br/>
+<br/>
+=== capable to cast a burning meteor from the skies &ndash; meteor1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements meteor to be achieved first</i></span><br/>
+<span style='color:green'>New attack: meteor (40 - 1)</span><br/>
+<span style='color:green'>New weapon special for the meteor attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<span style='color:green'>New weapon special for the meteor attack: magical</span><br/>
+<br/>
+=== attracting meteoroids with higher concentrations of heavy metals &ndash; meteor2 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_cast_a_burning_meteor_from_the_skies_.E2.80.93_meteor1|meteor1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 10 for the meteor attack</span><br/>
+<br/>
+=== able to cast chill tempest &ndash; chill1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements chill to be achieved first</i></span><br/>
+<span style='color:green'>New attack: chill tempest (17 - 2)</span><br/>
+<span style='color:green'>New weapon special for the chill tempest attack: magical</span><br/>
+<br/>
+=== slowing enemies with chill tempest &ndash; chill2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_chill_tempest_.E2.80.93_chill1|chill1]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the chill tempest attack: slow</span><br/>
+<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
+<br/>
+=== dealing more damage with chill tempest &ndash; chill3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_chill_tempest_.E2.80.93_chill1|chill1]], [[#slowing_enemies_with_chill_tempest_.E2.80.93_chill2|chill2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
+<span style='color:green'>1 more attacks for the chill tempest attack</span><br/>
+<br/>
+=== slowing groups of enemies with chill tempest &ndash; chill_slow_extra ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_chill_tempest_.E2.80.93_chill1|chill1]], [[#slowing_enemies_with_chill_tempest_.E2.80.93_chill2|chill2]], [[#dealing_more_damage_with_chill_tempest_.E2.80.93_chill3|chill3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the chill tempest attack: [[LotI_Abilities#explosive slow_.E2.80.93_damage|explosive slow]]</span><br/>
+<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
+<br/>
+=== dealing more damage with chill tempest &ndash; chill4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_chill_tempest_.E2.80.93_chill1|chill1]], [[#slowing_enemies_with_chill_tempest_.E2.80.93_chill2|chill2]], [[#dealing_more_damage_with_chill_tempest_.E2.80.93_chill3|chill3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
+<span style='color:green'>1 more attacks for the chill tempest attack</span><br/>
+<br/>
+=== dealing more damage with chill tempest &ndash; chill5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_chill_tempest_.E2.80.93_chill1|chill1]], [[#slowing_enemies_with_chill_tempest_.E2.80.93_chill2|chill2]], [[#dealing_more_damage_with_chill_tempest_.E2.80.93_chill3|chill3]], [[#dealing_more_damage_with_chill_tempest_.E2.80.93_chill4|chill4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
+<br/>
+=== casting chill tempest faster &ndash; chill5_attacks ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_chill_tempest_.E2.80.93_chill1|chill1]], [[#slowing_enemies_with_chill_tempest_.E2.80.93_chill2|chill2]], [[#dealing_more_damage_with_chill_tempest_.E2.80.93_chill3|chill3]], [[#dealing_more_damage_with_chill_tempest_.E2.80.93_chill4|chill4]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the chill tempest attack</span><br/>
+<br/>
+=== able to cast a draining shadow wave &ndash; shadowwave1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements shadowwave to be achieved first</i></span><br/>
+<span style='color:green'>New attack: shadow wave (17 - 2)</span><br/>
+<span style='color:green'>New weapon special for the shadow wave attack: magical</span><br/>
+<span style='color:green'>New weapon special for the shadow wave attack: drain</span><br/>
+<br/>
+=== casting shadow wave faster &ndash; shadowwave2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_draining_shadow_wave_.E2.80.93_shadowwave1|shadowwave1]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the shadow wave attack</span><br/>
+<br/>
+=== leeching more life with shadow wave &ndash; shadowwave2_leech ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_draining_shadow_wave_.E2.80.93_shadowwave1|shadowwave1]], [[#casting_shadow_wave_faster_.E2.80.93_shadowwave2|shadowwave2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the shadow wave attack: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
+<span style='color:green'>Damage decreased by 2 for the shadow wave attack</span><br/>
+<br/>
+=== casting shadow wave better &ndash; shadowwave3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_draining_shadow_wave_.E2.80.93_shadowwave1|shadowwave1]], [[#casting_shadow_wave_faster_.E2.80.93_shadowwave2|shadowwave2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the shadow wave attack</span><br/>
+<br/>
+=== leeching life with shadow wave from multiple enemies &ndash; shadowwave3_leech ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_draining_shadow_wave_.E2.80.93_shadowwave1|shadowwave1]], [[#casting_shadow_wave_faster_.E2.80.93_shadowwave2|shadowwave2]], [[#casting_shadow_wave_better_.E2.80.93_shadowwave3|shadowwave3]], [[#leeching_more_life_with_shadow_wave_.E2.80.93_shadowwave2_leech|shadowwave2_leech]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the shadow wave attack: [[LotI_Abilities#explosive leech_.E2.80.93_damage|explosive leech]]</span><br/>
+<span style='color:green'>Damage decreased by 2 for the shadow wave attack</span><br/>
+<br/>
+=== casting shadow wave better &ndash; shadowwave4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_draining_shadow_wave_.E2.80.93_shadowwave1|shadowwave1]], [[#casting_shadow_wave_faster_.E2.80.93_shadowwave2|shadowwave2]], [[#casting_shadow_wave_better_.E2.80.93_shadowwave3|shadowwave3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the shadow wave attack</span><br/>
+<br/>
+=== casting shadow wave better &ndash; shadowwave5 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_draining_shadow_wave_.E2.80.93_shadowwave1|shadowwave1]], [[#casting_shadow_wave_faster_.E2.80.93_shadowwave2|shadowwave2]], [[#casting_shadow_wave_better_.E2.80.93_shadowwave3|shadowwave3]], [[#casting_shadow_wave_better_.E2.80.93_shadowwave4|shadowwave4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the shadow wave attack</span><br/>
+<br/>
+=== casting shadow wave faster &ndash; shadowwave5_speed ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_cast_a_draining_shadow_wave_.E2.80.93_shadowwave1|shadowwave1]], [[#casting_shadow_wave_faster_.E2.80.93_shadowwave2|shadowwave2]], [[#casting_shadow_wave_better_.E2.80.93_shadowwave3|shadowwave3]], [[#casting_shadow_wave_better_.E2.80.93_shadowwave4|shadowwave4]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the shadow wave attack</span><br/>
+<br/>
+
+== God Advancements ==
+
+=== capable to use lightning (huge damage, few attacks) &ndash; lightning1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements lightning to be achieved first</i></span><br/>
+<span style='color:green'>New attack: lightning (38 - 1)</span><br/>
+<span style='color:green'>New weapon special for the lightning attack: magical</span><br/>
+<span style='color:green'>New weapon special for the lightning attack: swarm</span><br/>
+<br/>
+=== casting lightnings faster &ndash; lightning2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 10 for the lightning attack</span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== casting lightnings better &ndash; lightning3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 5 for the lightning attack</span><br/>
+<br/>
+=== using lightnings very very very fast (firststrike) &ndash; lightning4_firststrike ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4_2|lightning4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the lightning attack: firststrike</span><br/>
+<span style='color:green'>Damage decreased by 3 for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4_2|lightning4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the lightning attack</span><br/>
+<br/>
+=== using lightnings without need to be at good health &ndash; lightning5_noswarm ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4_2|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5_2|lightning5]] to be achieved first</i></span><br/>
+<span style='color:green'>Remove weapon special for the lightning attack: swarm</span><br/>
+<span style='color:green'>1 fewer attacks for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning6 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4_2|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5_2|lightning5]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings faster &ndash; lightning6_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4_2|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5_2|lightning5]], [[#shooting_lightnings_better_.E2.80.93_lightning6_2|lightning6]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings better &ndash; lightning7 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4_2|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5_2|lightning5]], [[#shooting_lightnings_better_.E2.80.93_lightning6_2|lightning6]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 3 for the lightning attack</span><br/>
+<br/>
+=== shooting lightnings faster &ndash; lightning7_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_use_lightning_(huge_damage,_few_attacks)_.E2.80.93_lightning1_2|lightning1]], [[#casting_lightnings_faster_.E2.80.93_lightning2_2|lightning2]], [[#casting_lightnings_better_.E2.80.93_lightning3_2|lightning3]], [[#shooting_lightnings_better_.E2.80.93_lightning4_2|lightning4]], [[#shooting_lightnings_better_.E2.80.93_lightning5_2|lightning5]], [[#shooting_lightnings_better_.E2.80.93_lightning6_2|lightning6]], [[#shooting_lightnings_better_.E2.80.93_lightning7_2|lightning7]], [[#shooting_lightnings_faster_.E2.80.93_lightning6_speed_2|lightning6_speed]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
+<span style='color:green'>1 more attacks for the lightning attack</span><br/>
+<br/>
+=== capable to cast fire blast &ndash; fireblast1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fireblast to be achieved first</i></span><br/>
+<span style='color:green'>New attack: fire blast (10 - 5)</span><br/>
+<span style='color:green'>New weapon special for the fire blast attack: magical</span><br/>
+<span style='color:green'>New weapon special for the fire blast attack: [[LotI_Abilities#hose_.E2.80.93_dummy|hose]]</span><br/>
+<br/>
+=== casting fire blasts better &ndash; fireblast2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_cast_fire_blast_.E2.80.93_fireblast1|fireblast1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fire blast attack</span><br/>
+<br/>
+=== casting fire blasts faster &ndash; fireblast2_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast2|fireblast2]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the fire blast attack</span><br/>
+<br/>
+=== casting fire blasts better &ndash; fireblast3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast2|fireblast2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fire blast attack</span><br/>
+<br/>
+=== failing to hit enemies with fire blasts less frequently &ndash; fireblast3_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast3|fireblast3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fire blast attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
+<span style='color:green'>Remove weapon special for the fire blast attack: magical</span><br/>
+<br/>
+=== casting fire blasts better &ndash; fireblast4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast3|fireblast3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fire blast attack</span><br/>
+<br/>
+=== incinerating the primary target of fire blasts &ndash; fireblast4_burn ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast4|fireblast4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fire blast attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
+<br/>
+=== casting fire blasts better &ndash; fireblast5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast4|fireblast4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fire blast attack</span><br/>
+<br/>
+=== failing to hit enemies with fire blasts less frequently &ndash; fireblast5_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast5|fireblast5]], [[#failing_to_hit_enemies_with_fire_blasts_less_frequently_.E2.80.93_fireblast3_precision|fireblast3_precision]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fire blast attack: [[LotI_Abilities#guided_.E2.80.93_chance_to_hit|guided]]</span><br/>
+<span style='color:green'>Remove weapon special for the fire blast attack: focused</span><br/>
+<br/>
+=== casting fire blasts better &ndash; fireblast6 ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast5|fireblast5]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fire blast attack</span><br/>
+<br/>
+=== casting fire blasts faster &ndash; fireblast6_speed ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_fire_blasts_better_.E2.80.93_fireblast6|fireblast6]], [[#casting_fire_blasts_faster_.E2.80.93_fireblast2_speed|fireblast2_speed]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the fire blast attack</span><br/>
+<br/>
+=== capable to summon a meteoric firestorm &ndash; firestorm1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements firestorm to be achieved first</i></span><br/>
+<span style='color:green'>New attack: firestorm (25 - 2)</span><br/>
+<span style='color:green'>New weapon special for the firestorm attack: magical</span><br/>
+<span style='color:green'>New weapon special for the firestorm attack: [[LotI_Abilities#storm_.E2.80.93_dummy|storm]]</span><br/>
+<br/>
+=== summoning stronger firestorms &ndash; firestorm2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_summon_a_meteoric_firestorm_.E2.80.93_firestorm1|firestorm1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the firestorm attack</span><br/>
+<br/>
+=== summoning firestorms faster &ndash; firestorm2_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_firestorms_.E2.80.93_firestorm2|firestorm2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 7 for the firestorm attack</span><br/>
+<span style='color:green'>1 more attacks for the firestorm attack</span><br/>
+<br/>
+=== summoning stronger firestorms &ndash; firestorm3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_firestorms_.E2.80.93_firestorm2|firestorm2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the firestorm attack</span><br/>
+<br/>
+=== failing to summon firestorms less frequently &ndash; firestorm3_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_firestorms_.E2.80.93_firestorm2|firestorm2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the firestorm attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
+<span style='color:green'>Remove weapon special for the firestorm attack: magical</span><br/>
+<br/>
+=== summoning stronger firestorms &ndash; firestorm4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_firestorms_.E2.80.93_firestorm3|firestorm3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 3 for the firestorm attack</span><br/>
+<br/>
+=== summoning firestorms faster &ndash; firestorm4_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_firestorms_faster_.E2.80.93_firestorm2_speed|firestorm2_speed]], [[#summoning_stronger_firestorms_.E2.80.93_firestorm4|firestorm4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 6 for the firestorm attack</span><br/>
+<span style='color:green'>1 more attacks for the firestorm attack</span><br/>
+<br/>
+=== summoning stronger firestorms &ndash; firestorm5 ===
+<span style='color:#808080'><i>This advancement can be taken 8 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_firestorms_.E2.80.93_firestorm4|firestorm4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 3 for the firestorm attack</span><br/>
+<br/>
+=== summoning firestorms that cause inflammatory burns &ndash; firestorm5_burns ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_firestorms_.E2.80.93_firestorm5|firestorm5]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the firestorm attack: poison</span><br/>
+<br/>
+=== able to summon an arctic blast &ndash; arcticblast1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements arcticblast to be achieved first</i></span><br/>
+<span style='color:green'>New attack: arctic blast (8 - 4)</span><br/>
+<span style='color:green'>New weapon special for the arctic blast attack: magical</span><br/>
+<span style='color:green'>New weapon special for the arctic blast attack: [[LotI_Abilities#hose_.E2.80.93_dummy|hose]]</span><br/>
+<span style='color:green'>New weapon special for the arctic blast attack: slow</span><br/>
+<br/>
+=== casting arctic blasts better &ndash; arcticblast2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_summon_an_arctic_blast_.E2.80.93_arcticblast1|arcticblast1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the arctic blast attack</span><br/>
+<br/>
+=== casting arctic blasts faster &ndash; arcticblast2_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast2|arcticblast2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the arctic blast attack</span><br/>
+<span style='color:green'>1 more attacks for the arctic blast attack</span><br/>
+<br/>
+=== casting arctic blasts better &ndash; arcticblast3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast2|arcticblast2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the arctic blast attack</span><br/>
+<br/>
+=== failing to hit enemies with arctic blasts less frequently &ndash; arcticblast3_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast3|arcticblast3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the arctic blast attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
+<span style='color:green'>Remove weapon special for the arctic blast attack: magical</span><br/>
+<br/>
+=== casting arctic blasts better &ndash; arcticblast4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast3|arcticblast3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the arctic blast attack</span><br/>
+<br/>
+=== inflicting cold burns with arctic blast &ndash; arcticblast4_burn ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast4|arcticblast4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the arctic blast attack: poison</span><br/>
+<br/>
+=== casting arctic blasts better &ndash; arcticblast5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast4|arcticblast4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the arctic blast attack</span><br/>
+<br/>
+=== failing to hit enemies with arctic blasts less frequently &ndash; arcticblast5_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast5|arcticblast5]], [[#failing_to_hit_enemies_with_arctic_blasts_less_frequently_.E2.80.93_arcticblast3_precision|arcticblast3_precision]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the arctic blast attack: [[LotI_Abilities#guided_.E2.80.93_chance_to_hit|guided]]</span><br/>
+<span style='color:green'>Remove weapon special for the arctic blast attack: focused</span><br/>
+<br/>
+=== casting arctic blasts better &ndash; arcticblast6 ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast5|arcticblast5]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the arctic blast attack</span><br/>
+<br/>
+=== casting arctic blasts faster &ndash; arcticblast6_speed ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#casting_arctic_blasts_better_.E2.80.93_arcticblast6|arcticblast6]], [[#casting_arctic_blasts_faster_.E2.80.93_arcticblast2_speed|arcticblast2_speed]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the arctic blast attack</span><br/>
+<span style='color:green'>1 more attacks for the arctic blast attack</span><br/>
+<br/>
+=== capable to summon a blizzard &ndash; blizzard1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements blizzard to be achieved first</i></span><br/>
+<span style='color:green'>New attack: blizzard (20 - 2)</span><br/>
+<span style='color:green'>New weapon special for the blizzard attack: magical</span><br/>
+<span style='color:green'>New weapon special for the blizzard attack: slow</span><br/>
+<span style='color:green'>New weapon special for the blizzard attack: [[LotI_Abilities#storm_.E2.80.93_dummy|storm]]</span><br/>
+<br/>
+=== summoning stronger blizzards &ndash; blizzard2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_summon_a_blizzard_.E2.80.93_blizzard1|blizzard1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the blizzard attack</span><br/>
+<br/>
+=== summoning blizzards faster &ndash; blizzard2_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_blizzards_.E2.80.93_blizzard2|blizzard2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 5 for the blizzard attack</span><br/>
+<span style='color:green'>1 more attacks for the blizzard attack</span><br/>
+<br/>
+=== summoning stronger blizzards &ndash; blizzard3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_blizzards_.E2.80.93_blizzard2|blizzard2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 3 for the blizzard attack</span><br/>
+<br/>
+=== failing to summon blizzards less frequently &ndash; blizzard3_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_blizzards_.E2.80.93_blizzard2|blizzard2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the blizzard attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
+<span style='color:green'>Remove weapon special for the blizzard attack: magical</span><br/>
+<br/>
+=== summoning stronger blizzards &ndash; blizzard4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_blizzards_.E2.80.93_blizzard3|blizzard3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 3 for the blizzard attack</span><br/>
+<br/>
+=== summoning blizzards faster &ndash; blizzard4_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_blizzards_faster_.E2.80.93_blizzard2_speed|blizzard2_speed]], [[#summoning_stronger_blizzards_.E2.80.93_blizzard4|blizzard4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 4 for the blizzard attack</span><br/>
+<span style='color:green'>1 more attacks for the blizzard attack</span><br/>
+<br/>
+=== summoning stronger blizzards &ndash; blizzard5 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_blizzards_.E2.80.93_blizzard4|blizzard4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the blizzard attack</span><br/>
+<br/>
+=== summoning blizzards that cause cold burns &ndash; blizzard5_burns ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_blizzards_.E2.80.93_blizzard5|blizzard5]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the blizzard attack: poison</span><br/>
+<br/>
+=== able to blast enemies with entropic chaos &ndash; entropy1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements entropy to be achieved first</i></span><br/>
+<span style='color:green'>New attack: entropy (13 - 5)</span><br/>
+<span style='color:green'>New weapon special for the entropy attack: magical</span><br/>
+<span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
+<br/>
+=== slowing enemies with entropical blasts &ndash; entropy1_slow ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_blast_enemies_with_entropic_chaos_.E2.80.93_entropy1|entropy1]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the entropy attack: slow</span><br/>
+<br/>
+=== blasting enemies with entropy better &ndash; entropy2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#able_to_blast_enemies_with_entropic_chaos_.E2.80.93_entropy1|entropy1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the entropy attack</span><br/>
+<span style='color:green'>1 more attacks for the entropy attack</span><br/>
+<br/>
+=== poisoning enemies with entropical blasts &ndash; entropy2_poison ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy2|entropy2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the entropy attack: poison</span><br/>
+<br/>
+=== blasting enemies with entropy better &ndash; entropy3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy2|entropy2]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the entropy attack</span><br/>
+<br/>
+=== dazzling enemies with entropical blasts &ndash; entropy3_dazzle ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy3|entropy3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#dazzle_.E2.80.93_dummy|dazzle]]</span><br/>
+<br/>
+=== blasting enemies with entropy better &ndash; entropy4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy3|entropy3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the entropy attack</span><br/>
+<br/>
+=== maiming enemies with entropical blasts &ndash; entropy4_mayhem ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy4|entropy4]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
+<br/>
+=== blasting enemies with entropy better &ndash; entropy5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy4|entropy4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the entropy attack</span><br/>
+<span style='color:green'>1 more attacks for the entropy attack</span><br/>
+<br/>
+=== incinerating enemies with entropical blasts &ndash; entropy5_burn ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy5|entropy5]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
+<br/>
+=== blasting enemies with entropy better &ndash; entropy6 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy5|entropy5]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the entropy attack</span><br/>
+<br/>
+=== turning enemies into zombies with entropical blasts &ndash; entropy6_zombification ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy6|entropy6]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#infect_.E2.80.93_poison|infect]]</span><br/>
+<span style='color:green'>Remove weapon special for the entropy attack: poison</span><br/>
+<br/>
+=== blasting enemies with entropy faster &ndash; entropy7 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#blasting_enemies_with_entropy_better_.E2.80.93_entropy6|entropy6]] to be achieved first</i></span><br/>
+<span style='color:green'>1 more attacks for the entropy attack</span><br/>
+<br/>
+=== capable to summon a devastating particle storm &ndash; particlestorm1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements particlestorm to be achieved first</i></span><br/>
+<span style='color:green'>New attack: particle storm (30 - 2)</span><br/>
+<span style='color:green'>New weapon special for the particle storm attack: magical</span><br/>
+<span style='color:green'>New weapon special for the particle storm attack: [[LotI_Abilities#storm_.E2.80.93_dummy|storm]]</span><br/>
+<span style='color:green'>New weapon special for the particle storm attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
+<br/>
+=== summoning stronger particle storms &ndash; particlestorm2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#capable_to_summon_a_devastating_particle_storm_.E2.80.93_particlestorm1|particlestorm1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 7 for the particle storm attack</span><br/>
+<br/>
+=== summoning particle storms faster &ndash; particlestorm2_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_particle_storms_.E2.80.93_particlestorm2|particlestorm2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 6 for the particle storm attack</span><br/>
+<span style='color:green'>1 more attacks for the particle storm attack</span><br/>
+<br/>
+=== summoning stronger particle storms &ndash; particlestorm3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_particle_storms_.E2.80.93_particlestorm2|particlestorm2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 6 for the particle storm attack</span><br/>
+<br/>
+=== failing to summon particle storms less frequently &ndash; particlestorm3_precision ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_particle_storms_.E2.80.93_particlestorm2|particlestorm2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the particle storm attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
+<span style='color:green'>Remove weapon special for the particle storm attack: magical</span><br/>
+<br/>
+=== summoning stronger particle storms &ndash; particlestorm4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_particle_storms_.E2.80.93_particlestorm3|particlestorm3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 5 for the particle storm attack</span><br/>
+<br/>
+=== summoning particle storms faster &ndash; particlestorm4_speed ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_particle_storms_faster_.E2.80.93_particlestorm2_speed|particlestorm2_speed]], [[#summoning_stronger_particle_storms_.E2.80.93_particlestorm4|particlestorm4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 10 for the particle storm attack</span><br/>
+<span style='color:green'>1 more attacks for the particle storm attack</span><br/>
+<br/>
+=== summoning stronger particle storms &ndash; particlestorm5 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_particle_storms_.E2.80.93_particlestorm4|particlestorm4]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 4 for the particle storm attack</span><br/>
+<br/>
+=== failing to summon particle storms less frequently &ndash; particlestorm5_guided ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#summoning_stronger_particle_storms_.E2.80.93_particlestorm5|particlestorm5]], [[#failing_to_summon_particle_storms_less_frequently_.E2.80.93_particlestorm3_precision|particlestorm3_precision]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the particle storm attack: [[LotI_Abilities#guided_.E2.80.93_chance_to_hit|guided]]</span><br/>
+<span style='color:green'>Remove weapon special for the particle storm attack: focused</span><br/>
+<br/>
+=== better at fighting with weapons &ndash; weapons1 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements weapons to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:green'>Damage increased by 1 for the knife attack</span><br/>
+<span style='color:green'>Damage increased by 1 for the axe attack</span><br/>
+<br/>
+=== cleaving in melee combat &ndash; weapons2 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#better_at_fighting_with_weapons_.E2.80.93_weapons1|weapons1]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#cleave_.E2.80.93_damage|cleave]]</span><br/>
+<br/>
+=== better at armed combat &ndash; weapons3 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#better_at_fighting_with_weapons_.E2.80.93_weapons1|weapons1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:green'>Damage increased by 1 for the knife attack</span><br/>
+<span style='color:green'>Damage increased by 1 for the axe attack</span><br/>
+<br/>
+=== faster in armed combat &ndash; weapons4 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#better_at_armed_combat_.E2.80.93_weapons3|weapons3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 2 (melee attacks only)</span><br/>
+<span style='color:green'>1 more attacks (melee attacks only)</span><br/>
+<span style='color:green'>Damage decreased by 2 for the knife attack</span><br/>
+<span style='color:green'>1 more attacks for the knife attack</span><br/>
+<br/>
+=== dealing cold damage with weapons &ndash; weapons5 ===
+<span style='color:#808080'><i>This advancement can be taken 1 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#faster_in_armed_combat_.E2.80.93_weapons4|weapons4]] to be achieved first</i></span><br/>
+<span style='color:green'>Sets damage type to cold (melee attacks only)</span><br/>
+<span style='color:green'>Sets damage type to cold for the knife attack</span><br/>
+<br/>
+=== better with basic spells &ndash; magic1 ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements magic to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 for the fireball attack</span><br/>
+<span style='color:green'>Damage increased by 1 for the iceball attack</span><br/>
+<span style='color:green'>Damage increased by 2 for the faerie fire attack</span><br/>
+<span style='color:green'>Damage increased by 2 for the gossamer attack</span><br/>
+<br/>
+=== faster with basic spells &ndash; magic2 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#better_with_basic_spells_.E2.80.93_magic1|magic1]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the fireball attack</span><br/>
+<span style='color:green'>1 more attacks for the fireball attack</span><br/>
+<span style='color:green'>Damage decreased by 2 for the iceball attack</span><br/>
+<span style='color:green'>1 more attacks for the iceball attack</span><br/>
+<span style='color:green'>Damage decreased by 1 for the faerie fire attack</span><br/>
+<span style='color:green'>1 more attacks for the faerie fire attack</span><br/>
+<span style='color:green'>Damage decreased by 1 for the gossamer attack</span><br/>
+<span style='color:green'>1 more attacks for the gossamer attack</span><br/>
+<br/>
+
