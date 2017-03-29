@@ -27,7 +27,7 @@ import shlex
 import string
 import subprocess
 
-__version__ = "0.3.4"
+__version__ = "0.3.5"
 
 wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\""),
                ("key", r"([\w{}]+)\s*=\s*([^\n]+)"),
@@ -111,6 +111,38 @@ ability_translation = {"BERSERK_LEADERSHIP": "radiating insanity",
                        "TOXIC_AURA": "dark aura",
                        "FEEDING_EASY": "feeding",
                        }
+
+special_notes_translation = {
+    "SPECIAL_NOTES_SPIRIT": " Spirits have very unusual resistances to damage, and move quite slowly over open water.",
+    "SPECIAL_NOTES_ARCANE": " This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.",
+    "SPECIAL_NOTES_HEALS": " This unit is capable of basic healing.",
+    "SPECIAL_NOTES_EXTRA_HEAL": " This unit is capable of rapid healing.",
+    "SPECIAL_NOTES_CURES": " This unit is capable of healing those around it, and curing them of poison.",
+    "SPECIAL_NOTES_UNPOISON": " This unit is capable of neutralizing the effects of poison in units around it.",
+    "SPECIAL_NOTES_REGENERATES": " This unit regenerates, which allows it to heal as though always stationed in a village.",
+    "SPECIAL_NOTES_STEADFAST": " The steadiness of this unit reduces damage from some attacks, but only while defending.",
+    "SPECIAL_NOTES_LEADERSHIP": " The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level.",
+    "SPECIAL_NOTES_SKIRMISHER": " This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.",
+    "SPECIAL_NOTES_ILLUMINATES": " Illumination increases the lighting level in adjacent areas.",
+    "SPECIAL_NOTES_TELEPORT": " This unit can use one move to teleport between any two empty villages controlled by its side.",
+    "SPECIAL_NOTES_AMBUSH": " In woodlands, this unit’s ambush skill renders it invisible to enemies unless it is immediately adjacent or has revealed itself by attacking.",
+    "SPECIAL_NOTES_NIGHTSTALK": " This unit is able to hide at night, leaving no trace of its presence.",
+    "SPECIAL_NOTES_CONCEALMENT": " This unit can hide in villages (with the exception of water villages), and remain undetected by its enemies, except by those standing next to it.",
+    "SPECIAL_NOTES_SUBMERGE": " This unit can move unseen in deep water, requiring no air from the surface.",
+    "SPECIAL_NOTES_FEEDING": " This unit gains 1 hitpoint added to its maximum whenever it kills a living unit.",
+    "SPECIAL_NOTES_BERSERK": " Whenever its berserk attack is used, this unit continues to push the attack until either it or its enemy lies dead.",
+    "SPECIAL_NOTES_BACKSTAB": " If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy.",
+    "SPECIAL_NOTES_PLAGUE": " Foes who lose their life to the plague will rise again in unlife, unless they are standing on a village.",
+    "SPECIAL_NOTES_SLOW": " This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn.",
+    "SPECIAL_NOTES_PETRIFY": " The ability to turn the living to stone makes this unit extremely dangerous.",
+    "SPECIAL_NOTES_MARKSMAN": " This unit’s marksmanship gives it a high chance of hitting targeted enemies, but only on the attack.",
+    "SPECIAL_NOTES_MAGICAL": " This unit has magical attacks, which always have a high chance of hitting an opponent.",
+    "SPECIAL_NOTES_SWARM": " The swarming attacks of this unit become less deadly whenever its members are wounded.",
+    "SPECIAL_NOTES_CHARGE": " Using a charging attack doubles both damage dealt and received; this does not affect defensive retaliation.",
+    "SPECIAL_NOTES_DRAIN": " During battle, this unit can drain life from victims to renew its own health.",
+    "SPECIAL_NOTES_FIRSTSTRIKE": " The length of this unit’s weapon allows it to strike first in melee, even in defense.",
+    "SPECIAL_NOTES_POISON": " The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures.",
+    }
 
 header = """
 This is an auto-generated wiki page listing {{}} currently avalible in the campaign "Legend of the Invincibles". {{}}
@@ -275,6 +307,12 @@ def format_parsed(tag, level=0):
     return "\n".join(stuff)
 
 
+def special_notes_sub(str):
+    for name, note in special_notes_translation.items():
+        str = str.replace(name, note)
+    return str.replace("SPECIAL_NOTES", "\nSpecial Notes:").strip().replace("\n\n", "\n")
+
+
 def extract_abilities(start):
     data = (start / "utils" / "abilities.cfg").open().read()
     for type, obj in re.findall(r"#define ((?:ABILITY|WEAPON_SPECIAL)\S+)[^\n]*(.*?)#enddef", data, re.DOTALL):
@@ -323,8 +361,16 @@ def extract_advancements(start):
             yield from extract_advancements(item)
         elif item.suffix == ".cfg":
             data = item.open().read()
+            if "GENERIC_AMLA" in data:
+                amla_mode = "\nThis unit also has generic AMLA advancements"
+            elif "SOUL_EATER_AMLA" in data:
+                amla_mode = "\nThis unit also has soul eater AMLA advancements"
+            elif "AMLA_GOD" in data:
+                amla_mode = "\nThis unit also has god AMLA advancements"
+            else:
+                amla_mode = ""
             data = re.sub("{(?:GENERIC_AMLA|SOUL_EATER_AMLA|AMLA_GOD) [^(]+\((.*)\)[^}]+}", "\\1[/unit_type]", data, 0, re.DOTALL)
-            fmt_fname = item.stem.replace("_", " ").lstrip(" " + string.digits).title()
+            fmt_fname = english_title(item.stem.replace("_", " ").lstrip(" " + string.digits))
             for unit in re.findall(r"\[unit_type\].*?\[/unit_type\]", data, re.DOTALL):
                 try:
                     stuff = parse_wml(tokenize(unit))
@@ -338,16 +384,19 @@ def extract_advancements(start):
                     name = "{} ({})".format(unit.keys["name"].any.replace("female^", ""), fmt_fname)
                 else:
                     name = unit.keys["name"].any.replace("female^", "")
-                #print(unit.keys["name"])
+                name = english_title(name)
+                desc = special_notes_sub(unit.keys["description"].any) + amla_mode
                 for adv in unit.tags["advancement"]:
                     if "id" not in adv.keys:
                         print(adv.keys.keys())
-                    yield name, adv.keys["id"].any, adv
+                    adv.keys["description"].all = english_title(adv.keys["description"].any)
+                    yield name, adv.keys["id"].any, adv, desc
                 for var in unit.tags["variation"]:
                     for adv in var.tags["advancement"]:
                         if "id" not in adv.keys:
                             print(adv.keys.keys())
-                        yield name, adv.keys["id"].any, adv
+                        adv.keys["description"].all = english_title(adv.keys["description"].any)
+                        yield name, adv.keys["id"].any, adv, desc
 
 
 def extract_utils_amla_advancements(fname):
@@ -358,7 +407,8 @@ def extract_utils_amla_advancements(fname):
             if name == "LEGACY_DISCOVERY":
                 name = "GENERIC_AMLA_ADVANCEMENTS"
             for adv in tags[0].tags["advancement"]:
-                yield name, adv.keys["id"].any, adv
+                adv.keys["description"].all = english_title(adv.keys["description"].any)
+                yield name, english_title(adv.keys["id"].any), adv
 
 
 def format_values(values, positive, negative="",
@@ -384,6 +434,28 @@ def format_values(values, positive, negative="",
     if reverse:
         return negative.format(s)
     return positive.format(s)
+
+
+def english_join(items):
+    items = list(items)
+    if len(items) == 1:
+        return " " + items[0]
+    else:
+        before = ", ".join(items[:-1])
+        return "s " + before + " and " + items[-1]
+
+
+def english_title(str):
+    def transform(match):
+        x = match.group(0)
+        if len(x) > 2 and x not in ["and", "that", "into", "the", "from", "with", "when", "per"]:
+            return x[0].upper() + x[1:]
+        else:
+            return x
+    subbed = re.sub("\w+", transform, str)
+    if subbed:
+        return subbed[0].upper() + subbed[1:]
+    return ""
 
 
 def item_key_sort(kv):
@@ -453,7 +525,7 @@ class make_adv_index:
     def __init__(self, advs):
         self.index = {}
         self.refs = set()
-        for section, name, tag in advs:
+        for section, name, tag, *_ in advs:
             iname = name
             ref = "{}_.E2.80.93_{}".format(tag.keys["description"].any.replace(" ", "_"),
                                            iname.replace(" ", "_"))
@@ -669,11 +741,11 @@ def write_advancement(section, name, tag, file, index):
     keys = tag.keys
     print("===", keys["description"].any, "&ndash;", name, "===", end="\n")
     if "max_times" in keys:
-        print("<span style='color:#808080'><i>This advancement can be taken {} times</i></span>".format(keys["max_times"].any))
+        print("<span style='color:#808080'><i>This advancement can be taken {}</i></span>".format(keys["max_times"].any + " times" if keys["max_times"].any != "1" else "once"))
     if "require_amla" in keys and keys["require_amla"].any not in ["{LEGACY}", ""]:
         amlas = [n.strip() for n in keys["require_amla"].any.split(",")]
-        amlas = ", ".join("[[#{}|{}]]".format(index.get(section, n), n) if index.get(section, n) != "" else n for n in amlas)
-        print("<span style='color:#808080'><i>This advancement requires the advancements {} to be achieved first</i></span>".format(amlas))
+        amlas = english_join("[[#{}|{}]]".format(index.get(section, n), n) if index.get(section, n) != "" else n for n in amlas)
+        print("<span style='color:#808080'><i>This advancement requires the advancement{} to be achieved first</i></span>".format(amlas))
     for effect in tag.tags["effect"]:
         if effect.keys["apply_to"].any == "new_ability":
             for specials in effect.tags["abilities"]:
@@ -951,8 +1023,8 @@ def main():
             elif section == "ADDITIONAL_AMLA":
                 section = "Soul Eater and God Advancements"
             else:
-                section = section.replace("_", " ").replace("AMLA ", "").title()
-            print("==", section, "==", file=adv_standard_file)
+                section = english_title(section.replace("_", " ").replace("AMLA ", ""))
+            print("==", english_title(section), "==", file=adv_standard_file)
             print(file=adv_standard_file)
             for adv in advs:
                 write_advancement(*adv, adv_standard_file, index)
@@ -965,12 +1037,13 @@ def main():
                             version), file=adv_units_file)
 
         index = make_adv_index(advancements_units)
-        for section, advs in itertools.groupby(advancements_units, sort_by_first):
-            section = section[1:]
+        for section, advs in itertools.groupby(advancements_units, lambda x: x[0]):
             print("==", section, "==", file=adv_units_file)
+            advs = list(advs)
+            print("<span style='color:#808080'><i>{}</i></span>".format(advs[0][-1].replace("\n", "<br/>\n")), file=adv_units_file)
             print(file=adv_units_file)
             for adv in advs:
-                write_advancement(*adv, adv_units_file, index)
+                write_advancement(*adv[:-1], adv_units_file, index)
             print(file=adv_units_file)
 
     if args.autoupload:
