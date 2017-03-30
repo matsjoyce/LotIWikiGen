@@ -14,3 +14,21 @@ Other useful pages:
 
  - https://github.com/Dugy/Legend_of_the_Invincibles
  - https://forums.wesnoth.org/viewtopic.php?f=8&t=32384
+
+Usage
+-----
+
+```bash
+python3 -m loti_wiki_gen <LotI path>
+```
+
+The `<LotI path>` is the path to the Legend of the Invincibles root directory and is `~/.local/share/wesnoth/1.12/data/add-ons/Legend_of_the_Invincibles/` on unix systems. You can also use a cloned copy of https://github.com/Dugy/Legend_of_the_Invincibles. This will generate the following files:
+
+ - `items.wiki`
+ - `standard_advancements.wiki`
+ - `unit_advancements.wiki`
+ - `abilities.wiki`
+
+These files correspond to the wiki pages listed above, and are in `text/x-wiki` format.
+
+The script can upload the updated pages using the `--autoupload` flag (this requires requests and BeautifulSoup4) but **DO NOT DO THIS WITHOUT PERMISSION**. We do not want an automated edit war breaking out.
