@@ -32,3 +32,12 @@ The `<LotI path>` is the path to the Legend of the Invincibles root directory an
 These files correspond to the wiki pages listed above, and are in `text/x-wiki` format.
 
 The script can upload the updated pages using the `--autoupload` flag (this requires requests and BeautifulSoup4) but **DO NOT DO THIS WITHOUT PERMISSION**. We do not want an automated edit war breaking out.
+
+Requirements
+------------
+
+ - `git`
+ - `python3.4+`
+ - For `--autoupload`:
+     - `requests`
+     - `bs4`
