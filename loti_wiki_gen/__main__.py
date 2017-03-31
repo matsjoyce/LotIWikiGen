@@ -151,14 +151,14 @@ def main():
     print("Creating index...")
     idx = index.Index(unit_advancements, standard_advancements, abilities, items)
 
-    print("Writing item information to items.wiki")
+    print("Writing item information to {}items.wiki{}".format(utils.bcolors.OKGREEN, utils.bcolors.ENDC))
     with open("items.wiki", "w") as items_file:
         print(header.format("all the items", "", version), file=items_file)
 
         for item in items:
             writer.write_item(*item, items_file, idx)
 
-    print("Writing ability information to abilities.wiki")
+    print("Writing ability information to {}abilities.wiki{}".format(utils.bcolors.OKGREEN, utils.bcolors.ENDC))
     with open("abilities.wiki", "w") as ability_file:
         print(header.format("all the abilities and weapon specials", "", version), file=ability_file)
 
@@ -168,7 +168,10 @@ def main():
             for ab in abilities:
                 writer.write_ability(*ab, ability_file, idx)
 
-    print("Writing standard advancement information to standard_advancements.wiki")
+    print(
+        "Writing standard advancement information to {}standard_advancements.wiki{}"
+            .format(utils.bcolors.OKGREEN, utils.bcolors.ENDC)
+    )
     with open("standard_advancements.wiki", "w") as adv_standard_file:
         print(header.format("all the advancements avalible for catagories of units",
                             "See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.",
@@ -188,7 +191,7 @@ def main():
                 writer.write_advancement(*adv, adv_standard_file, idx)
             print(file=adv_standard_file)
 
-    print("Writing unit advancement information to unit_advancements.wiki")
+    print("Writing unit advancement information to {}unit_advancements.wiki{}".format(utils.bcolors.OKGREEN, utils.bcolors.ENDC))
     with open("unit_advancements.wiki", "w") as adv_units_file:
         print(header.format("all the advancements that are unit specific",
                             "See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.",
