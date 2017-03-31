@@ -17,10 +17,14 @@
 
 import re
 import string
+import json
+import urllib.request
 
 from . import wml_parser, utils
 
 
+base_path = "https://raw.githubusercontent.com/Dugy/Legend_of_the_Invincibles/master/"
+github_api_url = "https://api.github.com/"
 special_notes_translation = {
     "SPECIAL_NOTES_SPIRIT": " Spirits have very unusual resistances to damage, and move quite slowly over open water.",
     "SPECIAL_NOTES_ARCANE": " This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.",
@@ -60,8 +64,8 @@ def special_notes_sub(str):
     return str.replace("SPECIAL_NOTES", "\nSpecial Notes:").strip().replace("\n\n", "\n")
 
 
-def extract_abilities(start):
-    data = (start / "utils" / "abilities.cfg").open().read()
+def extract_abilities():
+    data = urllib.request.urlopen(base_path + "utils/abilities.cfg").read().decode("utf-8")
     for type, obj in re.findall(r"#define ((?:ABILITY|WEAPON_SPECIAL)\S+)[^\n]*(.*?)#enddef", data, re.DOTALL):
         try:
             stuff = wml_parser.parse(obj)
@@ -88,9 +92,9 @@ def extract_abilities(start):
                 raise RuntimeError("Cannot merge 3+ tags yet, implement!")
 
 
-def extract_items(start):
-    data = (start / "utils" / "item_list.cfg").open().read()
-    for obj in re.findall(r"\[object\].*?\[/object\]", data, re.DOTALL):
+def extract_items():
+    data = urllib.request.urlopen(base_path + "utils/item_list.cfg").read().decode("utf-8")
+    for obj in re.findall("\[object\].*?\[/object\]", data, re.DOTALL):
         try:
             stuff = wml_parser.parse(obj)
         except RuntimeError as e:
@@ -101,12 +105,11 @@ def extract_items(start):
             yield stuff.keys["name"].any, stuff
 
 
-def extract_unit_advancements(start):
-    for item in start.iterdir():
-        if item.is_dir():
-            yield from extract_unit_advancements(item)
-        elif item.suffix == ".cfg":
-            data = item.open().read()
+def extract_unit_advancements():
+    unit_files = urllib.request.urlopen(github_api_url + "repos/Dugy/Legend_of_the_Invincibles/contents/units").read().decode("utf-8")
+    for unit_file in json.loads(unit_files):
+        if unit_file['name'].endswith(".cfg"):
+            data = urllib.request.urlopen(unit_file['download_url']).read().decode("utf-8")
             if "GENERIC_AMLA" in data:
                 amla_mode = "\nThis unit also has generic AMLA advancements"
             elif "SOUL_EATER_AMLA" in data:
@@ -116,7 +119,7 @@ def extract_unit_advancements(start):
             else:
                 amla_mode = ""
             data = re.sub("{(?:GENERIC_AMLA|SOUL_EATER_AMLA|AMLA_GOD) [^(]+\((.*)\)[^}]+}", "\\1[/unit_type]", data, 0, re.DOTALL)
-            fmt_fname = utils.english_title(item.stem.replace("_", " ").lstrip(" " + string.digits))
+            fmt_fname = utils.english_title(unit_file['name'].replace("_", " ").rstrip(".cfg").lstrip(" " + string.digits))
             for unit in re.findall(r"\[unit_type\].*?\[/unit_type\]", data, re.DOTALL):
                 stuff = wml_parser.parse(unit)
                 unit = stuff.tags["unit_type"][0]
@@ -141,8 +144,9 @@ def extract_unit_advancements(start):
                         yield name, adv.keys["id"].any, adv, desc
 
 
-def extract_standard_advancements(fname):
-    x = wml_parser.parse(fname.open().read())
+def extract_standard_advancements():
+    data = urllib.request.urlopen(base_path + "utils/amla.cfg").read().decode("utf-8")
+    x = wml_parser.parse(data)
     for name, tags in x.tags.items():
         if name.endswith("ADVANCEMENTS") or name in ["ADDITIONAL_AMLA",
                                                      "LEGACY_DISCOVERY"]:

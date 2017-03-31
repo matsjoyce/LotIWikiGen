@@ -16,18 +16,16 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import argparse
-import pathlib
 import itertools
 import time
-import subprocess
 
-from . import wml_parser, extractor, writer, utils, index
+from . import extractor, writer, utils, index
 
 __version__ = "0.3.5"
 
 header = """
 This is an auto-generated wiki page listing {{}} currently avalible in the campaign "Legend of the Invincibles". {{}}
-This was generated at {} using version {{}} of LotI and version {} of the generation script.
+This was generated at {} using latest version of LotI and version {} of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issule at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -93,26 +91,9 @@ def main():
     global ability_name, special_name
 
     parser = argparse.ArgumentParser(prog="loti_wiki_gen", description="Generate the wiki for LotI")
-    parser.add_argument("dir", help="Path the the root of LotI. ~/.local/share/wesnoth/1.12/data/add-ons/Legend_of_the_Invincibles/ on unix")
-    parser.add_argument("--version", nargs=1, default=None, help="Override version")
     parser.add_argument("--autoupload", action="store_true", help="Upload to the wiki after generation has finished")
 
     args = parser.parse_args()
-
-    start = pathlib.Path(args.dir).resolve()
-    print("LotI Scraper version", __version__, "loading from directory", start)
-
-    if args.version is None:
-        print("Scanning info...")
-        if (start / "_info.cfg").exists():
-            info = wml_parser.parse((start / "_info.cfg").open().read())
-            version = info.tags["info"][0].keys["version"].any
-        else:
-            version = "git-" + subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=start).decode().strip()
-    else:
-        version = args.version[0]
-
-    print("LotI version is", version)
 
     def sort_by_first(x):
         if x[0] == "GENERIC_AMLA_ADVANCEMENTS":
@@ -130,19 +111,19 @@ def main():
         return x[0].lower()
 
     print("Scanning standard advancements...")
-    standard_advancements = list(extractor.extract_standard_advancements(start / "utils" / "amla.cfg"))
+    standard_advancements = list(extractor.extract_standard_advancements())
     standard_advancements.sort(key=sort_by_first)
 
     print("Scanning unit advancements...")
-    unit_advancements = list(extractor.extract_unit_advancements(start / "units"))
+    unit_advancements = list(extractor.extract_unit_advancements())
     unit_advancements.sort(key=sort_by_first2)
 
     print("Scanning abilities...")
-    abilities = list(extractor.extract_abilities(start))
+    abilities = list(extractor.extract_abilities())
     abilities.sort(key=sort_by_all_but_not_last)
 
     print("Scanning items...")
-    items = list(extractor.extract_items(start))
+    items = list(extractor.extract_items())
     items.sort(key=sort_by_all_but_not_last)
 
     print("Found", len(abilities), "abilities,", len(standard_advancements), "standard advancements,",
@@ -151,16 +132,16 @@ def main():
     print("Creating index...")
     idx = index.Index(unit_advancements, standard_advancements, abilities, items)
 
-    print("Writing item information to items.wiki")
+    print("Writing item information to {}items.wiki{}".format(utils.bcolors.OKGREEN, utils.bcolors.ENDC))
     with open("items.wiki", "w") as items_file:
-        print(header.format("all the items", "", version), file=items_file)
+        print(header.format("all the items", ""), file=items_file)
 
         for item in items:
             writer.write_item(*item, items_file, idx)
 
-    print("Writing ability information to abilities.wiki")
+    print("Writing ability information to {}abilities.wiki{}".format(utils.bcolors.OKGREEN, utils.bcolors.ENDC))
     with open("abilities.wiki", "w") as ability_file:
-        print(header.format("all the abilities and weapon specials", "", version), file=ability_file)
+        print(header.format("all the abilities and weapon specials", ""), file=ability_file)
 
         for section, abilities in itertools.groupby(abilities, sort_by_first2):
             abilities = list(abilities)
@@ -168,11 +149,13 @@ def main():
             for ab in abilities:
                 writer.write_ability(*ab, ability_file, idx)
 
-    print("Writing standard advancement information to standard_advancements.wiki")
+    print(
+        "Writing standard advancement information to {}standard_advancements.wiki{}"
+            .format(utils.bcolors.OKGREEN, utils.bcolors.ENDC)
+    )
     with open("standard_advancements.wiki", "w") as adv_standard_file:
         print(header.format("all the advancements avalible for catagories of units",
-                            "See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.",
-                            version), file=adv_standard_file)
+                            "See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements."), file=adv_standard_file)
 
         for section, advs in itertools.groupby(standard_advancements, sort_by_first):
             section = section[1:]
@@ -188,11 +171,10 @@ def main():
                 writer.write_advancement(*adv, adv_standard_file, idx)
             print(file=adv_standard_file)
 
-    print("Writing unit advancement information to unit_advancements.wiki")
+    print("Writing unit advancement information to {}unit_advancements.wiki{}".format(utils.bcolors.OKGREEN, utils.bcolors.ENDC))
     with open("unit_advancements.wiki", "w") as adv_units_file:
         print(header.format("all the advancements that are unit specific",
-                            "See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.",
-                            version), file=adv_units_file)
+                            "See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.",), file=adv_units_file)
 
         for section, advs in itertools.groupby(unit_advancements, sort_by_first2):
             advs = list(advs)
