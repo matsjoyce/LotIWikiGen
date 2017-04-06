@@ -108,7 +108,7 @@ def main():
             info = wml_parser.parse((start / "_info.cfg").open().read())
             version = info.tags["info"][0].keys["version"].any
         else:
-            version = "git-" + subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=start).decode().strip()
+            version = "git-" + subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=str(start)).decode().strip()
     else:
         version = args.version[0]
 
