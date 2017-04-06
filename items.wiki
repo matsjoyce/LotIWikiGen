@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Thu Mar 30 09:43:23 2017 using version git-2b2f8a7 of LotI and version 0.3.5 of the generation script.
+This was generated at Thu Apr  6 16:33:20 2017 using version git-6132cca of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issule at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -66,7 +66,7 @@ traditions were brought to them.</i></span><br/>
 <br/>
 === Amulet of the Last Guide &ndash; amulet ===
 <span style='color:#808080'><i>Death itself is not evil. Imagine yourself torn to shreds and rotting and having to feel the pain.</i></span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 3%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 3%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
@@ -108,7 +108,7 @@ traditions were brought to them.</i></span><br/>
 === Anger &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>If we were not born to rage, why would we have the ability to rage then?</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#anger_.E2.80.93_attacks|anger]]</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
@@ -146,7 +146,7 @@ traditions were brought to them.</i></span><br/>
 === Axe of Perun &ndash; axe ===
 <span style='color:#808080'><i>Perun's axe smote the wicked with thundering rage.</i></span><br/>
 <span style='color:green'>Damage increased by 55% (in EASY difficulty), 35% (in MEDIUM difficulty), 15% (in HARD difficulty)</span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:green'>Sets damage type to fire</span><br/>
 <span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
@@ -199,7 +199,7 @@ traditions were brought to them.</i></span><br/>
 <span style='color:#808080'><i>Birds look upwards to avoid eagles. They should look down to avoid hunters.</i></span><br/>
 <span style='color:#60A0FF'>Decreases physical resistances by 20%</span><br/>
 <span style='color:green'>Damage increased by 60%</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
@@ -218,7 +218,7 @@ traditions were brought to them.</i></span><br/>
 === Blade Juggler &ndash; knife ===
 <span style='color:#808080'><i>He threw a dozen knives into the air and caught and threw them one by one.</i></span><br/>
 <span style='color:green'>Damage decreased by 25%</span><br/>
-<span style='color:green'>100% (in EASY difficulty), 85% (in MEDIUM difficulty), 70% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>100% (in EASY difficulty), 85% (in MEDIUM difficulty), 70% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>Sets damage type to cold</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
@@ -254,7 +254,7 @@ New Ability: blood drinking</span><br/>
 === Blue orb of dragonflame &ndash; limited ===
 <span style='color:#808080'><i>'Have you ever seen something like this?'
 'No, I will never see anything like this.'</i></span><br/>
-<span style='color:green'>2% more attacks</span><br/>
+<span style='color:green'>2 more attacks</span><br/>
 <span style='color:green'>Sets damage type to fire</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 30%</span><br/>
 <br/>
@@ -294,13 +294,13 @@ New Ability: blood drinking</span><br/>
 <br/>
 === Bow of Many Arrows &ndash; bow ===
 <span style='color:#808080'><i>There must be a thousand archers over there, but I see only one!</i></span><br/>
-<span style='color:green'>40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#cleave_.E2.80.93_damage|cleave]]</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
 <br/>
 === Bow of Plagiarism &ndash; bow ===
 <span style='color:#808080'><i>You have learned something? Well, it will be helpful to me.</i></span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#mind raid_.E2.80.93_dummy|mind raid]]</span><br/>
 <br/>
@@ -337,7 +337,7 @@ and saved the righteous.</i></span><br/>
 === Caeordwyccywyrin's Spear &ndash; spear ===
 <span style='color:#808080'><i>Whose spear is this?</i></span><br/>
 <span style='color:green'>Damage increased by 4</span><br/>
-<span style='color:green'>40%% more attacks</span><br/>
+<span style='color:green'>40% more attacks</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
@@ -345,7 +345,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#808080'><i>What had the creator of this in mind when he was designing?</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
 <span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Movement costs on frozen lands set to 1</span><br/>
 <span style='color:#60A0FF'>New ability: skirmisher</span><br/>
@@ -353,7 +353,7 @@ and saved the righteous.</i></span><br/>
 <br/>
 === Chaosbringer &ndash; dagger ===
 <span style='color:#808080'><i>Do you like order? Shame that I do not.</i></span><br/>
-<span style='color:green'>40%% more attacks</span><br/>
+<span style='color:green'>40% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 (in EASY difficulty) health from targets with each hit</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misanthropia_.E2.80.93_damage|misanthropia]]</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misnania_.E2.80.93_damage|misnania]]</span><br/>
@@ -370,7 +370,7 @@ and saved the righteous.</i></span><br/>
 === Chu-ko-nu &ndash; xbow ===
 <span style='color:#808080'><i>Do you even reload that thing?</i></span><br/>
 <span style='color:green'>Damage increased by 15%</span><br/>
-<span style='color:green'>55%% more attacks</span><br/>
+<span style='color:green'>55% more attacks</span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
 <br/>
 === Claymore &ndash; sword ===
@@ -432,7 +432,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
 <br/>
 === Crapsack World &ndash; amulet ===
-<span style='color:#808080'><i>'Oh, allmighty god, why did you create this world?'
+<span style='color:#808080'><i>'Oh, almighty god, why did you create this world?'
 'It was not me. I have a perfect alibi, by the way.'</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:green'>Damage increased by 15%</span><br/>
@@ -512,7 +512,7 @@ New ability: despair (20)</span><br/>
 === Dagger of Sicarii &ndash; dagger ===
 <span style='color:#808080'><i>An oppressed nation will find a way to have its revenge.</i></span><br/>
 <span style='color:green'>Damage increased by 50% (in EASY difficulty), 20% (in MEDIUM difficulty), -10% (in HARD difficulty)</span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#uber backstab_.E2.80.93_damage|uber backstab]]</span><br/>
@@ -522,7 +522,7 @@ New ability: despair (20)</span><br/>
 <br/>
 === Dagger of Surprises &ndash; dagger ===
 <span style='color:#808080'><i>One stab to rule them all.</i></span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:green'>Merges attacks</span><br/>
 <span style='color:green'>New weapon special: backstab</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
@@ -537,7 +537,7 @@ New ability: despair (20)</span><br/>
 === Dark Helm of Destruction &ndash; helm ===
 <span style='color:#808080'><i>Deadly warriors wear even offensive armour.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:purple'>+1 base damage (requires [[#Dark Sword of Destruction_.E2.80.93_sword|Dark Sword of Destruction]])</span><br/>
 <span style='color:purple'>+1 base damage (requires [[#Dark Gloves of Destruction_.E2.80.93_gauntlets|Dark Gloves of Destruction]])</span><br/>
 <br/>
@@ -569,7 +569,7 @@ New ability: despair (20)</span><br/>
 <br/>
 === Deathblade Inheritance &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>It might not hit hard, but it will bring you reinforcements.</i></span><br/>
-<span style='color:green'>40% (in EASY difficulty), 35% (in MEDIUM difficulty), 30% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>40% (in EASY difficulty), 35% (in MEDIUM difficulty), 30% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>Sets damage type to blade</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Deathblade)]]</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
@@ -632,7 +632,7 @@ New ability: despair (20)</span><br/>
 === Doombringer &ndash; sword ===
 <span style='color:#808080'><i>Hitting the enemy hard is not crucial. You have to make sure that you will not get killed when he hits you.</i></span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#disintegrate_.E2.80.93_damage|disintegrate]]</span><br/>
@@ -641,7 +641,7 @@ New ability: despair (20)</span><br/>
 === Doomsday Machine &ndash; xbow ===
 <span style='color:#808080'><i>To spread doom, you need proper tools.</i></span><br/>
 <span style='color:green'>Damage increased by 50% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:green'>Enemy resistances to pierce decreased by 10%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#shockwave_.E2.80.93_slow|shockwave]]</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
@@ -650,12 +650,12 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>Claws of dragons have no unusual magical properties, but they cut so well.</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <br/>
 === Dragonslayer &ndash; bow ===
 <span style='color:#808080'><i>He killed dragons with his legendary bow, but he was no match for saurians.</i></span><br/>
 <span style='color:green'>Damage increased by 35%</span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misdraconia_.E2.80.93_damage|misdraconia]]</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 20%</span><br/>
@@ -672,7 +672,7 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>Metal is the best, especially if it's heavy enough.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 30%</span><br/>
 <span style='color:green'>Damage increased by 15%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
@@ -686,7 +686,7 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>The probability that somebody will get this is quite low, maybe some of my assumptions were wrong.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:#60A0FF'>Spells suck 2 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>15% chance to strike a devastating blow</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
@@ -717,7 +717,7 @@ New ability: despair (20)</span><br/>
 === Equality &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Even the weak can kill with this one.</i></span><br/>
 <span style='color:green'>Damage increased by 7 (in EASY difficulty), 6 (in MEDIUM difficulty), 5 (in HARD difficulty)</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
 <br/>
 === Executioner's Axe &ndash; axe ===
@@ -760,7 +760,7 @@ New ability: despair (20)</span><br/>
 === Exterminator's Scythe &ndash; polearm ===
 <span style='color:#808080'><i>Victims' loyals look for revenge.</i></span><br/>
 <span style='color:green'>Damage increased by 30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
-<span style='color:green'>35%% more attacks</span><br/>
+<span style='color:green'>35% more attacks</span><br/>
 <span style='color:purple'>+1 to base damage (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
 <span style='color:purple'>+1 to base damage (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
 <span style='color:purple'>+1 to base damage (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
@@ -774,14 +774,14 @@ New ability: despair (20)</span><br/>
 === Fiery Blood &ndash; gauntlets ===
 <span style='color:#808080'><i>Red is the fire. Red is the blood. I am not sure which of them is pouring.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:green'>Sets damage type to fire</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <br/>
 === Fine bow &ndash; bow ===
 <span style='color:#808080'><i>Precision is more important than anything else.</i></span><br/>
 <span style='color:green'>Damage increased by 40%</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <br/>
@@ -794,7 +794,7 @@ New ability: despair (20)</span><br/>
 <br/>
 === Fist of Anarchy &ndash; mace ===
 <span style='color:#808080'><i>Rebirth through devastation, freedom through bloodshed.</i></span><br/>
-<span style='color:green'>60% (in EASY difficulty), 50% (in MEDIUM difficulty), 40% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>60% (in EASY difficulty), 50% (in MEDIUM difficulty), 40% (in HARD difficulty) more attacks</span><br/>
 <span style='color:#60A0FF'>10% chance to strike a devastating blow</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#anarchy_.E2.80.93_damage|anarchy]]</span><br/>
 <br/>
@@ -808,7 +808,7 @@ New ability: despair (20)</span><br/>
 === Fleshrending Scourge &ndash; mace ===
 <span style='color:#808080'><i>Do not run away from me. I will catch you anyway.</i></span><br/>
 <span style='color:green'>Damage increased by 60% (in EASY difficulty), 40% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>Enemy resistances to impact decreased by 10%</span><br/>
 <span style='color:#60A0FF'>2 more movement points</span><br/>
@@ -868,7 +868,7 @@ New ability: despair (20)</span><br/>
 === Gloombringer &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>One side wins, the other side loses. Both sides' widows weep.</i></span><br/>
 <span style='color:green'>Damage increased by 80% (in EASY difficulty), 50% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
@@ -876,7 +876,7 @@ New ability: despair (20)</span><br/>
 === Glowing Flight &ndash; knife ===
 <span style='color:#808080'><i>The pragmatic baron sent an assassin to kill a necromancer. It was not a bad idea.</i></span><br/>
 <span style='color:green'>Damage increased by 40%</span><br/>
-<span style='color:green'>40%% more attacks</span><br/>
+<span style='color:green'>40% more attacks</span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
 <br/>
@@ -884,7 +884,7 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>'With this beast, I can kill even a god!'
 'Crunch, munch,... burp. Anybody else thinks that it can kill dragons too?'</i></span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>10% chance to strike a devastating blow</span><br/>
 <span style='color:green'>Enemy resistances to impact decreased by 20%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
@@ -916,7 +916,7 @@ New ability: despair (20)</span><br/>
 <br/>
 === Gvødgührvoḧzzorghkuz &ndash; mace ===
 <span style='color:#808080'><i>Ürhrabgzubruprÿÿrv øẗhnäæzdaz grohruth züürd myyvöthgavrhyd...</i></span><br/>
-<span style='color:green'>30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#anger_.E2.80.93_attacks|anger]]</span><br/>
 <br/>
 === Hands of Sorrow &ndash; gauntlets ===
@@ -932,7 +932,7 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>Arm yourself with hatred, your lacking skill will not matter.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:green'>Damage increased by 7 (in EASY difficulty), 6 (in MEDIUM difficulty), 5 (in HARD difficulty)</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <br/>
@@ -955,7 +955,7 @@ New ability: despair (20)</span><br/>
 'What do they like?'
 'Smashing heads.'</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
-<span style='color:green'>60%% more attacks</span><br/>
+<span style='color:green'>60% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 (in EASY difficulty) health from targets with each hit</span><br/>
 <br/>
 === Headstriker &ndash; xbow ===
@@ -995,7 +995,7 @@ New ability: despair (20)</span><br/>
 === Heavy Bow &ndash; bow ===
 <span style='color:#808080'><i>Fellows, what would you say if I made a bow that shoots spears?</i></span><br/>
 <span style='color:green'>Damage increased by 120% (in EASY difficulty), 100% (in MEDIUM difficulty), 80% (in HARD difficulty)</span><br/>
-<span style='color:green'>30%% fewer attacks</span><br/>
+<span style='color:green'>30% fewer attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#pierce_.E2.80.93_dummy|pierce]]</span><br/>
 <br/>
 === Heavy Gauntlets &ndash; gauntlets ===
@@ -1159,7 +1159,7 @@ New ability: despair (20)</span><br/>
 === Iron Sentinel &ndash; armour ===
 <span style='color:#808080'><i>If the defender cannot stop the attacks, he has to kill the enemies before they hurt him.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 13%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:green'>Enemy resistances to pierce decreased by 20%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
 <br/>
@@ -1217,7 +1217,7 @@ New ability: despair (20)</span><br/>
 === Lethal Axe &ndash; axe ===
 <span style='color:#808080'><i>Girls went chopping for revenge. One of them prepared herself quite well.</i></span><br/>
 <span style='color:green'>Damage increased by 45%</span><br/>
-<span style='color:green'>35%% more attacks</span><br/>
+<span style='color:green'>35% more attacks</span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
 <span style='color:purple'>10% more overall damage (requires [[#Lethal staff_.E2.80.93_staff|Lethal Staff]])</span><br/>
 <br/>
@@ -1247,7 +1247,7 @@ New ability: despair (20)</span><br/>
 === Lightbringer's Trident &ndash; spear ===
 <span style='color:#808080'><i>He brought light, but it was red and searing.</i></span><br/>
 <span style='color:green'>Damage increased by 50% (in EASY difficulty), 35% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
-<span style='color:green'>50%% more attacks</span><br/>
+<span style='color:green'>50% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 30%</span><br/>
 <br/>
@@ -1272,7 +1272,7 @@ New ability: despair (20)</span><br/>
 === Liquid Hatred &ndash; amulet ===
 <span style='color:#808080'><i>The essence of liquid hatred, purified and distilled.</i></span><br/>
 <span style='color:green'>Damage decreased by 3%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#wrath_.E2.80.93_dummy|wrath]]</span><br/>
 <br/>
 === Lucky Farmer's Amulet &ndash; amulet ===
@@ -1300,7 +1300,7 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>Let your anger penetrate into the depths of your bones.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 25% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:green'>Sets damage type to impact</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>Enemy resistances to impact decreased by 20%</span><br/>
@@ -1348,7 +1348,7 @@ New ability: despair (20)</span><br/>
 === Misanthropia &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>I have seen pillagers raping children. The worst of monsters are humans. They must be smitten.</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misanthropia_.E2.80.93_damage|misanthropia]]</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misnania_.E2.80.93_damage|misnania]]</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
@@ -1514,7 +1514,7 @@ New ability: from the ashes</span><br/>
 === Poisonous Bow &ndash; bow ===
 <span style='color:#808080'><i>Please stop focusing on one enemy.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
-<span style='color:green'>35%% more attacks</span><br/>
+<span style='color:green'>35% more attacks</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <br/>
 === Potion of Mundanity &ndash; potion ===
@@ -1567,7 +1567,7 @@ New ability: from the ashes</span><br/>
 <br/>
 === Preacher of Hatred &ndash; mace ===
 <span style='color:#808080'><i>Your descendants, ancestors and friends are demonic kin that is behind all our suffering.</i></span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#hate speech_.E2.80.93_dummy|hate speech]]</span><br/>
@@ -1622,7 +1622,7 @@ New ability: from the ashes</span><br/>
 === Quick Gauntlets &ndash; gauntlets ===
 <span style='color:#808080'><i>Quick hands are the best defence.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:green'>Increases all magical damages by 5%</span><br/>
 <br/>
 === Quintessence &ndash; craftable as any armour ===
@@ -1658,13 +1658,13 @@ New ability: from the ashes</span><br/>
 === Relentless Fury &ndash; xbow ===
 <span style='color:#808080'><i>You tell that my hits are weak? I will show you how many of them you can survive, nothing can stop me!</i></span><br/>
 <span style='color:green'>Damage decreased by 30% (in EASY difficulty), 40% (in MEDIUM difficulty), 50% (in HARD difficulty)</span><br/>
-<span style='color:green'>120% (in EASY difficulty), 100% (in MEDIUM difficulty), 80% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>120% (in EASY difficulty), 100% (in MEDIUM difficulty), 80% (in HARD difficulty) more attacks</span><br/>
 <span style='color:#60A0FF'>16 more hitpoints per level</span><br/>
 <br/>
 === Return to the Tribe &ndash; spear ===
 <span style='color:#808080'><i>I may be no better, but at least I am different.</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
-<span style='color:green'>50% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>50% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty) more attacks</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>Movement costs through forests set to 1</span><br/>
@@ -1704,7 +1704,7 @@ defeat your foes mace to face.</i></span><br/>
 === Rigor Mortis &ndash; knife ===
 <span style='color:#808080'><i>Freeze! I need to aim!</i></span><br/>
 <span style='color:green'>Damage increased by 4 (in EASY difficulty), 3 (in MEDIUM difficulty), 2 (in HARD difficulty)</span><br/>
-<span style='color:green'>15%% more attacks</span><br/>
+<span style='color:green'>15% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
 <br/>
 === Ring of Deathaura &ndash; ring ===
@@ -1751,7 +1751,7 @@ defeat your foes mace to face.</i></span><br/>
 === Ring of Unearthly Existence &ndash; ring ===
 <span style='color:#808080'><i>Warriors were no match for him. He was no match for wizards.</i></span><br/>
 <span style='color:green'>Damage increased by 40%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to fire decreased by 30%</span><br/>
@@ -1797,7 +1797,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>Behold upon me and tremble!</i></span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
 <span style='color:green'>Damage increased by 3</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <span style='color:#60A0FF'>Resistance to fire decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 40%</span><br/>
@@ -1812,7 +1812,7 @@ defeat your foes mace to face.</i></span><br/>
 === Sceptre of the King &ndash; mace ===
 <span style='color:#808080'><i>The sceptre was the symbol of king's power. Using it as a weapon did not stop the assassin.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:purple'>New Ability: radiation (requires [[#Crown of the King_.E2.80.93_helm|Crown of the King]])</span><br/>
 <span style='color:purple'>+1 to base attacks (requires [[#Armour of the King_.E2.80.93_armour|Armour of the King]])</span><br/>
@@ -1849,7 +1849,7 @@ defeat your foes mace to face.</i></span><br/>
 === Shredder &ndash; knife ===
 <span style='color:#808080'><i>Doing gruesome things to your enemies will enhance their fear and make them weak.</i></span><br/>
 <span style='color:green'>Damage increased by 50% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
 <br/>
@@ -1857,13 +1857,13 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>Those armours are not very good, but if you wear more of them at the same time...</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 26%</span><br/>
 <span style='color:green'>Damage decreased by 1</span><br/>
-<span style='color:green'>1% fewer attacks</span><br/>
+<span style='color:green'>1 fewer attacks</span><br/>
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
 <br/>
 === Silver Axe &ndash; axe ===
 <span style='color:#808080'><i>Good metal is better than flashy magic.</i></span><br/>
 <span style='color:green'>Damage increased by 35%</span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <br/>
 === Sinister Lunacy &ndash; ring ===
 <span style='color:#808080'><i>If there was no lunatic causing the war, there would be no war.</i></span><br/>
@@ -1888,7 +1888,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>Uhm... I wanted to say... ehm, that... it was... uh... basically... so now, I am saying that... uhm...</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
-<span style='color:green'>30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>Enemy resistances to pierce decreased by 1%</span><br/>
 <br/>
 === Sorcery &ndash; craftable as any armour ===
@@ -1902,7 +1902,7 @@ defeat your foes mace to face.</i></span><br/>
 === Soul Drinker &ndash; knife ===
 <span style='color:#808080'><i>The wounded assassin hid in the shadows. Only thrown knives could be seen. Then, he returned healthy.</i></span><br/>
 <span style='color:green'>Damage decreased by 20%</span><br/>
-<span style='color:green'>80% (in EASY difficulty), 65% (in MEDIUM difficulty), 50% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>80% (in EASY difficulty), 65% (in MEDIUM difficulty), 50% (in HARD difficulty) more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
 <br/>
@@ -1926,7 +1926,7 @@ defeat your foes mace to face.</i></span><br/>
 === Soul Render &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Sticks and stones will break his bones, but this will destroy even his soul.</i></span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 55% (in MEDIUM difficulty), 40% (in HARD difficulty)</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:#60A0FF'>10% chance to strike a devastating blow</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
 <span style='color:green'>Increases all magical damages by 30%</span><br/>
@@ -1960,7 +1960,7 @@ Then he saw this item.</i></span><br/>
 <br/>
 === Spineripper &ndash; knife ===
 <span style='color:#808080'><i>Look at that exposed back.</i></span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:green'>New weapon special: backstab</span><br/>
 <br/>
@@ -2010,7 +2010,7 @@ Then he saw this item.</i></span><br/>
 === Staff of Kerathur &ndash; staff ===
 <span style='color:#808080'><i>'I know that you have no idea who I am...' - Kerathur the Unheard Of</i></span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
-<span style='color:green'>70% (in EASY difficulty), 55% (in MEDIUM difficulty), 40% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>70% (in EASY difficulty), 55% (in MEDIUM difficulty), 40% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
 <br/>
@@ -2071,7 +2071,7 @@ New ability: Steals</span><br/>
 === Stormforce &ndash; bow ===
 <span style='color:#808080'><i>Is that the fabled Stormforce? I thought it was just a legend!</i></span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
@@ -2144,7 +2144,7 @@ New ability: Steals</span><br/>
 === The Cannon &ndash; xbow ===
 <span style='color:#808080'><i>If I will ever get to you, you will be wrecked!</i></span><br/>
 <span style='color:green'>Damage increased by 55% (in EASY difficulty), 45% (in MEDIUM difficulty), 35% (in HARD difficulty)</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
 <br/>
 === The Crusher &ndash; knife ===
@@ -2166,7 +2166,7 @@ New ability: Steals</span><br/>
 === The End of All that Is &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>From the victim's point of view, there was no death at all.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#soul annihilation_.E2.80.93_damage|soul annihilation]]</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
@@ -2190,7 +2190,7 @@ New ability: Steals</span><br/>
 === The gloomy Amulet &ndash; amulet ===
 <span style='color:#808080'><i>Bring sadness to your enemies by showing them how weak they are.</i></span><br/>
 <span style='color:green'>Damage increased by 30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:purple'>+1 base damage (requires [[#The gloomy Cloak_.E2.80.93_cloak|The gloomy Cloak]])</span><br/>
 <span style='color:purple'>+1 base damage (requires [[#The gloomy Ring_.E2.80.93_ring|The gloomy Ring]])</span><br/>
 <br/>
@@ -2233,7 +2233,7 @@ New ability: Steals</span><br/>
 <br/>
 === The Humongously Enormous Megaspear &ndash; spear ===
 <span style='color:#808080'><i>Small weapons are for wimps.</i></span><br/>
-<span style='color:green'>40% (in EASY difficulty), 50% (in MEDIUM difficulty), 60% (in HARD difficulty)% fewer attacks</span><br/>
+<span style='color:green'>40% (in EASY difficulty), 50% (in MEDIUM difficulty), 60% (in HARD difficulty) fewer attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#hose_.E2.80.93_dummy|hose]]</span><br/>
 <br/>
 === The Impaler &ndash; spear ===
@@ -2277,7 +2277,7 @@ New ability: Steals</span><br/>
 === The Outcast &ndash; bow ===
 <span style='color:#808080'><i>Loneliness will teach you to stop relying on others. It makes you free if you pay its price.</i></span><br/>
 <span style='color:green'>Damage increased by 10%</span><br/>
-<span style='color:green'>20%% more attacks</span><br/>
+<span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
@@ -2319,11 +2319,11 @@ They pretend you had reached the impossible.</i></span><br/>
 <span style='color:#808080'><i>There is no touch of death. But you can take your time to aim at the windpipe from the correct angle...</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:green'>Damage increased by 20 (in EASY difficulty), 18 (in MEDIUM difficulty), 16 (in HARD difficulty)</span><br/>
-<span style='color:green'>4% fewer attacks</span><br/>
+<span style='color:green'>4 fewer attacks</span><br/>
 <br/>
 === The Touch of God &ndash; cloak ===
 <span style='color:#808080'><i>'I... I have been touched by god.'
-'Touched by our allmightly lord and saviour?'
+'Touched by our almightly lord and saviour?'
 'No, by lord Cthulhu.'</i></span><br/>
 <span style='color:#60A0FF'>Decreases physical resistances by 20%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (40)]]</span><br/>
@@ -2345,7 +2345,7 @@ They pretend you had reached the impossible.</i></span><br/>
 <span style='color:#808080'><i>I have broken the sacred vow, forgotten the pledge of allegiance, lost my faith.
 I did what I did. I cannot change it, so why should I torment myself with it?</i></span><br/>
 <span style='color:green'>Damage increased by 5 (in EASY difficulty), 4 (in MEDIUM difficulty), 3 (in HARD difficulty)</span><br/>
-<span style='color:green'>40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)% more attacks</span><br/>
+<span style='color:green'>40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#distant attack_.E2.80.93_attacks|distant attack]]</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#anathema_.E2.80.93_leadership|anathema]]</span><br/>
@@ -2361,7 +2361,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 === The Vile Knife &ndash; knife ===
 <span style='color:#808080'><i>Wounds heal, poison remains.</i></span><br/>
 <span style='color:green'>Damage increased by 25% (in EASY difficulty), 15% (in MEDIUM difficulty), 5% (in HARD difficulty)</span><br/>
-<span style='color:green'>40%% more attacks</span><br/>
+<span style='color:green'>40% more attacks</span><br/>
 <span style='color:green'>Sets damage type to cold</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#greater backstab_.E2.80.93_damage|greater backstab]]</span><br/>
@@ -2419,7 +2419,7 @@ The bloodline of true warriors</i></span><br/>
 === Tormentor of Light &ndash; mace ===
 <span style='color:#808080'><i>In the absence of light, darkness and disorder rules.</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
-<span style='color:green'>25%% more attacks</span><br/>
+<span style='color:green'>25% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#chaotic_.E2.80.93_damage|chaotic]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#darkens_.E2.80.93_illuminates|darkens]]</span><br/>
 <br/>
@@ -2554,7 +2554,7 @@ The bloodline of true warriors</i></span><br/>
 === Warheart &ndash; craftable as any armour ===
 <span style='color:#808080'><i>This will please my war loving heart.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
-<span style='color:green'>1% more attacks</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
@@ -2621,7 +2621,7 @@ The bloodline of true warriors</i></span><br/>
 === Wrath of the Pagan &ndash; mace ===
 <span style='color:#808080'><i>Law or chaos? That is just a point of view not everyone shares.</i></span><br/>
 <span style='color:green'>Damage increased by 50% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>30%% more attacks</span><br/>
+<span style='color:green'>30% more attacks</span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#chaotic and lawful_.E2.80.93_damage|chaotic and lawful]]</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
