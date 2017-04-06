@@ -20,6 +20,7 @@ import pathlib
 import itertools
 import time
 import subprocess
+import configparser
 
 from . import wml_parser, extractor, writer, utils, index
 
@@ -29,7 +30,7 @@ header = """
 This is an auto-generated wiki page listing {{}} currently avalible in the campaign "Legend of the Invincibles". {{}}
 This was generated at {} using version {{}} of LotI and version {} of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
-Instead, create a new issule at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
+Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
 Other LotI-related wiki pages:
 
@@ -41,13 +42,22 @@ Other LotI-related wiki pages:
 """.lstrip().format(time.ctime(), __version__)
 
 
-def auto_upload():
+def auto_upload(config):
     import requests
     import getpass
     import bs4
 
-    username = input("Username: ")
-    password = getpass.getpass("Password: ")
+    if config.get("username", None):
+        username = config.get("username", None)
+        print("Using username", username)
+    else:
+        username = input("Username: ")
+
+    if config.get("password", None):
+        password = config.get("password", None)
+        print("Using stored password")
+    else:
+        password = getpass.getpass("Password: ")
 
     s = requests.Session()
     r = s.get("https://wiki.wesnoth.org/index.php?title=Special:UserLogin")
@@ -92,14 +102,28 @@ def auto_upload():
 def main():
     global ability_name, special_name
 
+    all_config = configparser.ConfigParser()
+    all_config.read(["config.ini", "setup.cfg"])
+
+    if "lotigen" in all_config:
+        print("Configuration found")
+        config = all_config["lotigen"]
+    else:
+        print("Configuration not found")
+        config = {}
+
     parser = argparse.ArgumentParser(prog="loti_wiki_gen", description="Generate the wiki for LotI")
-    parser.add_argument("dir", help="Path the the root of LotI. ~/.local/share/wesnoth/1.12/data/add-ons/Legend_of_the_Invincibles/ on unix")
+    if config.get("dir", None):
+        kw = {"default": config.get("dir"), "nargs": "?"}
+    else:
+        kw = {}
+    parser.add_argument("dir", help="Path the the root of LotI. ~/.local/share/wesnoth/1.12/data/add-ons/Legend_of_the_Invincibles/ on unix", **kw)
     parser.add_argument("--version", nargs=1, default=None, help="Override version")
     parser.add_argument("--autoupload", action="store_true", help="Upload to the wiki after generation has finished")
 
     args = parser.parse_args()
 
-    start = pathlib.Path(args.dir).resolve()
+    start = pathlib.Path(args.dir).expanduser().resolve()
     print("LotI Scraper version", __version__, "loading from directory", start)
 
     if args.version is None:
@@ -204,7 +228,7 @@ def main():
             print(file=adv_units_file)
 
     if args.autoupload:
-        auto_upload()
+        auto_upload(config)
 
     print("All done!")
 

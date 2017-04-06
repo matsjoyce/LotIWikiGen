@@ -52,3 +52,7 @@ docs/_build/
 
 # Kdevelop files
 *.kdev4
+
+# Configuration
+config.ini
+setup.cfg
