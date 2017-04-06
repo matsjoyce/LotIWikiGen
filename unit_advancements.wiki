@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Thu Mar 30 09:43:23 2017 using version git-2b2f8a7 of LotI and version 0.3.5 of the generation script.
+This was generated at Thu Apr  6 16:33:20 2017 using version git-6132cca of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issule at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -6488,7 +6488,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Shadowalker ==
-<span style='color:#808080'><i>Sometimes, the most dextrous from all masters of combat become Shadowalkers, fighters whose skill with sword is unmatchable. No longer requiring enlightenment to fight, they can fight equally well under the sun and in dark caves. If the situation is not ideal for fencing, they can shoot a poisoned bolt at their enemy or surprise him with an unexpected spell.<br/>
+<span style='color:#808080'><i>Sometimes, the most dextrous from all masters of combat become Shadowalkers, fighters whose skill with sword is unmatched. No longer requiring illumination to fight, they can fight equally well under the sun and in dark caves. If the situation is not ideal for fencing, they can shoot a poisoned bolt at their enemy or surprise him with an unexpected spell.<br/>
 Special Notes: If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has generic AMLA advancements</i></span>
 

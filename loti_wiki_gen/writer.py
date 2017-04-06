@@ -210,8 +210,8 @@ def write_item(name, tag, file, index):
                                 "<span style='color:green'>Damage decreased by {{}}{}</span>".format(e)))
     if "attacks" in keys:
         write(format_values(keys["attacks"],
-                            "<span style='color:green'>{}% more attacks</span>",
-                            "<span style='color:green'>{}% fewer attacks</span>",
+                            "<span style='color:green'>{} more attacks</span>",
+                            "<span style='color:green'>{} fewer attacks</span>",
                             percent=sort in weapon_sorts))
     if "merge" in keys:
         write("<span style='color:green'>Merges attacks</span>")
