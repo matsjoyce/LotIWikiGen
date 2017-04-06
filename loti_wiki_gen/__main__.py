@@ -21,7 +21,7 @@ import itertools
 import time
 import subprocess
 
-from . import wml_parser, extractor, writer, utils, index
+from . import wml_parser, extractor, writer, utils, index, config
 
 __version__ = "0.3.5"
 
@@ -92,14 +92,14 @@ def auto_upload():
 def main():
     global ability_name, special_name
 
+    conf = config.Config()
     parser = argparse.ArgumentParser(prog="loti_wiki_gen", description="Generate the wiki for LotI")
-    parser.add_argument("dir", help="Path the the root of LotI. ~/.local/share/wesnoth/1.12/data/add-ons/Legend_of_the_Invincibles/ on unix")
     parser.add_argument("--version", nargs=1, default=None, help="Override version")
     parser.add_argument("--autoupload", action="store_true", help="Upload to the wiki after generation has finished")
 
     args = parser.parse_args()
 
-    start = pathlib.Path(args.dir).resolve()
+    start = pathlib.Path(conf.get_dir())
     print("LotI Scraper version", __version__, "loading from directory", start)
 
     if args.version is None:
