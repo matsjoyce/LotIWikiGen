@@ -132,6 +132,12 @@ def main():
             info = wml_parser.parse((start / "_info.cfg").open().read())
             version = info.tags["info"][0].keys["version"].any
         else:
+            try:
+                subprocess.check_call(["git", "checkout", "master"], cwd=str(start))
+                subprocess.check_call(["git", "pull", "https://github.com/Dugy/Legend_of_the_Invincibles.git", "master"], cwd=str(start))
+            except IOError:
+                print("Update of LotI directory failed. If this is not a git repository, provide the version using the --version flag")
+                return
             version = "git-" + subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=str(start)).decode().strip()
     else:
         version = args.version[0]

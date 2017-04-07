@@ -1,7 +1,7 @@
 This is an auto-generated wiki page listing all the advancements avalible for catagories of units currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.
-This was generated at Thu Apr  6 16:33:20 2017 using version git-6132cca of LotI and version 0.3.5 of the generation script.
+This was generated at Fri Apr  7 16:29:48 2017 using version git-6132cca of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
-Instead, create a new issule at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
+Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
 Other LotI-related wiki pages:
 
@@ -13,6 +13,9 @@ Other LotI-related wiki pages:
 
 == Legacies and Books ==
 
+=== Aware of Legacy Possessed &ndash; Awareness ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<br/>
 === Better at Melee Combat (Book of Magical Swordplay) &ndash; BoMS1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement BoMS to be achieved first</i></span><br/>
@@ -712,9 +715,6 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Faster,_1_More_Ranged_Damage_(Legacy_of_the_Free)_.E2.80.93_LotF4|LotF4]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
-<br/>
-=== Aware of Legacy Possessed &ndash; Awareness ===
-<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <br/>
 
 == Soul Eater and God Advancements ==
