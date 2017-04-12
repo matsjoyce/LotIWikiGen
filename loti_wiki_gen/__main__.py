@@ -94,24 +94,15 @@ def main():
 
     parser = argparse.ArgumentParser(prog="loti_wiki_gen", description="Generate the wiki for LotI")
     parser.add_argument("dir", help="Path the the root of LotI. ~/.local/share/wesnoth/1.12/data/add-ons/Legend_of_the_Invincibles/ on unix")
-    parser.add_argument("--version", nargs=1, default=None, help="Override version")
     parser.add_argument("--autoupload", action="store_true", help="Upload to the wiki after generation has finished")
 
     args = parser.parse_args()
 
     start = pathlib.Path(args.dir).resolve()
+    print("Updating LotI...")
+    subprocess.run("git pull", shell=True, cwd=str(start), check=True)
     print("LotI Scraper version", __version__, "loading from directory", start)
-
-    if args.version is None:
-        print("Scanning info...")
-        if (start / "_info.cfg").exists():
-            info = wml_parser.parse((start / "_info.cfg").open().read())
-            version = info.tags["info"][0].keys["version"].any
-        else:
-            version = "git-" + subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=start).decode().strip()
-    else:
-        version = args.version[0]
-
+    version = "git-" + subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=str(start)).decode().strip()
     print("LotI version is", version)
 
     def sort_by_first(x):
