@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Fri Apr  7 16:29:48 2017 using version git-6132cca of LotI and version 0.3.5 of the generation script.
+This was generated at Thu May  4 09:04:58 2017 using version git-1a2f79c of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -888,7 +888,7 @@ This unit also has god AMLA advancements</i></span>
 === Faster with Knives &ndash; knives3_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Knives_.E2.80.93_knives1|knives1]], [[#Better_with_Knives_.E2.80.93_knives2|knives2]] and [[#Better_with_Knives_.E2.80.93_knives3|knives3]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage decreased by 2 for the knife attack</span><br/>
+<span style='color:green'>Damage decreased by 1 for the knife attack</span><br/>
 <span style='color:green'>1 more attacks for the knife attack</span><br/>
 <br/>
 === Better with Knives &ndash; knives4 ===
@@ -5492,7 +5492,7 @@ This unit also has soul eater AMLA advancements</i></span>
 === Faster with Knives &ndash; knives3_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Knives_.E2.80.93_knives1_2|knives1]], [[#Better_with_Knives_.E2.80.93_knives2_2|knives2]] and [[#Better_with_Knives_.E2.80.93_knives3_2|knives3]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage decreased by 2 for the knife attack</span><br/>
+<span style='color:green'>Damage decreased by 1 for the knife attack</span><br/>
 <span style='color:green'>1 more attacks for the knife attack</span><br/>
 <br/>
 === Better with Knives &ndash; knives4 ===
@@ -7195,13 +7195,16 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>Damage decreased by 4 for the dark blast attack</span><br/>
 <span style='color:green'>1 more attacks for the dark blast attack</span><br/>
+<span style='color:green'>Damage decreased by 2 for the ophidian energy attack</span><br/>
+<span style='color:green'>1 more attacks for the ophidian energy attack</span><br/>
 <br/>
 === Causing More Havoc with Magic &ndash; magic2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 3 for the dark blast attack</span><br/>
+<span style='color:green'>Damage increased by 2 for the ophidian energy attack</span><br/>
 <br/>
-=== Decreasing Enemies' Arcane Resistance by 8% &ndash; magic2_penetrate ===
+=== Decreasing Enemies' Arcane and Cold Resistances by 8% &ndash; magic2_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]] and [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic2|magic2]] to be achieved first</i></span><br/>
 <br/>
@@ -7209,15 +7212,17 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]] and [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic2|magic2]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 3 for the dark blast attack</span><br/>
+<span style='color:green'>Damage increased by 2 for the ophidian energy attack</span><br/>
 <br/>
 === Causing More Havoc with Magic &ndash; magic4 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic2|magic2]] and [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic3|magic3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 2 for the dark blast attack</span><br/>
+<span style='color:green'>Damage increased by 2 for the ophidian energy attack</span><br/>
 <br/>
-=== Decreasing Enemies' Arcane Resistance by 7% &ndash; magic4_penetrate ===
+=== Decreasing Enemies' Arcane and Cold Resistances by 7% &ndash; magic4_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic2|magic2]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic3|magic3]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic4|magic4]] and [[#Decreasing_Enemies'_Arcane_Resistance_by_8%_.E2.80.93_magic2_penetrate|magic2_penetrate]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic2|magic2]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic3|magic3]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic4|magic4]] and [[#Decreasing_Enemies'_Arcane_and_Cold_Resistances_by_8%_.E2.80.93_magic2_penetrate|magic2_penetrate]] to be achieved first</i></span><br/>
 <br/>
 === Able to Attack with Magically Increased Speed &ndash; speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>

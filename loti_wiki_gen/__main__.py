@@ -64,15 +64,21 @@ def auto_upload(config):
     if r.status_code != 200:
         print("Login request failed")
     soup = bs4.BeautifulSoup(r.text, "html.parser")
-    token = soup.find("form").find("input", type="hidden")["value"]
+    token = soup.find("form").find("input", {"name": "wpLoginToken"})["value"]
     r = s.post("https://wiki.wesnoth.org/index.php?title=Special:UserLogin&action=submitlogin&type=login",
-               data={"wpName": username,
+               data={"wpName": username.title(),
                      "wpPassword": password,
-                     "wpLoginAttempt": "Log in",
-                     "wpLoginToken": token
-                     })
-    if r.status_code != 200:
+                     "wploginattempt": "Log in",
+                     "wpLoginToken": token,
+                     "authAction": "login",
+                     "title": "Special:UserLogin",
+                     "wpEditToken": "+/",
+                     "force": ""
+                     },
+               allow_redirects=False)
+    if r.status_code != 302:
         print("Login submit failed")
+        return
     print("Logging in successful")
 
     # save action

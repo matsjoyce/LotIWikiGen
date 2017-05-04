@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Fri Apr  7 16:29:48 2017 using version git-6132cca of LotI and version 0.3.5 of the generation script.
+This was generated at Thu May  4 09:04:58 2017 using version git-1a2f79c of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -1889,7 +1889,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
 <span style='color:green'>30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty) more attacks</span><br/>
-<span style='color:green'>Enemy resistances to pierce decreased by 1%</span><br/>
+<span style='color:green'>Enemy resistances to pierce decreased by 10%</span><br/>
 <br/>
 === Sorcery &ndash; craftable as any armour ===
 <span style='color:#808080'><i>'You shall never question my power!'
@@ -2089,7 +2089,7 @@ New ability: Steals</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
 <br/>
 === Straight out of Nowhere &ndash; dagger ===
-<span style='color:#808080'><i>Expect the unexpected. Devilus ex machina.</i></span><br/>
+<span style='color:#808080'><i>Expect the unexpected. Diabolus ex machina.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:green'>Merges attacks</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
