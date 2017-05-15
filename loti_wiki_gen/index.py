@@ -19,7 +19,8 @@ from . import writer
 
 
 class Index:
-    def __init__(self, unit_advancements, standard_advancements, abilities, items):
+    def __init__(self, unit_advancements, standard_advancements, abilities, items, verbose=False):
+        self.verbose = verbose
         self.item_index = {}
         self.ability_index = {}
         self.advancement_index = {}
@@ -46,13 +47,19 @@ class Index:
                                                iname.replace(" ", "_"))
                 i += 1
             self.advancement_urls.add(ref)
-            self.advancement_index[section + name] = ref
+            self.advancement_index[section + name.lower()] = ref
 
     def query_advancement(self, section, name):
-        return self.advancement_index.get(section + name)
+        if section + name.lower() in self.advancement_index:
+            return self.advancement_index[section + name.lower()]
+        if self.verbose:
+            print("Could not find advancement", name, "in", section)
 
     def query_item(self, item_name):
         return self.item_index[item_name]
 
     def query_ability(self, ability_name):
-        return self.ability_index.get(ability_name)
+        if ability_name in self.ability_index:
+            return self.ability_index[ability_name]
+        if self.verbose:
+            print("Could not find ability", ability_name)

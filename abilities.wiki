@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Thu May  4 09:04:58 2017 using version git-1a2f79c of LotI and version 0.3.5 of the generation script.
+This was generated at Mon May 15 11:13:53 2017 using version git-11f275b of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -316,7 +316,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When used offensively, this attack deals double damage to the target if the target is facing backwards to the attacker. It also causes this unit to take double damage from the target’s counterattack.</i></span><br/>
 <br/>
 === cleave &ndash; damage ===
-<span style='color:#808080'><i>On a melee attack, whatever hits the target will also hit enemies in the two hexes that are adjacent to both the attacker and defender, in a crescent moon shape, for 50% of the original damage. It is so tiring that the unit's damage decreases by 2 after the attack, the damage penalty will half each turn.</i></span><br/>
+<span style='color:#808080'><i>This attack will hit additional enemies in the two hexes that are adjacent to both the attacker and defender, in a crescent moon shape, for 50% of the original damage. It is so tiring that the unit's damage decreases by 2 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 === cone &ndash; dummy ===
 <span style='color:#808080'><i>With this attack enemies next to attacker and target suffer 1/2 the damage. The foe behind the defender takes 1/2 of the damage too, while their adjacent comrades take 1/4 of it. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn.</i></span><br/>
@@ -358,7 +358,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When used offensively, this attack deals 2.5 times more damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed).</i></span><br/>
 <br/>
 === greater infect &ndash; poison ===
-<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way, so that if it dies, it becomes a Soulless. It may die from this poison.</i></span><br/>
+<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Soulless.</i></span><br/>
 <br/>
 === guided &ndash; chance_to_hit ===
 <span style='color:#808080'><i>This attack always has an 90% chance to hit, regardless of the defensive ability of the defending unit.</i></span><br/>
@@ -382,7 +382,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This attack incinerates its targets. Burning units lose 16 HP every turn until they are cured. Flames can kill a unit, the attacker that incinerated the unit gets the experience.</i></span><br/>
 <br/>
 === infect &ndash; poison ===
-<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way, so that if it dies, it becomes a Walking Corpse. It may die from this poison.</i></span><br/>
+<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Walking Corpse.</i></span><br/>
 <br/>
 === kamikaze sprint &ndash; damage ===
 <span style='color:#808080'><i>If this attack hits offensively, the attacker first takes the damage of all the opponent's attacks. Then, the enemy behind the target takes a half of this attack's damage, the enemy behind him takes a quarter of the initial damage etc, until there are no more enemies in the row, and the attacker will appear there. If the opponent's damage would kill, the weapon special does not work.</i></span><br/>

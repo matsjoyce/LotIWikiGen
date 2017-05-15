@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Thu May  4 09:04:58 2017 using version git-1a2f79c of LotI and version 0.3.5 of the generation script.
+This was generated at Mon May 15 11:13:53 2017 using version git-11f275b of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -849,11 +849,11 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:green'>Damage increased by 10% for the mberserk5 attack</span><br/>
 <br/>
 === Whirling Better &ndash; whirlwind ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the whirlwind attack</span><br/>
 <br/>
 === Whirling Better &ndash; whirlwind2 ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Whirling_Better_.E2.80.93_whirlwind|whirlwind]], [[#Whirling_Better_.E2.80.93_whirlwind|whirlwind]], [[#Whirling_Better_.E2.80.93_whirlwind|whirlwind]] and [[#Better_with_Sword_.E2.80.93_sword4_2|sword4]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the whirlwind attack</span><br/>
 <br/>
@@ -1386,7 +1386,7 @@ This unit also has god AMLA advancements</i></span>
 <br/>
 === More Attuned to the Woods &ndash; woods ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements wings, [[#More_Nimble_(+1_Movement,_1%_Better_Defences_on_All_Terrains)_.E2.80.93_wings2|wings2]] and [[#More_Nimble_(2%_Better_Defences_on_All_Terrains)_.E2.80.93_wings3|wings3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#More_Nimble_(+1_Movement,_1%_Better_Defences_on_All_Terrains)_.E2.80.93_wings1|wings1]], [[#More_Nimble_(+1_Movement,_1%_Better_Defences_on_All_Terrains)_.E2.80.93_wings2|wings2]] and [[#More_Nimble_(2%_Better_Defences_on_All_Terrains)_.E2.80.93_wings3|wings3]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#nocturnal ambush_.E2.80.93_hides|nocturnal ambush]]</span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 4%</span><br/>
 <br/>
@@ -1520,7 +1520,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Swinging Faster with the Sword &ndash; sword3_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Swinging_Better_with_the_Sword_.E2.80.93_sword|sword]], [[#Swinging_Better_with_the_Sword_.E2.80.93_sword2|sword2]], sword1_speed and [[#Swinging_Better_with_the_Sword_.E2.80.93_sword3|sword3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Swinging_Better_with_the_Sword_.E2.80.93_sword|sword]], [[#Swinging_Better_with_the_Sword_.E2.80.93_sword2|sword2]] and [[#Swinging_Better_with_the_Sword_.E2.80.93_sword3|sword3]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the sword attack</span><br/>
 <br/>
 === Swinging Better with the Sword &ndash; sword4 ===
@@ -2281,7 +2281,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Backstab with the Dagger &ndash; dagger2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements sword and [[#Better_with_Dagger_.E2.80.93_dagger|dagger]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Dagger_.E2.80.93_dagger|dagger]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the dagger attack: backstab</span><br/>
 <br/>
 === More Technically Skilled, Using a Gun that Can Fire Very Quickly &ndash; storm ===
@@ -4044,14 +4044,18 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_2|faerie1]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_2|faerie2]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie3_2|faerie3]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie4_2|faerie4]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie5_2|faerie5]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie6_2|faerie6]] and [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie7_2|faerie7]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 2 for the faerie fire attack</span><br/>
 <br/>
+=== Casting Fireballs Better &ndash; fireball ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage increased by 3 for the fireball attack</span><br/>
+<br/>
 === Casting Fireballs Better &ndash; fireball2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement fireball to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Casting_Fireballs_Better_.E2.80.93_fireball_2|fireball]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 2 for the fireball attack</span><br/>
 <br/>
 === Casting Fireballs with Better Precision &ndash; fireball2_precision ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement fireball to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Casting_Fireballs_Better_.E2.80.93_fireball_2|fireball]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
 <span style='color:green'>Remove weapon special for the fireball attack: magical</span><br/>
 <br/>
@@ -4300,12 +4304,12 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Casting Fireballs Better &ndash; fireball2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Casting_Fireballs_Better_.E2.80.93_fireball_2|fireball]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Casting_Fireballs_Better_.E2.80.93_fireball_3|fireball]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 2 for the fireball attack</span><br/>
 <br/>
 === Casting Fireballs with Better Precision &ndash; fireball2_precision ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Casting_Fireballs_Better_.E2.80.93_fireball_2|fireball]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Casting_Fireballs_Better_.E2.80.93_fireball_3|fireball]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
 <span style='color:green'>Remove weapon special for the fireball attack: magical</span><br/>
 <br/>
@@ -5163,7 +5167,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:green'>Damage increased by 1 for the crossbow attack</span><br/>
 <span style='color:green'>1 more attacks for the crossbow attack</span><br/>
 <br/>
-=== Striking More Precisely with the Crossbow &ndash; xbow-marksman ===
+=== Striking More Precisely with the Crossbow &ndash; xbow_marksman ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Crossbow_.E2.80.93_xbow_4|xbow]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the crossbow attack: marksman</span><br/>
@@ -5185,7 +5189,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Striking More Precisely with the Crossbow &ndash; xbow-marksman ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Crossbow_.E2.80.93_xbow_4|xbow]], [[#Better_with_Crossbow_.E2.80.93_xbow2_3|xbow2]] and xbow_marksman to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Crossbow_.E2.80.93_xbow_4|xbow]], [[#Better_with_Crossbow_.E2.80.93_xbow2_3|xbow2]] and [[#Striking_More_Precisely_with_the_Crossbow_.E2.80.93_xbow_marksman|xbow_marksman]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the crossbow attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
 <span style='color:green'>Remove weapon special for the crossbow attack: marksman</span><br/>
 <br/>
@@ -5279,7 +5283,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Better with Knives &ndash; knife4 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements knife and [[#Faster_with_Knives_.E2.80.93_knife2|knife2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Dealing_More_Damage_with_Knives_.E2.80.93_knife1|knife1]] and [[#Faster_with_Knives_.E2.80.93_knife2|knife2]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the knife attack</span><br/>
 <br/>
 === Able to Move at Night Without Being Seen on Useful Terrains &ndash; nightstalk ===
@@ -5453,11 +5457,11 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:green'>Damage increased by 10% for the mberserk5 attack</span><br/>
 <br/>
 === Whirling Better &ndash; whirlwind ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the whirlwind attack</span><br/>
 <br/>
 === Whirling Better &ndash; whirlwind2 ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Whirling_Better_.E2.80.93_whirlwind_2|whirlwind]], [[#Whirling_Better_.E2.80.93_whirlwind_2|whirlwind]], [[#Whirling_Better_.E2.80.93_whirlwind_2|whirlwind]] and [[#Better_with_Sword_.E2.80.93_sword4_7|sword4]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the whirlwind attack</span><br/>
 <br/>
@@ -5734,7 +5738,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Faster with Staff &ndash; staff6_attacks ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Staff_.E2.80.93_staff1_2|staff1]], [[#Better_with_Staff_.E2.80.93_staff2_2|staff2]], [[#Better_with_Staff_.E2.80.93_staff3_2|staff3]], [[#Better_with_Staff_.E2.80.93_staff4_2|staff4]], [[#Better_with_Staff_.E2.80.93_staff5_2|staff5]], [[#Better_with_Staff_.E2.80.93_staff6_2|staff6]] and staff4-attacks to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Staff_.E2.80.93_staff1_2|staff1]], [[#Better_with_Staff_.E2.80.93_staff2_2|staff2]], [[#Better_with_Staff_.E2.80.93_staff3_2|staff3]], [[#Better_with_Staff_.E2.80.93_staff4_2|staff4]], [[#Better_with_Staff_.E2.80.93_staff5_2|staff5]], [[#Better_with_Staff_.E2.80.93_staff6_2|staff6]] and [[#Faster_with_Staff_.E2.80.93_staff4_attacks|staff4_attacks]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the staff attack</span><br/>
 <br/>
 === Better with Staff &ndash; staff7 ===
@@ -6003,7 +6007,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === More Attuned to the Woods &ndash; woods ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements wings, [[#More_Nimble_(+1_Movement,_1%_Better_Defences_on_All_Terrains)_.E2.80.93_wings2_2|wings2]] and [[#More_Nimble_(2%_Better_Defences_on_All_Terrains)_.E2.80.93_wings3_2|wings3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#More_Nimble_(+1_Movement,_1%_Better_Defences_on_All_Terrains)_.E2.80.93_wings1_2|wings1]], [[#More_Nimble_(+1_Movement,_1%_Better_Defences_on_All_Terrains)_.E2.80.93_wings2_2|wings2]] and [[#More_Nimble_(2%_Better_Defences_on_All_Terrains)_.E2.80.93_wings3_2|wings3]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#nocturnal ambush_.E2.80.93_hides|nocturnal ambush]]</span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 4%</span><br/>
 <br/>

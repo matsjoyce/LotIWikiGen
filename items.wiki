@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Thu May  4 09:04:58 2017 using version git-1a2f79c of LotI and version 0.3.5 of the generation script.
+This was generated at Mon May 15 11:13:53 2017 using version git-11f275b of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -40,7 +40,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>They would not have accepted a spoken lie,
 but whips were raised to strike them,
 traditions were brought to them.</i></span><br/>
-<span style='color:purple'>10% to arcane resistance (requires [[#Theophrastus Redivivius_.E2.80.93_limited|Theophrastus Redivivius]])</span><br/>
+<span style='color:purple'>10% to arcane resistance (requires [[#Theophrastus Redivivus_.E2.80.93_limited|Theophrastus Redivivus]])</span><br/>
 <span style='color:purple'>New ability: frail tide (10) (requires [[#Treatise of the Three Impostors_.E2.80.93_limited|Treatise of the Three Impostors]])</span><br/>
 <br/>
 === Amethyst &ndash; gem ===
@@ -1271,7 +1271,7 @@ New ability: despair (20)</span><br/>
 <br/>
 === Liquid Hatred &ndash; amulet ===
 <span style='color:#808080'><i>The essence of liquid hatred, purified and distilled.</i></span><br/>
-<span style='color:green'>Damage decreased by 3%</span><br/>
+<span style='color:green'>Damage decreased by 3</span><br/>
 <span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#wrath_.E2.80.93_dummy|wrath]]</span><br/>
 <br/>
@@ -2372,7 +2372,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Resistance to cold increased by 30%</span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <br/>
-=== Theophrastus Redivivius &ndash; limited ===
+=== Theophrastus Redivivus &ndash; limited ===
 <span style='color:#808080'><i>Difficile est negave Deos, si inconcione quaratur, sed in familliarium, sermone, en consessur facilitimum...</i></span><br/>
 <span style='color:purple'>10% to arcane resistance (requires [[#Treatise of the Three Impostors_.E2.80.93_limited|Treatise of the Three Impostors]])</span><br/>
 <span style='color:purple'>New ability: regenerates slightly (requires [[#Al-Fuṣūl wa al-ghāyāt_.E2.80.93_limited|Al-Fuṣūl wa al-ghāyāt]])</span><br/>
@@ -2442,7 +2442,7 @@ The bloodline of true warriors</i></span><br/>
 <br/>
 === Treatise of the Three Impostors &ndash; limited ===
 <span style='color:#808080'><i>However important it may be for all men to know the Truth, very few, nevertheless, are acquainted with it...</i></span><br/>
-<span style='color:purple'>10% to arcane resistance (requires [[#Theophrastus Redivivius_.E2.80.93_limited|Theophrastus Redivivius]])</span><br/>
+<span style='color:purple'>10% to arcane resistance (requires [[#Theophrastus Redivivus_.E2.80.93_limited|Theophrastus Redivivus]])</span><br/>
 <span style='color:purple'>New ability: exile (requires [[#Al-Fuṣūl wa al-ghāyāt_.E2.80.93_limited|Al-Fuṣūl wa al-ghāyāt]])</span><br/>
 <br/>
 === Twinkling Sword &ndash; sword ===

@@ -126,6 +126,8 @@ def main():
     parser.add_argument("dir", help="Path the the root of LotI. ~/.local/share/wesnoth/1.12/data/add-ons/Legend_of_the_Invincibles/ on unix", **kw)
     parser.add_argument("--version", nargs=1, default=None, help="Override version")
     parser.add_argument("--autoupload", action="store_true", help="Upload to the wiki after generation has finished")
+    parser.add_argument("--noupdate", action="store_true", help="Do not update <dir> when it is a git repository")
+    parser.add_argument("--verbose-index", action="store_true", help="Print missing index items")
 
     args = parser.parse_args()
 
@@ -138,12 +140,13 @@ def main():
             info = wml_parser.parse((start / "_info.cfg").open().read())
             version = info.tags["info"][0].keys["version"].any
         else:
-            try:
-                subprocess.check_call(["git", "checkout", "master"], cwd=str(start))
-                subprocess.check_call(["git", "pull", "https://github.com/Dugy/Legend_of_the_Invincibles.git", "master"], cwd=str(start))
-            except IOError:
-                print("Update of LotI directory failed. If this is not a git repository, provide the version using the --version flag")
-                return
+            if not args.noupdate:
+                try:
+                    subprocess.check_call(["git", "checkout", "master"], cwd=str(start))
+                    subprocess.check_call(["git", "pull", "https://github.com/Dugy/Legend_of_the_Invincibles.git", "master"], cwd=str(start))
+                except IOError:
+                    print("Update of LotI directory failed. If this is not a git repository, provide the version using the --version flag")
+                    return
             version = "git-" + subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=str(start)).decode().strip()
     else:
         version = args.version[0]
@@ -185,7 +188,7 @@ def main():
           len(unit_advancements), "unit advancements and", len(items), "items")
 
     print("Creating index...")
-    idx = index.Index(unit_advancements, standard_advancements, abilities, items)
+    idx = index.Index(unit_advancements, standard_advancements, abilities, items, verbose=args.verbose_index)
 
     print("Writing item information to items.wiki")
     with open("items.wiki", "w") as items_file:
