@@ -18,6 +18,8 @@ Other useful pages:
 Usage
 -----
 
+You need Python 3.5+ and Unix-like system to run this generator
+
 ```bash
 python3 -m loti_wiki_gen <LotI path>
 ```
