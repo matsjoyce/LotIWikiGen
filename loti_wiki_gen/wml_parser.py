@@ -19,13 +19,13 @@ import re
 import collections
 
 
-wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\""),
-               ("key", r"([\w{}]+)\s*=\s*([^\n]+)"),
-               ("keys", r"([\w,]+)\s*=\s*([^\n]+)"),
-               ("open", r"\[([\w{}]+)\]"),
+wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\"\s*\n"),
+               ("key", r"([\w{}]+)\s*=\s*([^\n]+)\s*\n"),
+               ("keys", r"([\w,]+)\s*=\s*([^\n]+)\s*\n"),
+               ("open", r"\[\+?([\w{}]+)\]"),
                ("close", r"\[/([\w{}]+)\]"),
                ("macro_open", r"(\{[^{}]+)"),
-               ("pre", r"#(define|ifdef|else|endif|enddef) ?([^\n]*)"),
+               ("pre", r"#(define|ifdef|else|endif|enddef|ifver) ?([^\n]*)"),
                ("whitespace", r"(\s+)"),
                ("comment", r"#[^\n]*")]
 
@@ -102,6 +102,21 @@ def tokenize(text):
             raise RuntimeError("Can't parse {}".format(repr(text[:100])))
 
 
+def preprocess(tokens):
+    tokens = iter(tokens)
+    for type, value in tokens:
+        if type == "pre" and value[0] == "ifver":
+            nt = next(tokens)
+            while nt != ("pre", ("else", "")):
+                yield nt
+                nt = next(tokens)
+            while nt != ("pre", ("endif", "")):
+                nt = next(tokens)
+        else:
+            yield type, value
+
+
+
 def subparse_wml(tokens, tag_ann="all"):
     keys = collections.defaultdict(WMLValue)
     tags = collections.defaultdict(list)
@@ -129,6 +144,7 @@ def subparse_wml(tokens, tag_ann="all"):
             try:
                 tag = subparse_wml(subtokens, annotation)
             except Exception as e:
+                print(subtokens)
                 print(e.__class__)
                 raise
             else:
@@ -181,4 +197,4 @@ def format_parsed(tag, level=0):
 
 
 def parse(text):
-    return subparse_wml(tokenize(text))
+    return subparse_wml(preprocess(tokenize(text)))

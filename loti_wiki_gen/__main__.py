@@ -38,6 +38,7 @@ Other LotI-related wiki pages:
 * https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
 * https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit specific advancements
 * https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
+* https://wiki.wesnoth.org/LotI_Scenarios &ndash; scenario information
 * https://wiki.wesnoth.org/DeadlyUnitsFromLotI
 """.lstrip().format(time.ctime(), __version__)
 
@@ -86,7 +87,8 @@ def auto_upload(config):
             ("LotI Items", "items.wiki"),
             ("LotI Abilities", "abilities.wiki"),
             ("LotI Standard Advancements", "standard_advancements.wiki"),
-            ("LotI Unit Advancements", "unit_advancements.wiki")
+            ("LotI Unit Advancements", "unit_advancements.wiki"),
+            ("LotI Scenarios", "scenarios.wiki")
             ]:
         print("Updating", title + "...")
         r = s.get("https://wiki.wesnoth.org/index.php?title=" + title + "&action=edit")
@@ -184,8 +186,12 @@ def main():
     items = list(extractor.extract_items(start))
     items.sort(key=sort_by_all_but_not_last)
 
+    print("Scanning scenarios...")
+    scenarios = list(extractor.extract_scenarios(start))
+    scenarios.sort(key=lambda x: x[:2])
+
     print("Found", len(abilities), "abilities,", len(standard_advancements), "standard advancements,",
-          len(unit_advancements), "unit advancements and", len(items), "items")
+          len(unit_advancements), "unit advancements,", len(items), "items and", len(scenarios), "scenarios")
 
     print("Creating index...")
     idx = index.Index(unit_advancements, standard_advancements, abilities, items, verbose=args.verbose_index)
@@ -241,6 +247,20 @@ def main():
             for adv in advs:
                 writer.write_advancement(*adv[:-1], adv_units_file, idx)
             print(file=adv_units_file)
+
+    print("Writing scenario information to scenarios.wiki")
+    with open("scenarios.wiki", "w") as scenarios_file:
+        print(header.format("all the scenarios",
+                            "",
+                            version), file=scenarios_file)
+
+        for _, scenarios in itertools.groupby(scenarios, lambda x: x[0]):
+            scenarios = list(scenarios)
+            print("== Chapter {} ==".format(scenarios[0][0]), file=scenarios_file)
+            print(file=scenarios_file)
+            for scenario in scenarios:
+                writer.write_scenario(*scenario, scenarios_file)
+            print(file=scenarios_file)
 
     if args.autoupload:
         auto_upload(config)

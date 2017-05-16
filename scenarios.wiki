@@ -1,0 +1,2250 @@
+This is an auto-generated wiki page listing all the scenarios currently avalible in the campaign "Legend of the Invincibles". 
+This was generated at Tue May 16 12:01:20 2017 using version git-4220d82 of LotI and version 0.3.5 of the generation script.
+As this is auto-generated, DO NOT EDIT THIS PAGE.
+Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
+
+Other LotI-related wiki pages:
+
+* https://wiki.wesnoth.org/LotI_Items &ndash; items, such as weapons and books
+* https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
+* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit specific advancements
+* https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
+* https://wiki.wesnoth.org/LotI_Scenarios &ndash; scenario information
+* https://wiki.wesnoth.org/DeadlyUnitsFromLotI
+
+== Chapter 1 ==
+
+=== 00 &ndash; Tutorial ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 01 &ndash; An Orcish Assault ===
+<span style='color:green'>Chance of a dying enemy on the side 4 dropping a weapon is 20%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 4 dropping a gem is 20%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 29%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<br/>
+=== 02 &ndash; The Assassination ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 30%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 20%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 29%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<br/>
+=== 03 &ndash; Banished ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 10%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 12%</span><br/>
+<br/>
+=== 04 &ndash; Paradise Lost ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 12%</span><br/>
+<br/>
+=== 05 &ndash; Shatter the Defilers ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 06 &ndash; Ruins of Lost Empires ===
+<span style='color:green'>Chance of a dying enemy on the sides 5, 6, 7, 8 and 9 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 5, 6, 7, 8 and 9 dropping a gem is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 07 &ndash; The Return ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 08 &ndash; Where the Sun Does not Shine ===
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 17%</span><br/>
+<br/>
+=== 09 &ndash; Escape from Oblivion ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 7%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 17%</span><br/>
+<br/>
+=== 10 &ndash; The Poison ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 11 &ndash; Ascension ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 12 &ndash; Toxic Sun ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a gem is 4%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 13 &ndash; Twilight ===
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 14 &ndash; Shadow Empire ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5, 6 and 7 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5, 6 and 7 dropping a gem is 3%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 15 &ndash; Long Way Home ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 4%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+=== 16 &ndash; The Battle for Ogira ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5, 6, 7 and 8 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5, 6, 7 and 8 dropping a gem is 3%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+
+== Chapter 2 ==
+
+=== 01 &ndash; The Beginning ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 5%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 02 &ndash; Gods ===
+<span style='color:green'>Chance of a dying enemy on the sides 4, 5, 6, 7 and 8 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 4, 5, 6, 7 and 8 dropping a gem is 3%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 03 &ndash; Forest of Witchery ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 03s &ndash; In the Magical Mirror ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 04 &ndash; Darkness Closing In ===
+<span style='color:green'>Chance of a dying enemy on the side 5 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 5 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 05 &ndash; Umbra ===
+<span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 06 &ndash; The Army of Darkness ===
+<span style='color:green'>Chance of a dying enemy on the sides 4, 5 and 6 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 4, 5 and 6 dropping a gem is 3%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 50%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<br/>
+=== 07 &ndash; Infinite Legion ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 08 &ndash; Sightseeing ===
+<span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a gem is 2%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 09 &ndash; Underground ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 10 &ndash; Lilith ===
+<span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+
+== Chapter 3 ==
+
+=== 01 &ndash; Thirst for Adventures ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 01b &ndash; Bandits ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 5%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 02 &ndash; Journey South ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 3%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 02b &ndash; Mining ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 3%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 03 &ndash; Siege ===
+<span style='color:green'>Chance of a dying enemy on the side 4 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 4 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 04 &ndash; Entering the Desert ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 05 &ndash; The Pit ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 06 &ndash; Darkest Darkness ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 2%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 07 &ndash; End of all Hopes ===
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a gem is 2%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 08 &ndash; Lost ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 1%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 09 &ndash; Ambush ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 2%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 10 &ndash; Gehenna ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 1%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 11 &ndash; Achilles' Revenge ===
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a gem is 1%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 12 &ndash; Bitter Swamp ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 2%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 12s &ndash; Wings of Doom ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 13 &ndash; First Confrontation ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 2%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 14 &ndash; Chasing Dragons ===
+<span style='color:green'>Chance of a dying enemy on the sides 5, 6, 7 and 8 dropping a weapon is 1%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 5, 6, 7 and 8 dropping a gem is 1%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 15 &ndash; Nightmare ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 20%</span><br/>
+<br/>
+=== 15s &ndash; Epilogue ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+
+== Chapter 4 ==
+
+=== 01 &ndash; He Came Down From The Mountains ===
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 4%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 50%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 50%</span><br/>
+<br/>
+=== 02 &ndash; Into Our Frozen Land ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 43%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<br/>
+=== 03 &ndash; Revolution Begins ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 43%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<br/>
+=== 04 &ndash; Doomsday Omens ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a gem is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 25%</span><br/>
+<br/>
+=== 05 &ndash; Meeting of the Ancients ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 17%</span><br/>
+<br/>
+=== 06 &ndash; Castle of the Wicked ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 6%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 50%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 50%</span><br/>
+<br/>
+=== 07 &ndash; Nemesis ===
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 50%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 50%</span><br/>
+<br/>
+=== 08 &ndash; An Army Is Born ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 6%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 33%</span><br/>
+<br/>
+=== 09 &ndash; The First Blow ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 38%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 12%</span><br/>
+<br/>
+=== 10 &ndash; Dealing with Trolls ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 6%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 50%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 50%</span><br/>
+<br/>
+=== 11 &ndash; Invasion ===
+<span style='color:green'>Chance of a dying enemy on the sides 6, 7 and 8 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 6, 7 and 8 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 11%</span><br/>
+<br/>
+=== 12 &ndash; Bloodbath ===
+<span style='color:green'>Chance of a dying enemy on the sides 6, 7 and 8 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 6, 7 and 8 dropping a gem is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 30%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 10%</span><br/>
+<br/>
+=== 13 &ndash; The Way of Assassins ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 5%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 33%</span><br/>
+<br/>
+=== 14 &ndash; The Kingslayer ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 15%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 33%</span><br/>
+<br/>
+=== 15 &ndash; The Library ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 8%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 40%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 40%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 20%</span><br/>
+<br/>
+=== 15s &ndash; The Speech ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 16 &ndash; Lost in Space ===
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 5%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 40%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 40%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 20%</span><br/>
+<br/>
+=== 17 &ndash; Any Means Necessary ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+
+== Chapter 5 ==
+
+=== 01 &ndash; Diplomacy ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 33%</span><br/>
+<br/>
+=== 02 &ndash; Escape ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 20%</span><br/>
+<br/>
+=== 03 &ndash; Pirates ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 4%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 4%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<br/>
+=== 04 &ndash; Again ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<br/>
+=== 05 &ndash; We Walk in the Shadows ===
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 25%</span><br/>
+<br/>
+=== 06 &ndash; The Real Enemy ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 3%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+=== 07 &ndash; Into the Shadows ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 08 &ndash; Entrance ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 09 &ndash; Northwestern Storeroom ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 10 &ndash; Guards' Quarters ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 11 &ndash; Northern Guardian Room ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 12 &ndash; Magic Power Amplificator 1 ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 13 &ndash; Eastern Storeroom ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 14 &ndash; Armoury ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 15 &ndash; Magic Power Amplificator 2 ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 16 &ndash; Southeastern Storeroom ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 17 &ndash; Magic Power Amplificator 3 ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 18 &ndash; Eastern Guardian Room ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 19 &ndash; Soldiers Training Room ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 20 &ndash; Southern Guardian Room ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 21 &ndash; Soldiers' Quarters ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 22 &ndash; Magic Power Amplificator 4 ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 23 &ndash; Akula's Place ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 24 &ndash; Escape Tunnel ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 25 &ndash; Prison ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 26 &ndash; Library ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 27 &ndash; Power Station ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 28 &ndash; War Zone ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 29 &ndash; Armageddon ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 29s &ndash; Epilogue ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+
+== Chapter 6 ==
+
+=== 01 &ndash; The Awakening ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<br/>
+=== 02 &ndash; Who Am I ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<br/>
+=== 03 &ndash; Into the Light ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 20%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 11%</span><br/>
+<br/>
+=== 04 &ndash; I Hate You, I Hate You Too ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 11%</span><br/>
+<br/>
+=== 05 &ndash; Friends No More ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 06 &ndash; Tunnels ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 07 &ndash; World Without Amity ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 08 &ndash; Misguiding Lives ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 09 &ndash; Across the Barren Land ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 10 &ndash; Heart Mountains ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 11 &ndash; Axadria ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 12 &ndash; The Library ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 13 &ndash; Phoenix ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 30%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 50%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 14 &ndash; Frozen Land ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 15 &ndash; Apologies ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== test &ndash; Test Scenario ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+
+== Chapter 7 ==
+
+=== 01 &ndash; Another Orcish Assault ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 02 &ndash; Search for Elves ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 03 &ndash; Corruption ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 04 &ndash; Last Survivors ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 05 &ndash; Tundra ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 06 &ndash; Where the Flames Freeze ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 07 &ndash; Subterranean War ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 08 &ndash; Eruption ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+=== 08s &ndash; Neighbours ===
+<span style='color:green'>Chance of a dying enemy on the side 13 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 13 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 7%</span><br/>
+<br/>
+=== 09 &ndash; The Den of Evil ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+=== 10 &ndash; The Dragon and the Princess ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+=== 11 &ndash; An Old F(r)iend ===
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+=== 12 &ndash; The Last Enemy ===
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+=== 13 &ndash; Avengers ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 14 &ndash; Arctic Wastelands ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 15 &ndash; Annihilation ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 19%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
+<br/>
+
+== Chapter 8 ==
+
+=== 01 &ndash; Mysterious Invasion ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<br/>
+=== 02 &ndash; Overpowered ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 33%</span><br/>
+<br/>
+=== 03 &ndash; United ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 04 &ndash; Kidnapped ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 05 &ndash; Investigations ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 100%</span><br/>
+<br/>
+=== 06 &ndash; Gladiatrix ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 50%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 50%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 100%</span><br/>
+<br/>
+=== 07 &ndash; Unimportant Revolution ===
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 08 &ndash; The Desert ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 09 &ndash; Gladiatrix - The Path to Glory ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 14%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 25%</span><br/>
+<br/>
+=== 10 &ndash; Ruins of Wesnoth ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 11 &ndash; Odd World ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 12 &ndash; Gladiatrix - The Reckoning ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9 and 10 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9 and 10 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 25%</span><br/>
+<br/>
+=== 13 &ndash; River of Flame ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 14 &ndash; Finally Together ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 15 &ndash; Jungle Hell ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 16 &ndash; The Gates of Hell ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+
+== Chapter 9 ==
+
+=== 01 &ndash; Transporting Facility ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 02 &ndash; Tunnels of Cruelty ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 03 &ndash; Shores of Abyss ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 04 &ndash; Grim Port ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 05 &ndash; Stygian Caverns ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 06 &ndash; Zhangor's Pass ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 07 &ndash; Wasteland of Lost Eternity ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 08 &ndash; Doom Ford ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 09 &ndash; Infernal Narrows ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 10 &ndash; Fortress of Blackened Dreams ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 11 &ndash; Fortress of Blackened Dreams (interior) ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 12 &ndash; Tainted Shores ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 13 &ndash; Dominion of Evil Terror ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 14 &ndash; Foul Pits ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 15 &ndash; Plains of Chaos ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 16 &ndash; Sinful Caves ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 17 &ndash; River Styx ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 18 &ndash; Valley of Shattered Souls ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 19 &ndash; Land of Misery ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 20 &ndash; Unholy Realm ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 21 &ndash; Tormentor's Burrow ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 22 &ndash; Where the Hatred Grows ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 and 16 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 and 16 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 23 &ndash; Empire of Suffering ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 24 &ndash; Island of Atrocity ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 25 &ndash; Chambers of Oblivion ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 26 &ndash; Filthy Keep ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 27 &ndash; Stronghold of Tears ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 28 &ndash; Twilit Fortress ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 29 &ndash; Wicked Barony ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 30 &ndash; Nightmare Cellar ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 31 &ndash; Bank of Ill Luck ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 32 &ndash; Domain of Disaster ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 33 &ndash; Pandemonium ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 34 &ndash; Uria's Den ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 35 &ndash; Antechambers of Ultimate Evil ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 36 &ndash; Temple of Ultimate Evil ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a gem is 9%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 37 &ndash; Catacombs of Prolonged Agony ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 38 &ndash; Halls of Miscreation ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 9%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 39 &ndash; Steelhive ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 40 &ndash; Steelhive Depths ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 41 &ndash; Heart of Steelhive ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 42 &ndash; Passage of Detriment ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 50%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 80%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 43 &ndash; Verminous Sewers ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 9%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 44 &ndash; Gathering Alcove ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 9%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 45 &ndash; Refuge of Black Hope ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 9%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 46 &ndash; Sepulcher of the Nefarious ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 7%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 47 &ndash; Basilica of Imperfection ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7 and 8 dropping a gem is 9%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 48 &ndash; Execrable Sanctum ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a gem is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 49 &ndash; Audience with the Arch Enemy ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+=== 50 &ndash; The Last Crusade ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13 dropping a weapon is 6%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13 dropping a gem is 9%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<br/>
+=== 50s &ndash; Epilogue ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+
+== Chapter 10 ==
+
+=== 01 &ndash; Despair ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 20%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 30%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<br/>
+=== 02 &ndash; And Another Orcish Assault ===
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 12%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 12%</span><br/>
+<br/>
+=== 03 &ndash; Fimbulwinter ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 10%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 04 &ndash; Betrayers of Humankind ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 9%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 05 &ndash; The Chase ===
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 9%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a gem is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 06 &ndash; Truth ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 9%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 07 &ndash; Borders ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a weapon is 9%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a gem is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 08 &ndash; Empire of Twilight ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 08b &ndash; Trolls ===
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 09 &ndash; Corrupted Town ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 10 &ndash; Idols Falling ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 14%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 20%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 11 &ndash; Miracle ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 12 &ndash; Rush ===
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 7%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 10%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 13 &ndash; Black Souls ===
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 8%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a gem is 13%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 14 &ndash; End of the World ===
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 9%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a gem is 15%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 11%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<br/>
+=== 14s &ndash; New Era ===
+<span style='color:#808080'><i>No drop information found</i></span><br/>
+<br/>
+

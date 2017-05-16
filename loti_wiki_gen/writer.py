@@ -181,12 +181,16 @@ def ability_name(index, name, args):
     return x
 
 
-def write_item(name, tag, file, index):
+def writer(file):
     def write(*a, **kw):
         k = {"file": file, "end": "<br/>\n"}
         k.update(kw)
         return print(*a, **k)
+    return write
 
+
+def write_item(name, tag, file, index):
+    write = writer(file)
     sort = tag.keys["sort"].any
     keys = tag.keys
     write("===", name, "&ndash;", format_values(keys["sort"], "{}", sort=True), "===", end="\n")
@@ -349,11 +353,7 @@ def write_item(name, tag, file, index):
 
 
 def write_advancement(section, name, tag, file, index):
-    def write(*a, **kw):
-        k = {"file": file, "end": "<br/>\n"}
-        k.update(kw)
-        return print(*a, **k)
-
+    write = writer(file)
     keys = tag.keys
     write("===", keys["description"].any, "&ndash;", name, "===", end="\n")
     if "max_times" in keys:
@@ -486,12 +486,30 @@ def write_advancement(section, name, tag, file, index):
 
 
 def write_ability(section, name, type, macro_name, tag, file, index):
-    def write(*a, **kw):
-        k = {"file": file, "end": "<br/>\n"}
-        k.update(kw)
-        return print(*a, **k)
-
+    write = writer(file)
     keys = tag.keys
     write("===", keys["name"].any, "&ndash;", type, "===", end="\n")
     write(re.sub("([^\n]+)", "<span style='color:#808080'><i>\\1</i></span>", keys["description"].any))
+    write()
+
+
+def write_scenario(chapter, name, tag, file):
+    write = writer(file)
+    write("===", name, "===", end="\n")
+    drops = []
+    for macro in tag.macros:
+        if macro.startswith("DROPS"):
+            drops.append(macro.split()[1:])
+    if drops:
+        assert len(drops) == 1
+        chance, chance_gem, weapons, bosses, enemies = drops[0]
+        weapons = weapons.replace("(", "").replace(")", "").split(",")
+        write("<span style='color:green'>Chance of a dying enemy on the side" + utils.english_join(enemies.split(",")), "dropping a weapon is {}%</span>".format(chance))
+        write("<span style='color:green'>Chance of a dying enemy on the side" + utils.english_join(enemies.split(",")), "dropping a gem is {}%</span>".format(chance_gem))
+        if bosses != "yes":
+            write("<span style='color:#B81413'>Enemy bosses do not always drop</span>")
+        for weapon_type in set(weapons):
+            write("<span style='color:#60A0FF'>Chance of a {} dropping is {:.0%}</span>".format(weapon_type, weapons.count(weapon_type) / len(weapons)))
+    else:
+        write("<span style='color:#808080'><i>No drop information found</i></span>")
     write()

@@ -151,3 +151,13 @@ def extract_standard_advancements(fname):
             for adv in tags[0].tags["advancement"]:
                 adv.keys["description"].all = utils.english_title(adv.keys["description"].any)
                 yield name, utils.english_title(adv.keys["id"].any), adv
+
+
+def extract_scenarios(start):
+    for chapter in start.glob("scenarios*"):
+        for fname in chapter.glob("*.cfg"):
+            x = wml_parser.parse(fname.open().read())
+            for scenario in x.tags["scenario"]:
+                yield (int(chapter.name.replace("scenarios", "")),
+                       "{} &ndash; {}".format(fname.name.split("_")[0], scenario.keys["name"].any),
+                       scenario)
