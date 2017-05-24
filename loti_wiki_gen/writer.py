@@ -185,7 +185,9 @@ def writer(file):
     def write(*a, **kw):
         k = {"file": file, "end": "<br/>\n"}
         k.update(kw)
+        write.writes += 1
         return print(*a, **k)
+    write.writes = 0
     return write
 
 
@@ -265,6 +267,9 @@ def write_item(name, tag, file, index):
                     name, *args = shlex.split(special)
                     real_name = ability_name(index, name.replace("ABILITY_", ""), args)
                     write("<span style='color:#60A0FF'>New ability: {}</span>".format(real_name))
+                others = {ability.keys["id"].any for abilities in specials.tags.values() for ability in abilities}
+                for special in others:
+                    write("<span style='color:#60A0FF'>New ability: {}</span>".format(ability_name(index, special, ())))
         elif effect.keys["apply_to"].any == "movement":
             write(format_values(effect.keys["increase"],
                                 "<span style='color:#60A0FF'>{} more movement points</span>",
@@ -305,7 +310,7 @@ def write_item(name, tag, file, index):
                                                                                      effect.keys["damage"].any,
                                                                                      effect.keys["number"].any))
         elif effect.keys["apply_to"].any == "new_advancement":
-            write("<span style='color:yellow'>New advancements: {}</span>".format(effect.keys["description"].any))
+            write("<span style='color:orange'>New advancements: {}</span>".format(effect.keys["description"].any))
         elif effect.keys["apply_to"].any in ["attack", "improve_bonus_attack"]:
             bonus = effect.keys["apply_to"].any == "improve_bonus_attack"
             range = wname = wtype = rt = ""
@@ -344,11 +349,11 @@ def write_item(name, tag, file, index):
                        lambda m: "(requires [[#{}|{}]])".format(index.query_item(m.group(1).lower()), m.group(1)),
                        latent.keys["desc"].any)
         write(re.sub("color='([^']+)'", "style='color:\\1'", value))
-    if "description" in keys:
+    if "description" in keys and write.writes < 3:
         v = re.sub("color='([^']+)'", "style='color:\\1'", keys["description"].any)
         if "<" not in v:
             v = "<span style='color:#808080'><i>{}</i></span>".format(v)
-        write(v)
+        write(v.replace("\n", "<br/>"))
     write()
 
 
@@ -421,7 +426,7 @@ def write_advancement(section, name, tag, file, index):
                     real_name = special_name(index, name.replace("WEAPON_SPECIAL_", ""), args)
                     write("<span style='color:green'>New weapon special{}: {}</span>".format(wname, real_name))
         elif effect.keys["apply_to"].any == "new_advancement":
-            write("<span style='color:yellow'>New advancements: {}</span>".format(effect.keys["description"].any))
+            write("<span style='color:orange'>New advancements: {}</span>".format(effect.keys["description"].any))
         elif effect.keys["apply_to"].any in ["attack", "improve_bonus_attack"]:
             bonus = effect.keys["apply_to"].any == "improve_bonus_attack"
             range = wname = wtype = rt = ""

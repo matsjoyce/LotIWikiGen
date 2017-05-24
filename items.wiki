@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed May 24 15:22:31 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 24 16:31:50 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -249,8 +249,6 @@ traditions were brought to them.</i></span><br/>
 <span style='color:#808080'><i>All this blood. It is yours. You will drink it. You will guzzle it. You will choke on it. You will drown in it.</i></span><br/>
 <span style='color:green'>New weapon special (ranged attacks only): drain</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#blood drinking_.E2.80.93_dummy|blood drinking]]</span><br/>
-<span style='color:orange'>New base ranged weapon special: drain
-New Ability: blood drinking</span><br/>
 <br/>
 === Blue orb of dragonflame &ndash; limited ===
 <span style='color:#808080'><i>'Have you ever seen something like this?'
@@ -417,6 +415,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
 <span style='color:green'>Enemy resistances to blade decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
+<span style='color:#60A0FF'>New ability: aura of power</span><br/>
 <br/>
 === Corpsegrinder &ndash; spear ===
 <span style='color:#808080'><i>Mutilating dead enemies makes you forget your woes.</i></span><br/>
@@ -447,8 +446,6 @@ and saved the righteous.</i></span><br/>
 <span style='color:#808080'><i>If you hear me better fear me, if you see me better flee me.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (20)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
-<span style='color:orange'>New ability: conviction (20)
-New ability: despair (20)</span><br/>
 <br/>
 === Crown of the King &ndash; helm ===
 <span style='color:#808080'><i>The masses obeyed the one who had the crown. Whoever it was.</i></span><br/>
@@ -790,8 +787,6 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>'I make my friends with hammer and anvil.' -Pygmaliophaestus</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 50%</span><br/>
 <span style='color:#60A0FF'>4 fewer movement points</span><br/>
-<span style='color:orange'>50% increased physical resistances
--4 movement speed</span><br/>
 <br/>
 === Fist of Anarchy &ndash; mace ===
 <span style='color:#808080'><i>Rebirth through devastation, freedom through bloodshed.</i></span><br/>
@@ -844,7 +839,6 @@ New ability: despair (20)</span><br/>
 === Foul Potion &ndash; potion ===
 <span style='color:#808080'><i>It helps us greatly, but its user pays a great price.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#unholy hunger_.E2.80.93_dummy|unholy hunger]]</span><br/>
-<span style='color:orange'>New ability: Unholy hunger (the unit loses increasing amounts of maximum HP per turn (unless cared by a healer), but when it kills an enemy, the count restarts and it gains 3 to maximum HP and is healed slightly).</span><br/>
 <br/>
 === Fowleri's Chopper &ndash; axe ===
 <span style='color:#808080'><i>He broke her heart. No, wait, not heart, sanity. He broke her sanity.</i></span><br/>
@@ -970,7 +964,6 @@ New ability: despair (20)</span><br/>
 <span style='color:#808080'><i>I am healed! More healthy than ever!</i></span><br/>
 <span style='color:#60A0FF'>10 more hitpoints per level</span><br/>
 <span style='color=#60A0FF'>Full heal</span><br/>
-<span style='color:orange'>This unit is fully healed, and its total HP is increased by 10.</span><br/>
 <br/>
 === Heart of Darkness &ndash; limited ===
 <span style='color:#808080'><i>Find your dark subconscience and embrace it.</i></span><br/>
@@ -1062,7 +1055,6 @@ New ability: despair (20)</span><br/>
 === Holy potion &ndash; potion ===
 <span style='color:#808080'><i>Grrrh! Remove this filth from this world! Rrrargh!</i></span><br/>
 <span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#unholybane_.E2.80.93_damage|unholybane]]</span><br/>
-<span style='color:orange'>This unit will do quadruple damages to undead, black souls, demons and burning souls in melee combat.</span><br/>
 <br/>
 === Holy Sword &ndash; sword ===
 <span style='color:#808080'><i>You, comrade with that Unholy Axe, position yourself as far from me as possible!</i></span><br/>
@@ -1213,7 +1205,6 @@ New ability: despair (20)</span><br/>
 === Lesser Potion of Invisibility &ndash; potion ===
 <span style='color:#808080'><i>When you are defeated, search for solace in the darkness.</i></span><br/>
 <span style='color:#60A0FF'>New ability: nightstalk</span><br/>
-<span style='color:orange'>New ability: nightstalk</span><br/>
 <br/>
 === Lethal Axe &ndash; axe ===
 <span style='color:#808080'><i>Girls went chopping for revenge. One of them prepared herself quite well.</i></span><br/>
@@ -1487,8 +1478,6 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:#808080'><i>Arise, the bird of death, burn when you die and reappear from your flames.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 40%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#from the ashes_.E2.80.93_dummy|from the ashes]]</span><br/>
-<span style='color:orange'>Resist fire 40%
-New ability: from the ashes</span><br/>
 <br/>
 === Paranoia &ndash; cloak ===
 <span style='color:#808080'><i>Every face is an enemy.</i></span><br/>
@@ -1510,7 +1499,6 @@ New ability: from the ashes</span><br/>
 <span style='color:#808080'><i>Why is this technique a taboo?</i></span><br/>
 <span style='color:green'>New weapon special (melee attacks only): poison</span><br/>
 <span style='color:green'>New weapon special (ranged pierce attacks only): poison</span><br/>
-<span style='color:orange'>New weapon special: Poison</span><br/>
 <br/>
 === Poisonous Bow &ndash; bow ===
 <span style='color:#808080'><i>Please stop focusing on one enemy.</i></span><br/>
@@ -1523,40 +1511,32 @@ New ability: from the ashes</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 60%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 60%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 60%</span><br/>
-<span style='color:orange'>This unit's fire, cold and arcane resistances are increased by 60%.</span><br/>
 <br/>
 === Potion of Sacrifice &ndash; potion ===
 <span style='color:#808080'><i>'I will need you to understand the conception of divine sacrifice.' - Luke</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#martyrdom_.E2.80.93_dummy|martyrdom]]</span><br/>
-<span style='color:orange'>All adjacent allies are infuriated if the drinker of this potion gets hit</span><br/>
 <br/>
 === Potion of Speed &ndash; potion ===
 <span style='color:#808080'><i>The quickest, the fastest, born under the sonic sign.</i></span><br/>
 <span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>2 more movement points</span><br/>
-<span style='color:orange'>1 more attack
-2 more movement points</span><br/>
 <br/>
 === Potion of Steel Skin &ndash; potion ===
 <span style='color:#808080'><i>Only magic can make steel bend easily only when needed. Or not?</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
-<span style='color:orange'>Increases physical resistances by 25%</span><br/>
 <br/>
 === Potion of the Northern Winds &ndash; potion ===
 <span style='color:#808080'><i>I will rule my frostbitten kingdom with an iron hand.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#northfrost aura_.E2.80.93_dummy|northfrost aura]]</span><br/>
-<span style='color:orange'>New ability: northfrost aura</span><br/>
 <br/>
 === Potion of Titanic Strength &ndash; potion ===
 <span style='color:#808080'><i>Cronus was the mightiest of the Titans. Only a fraction of his strength is devastating.</i></span><br/>
 <span style='color:green'>Damage increased by 10 (melee attacks only)</span><br/>
-<span style='color:orange'>Increases all melee damages by 10</span><br/>
 <br/>
 === Potion of Vitality &ndash; potion ===
 <span style='color:#808080'><i>A new life flows in the veins of those who drink this brew.</i></span><br/>
 <span style='color=#60A0FF'>Full heal</span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
-<span style='color:orange'>This unit is fully healed and will regenerate health afterwards.</span><br/>
 <br/>
 === Prayer &ndash; craftable as any armour ===
 <span style='color:#808080'><i>'I feel sick, can you help me?'
@@ -1787,6 +1767,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>Even a fake king can lead soldiers into victory.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
+<span style='color:#60A0FF'>New ability: royalty</span><br/>
 <br/>
 === Ruby &ndash; gem ===
 <span style='color:#808080'><i>This is a diamond containing other minerals, that make its colour bright red. Its magical power is strong, and it can be used to create powerful magical things.</i></span><br/>
@@ -2066,8 +2047,6 @@ Then he saw this item.</i></span><br/>
 <span style='color:#808080'><i>I have stolen this. Now all the word is here for me to be stolen.</i></span><br/>
 <span style='color:#60A0FF'>New ability: skirmisher</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#steals_.E2.80.93_dummy|steals]]</span><br/>
-<span style='color:orange'>New ability: Skirmisher
-New ability: Steals</span><br/>
 <br/>
 === Stormforce &ndash; bow ===
 <span style='color:#808080'><i>Is that the fabled Stormforce? I thought it was just a legend!</i></span><br/>
@@ -2531,7 +2510,6 @@ The bloodline of true warriors</i></span><br/>
 === Virulent Poison &ndash; potion ===
 <span style='color:#808080'><i>He is not only farting poison, he also sweats it and burps it.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#dark aura_.E2.80.93_dummy|dark aura]]</span><br/>
-<span style='color:orange'>New ability: dark aura</span><br/>
 <br/>
 === Visions of Cruelty &ndash; helm ===
 <span style='color:#808080'><i>There is cruelty. As far as I can see, cruelty is everywhere.</i></span><br/>

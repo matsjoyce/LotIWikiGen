@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed May 24 15:22:31 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 24 16:31:50 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -207,7 +207,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This unit gains 1 movement after attacking, allowing it to slowly progress through ranks of enemies if it can survive their attacks.</i></span><br/>
 <br/>
 === producer &ndash; dummy ===
-<span style='color:#808080'><i>This unit occasionally earns some gold to his side.</i></span><br/>
+<span style='color:#808080'><i>This unit occasionally earns some gold for his side.</i></span><br/>
 <br/>
 === push &ndash; dummy ===
 <span style='color:#808080'><i>When an ally standing next to this unit finishes attacking, it gains one movement point.</i></span><br/>
