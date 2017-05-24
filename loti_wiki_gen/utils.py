@@ -17,14 +17,23 @@
 
 import re
 
+def english_pluralify(word, number=0):
+    if number == 1:
+        return word
+    if word[-1] == "y":
+        return word[:-1] + "ies"
+    elif word[-1] in "sz":
+        return word + "es"
+    return word + "s"
 
-def english_join(items):
+
+def english_join(items, pluralify=True):
     items = list(items)
     if len(items) == 1:
         return " " + items[0]
     else:
-        before = ", ".join(items[:-1])
-        return "s " + before + " and " + items[-1]
+        before = ", ".join(items[:-1]) + " and " + items[-1]
+        return ("s " + before) if pluralify else before
 
 
 def english_title(str):

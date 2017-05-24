@@ -25,6 +25,20 @@ sort_translations = {"weaponword": "craftable as any weapon",
                      "armourword": "craftable as any armour",
                      }
 
+gem_types = ["obsidians", "topazes", "opals", "pearls", "diamonds", "rubies", "emeralds", "amethysts", "sapphires", "black_pearls" ]
+
+gem_translations = {"obsidians": "Obsidian",
+                    "topazes": "Topaz",
+                    "opals": "Opal",
+                    "pearls": "Pearl",
+                    "diamonds": "Diamond",
+                    "rubies": "Ruby",
+                    "emeralds": "Emerald",
+                    "amethysts": "Amethyst",
+                    "sapphires": "Sapphire",
+                    "black_pearls": "Black Pearl"
+                    }
+
 weapon_sorts = ["sword", "axe", "bow", "mace", "xbow", "spear", "dagger", "knife", "staff",
                 "weaponword", "polearm", "sling", "thunderstick", "claws", "essence", "exotic"]
 
@@ -243,8 +257,8 @@ def write_item(name, tag, file, index):
         e = " ({} attacks only)".format(t.replace("_", "")) if t else t
         for specials in tag.tags["specials" + t]:
             for special in specials.macros:
-                name, *args = shlex.split(special)
-                real_name = special_name(index, name.replace("WEAPON_SPECIAL_", ""), args)
+                sname, *args = shlex.split(special)
+                real_name = special_name(index, sname.replace("WEAPON_SPECIAL_", ""), args)
                 write("<span style='color:green'>New weapon special: {}{}</span>".format(real_name, e))
     if "magic" in keys:
         write(format_values(keys["magic"],
@@ -264,8 +278,8 @@ def write_item(name, tag, file, index):
         if effect.keys["apply_to"].any == "new_ability":
             for specials in effect.tags["abilities"]:
                 for special in specials.macros:
-                    name, *args = shlex.split(special)
-                    real_name = ability_name(index, name.replace("ABILITY_", ""), args)
+                    sname, *args = shlex.split(special)
+                    real_name = ability_name(index, sname.replace("ABILITY_", ""), args)
                     write("<span style='color:#60A0FF'>New ability: {}</span>".format(real_name))
                 others = {ability.keys["id"].any for abilities in specials.tags.values() for ability in abilities}
                 for special in others:
@@ -324,8 +338,8 @@ def write_item(name, tag, file, index):
                 wname = format_values(effect.keys["name"], " for the {} attack")
             for specials in effect.tags["set_specials"]:
                 for special in specials.macros:
-                    name, *args = shlex.split(special)
-                    real_name = special_name(index, name.replace("WEAPON_SPECIAL_", ""), args)
+                    sname, *args = shlex.split(special)
+                    real_name = special_name(index, sname.replace("WEAPON_SPECIAL_", ""), args)
                     write("<span style='color:green'>New weapon special{}{}: {}</span>".format(wname, rt, real_name))
             if "remove_specials" in effect.keys:
                 write(format_values(effect.keys["remove_specials"],
@@ -354,6 +368,14 @@ def write_item(name, tag, file, index):
         if "<" not in v:
             v = "<span style='color:#808080'><i>{}</i></span>".format(v)
         write(v.replace("\n", "<br/>"))
+    if sort in sort_translations:
+        gems = {x: int(tag.keys[x].any) for x in gem_types if tag.keys[x].any != "0"}
+        assert gems
+        txt = utils.english_join(("{} {}".format(gems[k], utils.english_pluralify(gem_translations[k], gems[k]))
+                                  for k in sorted(gems, key=gem_types.index)),
+                                 pluralify=False)
+        write("<span style='color:#000080'>Gem{} needed for crafting: {}</span>".format("" if sum(gems.values()) == 1 else "s",
+                                                                                        txt))
     write()
 
 

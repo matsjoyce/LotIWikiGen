@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed May 24 16:31:50 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 24 17:10:26 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -113,6 +113,7 @@ traditions were brought to them.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#anger_.E2.80.93_attacks|anger]]</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal, 3 Rubies and 1 Emerald</span><br/>
 <br/>
 === Apricity &ndash; helm ===
 <span style='color:#808080'><i>In winter, the burning sun is actually enjoyable.</i></span><br/>
@@ -217,7 +218,7 @@ traditions were brought to them.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
 <br/>
 === Blade Juggler &ndash; knife ===
-<span style='color:#808080'><i>He threw a dozen knives into the air and caught and threw them one by one.</i></span><br/>
+<span style='color:#808080'><i>He threw a dozen knives into the air, catching and throwing them one by one.</i></span><br/>
 <span style='color:green'>Damage decreased by 25%</span><br/>
 <span style='color:green'>100% (in EASY difficulty), 85% (in MEDIUM difficulty), 70% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>Sets damage type to cold</span><br/>
@@ -238,6 +239,7 @@ traditions were brought to them.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#retribution_.E2.80.93_dummy|retribution]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 1 Topaz, 3 Opals, 4 Pearls and 1 Diamond</span><br/>
 <br/>
 === Blooddrunk Beast &ndash; claws ===
 <span style='color:#808080'><i>Drink blood, it will keep you going in this hostile environment.</i></span><br/>
@@ -263,15 +265,15 @@ traditions were brought to them.</i></span><br/>
 <br/>
 === Book of Fireballs &ndash; limited ===
 <span style='color:#808080'><i>Burn, incinerate, scorch, see your foes turn to ash.</i></span><br/>
-<span style='color:yellow'>New advancements: Casting fireballs, from basic casting to explosive damages</span><br/>
+<span style='color:orange'>New advancements: Casting fireballs, from basic casting to explosive damages</span><br/>
 <br/>
 === Book of Herbal Tinctures and Malignancies &ndash; limited ===
 <span style='color:#808080'><i>Like real cures are not needed to get payment for healing, real poison is not needed to harm.</i></span><br/>
-<span style='color:yellow'>New advancements: Poisons and cures</span><br/>
+<span style='color:orange'>New advancements: Poisons and cures</span><br/>
 <br/>
 === Book of Magical Swordplay &ndash; limited ===
 <span style='color:#808080'><i>It is not strength or motivation that makes a great warrior. It is the skill.</i></span><br/>
-<span style='color:yellow'>New advancements: Fencing techniques, offensive and also defensive</span><br/>
+<span style='color:orange'>New advancements: Fencing techniques, offensive and also defensive</span><br/>
 <br/>
 === Boots of Evanescence &ndash; boots ===
 <span style='color:#808080'><i>Now you see me. Now you do not.</i></span><br/>
@@ -280,7 +282,7 @@ traditions were brought to them.</i></span><br/>
 <span style='color:#60A0FF'>New ability: teleport</span><br/>
 <br/>
 === Boots of Fleeing &ndash; boots ===
-<span style='color:#808080'><i>I hit you and hide in the mass. You will never learn who hit you.</i></span><br/>
+<span style='color:#808080'><i>I hit you and hide in the masses. You will never learn who hit you.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 7%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#penetrates_.E2.80.93_dummy|penetrates]]</span><br/>
 <br/>
@@ -349,6 +351,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Movement costs on frozen lands set to 1</span><br/>
 <span style='color:#60A0FF'>New ability: skirmisher</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Topazes, 1 Opal, 1 Diamond, 2 Emeralds, 6 Amethysts, 1 Sapphire and 1 Black Pearl</span><br/>
 <br/>
 === Chaosbringer &ndash; dagger ===
 <span style='color:#808080'><i>Do you like order? Shame that I do not.</i></span><br/>
@@ -571,6 +574,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>Sets damage type to blade</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Deathblade)]]</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 1 Topaz, 1 Pearl, 1 Emerald, 1 Amethyst, 2 Sapphires and 1 Black Pearl</span><br/>
 <br/>
 === Deathwhirl &ndash; sword ===
 <span style='color:#808080'><i>Swarm him so that he would not get to me! Oh, dammit...</i></span><br/>
@@ -593,6 +597,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: steadfast</span><br/>
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians and 2 Topazes</span><br/>
 <br/>
 === Deflector of Light &ndash; craftable as any armour ===
 <span style='color:#808080'><i>Drive all light away of you and enjoy the darkness.</i></span><br/>
@@ -600,6 +605,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#darkens severely_.E2.80.93_illuminates|darkens severely]]</span><br/>
 <span style='color:#60A0FF'>Sets alignment to chaotic</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 4 Obsidians, 2 Topazes, 1 Opal, 3 Diamonds, 1 Ruby and 1 Emerald</span><br/>
 <br/>
 === Demon Core &ndash; amulet ===
 <span style='color:#808080'><i>If you awaken it, foul light will ravage flesh.</i></span><br/>
@@ -626,6 +632,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Opals, 1 Pearl, 3 Rubies, 1 Emerald and 1 Amethyst</span><br/>
 <br/>
 === Doombringer &ndash; sword ===
 <span style='color:#808080'><i>Hitting the enemy hard is not crucial. You have to make sure that you will not get killed when he hits you.</i></span><br/>
@@ -679,6 +686,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#absorbs (3)_.E2.80.93_dummy|absorbs (3)]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 2 Topazes, 2 Opals, 2 Pearls, 2 Diamonds, 2 Rubies, 4 Emeralds, 4 Amethysts, 4 Sapphires and 4 Black Pearls</span><br/>
 <br/>
 === Dugi's Wrath &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>The probability that somebody will get this is quite low, maybe some of my assumptions were wrong.</i></span><br/>
@@ -694,6 +702,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiating insanity_.E2.80.93_dummy|radiating insanity]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#wrath_.E2.80.93_dummy|wrath]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 3 Topazes, 3 Opals, 3 Pearls, 3 Diamonds, 10 Rubies, 10 Emeralds, 10 Amethysts, 10 Sapphires and 10 Black Pearls</span><br/>
 <br/>
 === Dying Dreams &ndash; craftable as any armour ===
 <span style='color:#808080'><i>Have you ever dreamed of defeating me? Feel your weakness and see me recovering from everything.</i></span><br/>
@@ -702,6 +711,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#leeches_.E2.80.93_dummy|leech]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 2 Topazes, 2 Diamonds, 3 Rubies and 1 Emerald</span><br/>
 <br/>
 === Elusive Boots &ndash; boots ===
 <span style='color:#808080'><i>Enemies are blocking the way? Who cares?</i></span><br/>
@@ -717,6 +727,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>Damage increased by 7 (in EASY difficulty), 6 (in MEDIUM difficulty), 5 (in HARD difficulty)</span><br/>
 <span style='color:green'>20% more attacks</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Topazes and 2 Opals</span><br/>
 <br/>
 === Executioner's Axe &ndash; axe ===
 <span style='color:#808080'><i>A good executioner kills with a single blow.</i></span><br/>
@@ -835,6 +846,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 15%</span><br/>
 <span style='color:green'>New attack: fireball (11 - 4)</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Opal, 4 Rubies and 1 Amethyst</span><br/>
 <br/>
 === Foul Potion &ndash; potion ===
 <span style='color:#808080'><i>It helps us greatly, but its user pays a great price.</i></span><br/>
@@ -867,6 +879,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 4 Rubies, 3 Emeralds and 1 Amethyst</span><br/>
 <br/>
 === Glowing Flight &ndash; knife ===
 <span style='color:#808080'><i>The pragmatic baron sent an assassin to kill a necromancer. It was not a bad idea.</i></span><br/>
@@ -904,10 +917,11 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
 <span style='color:#60A0FF'>New ability: concealment</span><br/>
 <span style='color:#60A0FF'>2 more movement points</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Topaz, 1 Opal, 1 Pearl, 1 Diamond, 2 Emeralds and 2 Amethysts</span><br/>
 <br/>
 === Guide to Lycanthropy &ndash; limited ===
 <span style='color:#808080'><i>Search your memories and find the monster you are.</i></span><br/>
-<span style='color:yellow'>New advancements: Abilities that allow a transformation into powerful animal forms</span><br/>
+<span style='color:orange'>New advancements: Abilities that allow a transformation into powerful animal forms</span><br/>
 <br/>
 === Gvødgührvoḧzzorghkuz &ndash; mace ===
 <span style='color:#808080'><i>Ürhrabgzubruprÿÿrv øẗhnäæzdaz grohruth züürd myyvöthgavrhyd...</i></span><br/>
@@ -930,6 +944,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Topazes, 1 Opal, 1 Amethyst, 2 Sapphires and 1 Black Pearl</span><br/>
 <br/>
 === Hatred for Men &ndash; xbow ===
 <span style='color:#808080'><i>Fuelled by the venom and hatred.</i></span><br/>
@@ -967,7 +982,7 @@ and saved the righteous.</i></span><br/>
 <br/>
 === Heart of Darkness &ndash; limited ===
 <span style='color:#808080'><i>Find your dark subconscience and embrace it.</i></span><br/>
-<span style='color:yellow'>New advancements: Various wicked spells</span><br/>
+<span style='color:orange'>New advancements: Various wicked spells</span><br/>
 <br/>
 === Heart of Ice &ndash; armour ===
 <span style='color:#808080'><i>Even warm smokes can bring frost. The sun is what we need.</i></span><br/>
@@ -1084,7 +1099,7 @@ and saved the righteous.</i></span><br/>
 <br/>
 === How to be an Overlord &ndash; limited ===
 <span style='color:#808080'><i>Attack! Attack! Attack!</i></span><br/>
-<span style='color:yellow'>New advancements: Leadership-like abilities</span><br/>
+<span style='color:orange'>New advancements: Leadership-like abilities</span><br/>
 <br/>
 === Hunter of Kings &ndash; armour ===
 <span style='color:#808080'><i>Nobody knows who he was. Nobody knows where he came from. Nobody knows how to stop him.</i></span><br/>
@@ -1119,6 +1134,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Opal, 3 Rubies and 2 Emeralds</span><br/>
 <br/>
 === Intoxicator &ndash; craftable as any armour ===
 <span style='color:#808080'><i>Orcish legends talk about a poison so potent that it debilitates its victims instantly.</i></span><br/>
@@ -1126,6 +1142,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to poison_.E2.80.93_dummy|immune to poison]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 3 Opals, 1 Pearl, 2 Diamonds, 1 Ruby and 1 Emerald</span><br/>
 <br/>
 === Iridium &ndash; axe ===
 <span style='color:#808080'><i>Mages hypothetise that there is an extremely heavy metal that its ore's weight pulls it into depths.</i></span><br/>
@@ -1175,10 +1192,11 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians and 1 Topaz</span><br/>
 <br/>
 === Koschei's Journal &ndash; limited ===
 <span style='color:#808080'><i>The princess asked him where his soul was hidden. The prince found it.</i></span><br/>
-<span style='color:yellow'>New advancements: Powerful improvements to spells</span><br/>
+<span style='color:orange'>New advancements: Powerful improvements to spells</span><br/>
 <br/>
 === Lake of Blood &ndash; axe ===
 <span style='color:#808080'><i>Ground soaks liquids. To fill a lake, you have to gather liquids fast.</i></span><br/>
@@ -1247,6 +1265,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#808080'><i>That speed... Nothing can hit him.</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
 <span style='color:#60A0FF'>2 more movement points</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 3 Topazes, 3 Opals and 1 Pearl</span><br/>
 <br/>
 === Lilith's Precious &ndash; axe ===
 <span style='color:#808080'><i>In order to be able to fight with any weapon available, Lilith swaps weapon types once per century.</i></span><br/>
@@ -1280,6 +1299,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>New weapon special: backstab</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 1 Pearl and 1 Diamond</span><br/>
 <br/>
 === Marilyn's Armour &ndash; armour ===
 <span style='color:#808080'><i>A manly man can have a woman's name without being funny.</i></span><br/>
@@ -1297,6 +1317,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>Enemy resistances to impact decreased by 20%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#anger_.E2.80.93_attacks|anger]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Opal, 1 Pearl, 3 Rubies and 1 Black Pearl</span><br/>
 <br/>
 === Mask of Famine &ndash; helm ===
 <span style='color:#808080'><i>His hunger... it feeds on everyone nearby!</i></span><br/>
@@ -1317,6 +1338,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
 <span style='color:#60A0FF'>16 more hitpoints per level</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal and 3 Pearls</span><br/>
 <br/>
 === Mental Sheath &ndash; helm ===
 <span style='color:#808080'><i>You can never touch my spirit, you can never catch my soul.</i></span><br/>
@@ -1344,6 +1366,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misanthropia_.E2.80.93_damage|misanthropia]]</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misnania_.E2.80.93_damage|misnania]]</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Topaz, 1 Pearl, 1 Ruby and 1 Emerald</span><br/>
 <br/>
 === Misery's Crown &ndash; helm ===
 <span style='color:#808080'><i>Do not bring your misery down on me.</i></span><br/>
@@ -1410,6 +1433,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#murderlust_.E2.80.93_dummy|murderlust]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#penetrates_.E2.80.93_dummy|penetrates]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 3 Pearls, 1 Diamond, 1 Ruby and 2 Emeralds</span><br/>
 <br/>
 === Mystic Armour &ndash; armour ===
 <span style='color:#808080'><i>Forged at unknown location who knows when.</i></span><br/>
@@ -1494,6 +1518,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:green'>New weapon special: [[LotI_Abilities#misorcia_.E2.80.93_damage|misorcia]]</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 20%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 1 Opal, 1 Diamond and 2 Rubies</span><br/>
 <br/>
 === Poison &ndash; potion ===
 <span style='color:#808080'><i>Why is this technique a taboo?</i></span><br/>
@@ -1545,6 +1570,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <span style='color:#60A0FF'>New ability: cures</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 1 Opal, 3 Pearls, 2 Diamonds and 3 Rubies</span><br/>
 <br/>
 === Preacher of Hatred &ndash; mace ===
 <span style='color:#808080'><i>Your descendants, ancestors and friends are demonic kin that is behind all our suffering.</i></span><br/>
@@ -1576,6 +1602,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#improved illumination_.E2.80.93_illuminates|improved illumination]]</span><br/>
 <span style='color:#60A0FF'>Sets alignment to lawful</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 4 Topazes, 2 Diamonds and 1 Amethyst</span><br/>
 <br/>
 === Pyromancer's Cloak &ndash; cloak ===
 <span style='color:#808080'><i>When his body was destroyed, he rose again from the ashes.</i></span><br/>
@@ -1616,10 +1643,11 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:purple'>New ability: regenerates (requires [[#The Essence of Magic_.E2.80.93_craftable as any weapon|The Essence of Magic]])</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Topaz, 3 Opals, 1 Ruby, 2 Emeralds and 1 Amethyst</span><br/>
 <br/>
 === Raijer's Bloody Field &ndash; limited ===
 <span style='color:#808080'><i>Those who are the first of their kinds are often the mightiest of them.</i></span><br/>
-<span style='color:yellow'>New advancements: Techniques of extracting the victims's soul and using it for own profit</span><br/>
+<span style='color:orange'>New advancements: Techniques of extracting the victims's soul and using it for own profit</span><br/>
 <br/>
 === Rationality &ndash; gauntlets ===
 <span style='color:#808080'><i>Magic is just very well made quackery.</i></span><br/>
@@ -1668,7 +1696,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:purple'>12 more hitpoints (requires [[#Rherraent's Ring_.E2.80.93_ring|Rherraent's Ring]])</span><br/>
 <br/>
 === Rherraent's Ring &ndash; ring ===
-<span style='color:#808080'><i>His poor widow sold his property by pieces and they lost their power.</i></span><br/>
+<span style='color:#808080'><i>His poor widow sold his property bit by bit, and they lost their power.</i></span><br/>
 <span style='color:green'>Enemy resistances to blade decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:purple'>New Ability: regenerates (requires [[#Rherraent's Sword_.E2.80.93_sword|Rherraent's Sword]])</span><br/>
@@ -1783,6 +1811,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <span style='color:#60A0FF'>Resistance to fire decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 40%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Opal, 1 Amethyst and 1 Sapphire</span><br/>
 <br/>
 === Sceptre of Antipater &ndash; mace ===
 <span style='color:#808080'><i>You can be evil even if you heal people.</i></span><br/>
@@ -1808,6 +1837,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 30%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#cancer_.E2.80.93_dummy|cancer]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 1 Opal, 1 Pearl, 1 Diamond and 1 Emerald</span><br/>
 <br/>
 === Search for Wisdom &ndash; boots ===
 <span style='color:#808080'><i>They look for wisdom. But that is a fool's errand, it never existed.</i></span><br/>
@@ -1820,7 +1850,7 @@ defeat your foes mace to face.</i></span><br/>
 <br/>
 === Serendipity &ndash; limited ===
 <span style='color:#808080'><i>'Some inventions come out of nowhere.' - Kevla the Saviour</i></span><br/>
-<span style='color:yellow'>New advancements: You never know what will be learned from here</span><br/>
+<span style='color:orange'>New advancements: You never know what will be learned from here</span><br/>
 <br/>
 === Shako &ndash; helm ===
 <span style='color:#808080'><i>Nobody would wear this helmet if it was not for its magic.</i></span><br/>
@@ -1880,6 +1910,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 20%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Opal and 2 Pearls</span><br/>
 <br/>
 === Soul Drinker &ndash; knife ===
 <span style='color:#808080'><i>The wounded assassin hid in the shadows. Only thrown knives could be seen. Then, he returned healthy.</i></span><br/>
@@ -1896,6 +1927,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 2 Topazes, 1 Ruby, 1 Emerald and 2 Amethysts</span><br/>
 <br/>
 === Soul Hunter &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Noble cannibals do not eat corpses, they eat souls.</i></span><br/>
@@ -1904,6 +1936,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#murderlust_.E2.80.93_dummy|murderlust]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 3 Opals and 2 Pearls</span><br/>
 <br/>
 === Soul Render &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Sticks and stones will break his bones, but this will destroy even his soul.</i></span><br/>
@@ -1913,6 +1946,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
 <span style='color:green'>Increases all magical damages by 30%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 1 Pearl, 2 Rubies, 2 Emeralds, 2 Amethysts, 2 Sapphires and 1 Black Pearl</span><br/>
 <br/>
 === Soul Thrash &ndash; gauntlets ===
 <span style='color:#808080'><i>'My life is in ruins, if I die, I cannot lose anything.'
@@ -1939,6 +1973,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 3 Pearls, 3 Diamonds and 2 Rubies</span><br/>
 <br/>
 === Spineripper &ndash; knife ===
 <span style='color:#808080'><i>Look at that exposed back.</i></span><br/>
@@ -1967,6 +2002,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Movement costs through swampy places set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs on hills set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs across sands set to 1</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 1 Opal, 1 Diamond, 3 Emeralds, 2 Amethysts and 1 Sapphire</span><br/>
 <br/>
 === Staff of Aimucasur &ndash; staff ===
 <span style='color:#808080'><i>A skeletal horde rose from the mud to take lives away. Konrad's warriors were too strong for them.</i></span><br/>
@@ -2080,6 +2116,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Damage increased by 10% (melee attacks only)</span><br/>
 <span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 3 Topazes and 2 Opals</span><br/>
 <br/>
 === Sword of Barys &ndash; sword ===
 <span style='color:#808080'><i>A rare metal burns with green flame. Its ashes are poisonous, so be careful with it.</i></span><br/>
@@ -2113,6 +2150,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:green'>Damage increased by 3</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|damage aura (25)]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 2 Topazes, 1 Opal, 1 Pearl, 3 Emeralds, 3 Amethysts and 2 Sapphires</span><br/>
 <br/>
 === The Black Ring &ndash; ring ===
 <span style='color:#808080'><i>There were two hundreds of us before the battle. Three hundreds of us left the battlefield.</i></span><br/>
@@ -2149,6 +2187,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>20% more attacks</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#soul annihilation_.E2.80.93_damage|soul annihilation]]</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 1 Opal, 1 Pearl, 3 Diamonds, 1 Ruby, 2 Emeralds and 1 Amethyst</span><br/>
 <br/>
 === The Essence of Magic &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Fire, earth, air and water. And then there is magic.</i></span><br/>
@@ -2156,10 +2195,11 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
 <span style='color:green'>Increases all magical damages by 35%</span><br/>
 <span style='color:purple'>5% to all resistances to magic (requires [[#Quintessence_.E2.80.93_craftable as any armour|Quintessence]])</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Topaz, 1 Pearl, 1 Diamond and 1 Ruby</span><br/>
 <br/>
 === The Fencer's Study &ndash; limited ===
 <span style='color:#808080'><i>Do you think fencing takes a lot of time to learn? Just buy this for 20 gold and see how easy it is!</i></span><br/>
-<span style='color:yellow'>New advancements: Quick mastery of fencing</span><br/>
+<span style='color:orange'>New advancements: Quick mastery of fencing</span><br/>
 <br/>
 === The Generous Armour &ndash; armour ===
 <span style='color:#808080'><i>Hey there, you are a bad fighter, wear this.</i></span><br/>
@@ -2195,6 +2235,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 25%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 30%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Topaz, 1 Opal, 1 Pearl, 1 Diamond, 1 Ruby and 1 Emerald</span><br/>
 <br/>
 === The Grey Cloak &ndash; cloak ===
 <span style='color:#808080'><i>It somewhat reminds me of Gundolf the Great.</i></span><br/>
@@ -2286,6 +2327,7 @@ They pretend you had reached the impossible.</i></span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 15%</span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal, 2 Diamonds, 5 Rubies and 1 Amethyst</span><br/>
 <br/>
 === The Sick Face &ndash; helm ===
 <span style='color:#808080'><i>He looks sick. Killing him will be easy, just try not to catch whatever he has.</i></span><br/>
@@ -2372,6 +2414,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Sets damage type to lightning</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#retribution_.E2.80.93_dummy|retribution]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Topaz, 1 Pearl, 2 Rubies, 3 Emeralds and 1 Sapphire</span><br/>
 <br/>
 === Titan's Bane &ndash; dagger ===
 <span style='color:#808080'><i>My blows may cause mere scratches on your skin, but it can be enough for you to die.</i></span><br/>
@@ -2382,16 +2425,16 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 === Tome of Bards &ndash; limited ===
 <span style='color:#808080'><i>Stand up and fight
 Stand up and see the sky turn bright</i></span><br/>
-<span style='color:yellow'>New advancements: Techniques of inspiring allies to deal more damage</span><br/>
+<span style='color:orange'>New advancements: Techniques of inspiring allies to deal more damage</span><br/>
 <br/>
 === Tome of Bards, Volume II &ndash; limited ===
 <span style='color:#808080'><i>Shining and so glorious
 The bloodline of true warriors</i></span><br/>
-<span style='color:yellow'>New advancements: Techniques of inspiring allies to fight better and annoying enemies</span><br/>
+<span style='color:orange'>New advancements: Techniques of inspiring allies to fight better and annoying enemies</span><br/>
 <br/>
 === Tome of Liches &ndash; limited ===
 <span style='color:#808080'><i>Are you fed up of mortality?</i></span><br/>
-<span style='color:yellow'>New advancements: Teachings of the dark arts of necromancy</span><br/>
+<span style='color:orange'>New advancements: Teachings of the dark arts of necromancy</span><br/>
 <br/>
 === Topaz &ndash; gem ===
 <span style='color:#808080'><i>Although this gem looks interesting in appearance, its magical power is not really remarkable, but its importance for magical gem combination is not neglectful.</i></span><br/>
@@ -2444,6 +2487,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 40%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Opals and 1 Pearl</span><br/>
 <br/>
 === Unseen Writings &ndash; cloak ===
 <span style='color:#808080'><i>No matter how well you write, after a millenium there will be nothing of it. Though copies may survive.</i></span><br/>
@@ -2508,7 +2552,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>4 more hitpoints per level per level</span><br/>
 <br/>
 === Virulent Poison &ndash; potion ===
-<span style='color:#808080'><i>He is not only farting poison, he also sweats it and burps it.</i></span><br/>
+<span style='color:#808080'><i>He is not only farting poison, he also sweats and burps it.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#dark aura_.E2.80.93_dummy|dark aura]]</span><br/>
 <br/>
 === Visions of Cruelty &ndash; helm ===
@@ -2538,6 +2582,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|damage aura (10)]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal, 1 Diamond, 2 Rubies and 1 Amethyst</span><br/>
 <br/>
 === What no man should know &ndash; helm ===
 <span style='color:#808080'><i>I saw a man, frozen solid in a midsummer day. He had this pretty helmet, let me try it on...</i></span><br/>
@@ -2550,7 +2595,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <br/>
 === Wicked Spear of Cruelty &ndash; spear ===
-<span style='color:#808080'><i>With horror, he realised that the horse under him became a living dead.</i></span><br/>
+<span style='color:#808080'><i>With horror, he realised that the horse under him had joined the walking dead.</i></span><br/>
 <span style='color:green'>Damage increased by 50% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
 <span style='color:green'>Sets damage type to cold</span><br/>
 <span style='color:green'>New weapon special: plague</span><br/>
@@ -2561,6 +2606,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>New weapon special: charge</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Topaz, 1 Opal, 2 Pearls and 1 Diamond</span><br/>
 <br/>
 === Winged Axe &ndash; axe ===
 <span style='color:#808080'><i>Each day, he fought bravely in distant lands. Every night, he enjoyed his time with his wife.</i></span><br/>
@@ -2607,13 +2653,14 @@ The bloodline of true warriors</i></span><br/>
 <br/>
 === Wrathful Combat Techniques &ndash; limited ===
 <span style='color:#808080'><i>Let the anger flow through your veins.</i></span><br/>
-<span style='color:yellow'>New advancements: Techniques of using anger in battle</span><br/>
+<span style='color:orange'>New advancements: Techniques of using anger in battle</span><br/>
 <br/>
 === Wretched Defiler &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Minimise your casualties, even at the cost of defiling corpses.</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Soulless)]]</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 2 Opals and 1 Pearl</span><br/>
 <br/>
 === Xuanquang's Soul Harvest &ndash; polearm ===
 <span style='color:#808080'><i>Don't be afraid when seeing a bloody road. Keep calm and turn back to face the one who made it so bloody.</i></span><br/>
