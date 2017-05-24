@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Tue May 16 12:01:20 2017 using version git-4220d82 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 24 15:22:31 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -23,22 +23,6 @@ Other LotI-related wiki pages:
 === 50 gold &ndash; gold ===
 <span style='color:#808080'><i>Money is more powerful than magic.</i></span><br/>
 <span style='color:#808080'><i>50 gold</i></span><br/>
-<br/>
-=== _ "Boots of Evanescence"	# I am not a fan of that band. They are nothing compared to many other female-fronted metal bands. And women as frontmen aren't badass enough anyway. &ndash; boots ===
-<span style='color:#808080'><i>Now you see me. Now you do not.</i></span><br/>
-<span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
-<span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: teleport</span><br/>
-<br/>
-=== _ "Colossally Colossal Arch-Devilish Blade of Universal Annihilation"		#Just parodying the prefixes and suffixes of random items in other games &ndash; sword ===
-<span style='color:#808080'><i>Forged by the Paladin of Golden Glory with the Hammer of Eternal Magic.</i></span><br/>
-<span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>Enemy resistances to blade decreased by 10%</span><br/>
-<span style='color:green'>Increases all magical damages by 10%</span><br/>
-<br/>
-=== _ "Glitch Item"		#Never drops, but the first item on the list always has some problems. &ndash; limited ===
-<span style='color:#808080'><i>Everything can fail. Regardless of the amount of polishing done.</i></span><br/>
-<span style='color:red'>New obligation: Report this bug on the forums</span><br/>
 <br/>
 === Acantha's Cloak &ndash; cloak ===
 <span style='color:#808080'><i>She was forced to abandon politics and care about children. She indoctrinated them with evil.</i></span><br/>
@@ -291,6 +275,12 @@ New Ability: blood drinking</span><br/>
 <span style='color:#808080'><i>It is not strength or motivation that makes a great warrior. It is the skill.</i></span><br/>
 <span style='color:yellow'>New advancements: Fencing techniques, offensive and also defensive</span><br/>
 <br/>
+=== Boots of Evanescence &ndash; boots ===
+<span style='color:#808080'><i>Now you see me. Now you do not.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
+<span style='color:#60A0FF'>New ability: teleport</span><br/>
+<br/>
 === Boots of Fleeing &ndash; boots ===
 <span style='color:#808080'><i>I hit you and hide in the mass. You will never learn who hit you.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 7%</span><br/>
@@ -421,6 +411,12 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 7%</span><br/>
 <span style='color:purple'>+12 to hitpoints (requires [[#Angel of Death's Ring_.E2.80.93_ring|Angel of Death's Ring]])</span><br/>
 <span style='color:purple'>5% to all resistances (requires [[#Amulet of the Last Guide_.E2.80.93_amulet|Amulet of the Last Guide]])</span><br/>
+<br/>
+=== Colossally Colossal Arch-Devilish Blade of Universal Annihilation &ndash; sword ===
+<span style='color:#808080'><i>Forged by the Paladin of Golden Glory with the Hammer of Eternal Magic.</i></span><br/>
+<span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
+<span style='color:green'>Enemy resistances to blade decreased by 10%</span><br/>
+<span style='color:green'>Increases all magical damages by 10%</span><br/>
 <br/>
 === Corpsegrinder &ndash; spear ===
 <span style='color:#808080'><i>Mutilating dead enemies makes you forget your woes.</i></span><br/>
@@ -865,6 +861,10 @@ New ability: despair (20)</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#freezing aura_.E2.80.93_dummy|freezing aura]]</span><br/>
+<br/>
+=== Glitch Item &ndash; limited ===
+<span style='color:#808080'><i>Everything can fail. Regardless of the amount of polishing done.</i></span><br/>
+<span style='color:red'>New obligation: Report this bug on the forums</span><br/>
 <br/>
 === Gloombringer &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>One side wins, the other side loses. Both sides' widows weep.</i></span><br/>
@@ -2249,7 +2249,7 @@ New ability: Steals</span><br/>
 <span style='color:#60A0FF'>Sets alignment to neutral</span><br/>
 <br/>
 === The Jester &ndash; helm ===
-<span style='color:#808080'><i>_"We needed better entertainment. There're in flames now." # Reference to the music band, In Flames. The slightly incorrect word was the only way to make it ambiguous</i></span><br/>
+<span style='color:#808080'><i>We needed better entertainment. There're in flames now.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 2%</span><br/>
 <span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>

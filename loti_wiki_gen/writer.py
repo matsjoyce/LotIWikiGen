@@ -508,7 +508,7 @@ def write_scenario(chapter, name, tag, file):
         write("<span style='color:green'>Chance of a dying enemy on the side" + utils.english_join(enemies.split(",")), "dropping a gem is {}%</span>".format(chance_gem))
         if bosses != "yes":
             write("<span style='color:#B81413'>Enemy bosses do not always drop</span>")
-        for weapon_type in set(weapons):
+        for weapon_type in sorted(set(weapons)):
             write("<span style='color:#60A0FF'>Chance of a {} dropping is {:.0%}</span>".format(weapon_type, weapons.count(weapon_type) / len(weapons)))
     else:
         write("<span style='color:#808080'><i>No drop information found</i></span>")

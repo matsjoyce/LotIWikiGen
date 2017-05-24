@@ -19,7 +19,7 @@ import re
 import collections
 
 
-wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\"\s*\n"),
+wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\"\s*(?:#[^\n]*)?\n"),
                ("key", r"([\w{}]+)\s*=\s*([^\n]+)\s*\n"),
                ("keys", r"([\w,]+)\s*=\s*([^\n]+)\s*\n"),
                ("open", r"\[\+?([\w{}]+)\]"),

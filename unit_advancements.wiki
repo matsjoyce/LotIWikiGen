@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Tue May 16 12:01:20 2017 using version git-4220d82 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 24 15:22:31 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -1142,7 +1142,7 @@ This unit also has god AMLA advancements</i></span>
 <br/>
 === Faster with Axe (Affects Also Whirlwind) &ndash; axe1_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements "axe1 and whirlwind"	#Force the player to take the whirlwind advancement - it is very useful to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Axe_.E2.80.93_axe1|axe1]] and [[#Better_at_Whirling_.E2.80.93_whirlwind|whirlwind]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the axe attack</span><br/>
 <span style='color:green'>1 more attacks for the axe_whirlwind attack</span><br/>
 <br/>
@@ -5758,7 +5758,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Faster with Axe (Affects Also Whirlwind) &ndash; axe1_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements "axe1 and whirlwind"	#Force the player to take the whirlwind advancement - it is very useful to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Axe_.E2.80.93_axe1_2|axe1]] and [[#Able_to_Use_Whirlwind_Attack_with_Axe_.E2.80.93_whirlwind|whirlwind]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the axe attack</span><br/>
 <span style='color:green'>1 more attacks for the axe_whirlwind attack</span><br/>
 <br/>

@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements avalible for catagories of units currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.
-This was generated at Tue May 16 12:01:20 2017 using version git-4220d82 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 24 15:22:31 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
