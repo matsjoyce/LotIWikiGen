@@ -62,29 +62,26 @@ def special_notes_sub(str):
 
 def extract_abilities(start):
     fname = start / "utils" / "abilities.cfg"
-    data = fname.open().read()
-    for type, obj in re.findall(r"#define ((?:ABILITY|WEAPON_SPECIAL)\S+)[^\n]*(.*?)#enddef", data, re.DOTALL):
-        try:
-            stuff = wml_parser.parse(obj, fname, 1)
-        except RuntimeError as e:
-            print(obj, "X" * 50, obj, "X" * 50, e, type(e))
-            raise e
-        if type.startswith("ABILITY"):
+    stuff = wml_parser.parse(fname.open().read(), fname, 1)
+    for name, (macro,) in stuff.tags.items():
+        if name.startswith("ABILITY"):
             section = "Abilities"
-        else:
+        elif name.startswith("WEAPON_SPECIAL"):
             section = "Weapon Specials"
-        for tag_type, tags in stuff.tags.items():
+        else:
+            continue
+        for tag_type, tags in macro.tags.items():
             tags = [t for t in tags if t.keys["name"].any]
             if not tags:
                 continue
             elif len(tags) == 1:
                 tag, = tags
-                yield section, tag.keys["name"].any, tag_type, type, tag
+                yield section, tag.keys["name"].any, tag_type, name, tag
             elif len(tags) == 2:
                 a, b = tags
                 a.keys["name"].all = a.keys["name"].any + " and " + b.keys["name"].any
                 a.keys["description"].all = a.keys["description"].any + " " + b.keys["description"].any
-                yield section, a.keys["name"].any, tag_type, type, a
+                yield section, a.keys["name"].any, tag_type, name, a
             else:
                 raise RuntimeError("Cannot merge 3+ tags yet, implement!")
 

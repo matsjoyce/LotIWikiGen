@@ -136,16 +136,13 @@ def preprocess(tokens):
             yield type, value, lineno
 
 
-def subparse_wml(tokens, filename, tag_ann="all"):
+def subparse_wml(tokens, filename, first_lineno, tag_ann="all"):
     keys = collections.defaultdict(WMLValue)
     tags = collections.defaultdict(list)
     macros = []
     annotation = levels
     tokens = iter(tokens)
-    first_lineno = None
     for type, value, lineno in tokens:
-        if first_lineno is None:
-            first_lineno = lineno
         if type == "key":
             name, value = value
             if name == "increse_attacks":
@@ -165,7 +162,7 @@ def subparse_wml(tokens, filename, tag_ann="all"):
                 subtokens.append(nt)
                 nt = next(tokens)
             try:
-                tag = subparse_wml(subtokens, filename, annotation)
+                tag = subparse_wml(subtokens, filename, lineno, annotation)
             except Exception as e:
                 print(subtokens)
                 print(filename, first_lineno)
@@ -198,7 +195,7 @@ def subparse_wml(tokens, filename, tag_ann="all"):
                 while nt[:2] != ("pre", ("enddef", "")):
                     subtokens.append(nt)
                     nt = next(tokens)
-                tag = subparse_wml(subtokens, filename, annotation)
+                tag = subparse_wml(subtokens, filename, lineno, annotation)
                 tags[name].append(tag)
     return WMLTag(keys, tags, tag_ann, macros, "{}:{}".format(filename, first_lineno))
 
@@ -222,4 +219,4 @@ def format_parsed(tag, level=0):
 
 
 def parse(text, filename, lineno):
-    return subparse_wml(preprocess(tokenize(text, lineno)), str(filename))
+    return subparse_wml(preprocess(tokenize(text, lineno)), str(filename), lineno)

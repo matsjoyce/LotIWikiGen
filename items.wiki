@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed May 31 19:20:04 2017 using version git-3f20b02 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 31 19:58:19 2017 using version git-2875487 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -476,7 +476,7 @@ and saved the righteous.</i></span><br/>
 === Cunctator's Helmet &ndash; helm ===
 <span style='color:#808080'><i>If you command Cunctator to attack immediately, he will not obey.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
-<span style='color:green'>Damage decreased by 30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
+<span style='color:green'>Damage decreased by 10% (in EASY difficulty), 20% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
 <span style='color:purple'>New ability: careful (10) (requires [[#Cunctator's sword_.E2.80.93_sword|Cunctator's Sword]])</span><br/>
 <span style='color:purple'>New ability: 10% to physical resistances (requires [[#Cunctator's Armour_.E2.80.93_armour|Cunctator's Armour]])</span><br/>
@@ -616,7 +616,7 @@ and saved the righteous.</i></span><br/>
 <br/>
 === Despicable Heroism &ndash; mace ===
 <span style='color:#808080'><i>Your deeds are revered, but the way you do them is damned.</i></span><br/>
-<span style='color:green'>Damage decreased by 50% (in EASY difficulty), 55% (in MEDIUM difficulty), 40% (in HARD difficulty)</span><br/>
+<span style='color:green'>Damage decreased by 40% (in EASY difficulty), 50% (in MEDIUM difficulty), 55% (in HARD difficulty)</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Revenant)]]</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 5%</span><br/>
