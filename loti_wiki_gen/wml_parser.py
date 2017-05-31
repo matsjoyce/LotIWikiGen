@@ -19,6 +19,9 @@ import re
 import collections
 
 
+BUG_DETECT = False
+
+
 wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\"\s*(?:#[^\n]*)?\n"),
                ("key", r"([\w{}]+)\s*=\s*([^\n]+)\s*\n"),
                ("keys", r"([\w,]+)\s*=\s*([^\n]+)\s*\n"),
@@ -34,7 +37,7 @@ levels = ["EASY", "MEDIUM", "HARD"]
 wml_regexes = [(n, re.compile(r, re.DOTALL)) for n, r in wml_regexes]
 
 
-WMLTag = collections.namedtuple("WMLTag", ("keys", "tags", "annotation", "macros"))
+WMLTag = collections.namedtuple("WMLTag", ("keys", "tags", "annotation", "macros", "filename"))
 
 
 class WMLValue:
@@ -61,8 +64,24 @@ class WMLValue:
     def __repr__(self):
         return "WMLValue({!r}, {!r}, {!r})".format(self.EASY, self.MEDIUM, self.HARD)
 
+    def verify(self, name, filename, lineno):
+        if BUG_DETECT:
+            try:
+                direction = name in ("experience", "village_gold")
+                if any(i in filename for i in ["Uria", "Demon", "Lilith.", "Romero", "scenarios", "Beelzebub", "Ice_Dragon"]):
+                    direction = not direction
+                values = list(map(int, [self.EASY, self.MEDIUM, self.HARD]))
+                if direction:
+                    cond = values == sorted(values)
+                else:
+                    cond = list(reversed(values)) == sorted(values)
+                if not cond:
+                    print("BUG DETECT: Possibly inverted difficulty levels {}, {}, {} for key {} at {}:{}".format(*values, name, filename, lineno))
+            except ValueError:
+                pass
 
-def tokenize(text):
+
+def tokenize(text, lineno):
     macro_transforms = [(r"\"\s*\+\s*\{([^}]*)\}\s*\+\s*_?\s*\"", "\\1"),
                         (r"\{([^}]*)\}\s*\+\s*_?\s*\"", "\"\\1"),
                         (r"\"\s*\+\s*\{([^}]*)\}", "\\1\""),
@@ -81,8 +100,8 @@ def tokenize(text):
                 if type in ("whitespace", "comment"):
                     pass
                 elif type == "keys":
-                    yield from (("key", x) for x in zip(groups[0].split(","),
-                                                        groups[1].split(",")))
+                    yield from (("key", x, lineno)
+                                for x in zip(groups[0].split(","), groups[1].split(",")))
                 elif type == "macro_open":
                     contents = groups[0]
                     count = 1
@@ -94,9 +113,10 @@ def tokenize(text):
                             count -= 1
                         contents += c
                         text = text[1:]
-                    yield "macro", (contents[1:-1],)
+                    yield "macro", (contents[1:-1],), lineno
                 else:
-                    yield type, groups
+                    yield type, groups, lineno
+                lineno += m.group(0).count("\n")
                 break
         else:
             raise RuntimeError("Can't parse {}".format(repr(text[:100])))
@@ -104,47 +124,51 @@ def tokenize(text):
 
 def preprocess(tokens):
     tokens = iter(tokens)
-    for type, value in tokens:
+    for type, value, lineno in tokens:
         if type == "pre" and value[0] == "ifver":
             nt = next(tokens)
-            while nt != ("pre", ("else", "")):
+            while nt[:2] != ("pre", ("else", "")):
                 yield nt
                 nt = next(tokens)
-            while nt != ("pre", ("endif", "")):
+            while nt[:2] != ("pre", ("endif", "")):
                 nt = next(tokens)
         else:
-            yield type, value
+            yield type, value, lineno
 
 
-
-def subparse_wml(tokens, tag_ann="all"):
+def subparse_wml(tokens, filename, tag_ann="all"):
     keys = collections.defaultdict(WMLValue)
     tags = collections.defaultdict(list)
     macros = []
     annotation = levels
     tokens = iter(tokens)
-    for type, value in tokens:
+    first_lineno = None
+    for type, value, lineno in tokens:
+        if first_lineno is None:
+            first_lineno = lineno
         if type == "key":
             name, value = value
             if name == "increse_attacks":
                 name = "increase_attacks"
             for l in annotation:
                 setattr(keys[name], l, value)
+            keys[name].verify(name, filename, lineno)
         if type == "open":
             subtokens = []
             nt = next(tokens)
             count = 0
-            while count or nt != ("close", (value[0],)):
-                if nt == ("open", (value[0],)):
+            while count or nt[:2] != ("close", (value[0],)):
+                if nt[:2] == ("open", (value[0],)):
                     count += 1
-                if nt == ("close", (value[0],)):
+                if nt[:2] == ("close", (value[0],)):
                     count -= 1
                 subtokens.append(nt)
                 nt = next(tokens)
             try:
-                tag = subparse_wml(subtokens, annotation)
+                tag = subparse_wml(subtokens, filename, annotation)
             except Exception as e:
                 print(subtokens)
+                print(filename, first_lineno)
                 print(e.__class__)
                 raise
             else:
@@ -157,6 +181,7 @@ def subparse_wml(tokens, tag_ann="all"):
                 keys[name].EASY = easy
                 keys[name].MEDIUM = medium
                 keys[name].HARD = hard
+                keys[name].verify(name, filename, lineno)
             else:
                 macros.append(value[0])
         if type == "pre":
@@ -170,12 +195,12 @@ def subparse_wml(tokens, tag_ann="all"):
                 name = value[1].split()[0]
                 subtokens = []
                 nt = next(tokens)
-                while nt != ("pre", ("enddef", "")):
+                while nt[:2] != ("pre", ("enddef", "")):
                     subtokens.append(nt)
                     nt = next(tokens)
-                tag = subparse_wml(subtokens, annotation)
+                tag = subparse_wml(subtokens, filename, annotation)
                 tags[name].append(tag)
-    return WMLTag(keys, tags, tag_ann, macros)
+    return WMLTag(keys, tags, tag_ann, macros, "{}:{}".format(filename, first_lineno))
 
 
 def format_parsed(tag, level=0):
@@ -196,5 +221,5 @@ def format_parsed(tag, level=0):
     return "\n".join(stuff)
 
 
-def parse(text):
-    return subparse_wml(preprocess(tokenize(text)))
+def parse(text, filename, lineno):
+    return subparse_wml(preprocess(tokenize(text, lineno)), str(filename))

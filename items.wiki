@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed May 24 17:10:26 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 31 19:20:04 2017 using version git-3f20b02 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -276,7 +276,7 @@ traditions were brought to them.</i></span><br/>
 <span style='color:orange'>New advancements: Fencing techniques, offensive and also defensive</span><br/>
 <br/>
 === Boots of Evanescence &ndash; boots ===
-<span style='color:#808080'><i>Now you see me. Now you do not.</i></span><br/>
+<span style='color:#808080'><i>Now you see me. Now you don't.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: teleport</span><br/>
@@ -492,7 +492,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:purple'>5% to all magical resistances (requires [[#Cunctator's Helmet_.E2.80.93_helm|Cunctator's Helmet]])</span><br/>
 <br/>
 === Cursed Memories &ndash; staff ===
-<span style='color:#808080'><i>Every hero suffers from horrors of the past. Only a few can have their enemies suffer them instead.</i></span><br/>
+<span style='color:#808080'><i>Every hero suffers from horrors of the past. Only a few can have their enemies suffer from them instead.</i></span><br/>
 <span style='color:green'>Damage increased by 7 (in EASY difficulty), 6 (in MEDIUM difficulty), 5 (in HARD difficulty)</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <span style='color:green'>Increases all magical damages by 40% (in EASY difficulty), 35% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
@@ -600,7 +600,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#000080'>Gems needed for crafting: 3 Obsidians and 2 Topazes</span><br/>
 <br/>
 === Deflector of Light &ndash; craftable as any armour ===
-<span style='color:#808080'><i>Drive all light away of you and enjoy the darkness.</i></span><br/>
+<span style='color:#808080'><i>Drive all light away and enjoy the darkness.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#darkens severely_.E2.80.93_illuminates|darkens severely]]</span><br/>
@@ -821,7 +821,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>2 more movement points</span><br/>
 <br/>
 === Flying Boots &ndash; boots ===
-<span style='color:#808080'><i>He could run through caves and hills like on a plain road. He could walk on water.</i></span><br/>
+<span style='color:#808080'><i>He could run through caves and hills like on a plain road. He could even walk on water.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 7%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
 <span style='color:#60A0FF'>Movement costs through forests set to 1</span><br/>
@@ -1120,7 +1120,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>5 more hitpoints per level per level</span><br/>
 <br/>
 === Iced Boots &ndash; boots ===
-<span style='color:#808080'><i>When flames fall from the skies or spring from the ground, hot days is not what you should fear.</i></span><br/>
+<span style='color:#808080'><i>When flames fall from the skies or spring from the ground, hot days are not what you should fear.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
@@ -1199,7 +1199,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:orange'>New advancements: Powerful improvements to spells</span><br/>
 <br/>
 === Lake of Blood &ndash; axe ===
-<span style='color:#808080'><i>Ground soaks liquids. To fill a lake, you have to gather liquids fast.</i></span><br/>
+<span style='color:#808080'><i>Liquids soak into the ground. To fill a lake, you have to gather liquids fast.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#murderlust_.E2.80.93_dummy|murderlust]]</span><br/>
 <span style='color:#60A0FF'>3 more movement points</span><br/>
@@ -1532,7 +1532,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:green'>New weapon special: poison</span><br/>
 <br/>
 === Potion of Mundanity &ndash; potion ===
-<span style='color:#808080'><i>What if magic was just nocebo?</i></span><br/>
+<span style='color:#808080'><i>What if magic was just a nocebo?</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 60%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 60%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 60%</span><br/>
@@ -1547,7 +1547,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:#60A0FF'>2 more movement points</span><br/>
 <br/>
 === Potion of Steel Skin &ndash; potion ===
-<span style='color:#808080'><i>Only magic can make steel bend easily only when needed. Or not?</i></span><br/>
+<span style='color:#808080'><i>Only magic can make steel bend easily when needed. Or not?</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <br/>
 === Potion of the Northern Winds &ndash; potion ===
@@ -1804,7 +1804,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>This incredibly rare colour variation is highly sought after for its incredible magical power.</i></span><br/>
 <br/>
 === Scaryface &ndash; craftable as any weapon ===
-<span style='color:#808080'><i>Behold upon me and tremble!</i></span><br/>
+<span style='color:#808080'><i>Behold my countenance and tremble!</i></span><br/>
 <span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
 <span style='color:green'>Damage increased by 3</span><br/>
 <span style='color:green'>20% more attacks</span><br/>
@@ -1890,7 +1890,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
 <br/>
 === Slow Boots of Certainty &ndash; boots ===
-<span style='color:#808080'><i>I could be here yesterday already, but it was not worth the danger.</i></span><br/>
+<span style='color:#808080'><i>I could have been here yesterday, but it was not worth the danger.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
@@ -1986,7 +1986,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:orange'>1 extra attack per turn</span><br/>
 <br/>
 === Spiritual Presence &ndash; craftable as any armour ===
-<span style='color:#808080'><i>Run through hills, swamps and sand like if there was no body limiting you.</i></span><br/>
+<span style='color:#808080'><i>Run through hills, swamps and sand as if you had no body limiting you.</i></span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
@@ -2054,7 +2054,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#murderlust_.E2.80.93_dummy|murderlust]]</span><br/>
 <br/>
 === Static Cast &ndash; staff ===
-<span style='color:#808080'><i>Whenever you destroy something, do never touch it again or you will be dead on the spot.</i></span><br/>
+<span style='color:#808080'><i>Whenever you destroy something, do not touch it again or you will be dead on the spot.</i></span><br/>
 <span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
@@ -2080,7 +2080,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>2 more movement points</span><br/>
 <br/>
 === Stolen Potion &ndash; potion ===
-<span style='color:#808080'><i>I have stolen this. Now all the word is here for me to be stolen.</i></span><br/>
+<span style='color:#808080'><i>I have stolen this. Now all the word is here for me to steal.</i></span><br/>
 <span style='color:#60A0FF'>New ability: skirmisher</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#steals_.E2.80.93_dummy|steals]]</span><br/>
 <br/>
@@ -2099,7 +2099,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
 <br/>
 === Stormrend &ndash; sword ===
-<span style='color:#808080'><i>They are protected well. Have them try how to survive lightning.</i></span><br/>
+<span style='color:#808080'><i>They are protected well. Have them try to survive lightning.</i></span><br/>
 <span style='color:green'>Damage increased by 10% (in EASY difficulty), -5% (in MEDIUM difficulty), -20% (in HARD difficulty)</span><br/>
 <span style='color:green'>Sets damage type to lightning</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
@@ -2111,7 +2111,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <br/>
 === Strength &ndash; craftable as any armour ===
-<span style='color:#808080'><i>Why nobody wants to play any handwrestling with me?</i></span><br/>
+<span style='color:#808080'><i>Why does nobody want to play handwrestling with me?</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:green'>Damage increased by 10% (melee attacks only)</span><br/>
 <span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
@@ -2633,7 +2633,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:purple'>+2 base damage (requires [[#Tracking the Lost Knowledge_.E2.80.93_cloak|Tracking the Lost Knowledge]])</span><br/>
 <br/>
 === Woodland Cloak &ndash; cloak ===
-<span style='color:#808080'><i>Where is that elf wearing that green cloak? Has anybody seen him?</i></span><br/>
+<span style='color:#808080'><i>Where is the elf wearing that green cloak? Has anybody seen him?</i></span><br/>
 <span style='color:#60A0FF'>New ability: ambush</span><br/>
 <span style='color:#60A0FF'>Movement costs through forests set to 1</span><br/>
 <br/>
@@ -2671,7 +2671,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 === Zealous Axe &ndash; axe ===
-<span style='color:#808080'><i>Let them try to attack us and we shall be those who strike first.</i></span><br/>
+<span style='color:#808080'><i>Let them try to attack us for we shall be those who strike first.</i></span><br/>
 <span style='color:green'>Damage increased by 45%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal aura_.E2.80.93_dummy|zeal aura]]</span><br/>

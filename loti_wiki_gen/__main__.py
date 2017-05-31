@@ -129,9 +129,11 @@ def main():
     parser.add_argument("--version", nargs=1, default=None, help="Override version")
     parser.add_argument("--autoupload", action="store_true", help="Upload to the wiki after generation has finished")
     parser.add_argument("--noupdate", action="store_true", help="Do not update <dir> when it is a git repository")
-    parser.add_argument("--verbose-index", action="store_true", help="Print missing index items")
+    parser.add_argument("--bug-detect", action="store_true", help="Print information that may be the result of LotI bugs")
 
     args = parser.parse_args()
+
+    wml_parser.BUG_DETECT = args.bug_detect
 
     start = pathlib.Path(args.dir).expanduser().resolve()
     print("LotI Scraper version", __version__, "loading from directory", start)
@@ -194,7 +196,7 @@ def main():
           len(unit_advancements), "unit advancements,", len(items), "items and", len(scenarios), "scenarios")
 
     print("Creating index...")
-    idx = index.Index(unit_advancements, standard_advancements, abilities, items, verbose=args.verbose_index)
+    idx = index.Index(unit_advancements, standard_advancements, abilities, items, verbose=args.bug_detect)
 
     print("Writing item information to items.wiki")
     with open("items.wiki", "w") as items_file:

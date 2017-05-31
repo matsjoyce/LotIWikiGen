@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed May 24 17:10:26 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 31 19:20:04 2017 using version git-3f20b02 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -242,7 +242,7 @@ Other LotI-related wiki pages:
 === snow ambush &ndash; hides ===
 <span style='color:#808080'><i>This unit can hide on frozen terrains, and remain undetected by its enemies.</i></span>
 
-<span style='color:#808080'><i>Enemy units cannot see this unit while it is in forest, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
+<span style='color:#808080'><i>Enemy units cannot see this unit while it is on frozen terrains, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
 === soul eater &ndash; dummy ===
 <span style='color:#808080'><i>When this unit kills a certain amount of beings, it obtains special advancements.</i></span><br/>

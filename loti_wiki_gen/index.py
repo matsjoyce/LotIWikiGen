@@ -53,7 +53,7 @@ class Index:
         if section + name.lower() in self.advancement_index:
             return self.advancement_index[section + name.lower()]
         if self.verbose:
-            print("Could not find advancement", name, "in", section)
+            print("BUG DETECT: Could not find advancement", name, "in", section)
 
     def query_item(self, item_name):
         return self.item_index[item_name]
@@ -62,4 +62,4 @@ class Index:
         if ability_name in self.ability_index:
             return self.ability_index[ability_name]
         if self.verbose:
-            print("Could not find ability", ability_name)
+            print("BUG DETECT: Could not find ability", ability_name)

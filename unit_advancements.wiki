@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Wed May 24 17:10:26 2017 using version git-6d227cd of LotI and version 0.3.5 of the generation script.
+This was generated at Wed May 31 19:20:04 2017 using version git-3f20b02 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -964,7 +964,7 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Casting_Fireballs_Better_.E2.80.93_fireball|fireball]], [[#Casting_Fireballs_Better_.E2.80.93_fireball2|fireball2]], [[#Casting_Fireballs_Faster_.E2.80.93_fireball3|fireball3]] and [[#Casting_Fireballs_Faster_.E2.80.93_fireball4|fireball4]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the fireball attack</span><br/>
 <br/>
-=== Able to Use Cast Iceball &ndash; iceball ===
+=== Able to Cast Iceball &ndash; iceball ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>New attack: iceball (12 - 2)</span><br/>
 <span style='color:green'>New weapon special for the iceball attack: magical</span><br/>
@@ -972,7 +972,7 @@ This unit also has god AMLA advancements</i></span>
 <br/>
 === Dealing More Damage with Iceball &ndash; iceball2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Use_Cast_Iceball_.E2.80.93_iceball|iceball]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Cast_Iceball_.E2.80.93_iceball|iceball]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the iceball attack</span><br/>
 <span style='color:green'>1 more attacks for the iceball attack</span><br/>
 <br/>
@@ -6034,19 +6034,24 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
-=== Able to Chop Through More Enemies with Sword &ndash; sword2 ===
+=== Better at Melee Combat &ndash; sword2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_at_Melee_Combat_.E2.80.93_sword_5|sword]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
+<br/>
+=== Able to Chop Through More Enemies with Sword &ndash; sword2_cleave ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_sword2_4|sword2]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#cleave_.E2.80.93_damage|cleave]]</span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
 <br/>
 === Better with Sword &ndash; sword3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_at_Melee_Combat_.E2.80.93_sword_5|sword]] and [[#Able_to_Chop_Through_More_Enemies_with_Sword_.E2.80.93_sword2_2|sword2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_at_Melee_Combat_.E2.80.93_sword_5|sword]] and [[#Better_at_Melee_Combat_.E2.80.93_sword2_4|sword2]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
 === Better with Sword &ndash; sword4 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_at_Melee_Combat_.E2.80.93_sword_5|sword]], [[#Able_to_Chop_Through_More_Enemies_with_Sword_.E2.80.93_sword2_2|sword2]] and [[#Better_with_Sword_.E2.80.93_sword3_8|sword3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_at_Melee_Combat_.E2.80.93_sword_5|sword]], [[#Better_at_Melee_Combat_.E2.80.93_sword2_4|sword2]] and [[#Better_with_Sword_.E2.80.93_sword3_8|sword3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the sword attack</span><br/>
 <br/>
 === Able to Poison Enemies with Knives &ndash; knife-poison ===
@@ -7497,7 +7502,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Melee Combat &ndash; sword3 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_sword_3|sword]] and [[#Better_at_Melee_Combat_.E2.80.93_sword2_4|sword2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_sword_3|sword]] and [[#Better_at_Melee_Combat_.E2.80.93_sword2_5|sword2]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
 <br/>
 === A Faster Caster &ndash; magic ===

@@ -61,10 +61,11 @@ def special_notes_sub(str):
 
 
 def extract_abilities(start):
-    data = (start / "utils" / "abilities.cfg").open().read()
+    fname = start / "utils" / "abilities.cfg"
+    data = fname.open().read()
     for type, obj in re.findall(r"#define ((?:ABILITY|WEAPON_SPECIAL)\S+)[^\n]*(.*?)#enddef", data, re.DOTALL):
         try:
-            stuff = wml_parser.parse(obj)
+            stuff = wml_parser.parse(obj, fname, 1)
         except RuntimeError as e:
             print(obj, "X" * 50, obj, "X" * 50, e, type(e))
             raise e
@@ -89,16 +90,11 @@ def extract_abilities(start):
 
 
 def extract_items(start):
-    data = (start / "utils" / "item_list.cfg").open().read()
-    for obj in re.findall(r"\[object\].*?\[/object\]", data, re.DOTALL):
-        try:
-            stuff = wml_parser.parse(obj)
-        except RuntimeError as e:
-            print(f, "X" * 50, obj, "X" * 50, e, type(e))
-            raise e
-        stuff = stuff.tags["object"][0]
-        if "name" in stuff.keys and "filter" not in stuff.tags:
-            yield stuff.keys["name"].any, stuff
+    fname = start / "utils" / "item_list.cfg"
+    data = wml_parser.parse(fname.open().read(), fname, 1)
+    for tag in data.tags["ITEM_LIST"][0].tags["object"]:
+        if "name" in tag.keys and "filter" not in tag.tags:
+            yield tag.keys["name"].any, tag
 
 
 def extract_unit_advancements(start):
@@ -116,10 +112,9 @@ def extract_unit_advancements(start):
             else:
                 amla_mode = ""
             data = re.sub("{(?:GENERIC_AMLA|SOUL_EATER_AMLA|AMLA_GOD) [^(]+\((.*)\)[^}]+}", "\\1[/unit_type]", data, 0, re.DOTALL)
+            stuff = wml_parser.parse(data, item, 1)
             fmt_fname = utils.english_title(item.stem.replace("_", " ").lstrip(" " + string.digits))
-            for unit in re.findall(r"\[unit_type\].*?\[/unit_type\]", data, re.DOTALL):
-                stuff = wml_parser.parse(unit)
-                unit = stuff.tags["unit_type"][0]
+            for unit in stuff.tags["unit_type"]:
                 if not unit.keys["name"].any:
                     name = fmt_fname
                 elif fmt_fname not in unit.keys["name"].any:
@@ -142,7 +137,7 @@ def extract_unit_advancements(start):
 
 
 def extract_standard_advancements(fname):
-    x = wml_parser.parse(fname.open().read())
+    x = wml_parser.parse(fname.open().read(), fname, 1)
     for name, tags in x.tags.items():
         if name.endswith("ADVANCEMENTS") or name in ["ADDITIONAL_AMLA",
                                                      "LEGACY_DISCOVERY"]:
@@ -156,7 +151,7 @@ def extract_standard_advancements(fname):
 def extract_scenarios(start):
     for chapter in start.glob("scenarios*"):
         for fname in chapter.glob("*.cfg"):
-            x = wml_parser.parse(fname.open().read())
+            x = wml_parser.parse(fname.open().read(), fname, 1)
             for scenario in x.tags["scenario"]:
                 yield (int(chapter.name.replace("scenarios", "")),
                        "{} &ndash; {}".format(fname.name.split("_")[0], scenario.keys["name"].any),
