@@ -21,6 +21,9 @@ import string
 from . import wml_parser, utils
 
 
+BUG_DETECT = False
+
+
 special_notes_translation = {
     "SPECIAL_NOTES_SPIRIT": " Spirits have very unusual resistances to damage, and move quite slowly over open water.",
     "SPECIAL_NOTES_ARCANE": " This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.",

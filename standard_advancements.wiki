@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements avalible for catagories of units currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.
-This was generated at Wed May 31 19:58:19 2017 using version git-2875487 of LotI and version 0.3.5 of the generation script.
+This was generated at Mon Jun 26 09:06:02 2017 using version git-9198011 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -350,6 +350,7 @@ Other LotI-related wiki pages:
 <span style='color:green'>New attack: fire breath legacy (14 - 4)</span><br/>
 <span style='color:green'>New weapon special for the fire breath legacy attack: marksman</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 5%</span><br/>
 <br/>
 === Breathing Fire Better, More Fire Penetration, 5%/2%/2% Better Resistance to Fire/Blade/Impact (Fire Dragon Legacy) &ndash; FDL3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -359,18 +360,21 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to blade increased by 2%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 2%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 5%</span><br/>
 <br/>
 === Breathing Fire Faster, More Fire Penetration (Fire Dragon Legacy) &ndash; FDL4 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy and [[#Breathing_Fire_Better,_More_Fire_Penetration,_5%/2%/2%_Better_Resistance_to_Fire/Blade/Impact_(Fire_Dragon_Legacy)_.E2.80.93_FDL3|FDL3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the fire breath legacy attack</span><br/>
 <span style='color:green'>1 more attacks for the fire breath legacy attack</span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 4%</span><br/>
 <br/>
 === Breathing Fire with Large Blast Radius, More Fire Penetration (Fire Dragon Legacy) &ndash; FDL5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy and [[#Breathing_Fire_Faster,_More_Fire_Penetration_(Fire_Dragon_Legacy)_.E2.80.93_FDL4|FDL4]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: explosive fire breath legacy (% - %  )</span><br/>
 <span style='color:green'>New weapon special for the explosive fire breath legacy attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 3%</span><br/>
 <br/>
 === 15%/5%/5%/-5% to Cold/Blade/Pierce/Fire Resistance, 1 More Melee Damage (Ice Dragon Legacy) &ndash; IDL1 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
@@ -387,6 +391,7 @@ Other LotI-related wiki pages:
 <span style='color:green'>New attack: ice breath legacy (11 - 4)</span><br/>
 <span style='color:green'>New weapon special for the ice breath legacy attack: slow</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 5%</span><br/>
 <br/>
 === Breathing Cold Better, 5%/2%/2% Better Resistance to Cold/Blade/Pierce, More Cold Penetration (Ice Dragon Legacy) &ndash; IDL3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -395,16 +400,19 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to blade increased by 2%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 2%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 5%</span><br/>
 <br/>
 === Breathing Cold Faster, More Cold Penetration (Ice Dragon Legacy) &ndash; IDL4 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy and [[#Breathing_Cold_Better,_5%/2%/2%_Better_Resistance_to_Cold/Blade/Pierce,_More_Cold_Penetration_(Ice_Dragon_Legacy)_.E2.80.93_IDL3|IDL3]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the ice breath legacy attack</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 4%</span><br/>
 <br/>
 === Hitting More Enemies with Breath and More Cold Penetration (Ice Dragon Legacy) &ndash; IDL5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy and [[#Breathing_Cold_Faster,_More_Cold_Penetration_(Ice_Dragon_Legacy)_.E2.80.93_IDL4|IDL4]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the ice breath legacy attack: [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 3%</span><br/>
 <br/>
 === 2 More Melee Damage, 2% to Fire, Cold and Arcane Resistance (Dark Dragon Legacy) &ndash; DDL1 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
@@ -426,10 +434,12 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 5%</span><br/>
 <br/>
 === 8% More Arcane Penetration (Dark Dragon Legacy) &ndash; DDL4 ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy and [[#_5%_Better_Resistance_to_Fire,_Arcane_and_Cold,_5%_Arcane_Penetration_(Dark_Dragon_Legacy)_.E2.80.93_DDL3|DDL3]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Highly Precise when Breathing Darkness (Dark Dragon Legacy) &ndash; DDL5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -860,26 +870,32 @@ Other LotI-related wiki pages:
 === Decreasing Fire Resistance of All Adjacent Enemies by 5% More &ndash; Fire_penetrate1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement fire_penetrate to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 5%</span><br/>
 <br/>
 === Decreasing Cold Resistance of All Adjacent Enemies by 5% More &ndash; Cold_penetrate1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement cold_penetrate to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 5%</span><br/>
 <br/>
 === Decreasing Arcane Resistance of All Adjacent Enemies by 5% More &ndash; Arcane_penetrate1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement arcane_penetrate to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 5%</span><br/>
 <br/>
 === Decreasing Blade Resistance of All Adjacent Enemies by 5% More &ndash; Blade_penetrate1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement blade_penetrate to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to blade decreased by 5%</span><br/>
 <br/>
 === Decreasing Impact Resistance of All Adjacent Enemies by 5% More &ndash; Impact_penetrate1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement impact_penetrate to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to impact decreased by 5%</span><br/>
 <br/>
 === Decreasing Pierce Resistance of All Adjacent Enemies by 5% More &ndash; Pierce_penetrate1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement pierce_penetrate to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to pierce decreased by 5%</span><br/>
 <br/>
 
 == SOUL EATER ADVANCEMENTS ==

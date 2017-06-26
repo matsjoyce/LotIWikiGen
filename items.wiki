@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed May 31 19:58:19 2017 using version git-2875487 of LotI and version 0.3.5 of the generation script.
+This was generated at Mon Jun 26 09:06:02 2017 using version git-9198011 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -1187,6 +1187,12 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
 <br/>
+=== King Salmon's Crown &ndash; helm ===
+<span style='color:#808080'><i>What? The king has a known name? Now I can no longer call him what I want...</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 30%</span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<br/>
 === Konrad's Might &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>No sword or shield can protect from my wrath.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
@@ -2181,6 +2187,16 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <br/>
+=== The Decimator &ndash; sword ===
+<span style='color:#808080'><i>Do not get too crazy with that sword.</i></span><br/>
+<span style='color:green'>Damage increased by 20%</span><br/>
+<span style='color:green'>New weapon special: charge</span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#anger_.E2.80.93_attacks|anger]]</span><br/>
+<span style='color:green'>Increases all magical damages by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to blade decreased by 15%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact decreased by 15%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce decreased by 15%</span><br/>
+<br/>
 === The End of All that Is &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>From the victim's point of view, there was no death at all.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
@@ -2287,6 +2303,14 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
 <span style='color:green'>Enemy resistances to blade decreased by 10%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#chaotic_.E2.80.93_damage|chaotic]]</span><br/>
+<br/>
+=== The Noble Survivor &ndash; armour ===
+<span style='color:#808080'><i>He wishes that all the nobility could be hung with the guts of priests. That will not work on me.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 35%</span><br/>
+<span style='color:#60A0FF'>1 fewer movement points</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leeches_.E2.80.93_dummy|leech]]</span><br/>
+<span style='color:#60A0FF'>New ability: submerge</span><br/>
 <br/>
 === The Original Trident of Storms &ndash; spear ===
 <span style='color:#808080'><i>This is no obvious fake. Is it the true one or just a better fake?</i></span><br/>

@@ -21,6 +21,9 @@ import re
 from . import utils
 
 
+BUG_DETECT = False
+
+
 sort_translations = {"weaponword": "craftable as any weapon",
                      "armourword": "craftable as any armour",
                      }
@@ -481,6 +484,8 @@ def write_advancement(section, name, tag, file, index):
             if "set_type" in effect.keys:
                 write(format_values(effect.keys["set_type"],
                                     "<span style='color:green'>Sets damage type to {{}}{}{}</span>".format(wname, rt)))
+            if BUG_DETECT and "specials" in effect.tags:
+                print("BUG DETECT: specials in attack upgrade")
         elif effect.keys["apply_to"].any == "resistance":
             for resistances in effect.tags["resistance"]:
                 for t in damage_types:
@@ -509,6 +514,11 @@ def write_advancement(section, name, tag, file, index):
                     name, *args = shlex.split(special)
                     real_name = special_name(index, name.replace("WEAPON_SPECIAL_", ""), args)
                     write("<span style='color:green'>New weapon special{}: {}</span>".format(wname, real_name))
+    for t in damage_types:
+        if t + "_penetrate" in keys:
+            write(format_values(keys[t + "_penetrate"],
+                                "<span style='color:green'>Enemy resistances to {} decreased by {{}}</span>".format(t),
+                                percent=True))
     write()
 
 

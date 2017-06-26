@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Wed May 31 19:58:19 2017 using version git-2875487 of LotI and version 0.3.5 of the generation script.
+This was generated at Mon Jun 26 09:06:02 2017 using version git-9198011 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -936,6 +936,7 @@ This unit also has god AMLA advancements</i></span>
 === Decreasing Enemy Fire Resistance by 10% &ndash; fireball3_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Casting_Fireballs_Better_.E2.80.93_fireball|fireball]], [[#Casting_Fireballs_Better_.E2.80.93_fireball2|fireball2]] and [[#Casting_Fireballs_Faster_.E2.80.93_fireball3|fireball3]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
 <br/>
 === Casting Fireballs Faster &ndash; fireball4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -1220,6 +1221,7 @@ This unit also has god AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 8% &ndash; faerie2_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1|faerie1]] and [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2|faerie2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -1239,6 +1241,7 @@ This unit also has god AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 7% &ndash; faerie4_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1|faerie1]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2|faerie2]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie3|faerie3]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie4|faerie4]] and [[#Decreasing_Enemies'_Arcane_Resistance_by_8%_.E2.80.93_faerie2_penetrate|faerie2_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 7%</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -2307,10 +2310,12 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Shooting Bullets that Penetrate Armour Better &ndash; bullets ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Enemy resistances to pierce decreased by 10%</span><br/>
 <br/>
 === Shooting Bullets that Penetrate Armour Better &ndash; bullets2 ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Shooting_Bullets_that_Penetrate_Armour_Better_.E2.80.93_bullets|bullets]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to pierce decreased by 5%</span><br/>
 <br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
@@ -2329,14 +2334,17 @@ This unit also has generic AMLA advancements</i></span>
 === Breaking Through Enemy Fire Resistances Better (8%) &ndash; fire-penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Fireball_.E2.80.93_fireball_4|fireball]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 8%</span><br/>
 <br/>
 === Breaking Through Enemy Fire Resistances Better (7%) &ndash; fire-penetrate2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Fireball_.E2.80.93_fireball_4|fireball]] and [[#Breaking_Through_Enemy_Fire_Resistances_Better_(8%)_.E2.80.93_fire-penetrate|fire-penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 7%</span><br/>
 <br/>
 === Breaking Through Enemy Fire Resistances Better (5%) &ndash; fire-penetrate3 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Fireball_.E2.80.93_fireball_4|fireball]] and [[#Breaking_Through_Enemy_Fire_Resistances_Better_(7%)_.E2.80.93_fire-penetrate2|fire-penetrate2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 5%</span><br/>
 <br/>
 === Faster with Fireball &ndash; fireball2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -2368,14 +2376,17 @@ This unit also has generic AMLA advancements</i></span>
 === Breaking Through Enemy Arcane Resistances Better (8%) &ndash; arcane-penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Lightning_.E2.80.93_lightning2|lightning2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Breaking Through Enemy Arcane Resistances Better (7%) &ndash; arcane-penetrate2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Lightning_.E2.80.93_lightning2|lightning2]] and [[#Breaking_Through_Enemy_Arcane_Resistances_Better_(8%)_.E2.80.93_arcane-penetrate|arcane-penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 7%</span><br/>
 <br/>
 === Breaking Through Enemy Arcane Resistances Better (5%) &ndash; arcane-penetrate3 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Lightning_.E2.80.93_lightning2|lightning2]] and [[#Breaking_Through_Enemy_Arcane_Resistances_Better_(7%)_.E2.80.93_arcane-penetrate2|arcane-penetrate2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 5%</span><br/>
 <br/>
 === Ignoring Enemy Resistances (and Vulnerabilities) with Lightning &ndash; lightning3-lightning ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -2928,10 +2939,12 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Decreasing Arcane Resistance to All Adjacent Enemies by 10% &ndash; arcane_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <br/>
 === Decreasing Arcane Resistance to All Adjacent Enemies by 5% More &ndash; arcane_penetrate2 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Arcane_Resistance_to_All_Adjacent_Enemies_by_10%_.E2.80.93_arcane_penetrate|arcane_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 5%</span><br/>
 <br/>
 === Able to Heal Allies Better &ndash; heal ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -3990,6 +4003,7 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 8% &ndash; faerie2_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_2|faerie1]] and [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_2|faerie2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -4009,6 +4023,7 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 7% &ndash; faerie4_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_2|faerie1]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_2|faerie2]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie3_2|faerie3]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie4_2|faerie4]] and [[#Decreasing_Enemies'_Arcane_Resistance_by_8%_.E2.80.93_faerie2_penetrate_2|faerie2_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 7%</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -4244,6 +4259,7 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 8% &ndash; faerie2_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_3|faerie1]] and [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_3|faerie2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -4263,6 +4279,7 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 7% &ndash; faerie4_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_3|faerie1]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_3|faerie2]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie3_3|faerie3]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie4_3|faerie4]] and [[#Decreasing_Enemies'_Arcane_Resistance_by_8%_.E2.80.93_faerie2_penetrate_3|faerie2_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 7%</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -6483,14 +6500,17 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Breaking Through Enemy Impact Resistances Better (8%) &ndash; penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Enemy resistances to impact decreased by 8%</span><br/>
 <br/>
 === Breaking Through Enemy Impact Resistances Better (7%) &ndash; penetrate2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Breaking_Through_Enemy_Impact_Resistances_Better_(8%)_.E2.80.93_penetrate|penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to impact decreased by 7%</span><br/>
 <br/>
 === Breaking Through Enemy Impact Resistances Better (5%) &ndash; penetrate3 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Breaking_Through_Enemy_Impact_Resistances_Better_(7%)_.E2.80.93_penetrate2|penetrate2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to impact decreased by 5%</span><br/>
 <br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -7217,6 +7237,8 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane and Cold Resistances by 8% &ndash; magic2_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]] and [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic2|magic2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 8%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Causing More Havoc with Magic &ndash; magic3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -7233,6 +7255,8 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane and Cold Resistances by 7% &ndash; magic4_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic1|magic1]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic2|magic2]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic3|magic3]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_magic4|magic4]] and [[#Decreasing_Enemies'_Arcane_and_Cold_Resistances_by_8%_.E2.80.93_magic2_penetrate|magic2_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 7%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 7%</span><br/>
 <br/>
 === Able to Attack with Magically Increased Speed &ndash; speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -7345,6 +7369,9 @@ This unit also has generic AMLA advancements</i></span>
 === Attacking Horrendously with Berserk Attacks &ndash; berserk2_damage ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements berserk1 and [[#Doing_More_Damage_with_the_Furious_Attack_.E2.80.93_berserk1_damage_3|berserk1_damage]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the mberserk attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
+<span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
+<span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <br/>
 === Doing More Damage with the Furious Attack &ndash; berserk3_damage ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -7379,6 +7406,9 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 8% and Fire and Cold Resistances by 12% &ndash; faerie2_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie1|faerie1]] and [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie2|faerie2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 12%</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 12%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Causing More Havoc with Magic &ndash; faerie3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -7405,6 +7435,9 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 7% and Fire and Cold Resistances by 10% &ndash; faerie4_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie1|faerie1]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie2|faerie2]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie3|faerie3]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie4|faerie4]] and [[#Decreasing_Enemies'_Arcane_Resistance_by_8%_and_Fire_and_Cold_Resistances_by_12%_.E2.80.93_faerie2_penetrate|faerie2_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 7%</span><br/>
 <br/>
 === Causing More Havoc with Magic &ndash; faerie5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -7850,6 +7883,9 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 8% and Fire and Cold Resistances by 12% &ndash; faerie2_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie1_2|faerie1]] and [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie2_2|faerie2]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 12%</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 12%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Causing More Havoc with Magic &ndash; faerie3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -7876,6 +7912,9 @@ This unit also has generic AMLA advancements</i></span>
 === Decreasing Enemies' Arcane Resistance by 7% and Fire and Cold Resistances by 10% &ndash; faerie4_penetrate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie1_2|faerie1]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie2_2|faerie2]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie3_2|faerie3]], [[#Causing_More_Havoc_with_Magic_.E2.80.93_faerie4_2|faerie4]] and [[#Decreasing_Enemies'_Arcane_Resistance_by_8%_and_Fire_and_Cold_Resistances_by_12%_.E2.80.93_faerie2_penetrate_2|faerie2_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 7%</span><br/>
 <br/>
 === Causing More Havoc with Magic &ndash; faerie5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>

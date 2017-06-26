@@ -133,7 +133,7 @@ def main():
 
     args = parser.parse_args()
 
-    wml_parser.BUG_DETECT = args.bug_detect
+    wml_parser.BUG_DETECT = extractor.BUG_DETECT = writer.BUG_DETECT = args.bug_detect
 
     start = pathlib.Path(args.dir).expanduser().resolve()
     print("LotI Scraper version", __version__, "loading from directory", start)
