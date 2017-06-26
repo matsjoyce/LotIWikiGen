@@ -320,9 +320,10 @@ def write_item(name, tag, file, index):
         elif effect.keys["apply_to"].any == "status" and effect.keys["add"].any == "not_living":
             write("<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span>")
         elif effect.keys["apply_to"].any == "new_attack":
-            write("<span style='color:green'>New attack: {} ({} - {})</span>".format(effect.keys["name"].any,
+            write("<span style='color:green'>New attack: {} ({} - {}, {})</span>".format(effect.keys["name"].any,
                                                                                      effect.keys["damage"].any,
-                                                                                     effect.keys["number"].any))
+                                                                                     effect.keys["number"].any,
+                                                                                     effect.keys["type"].any))
         elif effect.keys["apply_to"].any == "new_advancement":
             write("<span style='color:orange'>New advancements: {}</span>".format(effect.keys["description"].any))
         elif effect.keys["apply_to"].any in ["attack", "improve_bonus_attack"]:
@@ -438,9 +439,10 @@ def write_advancement(section, name, tag, file, index):
         elif effect.keys["apply_to"].any == "status" and effect.keys["add"].any == "not_living":
             write("<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span>")
         elif effect.keys["apply_to"].any == "new_attack":
-            write("<span style='color:green'>New attack: {} ({} - {})</span>".format(effect.keys["name"].any,
+            write("<span style='color:green'>New attack: {} ({} - {}, {})</span>".format(effect.keys["name"].any,
                                                                                      effect.keys["damage"].any,
-                                                                                     effect.keys["number"].any))
+                                                                                     effect.keys["number"].any,
+                                                                                     effect.keys["type"].any))
             wname = format_values(effect.keys["name"], " for the {} attack")
             for specials in effect.tags["specials"]:
                 for special in specials.macros:
