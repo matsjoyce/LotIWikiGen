@@ -65,7 +65,7 @@ def auto_upload(config):
     if r.status_code != 200:
         print("Login request failed")
     soup = bs4.BeautifulSoup(r.text, "html.parser")
-    token = soup.find("form").find("input", {"name": "wpLoginToken"})["value"]
+    token = soup.find("input", {"name": "wpLoginToken"})["value"]
     r = s.post("https://wiki.wesnoth.org/index.php?title=Special:UserLogin&action=submitlogin&type=login",
                data={"wpName": username.title(),
                      "wpPassword": password,
@@ -93,7 +93,7 @@ def auto_upload(config):
         print("Updating", title + "...")
         r = s.get("https://wiki.wesnoth.org/index.php?title=" + title + "&action=edit")
         soup = bs4.BeautifulSoup(r.text, "html.parser")
-        form = soup.find("form")
+        form = soup.find("form", id="editform")
         payload = {i["name"]: i.get("value") for i in form.find_all("input")}
         payload["wpSummary"] = "Automated update by " + username
         payload["wpScrolltop"] = "0"
