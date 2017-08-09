@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the scenarios currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Mon Jun 26 09:06:02 2017 using version git-9198011 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Aug  9 09:11:31 2017 using version git-5c9e1b3 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -147,6 +147,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 24, 25 and will release 1 fly per turn</span><br/>
 <br/>
 === 13 &ndash; Twilight ===
 <span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 10%</span><br/>
@@ -173,6 +174,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 32, 35 and will release 1 fly per turn</span><br/>
 <br/>
 === 15 &ndash; Long Way Home ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
@@ -199,6 +201,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 24, 24 and will release 1 fly per turn</span><br/>
 <br/>
 
 == Chapter 2 ==
@@ -215,6 +218,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 9, 17 and will release 1 fly per turn</span><br/>
 <br/>
 === 02 &ndash; Gods ===
 <span style='color:green'>Chance of a dying enemy on the sides 4, 5, 6, 7 and 8 dropping a weapon is 2%</span><br/>
@@ -227,6 +231,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 8, 59 and will release 1 fly per turn</span><br/>
 <br/>
 === 03 &ndash; Forest of Witchery ===
 <span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 2%</span><br/>
@@ -240,6 +245,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 13, 43 and will release 1 fly per turn</span><br/>
 <br/>
 === 03s &ndash; In the Magical Mirror ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -256,6 +262,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 51, 23 and will release 1 fly per turn</span><br/>
 <br/>
 === 05 &ndash; Umbra ===
 <span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a weapon is 2%</span><br/>
@@ -269,6 +276,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 11, 14 and will release 2 flies per turn</span><br/>
 <br/>
 === 06 &ndash; The Army of Darkness ===
 <span style='color:green'>Chance of a dying enemy on the sides 4, 5 and 6 dropping a weapon is 2%</span><br/>
@@ -276,6 +284,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a bow dropping is 33%</span><br/>
 <span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 50%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 25, 34 and will release 2 flies per turn</span><br/>
 <br/>
 === 07 &ndash; Infinite Legion ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 2%</span><br/>
@@ -289,6 +298,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 57, 34 and will release 2 flies per turn</span><br/>
 <br/>
 === 08 &ndash; Sightseeing ===
 <span style='color:green'>Chance of a dying enemy on the sides 4 and 5 dropping a weapon is 1%</span><br/>
@@ -302,6 +312,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 24, 42 and will release 1 fly per turn</span><br/>
 <br/>
 === 09 &ndash; Underground ===
 <span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 2%</span><br/>
@@ -343,6 +354,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 71, 42 and will release 2 flies per turn</span><br/>
 <br/>
 === 01b &ndash; Bandits ===
 <span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 3%</span><br/>
@@ -357,6 +369,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 16, 17 and will release 2 flies per turn</span><br/>
 <br/>
 === 02 &ndash; Journey South ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 2%</span><br/>
@@ -370,6 +383,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 35, 55 and will release 3 flies per turn</span><br/>
 <br/>
 === 02b &ndash; Mining ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 3%</span><br/>
@@ -397,6 +411,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 8, 11 and will release 3 flies per turn</span><br/>
 <br/>
 === 04 &ndash; Entering the Desert ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
@@ -411,6 +426,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 43, 39 and will release 3 flies per turn</span><br/>
 <br/>
 === 05 &ndash; The Pit ===
 <span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 2%</span><br/>
@@ -425,6 +441,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 18, 44 and will release 3 flies per turn</span><br/>
 <br/>
 === 06 &ndash; Darkest Darkness ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 1%</span><br/>
@@ -439,6 +456,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 21%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 9, 10 and will release 4 flies per turn</span><br/>
 <br/>
 === 07 &ndash; End of all Hopes ===
 <span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 1%</span><br/>
@@ -452,6 +470,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 15, 16 and will release 4 flies per turn</span><br/>
 <br/>
 === 08 &ndash; Lost ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 1%</span><br/>
@@ -465,6 +484,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 32, 44 and will release 4 flies per turn</span><br/>
 <br/>
 === 09 &ndash; Ambush ===
 <span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 1%</span><br/>
@@ -493,6 +513,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 10, 9 and will release 4 flies per turn</span><br/>
 <br/>
 === 11 &ndash; Achilles' Revenge ===
 <span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 1%</span><br/>
@@ -506,6 +527,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 29, 20 and will release 4 flies per turn</span><br/>
 <br/>
 === 12 &ndash; Bitter Swamp ===
 <span style='color:green'>Chance of a dying enemy on the sides 2 and 3 dropping a weapon is 1%</span><br/>
@@ -519,6 +541,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 15, 11 and will release 4 flies per turn</span><br/>
 <br/>
 === 12s &ndash; Wings of Doom ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -536,6 +559,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 15, 7 and will release 4 flies per turn</span><br/>
 <br/>
 === 14 &ndash; Chasing Dragons ===
 <span style='color:green'>Chance of a dying enemy on the sides 5, 6, 7 and 8 dropping a weapon is 1%</span><br/>
@@ -549,6 +573,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 24, 17 and will release 4 flies per turn</span><br/>
 <br/>
 === 15 &ndash; Nightmare ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
@@ -652,6 +677,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 11%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 11%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 11, 12 and will release 2 flies per turn</span><br/>
 <br/>
 === 12 &ndash; Bloodbath ===
 <span style='color:green'>Chance of a dying enemy on the sides 6, 7 and 8 dropping a weapon is 4%</span><br/>
@@ -662,6 +688,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 10%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 10%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 9, 14 and will release 2 flies per turn</span><br/>
 <br/>
 === 13 &ndash; The Way of Assassins ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4 and 5 dropping a weapon is 3%</span><br/>
@@ -710,6 +737,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 37, 6 and will release 3 flies per turn</span><br/>
 <br/>
 
 == Chapter 5 ==
@@ -775,9 +803,11 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 18, 8 and will release 1 fly per turn</span><br/>
 <br/>
 === 07 &ndash; Into the Shadows ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 23, 16 and will release 1 fly per turn</span><br/>
 <br/>
 === 08 &ndash; Entrance ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -787,6 +817,7 @@ Other LotI-related wiki pages:
 <br/>
 === 10 &ndash; Guards' Quarters ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 30, 20 and will release 6 flies per turn</span><br/>
 <br/>
 === 11 &ndash; Northern Guardian Room ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -799,6 +830,7 @@ Other LotI-related wiki pages:
 <br/>
 === 14 &ndash; Armoury ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 14, 8 and will release 7 flies per turn</span><br/>
 <br/>
 === 15 &ndash; Magic Power Amplificator 2 ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -814,6 +846,7 @@ Other LotI-related wiki pages:
 <br/>
 === 19 &ndash; Soldiers Training Room ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 16, 18 and will release 6 flies per turn</span><br/>
 <br/>
 === 20 &ndash; Southern Guardian Room ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -841,6 +874,7 @@ Other LotI-related wiki pages:
 <br/>
 === 28 &ndash; War Zone ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 30, 16 and will release 7 flies per turn</span><br/>
 <br/>
 === 29 &ndash; Armageddon ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -1045,6 +1079,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 16, 17 and will release 2 flies per turn</span><br/>
 <br/>
 
 == Chapter 7 ==
@@ -1074,6 +1109,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 34, 41 and will release 3 flies per turn</span><br/>
 <br/>
 === 03 &ndash; Corruption ===
 <span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
@@ -1087,6 +1123,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 10, 24 and will release 3 flies per turn</span><br/>
 <br/>
 === 04 &ndash; Last Survivors ===
 <span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
@@ -1100,6 +1137,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 27, 34 and will release 4 flies per turn</span><br/>
 <br/>
 === 05 &ndash; Tundra ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 dropping a weapon is 5%</span><br/>
@@ -1113,6 +1151,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 9, 28 and will release 5 flies per turn</span><br/>
 <br/>
 === 06 &ndash; Where the Flames Freeze ===
 <span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 5%</span><br/>
@@ -1126,6 +1165,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 13%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 45, 3 and will release 5 flies per turn</span><br/>
 <br/>
 === 07 &ndash; Subterranean War ===
 <span style='color:green'>Chance of a dying enemy on the sides 3, 4 and 5 dropping a weapon is 5%</span><br/>
@@ -1139,6 +1179,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 27, 6 and will release 5 flies per turn</span><br/>
 <br/>
 === 08 &ndash; Eruption ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
@@ -1178,6 +1219,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 12%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 19%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 10, 21 and will release 5 flies per turn</span><br/>
 <br/>
 === 10 &ndash; The Dragon and the Princess ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
@@ -1230,6 +1272,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 12, 12 and will release 6 flies per turn</span><br/>
 <br/>
 === 14 &ndash; Arctic Wastelands ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11 dropping a weapon is 5%</span><br/>
@@ -1243,6 +1286,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 38, 41 and will release 7 flies per turn</span><br/>
 <br/>
 === 15 &ndash; Annihilation ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
@@ -1286,6 +1330,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 43, 38 and will release 8 flies per turn</span><br/>
 <br/>
 === 04 &ndash; Kidnapped ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5 and 6 dropping a weapon is 5%</span><br/>
@@ -1322,6 +1367,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 37, 11 and will release 9 flies per turn</span><br/>
 <br/>
 === 08 &ndash; The Desert ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15 dropping a weapon is 5%</span><br/>
@@ -1335,6 +1381,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 15, 44 and will release 9 flies per turn</span><br/>
 <br/>
 === 09 &ndash; Gladiatrix - The Path to Glory ===
 <span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 14%</span><br/>
@@ -1356,6 +1403,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 33, 20 and will release 9 flies per turn</span><br/>
 <br/>
 === 11 &ndash; Odd World ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
@@ -1369,6 +1417,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 21, 15 and will release 10 flies per turn</span><br/>
 <br/>
 === 12 &ndash; Gladiatrix - The Reckoning ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8, 9 and 10 dropping a weapon is 7%</span><br/>
@@ -1390,6 +1439,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 16, 16 and will release 8 flies per turn</span><br/>
 <br/>
 === 14 &ndash; Finally Together ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 5%</span><br/>
@@ -1403,6 +1453,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 34, 17 and will release 11 flies per turn</span><br/>
 <br/>
 === 15 &ndash; Jungle Hell ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 5%</span><br/>
@@ -1416,6 +1467,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 77, 37 and will release 10 flies per turn</span><br/>
 <br/>
 === 16 &ndash; The Gates of Hell ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6, 7, 8 and 9 dropping a weapon is 5%</span><br/>
@@ -1429,6 +1481,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 28, 17 and will release 11 flies per turn</span><br/>
 <br/>
 
 == Chapter 9 ==
@@ -2144,6 +2197,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 15, 12 and will release 2 flies per turn</span><br/>
 <br/>
 === 07 &ndash; Borders ===
 <span style='color:green'>Chance of a dying enemy on the sides 3, 4, 5 and 6 dropping a weapon is 9%</span><br/>
@@ -2155,6 +2209,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 16, 15 and will release 1 fly per turn</span><br/>
 <br/>
 === 08 &ndash; Empire of Twilight ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3, 4, 5, 6 and 7 dropping a weapon is 7%</span><br/>
@@ -2166,6 +2221,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 48, 16 and will release 2 flies per turn</span><br/>
 <br/>
 === 08b &ndash; Trolls ===
 <span style='color:green'>Chance of a dying enemy on the sides 3 and 4 dropping a weapon is 7%</span><br/>
@@ -2188,6 +2244,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 14, 12 and will release 2 flies per turn</span><br/>
 <br/>
 === 10 &ndash; Idols Falling ===
 <span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 14%</span><br/>
@@ -2243,6 +2300,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a spear dropping is 11%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 22%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 22%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 41, 38 and will release 15 flies per turn</span><br/>
 <br/>
 === 14s &ndash; New Era ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>

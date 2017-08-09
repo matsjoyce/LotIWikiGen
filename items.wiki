@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Mon Jun 26 09:06:02 2017 using version git-9198011 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Aug  9 09:11:31 2017 using version git-5c9e1b3 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -845,7 +845,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 15%</span><br/>
-<span style='color:green'>New attack: fireball (11 - 4)</span><br/>
+<span style='color:green'>New attack: fireball (11 - 4, fire)</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Opal, 4 Rubies and 1 Amethyst</span><br/>
 <br/>
 === Foul Potion &ndash; potion ===
@@ -2065,7 +2065,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
-<span style='color:green'>New attack: lightning (18 - 2)</span><br/>
+<span style='color:green'>New attack: lightning (18 - 2, lightning)</span><br/>
 <br/>
 === Steel Helmet &ndash; helm ===
 <span style='color:#808080'><i>'What is this thing good for?'
@@ -2317,7 +2317,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:green'>Sets damage type to fire</span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
-<span style='color:green'>New attack: storm trident (14 - 4)</span><br/>
+<span style='color:green'>New attack: storm trident (14 - 4, fire)</span><br/>
 <br/>
 === The Outcast &ndash; bow ===
 <span style='color:#808080'><i>Loneliness will teach you to stop relying on others. It makes you free if you pay its price.</i></span><br/>

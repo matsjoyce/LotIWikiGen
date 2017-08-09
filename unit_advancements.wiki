@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Mon Jun 26 09:06:02 2017 using version git-9198011 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Aug  9 09:11:31 2017 using version git-5c9e1b3 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -967,7 +967,7 @@ This unit also has god AMLA advancements</i></span>
 <br/>
 === Able to Cast Iceball &ndash; iceball ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New attack: iceball (12 - 2)</span><br/>
+<span style='color:green'>New attack: iceball (12 - 2, cold)</span><br/>
 <span style='color:green'>New weapon special for the iceball attack: magical</span><br/>
 <span style='color:green'>New weapon special for the iceball attack: slow</span><br/>
 <br/>
@@ -1478,7 +1478,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Enter a Battle Frenzy Like Dwarves, But Only when Attacking &ndash; berserk ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Striking_More_Furiously_with_Scourge_.E2.80.93_scourge|scourge]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: mace_berserk (7 - 5)</span><br/>
+<span style='color:green'>New attack: mace_berserk (7 - 5, impact)</span><br/>
 <span style='color:green'>New weapon special for the mace_berserk attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <br/>
 === Striking Better when in Battle Frenzy &ndash; berserk2 ===
@@ -1612,7 +1612,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Summon a Powerful Thunder that Can Kill with a Single Hit &ndash; thunder ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Throwing_Stronger_Lightnings_.E2.80.93_storm|storm]] and [[#Throwing_Stronger_Lightnings_.E2.80.93_storm2|storm2]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: thunder (60 - 1)</span><br/>
+<span style='color:green'>New attack: thunder (60 - 1, lightning)</span><br/>
 <br/>
 === Better with Thunders &ndash; thunder2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -2165,7 +2165,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Capable to Use Lightning &ndash; lightning ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New attack: lightning (22 - 2)</span><br/>
+<span style='color:green'>New attack: lightning (22 - 2, fire)</span><br/>
 <span style='color:green'>New weapon special for the lightning attack: magical</span><br/>
 <br/>
 === Casting Stronger Lightnings &ndash; lightning2 ===
@@ -2400,7 +2400,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Capable to Cast Fire Blast &ndash; fireblast1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New attack: fire blast (12 - 3)</span><br/>
+<span style='color:green'>New attack: fire blast (12 - 3, fire)</span><br/>
 <span style='color:green'>New weapon special for the fire blast attack: magical</span><br/>
 <span style='color:green'>New weapon special for the fire blast attack: [[LotI_Abilities#hose_.E2.80.93_dummy|hose]]</span><br/>
 <br/>
@@ -2422,7 +2422,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Curse Enemies to Cut Their Resistances &ndash; curse ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New attack: curse (2 - 5)</span><br/>
+<span style='color:green'>New attack: curse (2 - 5, arcane)</span><br/>
 <span style='color:green'>New weapon special for the curse attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
 <br/>
 === Better with Staff &ndash; melee ===
@@ -5825,7 +5825,7 @@ This unit also has soul eater AMLA advancements</i></span>
 === Able to Use Whirlwind Attack with Axe &ndash; whirlwind ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Axe_.E2.80.93_axe1_2|axe1]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: axe_whirlwind (7 - 3)</span><br/>
+<span style='color:green'>New attack: axe_whirlwind (7 - 3, blade)</span><br/>
 <span style='color:green'>New weapon special for the axe_whirlwind attack: [[LotI_Abilities#whirlwind_.E2.80.93_attacks|whirlwind]]</span><br/>
 <span style='color:green'>New weapon special for the axe_whirlwind attack: magical</span><br/>
 <br/>
@@ -6321,7 +6321,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack with Claws, that Has a Chance to Slay the Enemy Regardless of His HP &ndash; claws ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New attack: claws (7 - 3)</span><br/>
+<span style='color:green'>New attack: claws (7 - 3, blade)</span><br/>
 <span style='color:green'>New weapon special for the claws attack: [[LotI_Abilities#disintegrate_.E2.80.93_damage|disintegrate]]</span><br/>
 <br/>
 === Clawing Faster &ndash; claws2 ===
@@ -6767,7 +6767,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Breathe Dark Energy &ndash; breath ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New attack: dark breath (12 - 2)</span><br/>
+<span style='color:green'>New attack: dark breath (12 - 2, arcane)</span><br/>
 <span style='color:green'>New weapon special for the dark breath attack: slow</span><br/>
 <span style='color:green'>New weapon special for the dark breath attack: drain</span><br/>
 <br/>
@@ -6921,7 +6921,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Proficient with Cold Magic &ndash; magic ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New attack: ice bolt (11 - 2)</span><br/>
+<span style='color:green'>New attack: ice bolt (11 - 2, cold)</span><br/>
 <span style='color:green'>New weapon special for the ice bolt attack: magical</span><br/>
 <br/>
 === More Proficient with Cold Magic &ndash; magic2 ===
@@ -6954,7 +6954,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Summon a Blizzard &ndash; blizzard ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#More_Proficient_with_Cold_Magic_.E2.80.93_magic6|magic6]] and [[#More_Used_to_Frozen_Lands_(Hiding_on_Snow)_.E2.80.93_coldlife4|coldlife4]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: blizzard (14 - 2)</span><br/>
+<span style='color:green'>New attack: blizzard (14 - 2, cold)</span><br/>
 <span style='color:green'>New weapon special for the blizzard attack: magical</span><br/>
 <span style='color:green'>New weapon special for the blizzard attack: [[LotI_Abilities#storm_.E2.80.93_dummy|storm]]</span><br/>
 <br/>

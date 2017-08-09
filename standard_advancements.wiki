@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements avalible for catagories of units currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.
-This was generated at Mon Jun 26 09:06:02 2017 using version git-9198011 of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Aug  9 09:11:31 2017 using version git-5c9e1b3 of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -48,7 +48,7 @@ Other LotI-related wiki pages:
 === Able to Cast an Incinerating Fireball (Book of Fireballs) &ndash; BoF1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement BoF to be achieved first</i></span><br/>
-<span style='color:green'>New attack: fireball (6 - 5)</span><br/>
+<span style='color:green'>New attack: fireball (6 - 5, fire)</span><br/>
 <span style='color:green'>New weapon special for the fireball attack: magical</span><br/>
 <span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <br/>
@@ -103,9 +103,9 @@ Other LotI-related wiki pages:
 === Able to Cast Necromantic Spells (Tome of Liches) &ndash; ToL1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement ToL to be achieved first</i></span><br/>
-<span style='color:green'>New attack: chill wave (13 - 2)</span><br/>
+<span style='color:green'>New attack: chill wave (13 - 2, cold)</span><br/>
 <span style='color:green'>New weapon special for the chill wave attack: magical</span><br/>
-<span style='color:green'>New attack: shadow wave (21 - 1)</span><br/>
+<span style='color:green'>New attack: shadow wave (21 - 1, arcane)</span><br/>
 <span style='color:green'>New weapon special for the shadow wave attack: magical</span><br/>
 <br/>
 === Better at Casting Necromantic Spells (Tome of Liches) &ndash; ToL2 ===
@@ -158,7 +158,7 @@ Other LotI-related wiki pages:
 === Able to Breathe Fire when in Hellhound Form (10-5 Damage; Guide to Lycanthropy) &ndash; GtL4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements GtL, [[#Able_to_Transform_into_the_Form_of_a_Wolf_when_Attacking_(20%_More_Damage_and_20%_More_Attacks;_Guide_to_Lycanthropy)_.E2.80.93_GtL1|GtL1]], [[#Able_to_Transform_into_the_Form_of_a_Direwolf_when_Attacking_(5%_More_Damage,_40%_More_Attacks_and_Poison;_Guide_to_Lycanthropy)_.E2.80.93_GtL2|GtL2]] and [[#Able_to_Transform_into_the_Form_of_a_Hellhound_when_Attacking_(Berserk;_Guide_to_Lycanthropy)_.E2.80.93_GtL3|GtL3]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: hellhound fire breath (10 - 5)</span><br/>
+<span style='color:green'>New attack: hellhound fire breath (10 - 5, fire)</span><br/>
 <br/>
 === Better at Breathing Fire in the Form of the Hellhound (Guide to Lycanthropy) &ndash; GtL5 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
@@ -250,7 +250,7 @@ Other LotI-related wiki pages:
 === Able to Cast Fireball (Serendipity) &ndash; Srn1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement Srn to be achieved first</i></span><br/>
-<span style='color:green'>New attack: fireball (7 - 4)</span><br/>
+<span style='color:green'>New attack: fireball (7 - 4, fire)</span><br/>
 <span style='color:green'>New weapon special for the fireball attack: magical</span><br/>
 <br/>
 === Darkening Nearby Hexes (Serendipity) &ndash; Srn2 ===
@@ -281,31 +281,31 @@ Other LotI-related wiki pages:
 === Able to Cast a Spell that Lowers Enemy Terrain Defences (Heart of Darkness) &ndash; HoD1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement HoD to be achieved first</i></span><br/>
-<span style='color:green'>New attack: ill luck (3 - 3)</span><br/>
+<span style='color:green'>New attack: ill luck (3 - 3, arcane)</span><br/>
 <span style='color:green'>New weapon special for the ill luck attack: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
 <br/>
 === Able to Cast a Spell that Lowers Enemy Resistances (Heart of Darkness) &ndash; HoD2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Cast_a_Spell_that_Lowers_Enemy_Terrain_Defences_(Heart_of_Darkness)_.E2.80.93_HoD1|HoD1]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: misfortune (4 - 3)</span><br/>
+<span style='color:green'>New attack: misfortune (4 - 3, arcane)</span><br/>
 <span style='color:green'>New weapon special for the misfortune attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
 <br/>
 === Able to Cast a Spell that Lowers Enemy Damage (Heart of Darkness) &ndash; HoD3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Cast_a_Spell_that_Lowers_Enemy_Resistances_(Heart_of_Darkness)_.E2.80.93_HoD2|HoD2]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: hex (5 - 3)</span><br/>
+<span style='color:green'>New attack: hex (5 - 3, arcane)</span><br/>
 <span style='color:green'>New weapon special for the hex attack: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
 <br/>
 === Able to Cast a Spell that Converts Enemies to Revenants if Killed (Heart of Darkness) &ndash; HoD4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Cast_a_Spell_that_Lowers_Enemy_Damage_(Heart_of_Darkness)_.E2.80.93_HoD3|HoD3]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: reanimation (5 - 2)</span><br/>
+<span style='color:green'>New attack: reanimation (5 - 2, arcane)</span><br/>
 <span style='color:green'>New weapon special for the reanimation attack: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Revenant)]]</span><br/>
 <br/>
 === Able to Cast a Spell that Lowers Enemy Terrain Defences, Resistance and Damage (Heart of Darkness) &ndash; HoD5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Cast_a_Spell_that_Converts_Enemies_to_Revenants_if_Killed_(Heart_of_Darkness)_.E2.80.93_HoD4|HoD4]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: curse (3 - 2)</span><br/>
+<span style='color:green'>New attack: curse (3 - 2, cold)</span><br/>
 <span style='color:green'>New weapon special for the curse attack: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
 <span style='color:green'>New weapon special for the curse attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
 <span style='color:green'>New weapon special for the curse attack: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
@@ -347,7 +347,7 @@ Other LotI-related wiki pages:
 === 10% Better Fire Resistance, Able to Breathe Fire 11-4, Some Fire Penetration (Fire Dragon Legacy) &ndash; FDL2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy and [[#15%/5%/5%/-5%_to_Fire/Blade/Impact/Cold_Resistance,_1_More_Melee_Damage_(Fire_Dragon_Legacy)_.E2.80.93_FDL1|FDL1]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: fire breath legacy (14 - 4)</span><br/>
+<span style='color:green'>New attack: fire breath legacy (14 - 4, fire)</span><br/>
 <span style='color:green'>New weapon special for the fire breath legacy attack: marksman</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:green'>Enemy resistances to fire decreased by 5%</span><br/>
@@ -388,7 +388,7 @@ Other LotI-related wiki pages:
 === 10% Better Cold Resistance, Able to Breathe Cold 11-4, Some Cold Penetration (Ice Dragon Legacy) &ndash; IDL2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy and [[#15%/5%/5%/-5%_to_Cold/Blade/Pierce/Fire_Resistance,_1_More_Melee_Damage_(Ice_Dragon_Legacy)_.E2.80.93_IDL1|IDL1]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: ice breath legacy (11 - 4)</span><br/>
+<span style='color:green'>New attack: ice breath legacy (11 - 4, cold)</span><br/>
 <span style='color:green'>New weapon special for the ice breath legacy attack: slow</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 5%</span><br/>
@@ -425,7 +425,7 @@ Other LotI-related wiki pages:
 === Able to Breathe Darkness 9-4 (Dark Dragon Legacy) &ndash; DDL2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy and [[#2_More_Melee_Damage,_2%_to_Fire,_Cold_and_Arcane_Resistance_(Dark_Dragon_Legacy)_.E2.80.93_DDL1|DDL1]] to be achieved first</i></span><br/>
-<span style='color:green'>New attack: dark breath legacy (9 - 4)</span><br/>
+<span style='color:green'>New attack: dark breath legacy (9 - 4, arcane)</span><br/>
 <span style='color:green'>New weapon special for the dark breath legacy attack: drain</span><br/>
 <br/>
 ===  5% Better Resistance to Fire, Arcane and Cold, 5% Arcane Penetration (Dark Dragon Legacy) &ndash; DDL3 ===
@@ -903,7 +903,7 @@ Other LotI-related wiki pages:
 === Capable to Use Lightning (Huge Damage, Few Attacks) &ndash; Lightning1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement lightning to be achieved first</i></span><br/>
-<span style='color:green'>New attack: lightning (35 - 1)</span><br/>
+<span style='color:green'>New attack: lightning (35 - 1, lightning)</span><br/>
 <span style='color:green'>New weapon special for the lightning attack: magical</span><br/>
 <br/>
 === Casting Lightnings Faster &ndash; Lightning2 ===
@@ -965,7 +965,7 @@ Other LotI-related wiki pages:
 === Capable to Use Thunder (Huge Damage, Huge Radius) &ndash; Thunder1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement thunder to be achieved first</i></span><br/>
-<span style='color:green'>New attack: thunder (30 - 1)</span><br/>
+<span style='color:green'>New attack: thunder (30 - 1, lightning)</span><br/>
 <span style='color:green'>New weapon special for the thunder attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <br/>
 === Casting Stronger Thunder &ndash; Thunder2 ===
@@ -997,7 +997,7 @@ Other LotI-related wiki pages:
 === Capable to Use Fireball &ndash; Fireball1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement fireball to be achieved first</i></span><br/>
-<span style='color:green'>New attack: fireball (7 - 4)</span><br/>
+<span style='color:green'>New attack: fireball (7 - 4, fire)</span><br/>
 <span style='color:green'>New weapon special for the fireball attack: magical</span><br/>
 <br/>
 === Casting Fireballs Better &ndash; Fireball2 ===
@@ -1045,7 +1045,7 @@ Other LotI-related wiki pages:
 === Capable to Cast a Burning Meteor from the Skies &ndash; Meteor1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement meteor to be achieved first</i></span><br/>
-<span style='color:green'>New attack: meteor (40 - 1)</span><br/>
+<span style='color:green'>New attack: meteor (40 - 1, fire)</span><br/>
 <span style='color:green'>New weapon special for the meteor attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <span style='color:green'>New weapon special for the meteor attack: magical</span><br/>
 <br/>
@@ -1057,7 +1057,7 @@ Other LotI-related wiki pages:
 === Able to Cast Chill Tempest &ndash; Chill1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement chill to be achieved first</i></span><br/>
-<span style='color:green'>New attack: chill tempest (17 - 2)</span><br/>
+<span style='color:green'>New attack: chill tempest (17 - 2, cold)</span><br/>
 <span style='color:green'>New weapon special for the chill tempest attack: magical</span><br/>
 <br/>
 === Slowing Enemies with Chill Tempest &ndash; Chill2 ===
@@ -1097,7 +1097,7 @@ Other LotI-related wiki pages:
 === Able to Cast a Draining Shadow Wave &ndash; Shadowwave1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement shadowwave to be achieved first</i></span><br/>
-<span style='color:green'>New attack: shadow wave (17 - 2)</span><br/>
+<span style='color:green'>New attack: shadow wave (17 - 2, arcane)</span><br/>
 <span style='color:green'>New weapon special for the shadow wave attack: magical</span><br/>
 <span style='color:green'>New weapon special for the shadow wave attack: drain</span><br/>
 <br/>
@@ -1144,7 +1144,7 @@ Other LotI-related wiki pages:
 === Capable to Use Lightning (Huge Damage, Few Attacks) &ndash; Lightning1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement lightning to be achieved first</i></span><br/>
-<span style='color:green'>New attack: lightning (38 - 1)</span><br/>
+<span style='color:green'>New attack: lightning (38 - 1, lightning)</span><br/>
 <span style='color:green'>New weapon special for the lightning attack: magical</span><br/>
 <span style='color:green'>New weapon special for the lightning attack: swarm</span><br/>
 <br/>
@@ -1206,7 +1206,7 @@ Other LotI-related wiki pages:
 === Capable to Cast Fire Blast &ndash; Fireblast1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement fireblast to be achieved first</i></span><br/>
-<span style='color:green'>New attack: fire blast (10 - 5)</span><br/>
+<span style='color:green'>New attack: fire blast (10 - 5, fire)</span><br/>
 <span style='color:green'>New weapon special for the fire blast attack: magical</span><br/>
 <span style='color:green'>New weapon special for the fire blast attack: [[LotI_Abilities#hose_.E2.80.93_dummy|hose]]</span><br/>
 <br/>
@@ -1265,7 +1265,7 @@ Other LotI-related wiki pages:
 === Capable to Summon a Meteoric Firestorm &ndash; Firestorm1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement firestorm to be achieved first</i></span><br/>
-<span style='color:green'>New attack: firestorm (25 - 2)</span><br/>
+<span style='color:green'>New attack: firestorm (25 - 2, fire)</span><br/>
 <span style='color:green'>New weapon special for the firestorm attack: magical</span><br/>
 <span style='color:green'>New weapon special for the firestorm attack: [[LotI_Abilities#storm_.E2.80.93_dummy|storm]]</span><br/>
 <br/>
@@ -1315,7 +1315,7 @@ Other LotI-related wiki pages:
 === Able to Summon an Arctic Blast &ndash; Arcticblast1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement arcticblast to be achieved first</i></span><br/>
-<span style='color:green'>New attack: arctic blast (8 - 4)</span><br/>
+<span style='color:green'>New attack: arctic blast (8 - 4, cold)</span><br/>
 <span style='color:green'>New weapon special for the arctic blast attack: magical</span><br/>
 <span style='color:green'>New weapon special for the arctic blast attack: [[LotI_Abilities#hose_.E2.80.93_dummy|hose]]</span><br/>
 <span style='color:green'>New weapon special for the arctic blast attack: slow</span><br/>
@@ -1377,7 +1377,7 @@ Other LotI-related wiki pages:
 === Capable to Summon a Blizzard &ndash; Blizzard1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement blizzard to be achieved first</i></span><br/>
-<span style='color:green'>New attack: blizzard (20 - 2)</span><br/>
+<span style='color:green'>New attack: blizzard (20 - 2, cold)</span><br/>
 <span style='color:green'>New weapon special for the blizzard attack: magical</span><br/>
 <span style='color:green'>New weapon special for the blizzard attack: slow</span><br/>
 <span style='color:green'>New weapon special for the blizzard attack: [[LotI_Abilities#storm_.E2.80.93_dummy|storm]]</span><br/>
@@ -1428,7 +1428,7 @@ Other LotI-related wiki pages:
 === Able to Blast Enemies with Entropic Chaos &ndash; Entropy1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement entropy to be achieved first</i></span><br/>
-<span style='color:green'>New attack: entropy (13 - 5)</span><br/>
+<span style='color:green'>New attack: entropy (13 - 5, arcane)</span><br/>
 <span style='color:green'>New weapon special for the entropy attack: magical</span><br/>
 <span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
 <br/>
@@ -1498,7 +1498,7 @@ Other LotI-related wiki pages:
 === Capable to Summon a Devastating Particle Storm &ndash; Particlestorm1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement particlestorm to be achieved first</i></span><br/>
-<span style='color:green'>New attack: particle storm (30 - 2)</span><br/>
+<span style='color:green'>New attack: particle storm (30 - 2, lightning)</span><br/>
 <span style='color:green'>New weapon special for the particle storm attack: magical</span><br/>
 <span style='color:green'>New weapon special for the particle storm attack: [[LotI_Abilities#storm_.E2.80.93_dummy|storm]]</span><br/>
 <span style='color:green'>New weapon special for the particle storm attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>

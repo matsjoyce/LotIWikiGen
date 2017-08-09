@@ -536,9 +536,12 @@ def write_scenario(chapter, name, tag, file):
     write = writer(file)
     write("===", name, "===", end="\n")
     drops = []
+    bsp = []
     for macro in tag.macros:
         if macro.startswith("DROPS"):
             drops.append(macro.split()[1:])
+        if macro.startswith("BEELZEBUB_SPAWN_POINT"):
+            bsp.append(macro.split()[1:])
     if drops:
         assert len(drops) == 1
         chance, chance_gem, weapons, bosses, enemies = drops[0]
@@ -551,4 +554,8 @@ def write_scenario(chapter, name, tag, file):
             write("<span style='color:#60A0FF'>Chance of a {} dropping is {:.0%}</span>".format(weapon_type, weapons.count(weapon_type) / len(weapons)))
     else:
         write("<span style='color:#808080'><i>No drop information found</i></span>")
+    if bsp:
+        assert len(bsp) == 1
+        side, power, x, y, xy_range = bsp[0]
+        write("<span style='color:#B81413'>Beelzebub will spawn at {}, {} and will release {} {} per turn</span>".format(x, y, power, utils.english_pluralify("fly", int(power))))
     write()
