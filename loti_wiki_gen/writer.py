@@ -505,11 +505,17 @@ def write_advancement(section, name, tag, file, index):
                                             "<span style='color:#60A0FF'>Chance to get hit {} reduced by {{}}</span>".format(h),
                                             percent=True))
         elif effect.keys["apply_to"].any == "bonus_attack":
-            write("<span style='color:green'>New bonus attack: {} ({}% - {}% {} {})</span>".format(effect.keys["name"].any,
-                                                                                                   effect.keys["damage"].any,
-                                                                                                   effect.keys["number"].any,
-                                                                                                   effect.keys["range"].any,
-                                                                                                   effect.keys["type"].any))
+            if effect.keys["damage"].any:
+                attk_info = "{}% - {}%".format(effect.keys["damage"].any, effect.keys["number"].any or 100)
+            else:
+                attk_info = "100%, 100%"
+            if effect.keys["range"].any:
+                attk_info += " " + effect.keys["range"].any
+            if effect.keys["type"].any:
+                attk_info += " " + effect.keys["type"].any
+            elif effect.keys["force_original_attack"].any:
+                attk_info += ", copy of {}".format(effect.keys["force_original_attack"].any)
+            write("<span style='color:green'>New bonus attack: {} ({})</span>".format(effect.keys["name"].any, attk_info))
             wname = format_values(effect.keys["name"], " for the {} attack")
             for specials in effect.tags["specials"]:
                 for special in specials.macros:
