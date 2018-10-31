@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Tue Oct 10 07:57:14 2017 using version git-f216bea of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Oct 31 20:12:22 2018 using version git-dea189d of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -28,6 +28,9 @@ Other LotI-related wiki pages:
 === adamant &ndash; resistance ===
 <span style='color:#808080'><i>This unit’s resistances are tripled, up to a maximum of 80%, when defending. Vulnerabilities are not affected.</i></span><br/>
 <br/>
+=== alliance &ndash; leadership ===
+<span style='color:#808080'><i>This unit is very well versed in team tactics so that adjacent units with the same ability deal 35% more damage.</i></span><br/>
+<br/>
 === anathema &ndash; leadership ===
 <span style='color:#808080'><i>This unit's behaviour is loathsome, it spreads foul smell and droplets containing neisseria gonorrhoeae. Others absolutely loathe fighting next to it. Adjacent allies deal 30% less damage.</i></span><br/>
 <br/>
@@ -39,6 +42,9 @@ Other LotI-related wiki pages:
 <br/>
 === blood drinking &ndash; dummy ===
 <span style='color:#808080'><i>When a unit adjacent to this unit takes damage, this unit heals 5% of the damage.</i></span><br/>
+<br/>
+=== bloodbound &ndash; regenerate ===
+<span style='color:#808080'><i>The unit will heal itself 32 HP per turn if adjacent to another unit with the bloodbound ability. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
 <br/>
 === burns foes (POWER) &ndash; heals ===
 <span style='color:#808080'><i>The unit singes adjacent enemies at the beginning of your turn, causing a loss of POWER HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
@@ -262,10 +268,16 @@ Other LotI-related wiki pages:
 === thorns &ndash; dummy ===
 <span style='color:#808080'><i>Any unit that attacks this unit in melee suffers two points of piercing damage. Unlike reflect, it can kill.</i></span><br/>
 <br/>
+=== triggerable &ndash; dummy ===
+<span style='color:#808080'><i>This unit's attack damage increases by 1 when hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
+<br/>
 === twilightstalk &ndash; hides ===
 <span style='color:#808080'><i>The unit becomes invisible during dawn or dusk, hiding in long shadows created by the sun near the horizont.</i></span>
 
 <span style='color:#808080'><i>Enemy units cannot see this unit during dawn or dusk, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
+<br/>
+=== unforgiving &ndash; dummy ===
+<span style='color:#808080'><i>This unit's attack deals 50% additional fire damage when directly hitting a unit type that hit it in the last 5 turns. Does not work when hit by a retaliating unit.</i></span><br/>
 <br/>
 === unholy hunger &ndash; dummy ===
 <span style='color:#808080'><i>This unit craves for the souls of living beings. When it kills a living unit, it will heal 10 HP and its maximum HP will increase by 3. When it is not fed continually, it starts to starve, and loses 1 point of maximum HP more for each turn it did not kill something at the beginning of each turn. The hunger has no effect if the unit is cared by a healer or standing in a village.</i></span><br/>
@@ -275,6 +287,9 @@ Other LotI-related wiki pages:
 <br/>
 === unyielding &ndash; resistance ===
 <span style='color:#808080'><i>This unit’s resistances are doubled, up to a maximum of 70%, when defending. Vulnerabilities are not affected.</i></span><br/>
+<br/>
+=== vindictive &ndash; dummy ===
+<span style='color:#808080'><i>This unit's attack damage increases by 1 when an adjacent ally is hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
 <br/>
 === wardrums &ndash; dummy ===
 <span style='color:#808080'><i>All adjacent members of the same side get +2 to movement at the start of their turn.</i></span><br/>
@@ -405,6 +420,12 @@ Other LotI-related wiki pages:
 <br/>
 === lethargy &ndash; dummy ===
 <span style='color:#808080'><i>When hitting an enemy, the opponent's attack damage decreases by 2. The reduction of damage bonus halves each turn (rounded down).</i></span><br/>
+<br/>
+=== lord of the flies &ndash; damage ===
+<span style='color:#808080'><i>This attack does quadruple damage to flies.</i></span><br/>
+<br/>
+=== lurk &ndash; damage ===
+<span style='color:#808080'><i>When used offensively and the target is not adjacent to any of its allies, it deals double damage to the target.</i></span><br/>
 <br/>
 === mayhem &ndash; dummy ===
 <span style='color:#808080'><i>If this attack hits, opponent's damage is lowered by 1, until he advances.</i></span><br/>

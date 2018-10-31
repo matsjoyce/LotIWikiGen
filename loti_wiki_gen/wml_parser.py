@@ -22,7 +22,7 @@ import collections
 BUG_DETECT = False
 
 
-wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\"\s*(?:#[^\n]*)?\n"),
+wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\""),
                ("key", r"([\w{}]+)\s*=\s*([^\n]+)\s*\n"),
                ("keys", r"([\w,]+)\s*=\s*([^\n]+)\s*\n"),
                ("open", r"\[\+?([\w{}]+)\]"),
@@ -81,14 +81,16 @@ class WMLValue:
                 pass
 
 
-def tokenize(text, lineno):
+def tokenize(text, lineno, filename):
     macro_transforms = [(r"\"\s*\+\s*\{([^}]*)\}\s*\+\s*_?\s*\"", "\\1"),
                         (r"\{([^}]*)\}\s*\+\s*_?\s*\"", "\"\\1"),
                         (r"\"\s*\+\s*\{([^}]*)\}", "\\1\""),
-                        (r"\"\s*\+\s*_?\s*\"", "")
+                        (r"\"\s*\+\s*_?\s*\"", ""),
+                        (r"\"\s*\+\s*\$(\S+)", "\\1\""),
+                        (r"<<(.*?)>>+", "\"\1\"")
                         ]
     for regex, sub in macro_transforms:
-        regex = re.compile(regex)
+        regex = re.compile(regex, re.MULTILINE + re.DOTALL)
         while regex.search(text):
             text = regex.sub(sub, text)
     while text:
@@ -119,7 +121,8 @@ def tokenize(text, lineno):
                 lineno += m.group(0).count("\n")
                 break
         else:
-            raise RuntimeError("Can't parse {}".format(repr(text[:100])))
+            raise RuntimeError("Can't parse {} at {}:{}".format(repr(text[:100]), filename, lineno))
+
 
 
 def preprocess(tokens):
@@ -194,7 +197,10 @@ def subparse_wml(tokens, filename, first_lineno, tag_ann="all"):
                 nt = next(tokens)
                 while nt[:2] != ("pre", ("enddef", "")):
                     subtokens.append(nt)
-                    nt = next(tokens)
+                    try:
+                        nt = next(tokens)
+                    except StopIteration:
+                        raise RuntimeError("EOF while parsing macro {}".format(name))
                 tag = subparse_wml(subtokens, filename, lineno, annotation)
                 tags[name].append(tag)
     return WMLTag(keys, tags, tag_ann, macros, "{}:{}".format(filename, first_lineno))
@@ -219,4 +225,4 @@ def format_parsed(tag, level=0):
 
 
 def parse(text, filename, lineno):
-    return subparse_wml(preprocess(tokenize(text, lineno)), str(filename), lineno)
+    return subparse_wml(preprocess(tokenize(text, lineno, filename)), str(filename), lineno)

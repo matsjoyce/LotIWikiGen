@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Tue Oct 10 07:57:14 2017 using version git-f216bea of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Oct 31 20:12:22 2018 using version git-dea189d of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -23,6 +23,15 @@ Other LotI-related wiki pages:
 === 50 gold &ndash; gold ===
 <span style='color:#808080'><i>Money is more powerful than magic.</i></span><br/>
 <span style='color:#808080'><i>50 gold</i></span><br/>
+<br/>
+=== Absence of Purpose and Meaning &ndash; staff ===
+<span style='color:#808080'><i>Do not look for the meaning of this. There is none.</i></span><br/>
+<span style='color:green'>Damage increased by 4</span><br/>
+<span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
+<span style='color:#60A0FF'>Spells suck 1 (in EASY difficulty) health from targets with each hit</span><br/>
+<span style='color:green'>Enemy resistances to pierce decreased by 20%</span><br/>
+<span style='color:green'>Increases all magical damages by 20%</span><br/>
+<span style='color:#60A0FF'>New ability: submerge</span><br/>
 <br/>
 === Acantha's Cloak &ndash; cloak ===
 <span style='color:#808080'><i>She was forced to abandon politics and care about children. She indoctrinated them with evil.</i></span><br/>
@@ -178,6 +187,12 @@ traditions were brought to them.</i></span><br/>
 <span style='color:green'>Damage increased by 3</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
+<br/>
+=== Beelzebub's Hammer &ndash; mace ===
+<span style='color:#808080'><i>Where is Bruce gone?</i></span><br/>
+<span style='color:green'>Damage increased by 10% (in EASY difficulty), 25% (in MEDIUM difficulty), 40% (in HARD difficulty)</span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#lord of the flies_.E2.80.93_damage|lord of the flies]]</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 15%</span><br/>
 <br/>
 === Beyond Death &ndash; armour ===
 <span style='color:#808080'><i>Death can be temporary.</i></span><br/>
@@ -351,7 +366,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Movement costs on frozen lands set to 1</span><br/>
 <span style='color:#60A0FF'>New ability: skirmisher</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Topazes, 1 Opal, 1 Diamond, 2 Emeralds, 6 Amethysts, 1 Sapphire and 1 Black Pearl</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Topazes, 1 Opal, 1 Diamond, 4 Emeralds, 2 Sapphires and 1 Black Pearl</span><br/>
 <br/>
 === Chaosbringer &ndash; dagger ===
 <span style='color:#808080'><i>Do you like order? Shame that I do not.</i></span><br/>
@@ -621,6 +636,13 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 5%</span><br/>
 <br/>
+=== Diadem of the Dark Headmaster &ndash; helm ===
+<span style='color:#808080'><i>He presides. He protects. He teaches. He attacks.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
+<span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
+<span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
+<br/>
 === Diamond &ndash; gem ===
 <span style='color:#808080'><i>This colourless precious stone is known to be the hardest mineral, but it is too fragile to be used in weapons or armour as a hard material. However, it very useful due to its magical properties</i></span><br/>
 <br/>
@@ -632,7 +654,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Opals, 1 Pearl, 3 Rubies, 1 Emerald and 1 Amethyst</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Opals, 1 Pearl, 2 Emeralds and 1 Amethyst</span><br/>
 <br/>
 === Doombringer &ndash; sword ===
 <span style='color:#808080'><i>Hitting the enemy hard is not crucial. You have to make sure that you will not get killed when he hits you.</i></span><br/>
@@ -712,6 +734,106 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#leeches_.E2.80.93_dummy|leech]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 2 Topazes, 2 Diamonds, 3 Rubies and 1 Emerald</span><br/>
+<br/>
+=== Eidolon's Armour &ndash; armour ===
+<span style='color:#808080'><i>Clothes, masks and cosmetics helped him conceal his etherealness, his defeat of an undead army made him a nobleman.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:#60A0FF'>New ability: regenerates</span><br/>
+<span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
+<span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
+<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>1 to movement (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
+<span style='color:purple'>New ability: Wrath (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<br/>
+=== Eidolon's Boots &ndash; boots ===
+<span style='color:#808080'><i>His champion in shining armour faced evils for centuries, often together with his children. The land became prosperous.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
+<span style='color:#60A0FF'>New ability: skirmisher</span><br/>
+<span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
+<span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
+<span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
+<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
+<span style='color:purple'>New ability: Wardrums (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<br/>
+=== Eidolon's Coat &ndash; cloak ===
+<span style='color:#808080'><i>He, a being of darkness, studied the art of white mages for generations. He learned the powers of light.</i></span><br/>
+<span style='color:green'>Increases all magical damages by 15%</span><br/>
+<span style='color:#60A0FF'>New ability: cures</span><br/>
+<span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
+<span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
+<span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
+<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>New ability: Absorbs (1) (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<br/>
+=== Eidolon's Gauntlets &ndash; gauntlets ===
+<span style='color:#808080'><i>He hired white mages to imbue a glorious warrior with their power. The warrior thought this power came from a god.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
+<span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
+<span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
+<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
+<span style='color:purple'>New ability: Steals (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<br/>
+=== Eidolon's Mask &ndash; helm ===
+<span style='color:#808080'><i>His experience showed him that if dead are all around, people need a champion. Otherwise they fall without resistance.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
+<span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
+<span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
+<span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
+<span style='color:purple'>New ability: Mockery (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<br/>
+=== Eidolon's Necklace &ndash; amulet ===
+<span style='color:#808080'><i>He was ingenious enough to become something new, not a pack of bones but a spirit. An opaque one.</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 15%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire decreased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 20%</span><br/>
+<span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
+<span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
+<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>1 to movement (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
+<span style='color:purple'>New ability: Frail Tide (15) (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<br/>
+=== Eidolon's Ring &ndash; ring ===
+<span style='color:#808080'><i>When he was old and dying, he remembered what he could from the days he loved a necromanceress.</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 20%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
+<span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
+<span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
+<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
+<span style='color:purple'>New ability: Deathaura (8) (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<br/>
+=== Eidolon's Sword &ndash; sword ===
+<span style='color:#808080'><i>He could fuel his champion alone, as his powers of light and darkness amplified each other. He became an Eidolon.</i></span><br/>
+<span style='color:green'>Sets damage type to arcane</span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#unholybane_.E2.80.93_damage|unholybane]]</span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
+<span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
+<span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
+<span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
+<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>1 to movement (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
 <br/>
 === Elusive Boots &ndash; boots ===
 <span style='color:#808080'><i>Enemies are blocking the way? Who cares?</i></span><br/>
@@ -879,7 +1001,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 4 Rubies, 3 Emeralds and 1 Amethyst</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 1 Ruby, 4 Emeralds and 1 Amethyst</span><br/>
 <br/>
 === Glowing Flight &ndash; knife ===
 <span style='color:#808080'><i>The pragmatic baron sent an assassin to kill a necromancer. It was not a bad idea.</i></span><br/>
@@ -917,7 +1039,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
 <span style='color:#60A0FF'>New ability: concealment</span><br/>
 <span style='color:#60A0FF'>2 more movement points</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Topaz, 1 Opal, 1 Pearl, 1 Diamond, 2 Emeralds and 2 Amethysts</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Topaz, 1 Opal, 1 Pearl, 1 Diamond, 2 Emeralds and 1 Sapphire</span><br/>
 <br/>
 === Guide to Lycanthropy &ndash; limited ===
 <span style='color:#808080'><i>Search your memories and find the monster you are.</i></span><br/>
@@ -1142,7 +1264,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to poison_.E2.80.93_dummy|immune to poison]]</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 3 Opals, 1 Pearl, 2 Diamonds, 1 Ruby and 1 Emerald</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 3 Opals, 1 Pearl, 2 Diamonds and 2 Emeralds</span><br/>
 <br/>
 === Iridium &ndash; axe ===
 <span style='color:#808080'><i>Mages hypothetise that there is an extremely heavy metal that its ore's weight pulls it into depths.</i></span><br/>
@@ -1307,6 +1429,21 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 5%</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 2 Topazes, 1 Pearl and 1 Diamond</span><br/>
 <br/>
+=== Man with a Vision &ndash; helm ===
+<span style='color:#808080'><i>His vision has the potential to bring sorrow and eternal tears to some</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:green'>Damage increased by 10%</span><br/>
+<br/>
+=== Marie Byrd &ndash; craftable as any weapon ===
+<span style='color:#808080'><i>He set foot into the Land of Always Winter and named it after his wife.</i></span><br/>
+<span style='color:green'>Damage increased by 60% (in EASY difficulty), 55% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
+<span style='color:green'>Sets damage type to cold</span><br/>
+<span style='color:green'>New weapon special: slow</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 40%</span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>Movement costs on frozen lands set to 1</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Pearl, 1 Diamond, 1 Emerald and 4 Sapphires</span><br/>
+<br/>
 === Marilyn's Armour &ndash; armour ===
 <span style='color:#808080'><i>A manly man can have a woman's name without being funny.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
@@ -1333,7 +1470,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#leeches_.E2.80.93_dummy|leech]]</span><br/>
 <br/>
 === Mask of Insanity &ndash; helm ===
-<span style='color:#808080'><i>Insanity allows doing things that would not be done otherwise, but at a great cost.</i></span><br/>
+<span style='color:#808080'><i>Insanity allows doing things that could not be done otherwise, but at a great cost.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]] (melee attacks only)</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 15%</span><br/>
@@ -1361,7 +1498,7 @@ and saved the righteous.</i></span><br/>
 === Mighty Gauntlets &ndash; gauntlets ===
 <span style='color:#808080'><i>Like any other visitor, he put his sword on a rack outside. His mighty fists were deadly enough.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
-<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <br/>
@@ -1372,7 +1509,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misanthropia_.E2.80.93_damage|misanthropia]]</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#misnania_.E2.80.93_damage|misnania]]</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 1 Topaz, 1 Pearl, 1 Ruby and 1 Emerald</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 1 Topaz, 1 Pearl, 2 Diamonds and 1 Emerald</span><br/>
 <br/>
 === Misery's Crown &ndash; helm ===
 <span style='color:#808080'><i>Do not bring your misery down on me.</i></span><br/>
@@ -1473,6 +1610,14 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#darkens_.E2.80.93_illuminates|darkens]]</span><br/>
 <span style='color:#60A0FF'>New ability: nightstalk</span><br/>
 <br/>
+=== Nighwalker &ndash; craftable as any armour ===
+<span style='color:#808080'><i>Black and transparent</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 20%</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#lesser nightstalk_.E2.80.93_hides|lesser nightstalk]]</span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians and 1 Opal</span><br/>
+<br/>
 === Nocturnal Cloak &ndash; cloak ===
 <span style='color:#808080'><i>You merely adopted darkness, I was molded by it.</i></span><br/>
 <span style='color:green'>New weapon special: backstab (melee attacks only)</span><br/>
@@ -1537,6 +1682,10 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:green'>35% more attacks</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <br/>
+=== Potion of Authority &ndash; potion ===
+<span style='color:#808080'><i>One gulp to rule them all!</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leadership_.E2.80.93_leadership|leadership]]</span><br/>
+<br/>
 === Potion of Mundanity &ndash; potion ===
 <span style='color:#808080'><i>What if magic was just a nocebo?</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 60%</span><br/>
@@ -1576,7 +1725,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <span style='color:#60A0FF'>New ability: cures</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 1 Opal, 3 Pearls, 2 Diamonds and 3 Rubies</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 1 Opal, 3 Pearls, 3 Diamonds and 2 Rubies</span><br/>
 <br/>
 === Preacher of Hatred &ndash; mace ===
 <span style='color:#808080'><i>Your descendants, ancestors and friends are demonic kin that is behind all our suffering.</i></span><br/>
@@ -1715,6 +1864,11 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:purple'>+2 to base melee damage (requires [[#Rherraent's Armour_.E2.80.93_armour|Rherraent's Armour]])</span><br/>
 <span style='color:purple'>+2 to base melee damage (requires [[#Rherraent's Helm_.E2.80.93_helm|Rherraent's Helm]])</span><br/>
 <span style='color:purple'>+2 to base melee damage (requires [[#Rherraent's Ring_.E2.80.93_ring|Rherraent's Ring]])</span><br/>
+<br/>
+=== Righteous Cause &ndash; mace ===
+<span style='color:#808080'><i>Once he starts attacking, you cannot stop him. You can only run.</i></span><br/>
+<span style='color:green'>Damage increased by 8 (in EASY difficulty), 6 (in MEDIUM difficulty), 5 (in HARD difficulty)</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal_.E2.80.93_resistance|zeal]]</span><br/>
 <br/>
 === Rigor Mortis &ndash; knife ===
 <span style='color:#808080'><i>Freeze! I need to aim!</i></span><br/>
@@ -1933,7 +2087,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 2 Topazes, 1 Ruby, 1 Emerald and 2 Amethysts</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 2 Topazes, 3 Diamonds, 1 Emerald and 2 Amethysts</span><br/>
 <br/>
 === Soul Hunter &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Noble cannibals do not eat corpses, they eat souls.</i></span><br/>
@@ -1952,7 +2106,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
 <span style='color:green'>Increases all magical damages by 30%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 1 Pearl, 2 Rubies, 2 Emeralds, 2 Amethysts, 2 Sapphires and 1 Black Pearl</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Topaz, 1 Pearl, 2 Rubies, 3 Emeralds, 1 Amethyst, 2 Sapphires and 1 Black Pearl</span><br/>
 <br/>
 === Soul Thrash &ndash; gauntlets ===
 <span style='color:#808080'><i>'My life is in ruins, if I die, I cannot lose anything.'
@@ -2067,6 +2221,11 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Increases all magical damages by 30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
 <span style='color:green'>New attack: lightning (18 - 2, lightning)</span><br/>
 <br/>
+=== Static Float &ndash; helm ===
+<span style='color:#808080'><i>This one will be destroyed only at the end of times.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
+<span style='color:#60A0FF'>New ability: submerge</span><br/>
+<br/>
 === Steel Helmet &ndash; helm ===
 <span style='color:#808080'><i>'What is this thing good for?'
 'Nothing special.'</i></span><br/>
@@ -2151,12 +2310,17 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to drain_.E2.80.93_dummy|immune to drain]]</span><br/>
 <br/>
+=== The Alliance &ndash; ring ===
+<span style='color:#808080'><i>We are The Alliance! We are one!</i></span><br/>
+<span style='color:green'>Damage increased by 1</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#alliance_.E2.80.93_leadership|alliance]]</span><br/>
+<br/>
 === The Art of War &ndash; craftable as any armour ===
 <span style='color:#808080'><i>If you know the enemy and you know yourself, you need not fear the outcome of a thousand battles.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:green'>Damage increased by 3</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|damage aura (25)]]</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 2 Topazes, 1 Opal, 1 Pearl, 3 Emeralds, 3 Amethysts and 2 Sapphires</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 2 Topazes, 1 Opal, 1 Pearl, 3 Emeralds and 3 Sapphires</span><br/>
 <br/>
 === The Black Ring &ndash; ring ===
 <span style='color:#808080'><i>There were two hundreds of us before the battle. Three hundreds of us left the battlefield.</i></span><br/>
@@ -2196,6 +2360,10 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to blade decreased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact decreased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce decreased by 15%</span><br/>
+<br/>
+=== The Doctrine of Vindictiveness &ndash; limited ===
+<span style='color:#808080'><i>If they attack you, make sure they will not dare or will not exist to attack again.</i></span><br/>
+<span style='color:orange'>New advancements: A distinctively vindictive view on combat</span><br/>
 <br/>
 === The End of All that Is &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>From the victim's point of view, there was no death at all.</i></span><br/>
@@ -2252,6 +2420,12 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 25%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 30%</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Topaz, 1 Opal, 1 Pearl, 1 Diamond, 1 Ruby and 1 Emerald</span><br/>
+<br/>
+=== The Great Truth &ndash; mace ===
+<span style='color:#808080'><i>The Great Truth is that there is no Great Truth.</i></span><br/>
+<span style='color:green'>Damage increased by 14 (in EASY difficulty), 12 (in MEDIUM difficulty), 10 (in HARD difficulty)</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
 <br/>
 === The Grey Cloak &ndash; cloak ===
 <span style='color:#808080'><i>It somewhat reminds me of Gundolf the Great.</i></span><br/>
@@ -2339,6 +2513,13 @@ They pretend you had reached the impossible.</i></span><br/>
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#parasite_.E2.80.93_dummy|parasite]]</span><br/>
 <br/>
+=== The Predator &ndash; bow ===
+<span style='color:#808080'><i>Try not to split from the group.</i></span><br/>
+<span style='color:green'>Damage increased by 30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#lurk_.E2.80.93_damage|lurk]]</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 15%</span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<br/>
 === The Ragtag Misfit &ndash; cloak ===
 <span style='color:#808080'><i>All I want is your love... Yes, I know I will get no love, but I will get your gold at least.</i></span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
@@ -2351,7 +2532,7 @@ They pretend you had reached the impossible.</i></span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 15%</span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal, 2 Diamonds, 5 Rubies and 1 Amethyst</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal, 2 Diamonds, 2 Rubies, 1 Emerald and 1 Amethyst</span><br/>
 <br/>
 === The Sick Face &ndash; helm ===
 <span style='color:#808080'><i>He looks sick. Killing him will be easy, just try not to catch whatever he has.</i></span><br/>
@@ -2470,6 +2651,14 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#chaotic_.E2.80.93_damage|chaotic]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#darkens_.E2.80.93_illuminates|darkens]]</span><br/>
 <br/>
+=== Townsend Dark Discharge &ndash; staff ===
+<span style='color:#808080'><i>The right tool for a self-sustaining wizard.</i></span><br/>
+<span style='color:green'>Damage increased by 3</span><br/>
+<span style='color:green'>Sets damage type to lightning</span><br/>
+<span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
+<span style='color:green'>New weapon special: charge</span><br/>
+<span style='color:green'>Increases all magical damages by 15%</span><br/>
+<br/>
 === Traces of Blood &ndash; dagger ===
 <span style='color:#808080'><i>That assassin is hard to find, but his bloody trace can be followed. Shame that it costs so many lives.</i></span><br/>
 <span style='color:green'>Damage increased by 60% (in EASY difficulty), 50% (in MEDIUM difficulty), 40% (in HARD difficulty)</span><br/>
@@ -2512,6 +2701,13 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 40%</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 3 Opals and 1 Pearl</span><br/>
+<br/>
+=== Unrighteous Cause &ndash; mace ===
+<span style='color:#808080'><i>Avoid hitting too hard, it will defeat the enemy too fast and take away the fun.</i></span><br/>
+<span style='color:green'>Damage decreased by 4</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 30%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 30%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
 <br/>
 === Unseen Writings &ndash; cloak ===
 <span style='color:#808080'><i>No matter how well you write, after a millenium there will be nothing of it. Though copies may survive.</i></span><br/>
@@ -2560,6 +2756,15 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:green'>Damage increased by 30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
+<span style='color:#60A0FF'>1 fewer movement points</span><br/>
+<br/>
+=== Vinegar Bath &ndash; armour ===
+<span style='color:#808080'><i>Bathe bones in vinegar, they will soften and will bend rather than break.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to blade decreased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 35%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce decreased by 10%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
 <br/>
 === Virtual Void &ndash; helm ===

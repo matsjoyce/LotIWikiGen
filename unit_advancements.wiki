@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Tue Oct 10 07:57:14 2017 using version git-f216bea of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Oct 31 20:12:22 2018 using version git-dea189d of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -1407,6 +1407,99 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to arcane increased by 3%</span><br/>
 <br/>
 
+== Demilich ==
+<span style='color:#808080'><i>Some liches are less than pleased with their frail skeletal body and experiment with ghosts to keep their ethereal enough to protect themselves from attack. Their ultimate goal is to look like the people they once were. This is a specimen of one that hasn't succeeded yet.<br/>
+Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit can move unseen in deep water, requiring no air from the surface.<br/>
+This unit also has generic AMLA advancements</i></span>
+
+=== Better at Melee Combat &ndash; melee ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
+<br/>
+=== Faster at Melee Combat &ndash; melee2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_melee_2|melee]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
+<span style='color:green'>1 more attacks (melee attacks only)</span><br/>
+<br/>
+=== Creating Zombies from Enemies Killed at Melee &ndash; melee3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_melee_2|melee]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special (melee attacks only): plague</span><br/>
+<br/>
+=== Better at Melee &ndash; melee3 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_melee_2|melee]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<br/>
+=== A Better Caster &ndash; magic ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
+<br/>
+=== A Faster Caster of Chill Tempests &ndash; magic-chill ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>1 more attacks for the chill tempest attack</span><br/>
+<br/>
+=== Slowing with Chill Tempest &ndash; magic-chill3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#A_Faster_Caster_of_Chill_Tempests_.E2.80.93_magic-chill|magic-chill]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the chill tempest attack: slow</span><br/>
+<br/>
+=== A Better Caster of Chill Tempests &ndash; magic-chill2 ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#A_Faster_Caster_of_Chill_Tempests_.E2.80.93_magic-chill|magic-chill]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
+<br/>
+=== A Better Caster of Shadow Waves &ndash; magic-shadow ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>1 more attacks for the shadow wave attack</span><br/>
+<br/>
+=== A Better Caster of Chill Tempests &ndash; magic-chill2 ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#A_Faster_Caster_of_Chill_Tempests_.E2.80.93_magic-chill|magic-chill]] and [[#A_Better_Caster_.E2.80.93_magic_2|magic]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
+<br/>
+=== A Better Caster of Shadow Waves &ndash; magic-shadow2 ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_of_Shadow_Waves_.E2.80.93_magic-shadow_2|magic-shadow]] and [[#A_Better_Caster_.E2.80.93_magic_2|magic]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the shadow wave attack</span><br/>
+<br/>
+=== Leeching Enemies with Shadow Wave &ndash; magic-shadow-leech ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Caster_of_Shadow_Waves_.E2.80.93_magic-shadow2_3|magic-shadow2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the shadow wave attack: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
+<br/>
+=== More Spirit-Like Resistance (Improved Resistances, Slightly Worsened Arcane Resistance) &ndash; armour ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by 1%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 1%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 1%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by -1%</span><br/>
+<br/>
+=== Better at Dodging Enemy Attacks (Lowering the Chance to be Hit by 2%) &ndash; dodge ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in caves reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in mushroom groves reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in villages reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in castles reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in shallow waters reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in deep water reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in swamps reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on hills reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on mountains reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on sands reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 2%</span><br/>
+<br/>
+=== Faster &ndash; movement ===
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<br/>
+
 == Demon Infiltrator (Romero) ==
 <span style='color:#808080'><i>Some demons are violent and war-loving, but others prefer more peaceful aproach to their misdeeds. Pretending to be good and misleading the good to turn to evil is frequently more effective than brutish violence. But this does not mean that if it comes to fighting, it will be an easy fight.<br/>
 Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. During battle, this unit can drain life from victims to renew its own health.</i></span>
@@ -1690,7 +1783,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Melee Combat &ndash; melee2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_melee_2|melee]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_melee_3|melee]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
@@ -1751,15 +1844,15 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
 <br/>
-=== Better with Sword &ndash; melee2 ===
+=== Better with Axe &ndash; melee2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Axe_Combat_.E2.80.93_melee|melee]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
-=== Better with Sword &ndash; melee3 ===
+=== Better with Axe &ndash; melee3 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Sword_.E2.80.93_melee2|melee2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Axe_.E2.80.93_melee2|melee2]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
 <br/>
 === Better in Ranged Combat &ndash; ranged ===
@@ -1989,17 +2082,17 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better with Crossbow &ndash; xbow ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
+<span style='color:green'>Damage increased by 1 for the crossbow attack</span><br/>
 <br/>
 === Better with Crossbow &ndash; xbow2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Crossbow_.E2.80.93_xbow_2|xbow]] to be achieved first</i></span><br/>
-<span style='color:green'>1 more attacks (ranged attacks only)</span><br/>
+<span style='color:green'>1 more attacks for the crossbow attack</span><br/>
 <br/>
 === Better with Crossbow &ndash; xbow3 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Crossbow_.E2.80.93_xbow2_2|xbow2]] and [[#Better_with_Crossbow_.E2.80.93_xbow_2|xbow]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
+<span style='color:green'>Damage increased by 1 for the crossbow attack</span><br/>
 <br/>
 === Better Protected from Physical Blows (3% Better Resistances) &ndash; armour ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -2485,10 +2578,6 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:green'>Damage increased by 10% for the arrow storm attack</span><br/>
 <span style='color:green'>5% more attacks for the arrow storm attack</span><br/>
 <br/>
-===  &ndash; execution ===
-<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: execution_bonus_attack (-40% - 100% ranged, copy of longbow)</span><br/>
-<br/>
 === Executing Enemy Bosses Better &ndash; execution ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:green'>Damage increased by 10% for the execution_bonus_attack attack</span><br/>
@@ -2906,7 +2995,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Melee Combat &ndash; melee2 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_melee_3|melee]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_melee_4|melee]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the faerie touch attack</span><br/>
 <br/>
 === Able to Create a Sword from Pure Magic &ndash; sabre ===
@@ -3851,17 +3940,17 @@ Special notes: When this unit is attacked in melee range, the attacker takes a h
 <br/>
 === A Better Caster &ndash; magic2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Caster_.E2.80.93_magic_2|magic]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Caster_.E2.80.93_magic_3|magic]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
 <br/>
 === A Better Caster &ndash; magic3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_2|magic]] and [[#A_Better_Caster_.E2.80.93_magic2|magic2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_3|magic]] and [[#A_Better_Caster_.E2.80.93_magic2|magic2]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks (ranged attacks only)</span><br/>
 <br/>
 === A Better Caster &ndash; magic4 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_2|magic]], [[#A_Better_Caster_.E2.80.93_magic2|magic2]] and [[#A_Better_Caster_.E2.80.93_magic3|magic3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_3|magic]], [[#A_Better_Caster_.E2.80.93_magic2|magic2]] and [[#A_Better_Caster_.E2.80.93_magic3|magic3]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks (ranged attacks only)</span><br/>
 <br/>
 === Faster &ndash; movement ===
@@ -3893,21 +3982,87 @@ Special notes: When this unit is attacked in melee range, the attacker takes 15 
 <br/>
 === A Better Caster &ndash; magic2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Caster_.E2.80.93_magic_3|magic]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Caster_.E2.80.93_magic_4|magic]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
 <br/>
 === A Better Caster &ndash; magic3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_3|magic]] and [[#A_Better_Caster_.E2.80.93_magic2_2|magic2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_4|magic]] and [[#A_Better_Caster_.E2.80.93_magic2_2|magic2]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks (ranged attacks only)</span><br/>
 <br/>
 === A Better Caster &ndash; magic4 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_3|magic]], [[#A_Better_Caster_.E2.80.93_magic2_2|magic2]] and [[#A_Better_Caster_.E2.80.93_magic3_2|magic3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#A_Better_Caster_.E2.80.93_magic_4|magic]], [[#A_Better_Caster_.E2.80.93_magic2_2|magic2]] and [[#A_Better_Caster_.E2.80.93_magic3_2|magic3]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks (ranged attacks only)</span><br/>
 <br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<br/>
+
+== Infernal Knight ==
+<span style='color:#808080'><i>Tales are told of the mightiest warriors and generals, who, cursed with hate and stung by betrayal, have experimented with demonic magic and returned back to this world as Death Knights. Wielding the same weapons as in life, they command both fire and the Undead in their quest for revenge.<br/>
+Special Notes: The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level. This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
+This unit also has generic AMLA advancements</i></span>
+
+=== Casting Fireballs when Attacking &ndash; firecast ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Fireball_.E2.80.93_fireball_5|fireball]] and [[#Faster_at_Melee_Combat_.E2.80.93_axe3|axe3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 2</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#firecast_.E2.80.93_dummy|firecast]]</span><br/>
+<br/>
+=== Better at Melee Combat &ndash; axe ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<br/>
+=== Better at Melee Combat &ndash; axe2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<br/>
+=== Faster at Melee Combat &ndash; axe3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]] and [[#Better_at_Melee_Combat_.E2.80.93_axe2_2|axe2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
+<span style='color:green'>1 more attacks (melee attacks only)</span><br/>
+<br/>
+=== Better at Melee Combat &ndash; axe4 ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]], [[#Better_at_Melee_Combat_.E2.80.93_axe2_2|axe2]] and [[#Faster_at_Melee_Combat_.E2.80.93_axe3|axe3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<br/>
+=== Better with Fireball &ndash; fireball ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the fireball attack</span><br/>
+<br/>
+=== Faster with Fireball &ndash; fireball2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Fireball_.E2.80.93_fireball_5|fireball]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 2 for the fireball attack</span><br/>
+<span style='color:green'>1 more attacks for the fireball attack</span><br/>
+<br/>
+=== Better with Fireball &ndash; fireball3 ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_with_Fireball_.E2.80.93_fireball2_2|fireball2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the fireball attack</span><br/>
+<br/>
+=== Better with Fireball &ndash; fireball3-explosion ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Fireball_.E2.80.93_fireball3_4|fireball3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
+<span style='color:green'>Damage decreased by 7 for the fireball attack</span><br/>
+<br/>
+=== A Greater Leader in Battle (Like a Level 5 Unit) &ndash; leadership ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: leadership level 4</span><br/>
+<span style='color:#60A0FF'>New ability: leadership level 5</span><br/>
+<br/>
+=== 10% More Resistant to Fire &ndash; fire_resist ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
+<br/>
+=== Faster &ndash; movement ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 
@@ -4423,18 +4578,18 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Melee Combat &ndash; axe2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_axe_3|axe]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
 <br/>
 === Faster at Melee Combat &ndash; axe3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]] and [[#Better_at_Melee_Combat_.E2.80.93_axe2_2|axe2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_axe_3|axe]] and [[#Better_at_Melee_Combat_.E2.80.93_axe2_3|axe2]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
 === Better at Melee Combat &ndash; axe4 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]], [[#Better_at_Melee_Combat_.E2.80.93_axe2_2|axe2]] and [[#Faster_at_Melee_Combat_.E2.80.93_axe3|axe3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Melee_Combat_.E2.80.93_axe_3|axe]], [[#Better_at_Melee_Combat_.E2.80.93_axe2_3|axe2]] and [[#Faster_at_Melee_Combat_.E2.80.93_axe3_2|axe3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
 <br/>
 === Able to Attack in a Terrible Way that Lowers Enemy Resistance &ndash; doom ===
@@ -4462,17 +4617,17 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === A Better Caster of Chill Tempests &ndash; magic-chill2 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Casting_Chill_Tempests_Faster_.E2.80.93_magic-chill|magic-chill]] and [[#A_Better_Caster_.E2.80.93_magic_4|magic]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Casting_Chill_Tempests_Faster_.E2.80.93_magic-chill|magic-chill]] and [[#A_Better_Caster_.E2.80.93_magic_5|magic]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
 <br/>
 === A Better Caster of Shadow Waves &ndash; magic-shadow2 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Casting_Shadow_Waves_Faster_.E2.80.93_magic-shadow|magic-shadow]] and [[#A_Better_Caster_.E2.80.93_magic_4|magic]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Casting_Shadow_Waves_Faster_.E2.80.93_magic-shadow|magic-shadow]] and [[#A_Better_Caster_.E2.80.93_magic_5|magic]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the shadow wave attack</span><br/>
 <br/>
 === A Greater Leader in Battle (Like a Level 5 Unit) &ndash; leadership ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_axe_3|axe]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: leadership level 4</span><br/>
 <span style='color:#60A0FF'>New ability: leadership level 5</span><br/>
 <br/>
@@ -4609,7 +4764,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Orcish Nightblade ==
-<span style='color:#808080'><i>The most dextrous of orcs usually decide that standard bladed weapons are not natural enough for their combat style. They choose to use metallic claws instead, that are at least equally good at tearing enemy flesh to pieces.<br/>
+<span style='color:#808080'><i>A blade in the dark, dripping with poison — for many orcish warlords the last thing they see. Due to their high fees, orcish nightblades specialize in “resolving internal conflicts” and are rarely seen on the battlefield. Practice makes perfect, and few can rival them in that regard: they have long lost count of their victims, though that admittedly isn’t too hard for an orc with only ten fingers.<br/>
 Special Notes: This unit’s marksmanship gives it a high chance of hitting targeted enemies, but only on the attack. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
@@ -4627,6 +4782,28 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Clawing_Better_.E2.80.93_claws_2|claws]] and [[#Clawing_Faster_.E2.80.93_claws2|claws2]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the claws attack: backstab</span><br/>
+<br/>
+=== Kicking Better &ndash; kick ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the kick attack</span><br/>
+<br/>
+=== Kicking Faster &ndash; kick2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Kicking_Better_.E2.80.93_kick|kick]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the kcik attack</span><br/>
+<span style='color:green'>1 more attacks for the kcik attack</span><br/>
+<br/>
+=== Throwing Enemies Back with Kicks &ndash; kick3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Kicking_Better_.E2.80.93_kick|kick]] and [[#Kicking_Faster_.E2.80.93_kick2|kick2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the kick attack: [[LotI_Abilities#knockback_.E2.80.93_damage|knockback]]</span><br/>
+<br/>
+=== Throwing Many Enemies Back with Kicks &ndash; kick4 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Kicking_Better_.E2.80.93_kick|kick]], [[#Kicking_Faster_.E2.80.93_kick2|kick2]] and [[#Throwing_Enemies_Back_with_Kicks_.E2.80.93_kick3|kick3]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the kick attack: [[LotI_Abilities#shockwave_.E2.80.93_slow|shockwave]]</span><br/>
+<span style='color:green'>Remove weapon special for the kick attack: knockback</span><br/>
+<span style='color:green'>1 fewer attacks for the kick attack</span><br/>
 <br/>
 === Faster with Knives &ndash; knife ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
@@ -4892,6 +5069,12 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<br/>
+
+== Other Data Loader ==
+<span style='color:#808080'><i></i></span>
+
+===  &ndash;  ===
 <br/>
 
 == Phantom ==
@@ -5593,7 +5776,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Causing Fear Faster &ndash; fear6-speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_Stronger_Fear_.E2.80.93_fear6|fear6]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Causing_Stronger_Fear_.E2.80.93_fear6|fear6]] and [[#Causing_Fear_Faster_.E2.80.93_fear4_speed|fear4_speed]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the wave of fear attack</span><br/>
 <br/>
 === Causing Stronger Fear &ndash; fear7 ===
@@ -5617,12 +5800,12 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Faster &ndash; movement2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_.E2.80.93_movement_53|movement]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_.E2.80.93_movement_55|movement]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 === Able to Muster Enough Mental Powers to Levitate Through Hard Terrains &ndash; movement3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_.E2.80.93_movement_53|movement]] and [[#Faster_.E2.80.93_movement2_2|movement2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_.E2.80.93_movement_55|movement]] and [[#Faster_.E2.80.93_movement2_2|movement2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Movement costs through forests set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs on frozen lands set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs on flat terrains set to 1</span><br/>
@@ -7648,7 +7831,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Faster &ndash; movement2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_.E2.80.93_movement_70|movement]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_.E2.80.93_movement_72|movement]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 === Better Protected from Physical Blows (2% Better Resistances) &ndash; armour ===
@@ -8014,7 +8197,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better with Fireball &ndash; fireball2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Fireball_.E2.80.93_fireball_5|fireball]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Fireball_.E2.80.93_fireball_6|fireball]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 1 for the fireball attack</span><br/>
 <span style='color:green'>1 more attacks for the fireball attack</span><br/>
 <br/>
@@ -8156,6 +8339,80 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#60A0FF'>1 more movement points</span><br/>
+<br/>
+
+== Zombie Rider ==
+<span style='color:#808080'><i>During undead invasions, not only humans, but also farm animals die and are resurrected into undeath. These undead animals can be ridden by skeletons, producing units that are both zombie and skeleton in nature.<br/>
+Special Notes:<br/>
+Special Notes:_DEFENSE_CAP<br/>
+This unit also has generic AMLA advancements</i></span>
+
+=== Better at Axe Combat &ndash; axe ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the axe attack</span><br/>
+<br/>
+=== Better at Axe Combat &ndash; axe2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Axe_Combat_.E2.80.93_axe_4|axe]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the axe attack</span><br/>
+<br/>
+=== Better at Axe Combat &ndash; axe3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Axe_Combat_.E2.80.93_axe_4|axe]] and [[#Better_at_Axe_Combat_.E2.80.93_axe2_3|axe2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the axe attack</span><br/>
+<span style='color:green'>1 more attacks for the axe attack</span><br/>
+<br/>
+=== Better at Axe Combat &ndash; axe4 ===
+<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Axe_Combat_.E2.80.93_axe_4|axe]], [[#Better_at_Axe_Combat_.E2.80.93_axe2_3|axe2]] and [[#Better_at_Axe_Combat_.E2.80.93_axe3_3|axe3]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the axe attack</span><br/>
+<br/>
+=== Transforming Enemies into Soulless with the Plague &ndash; soulless ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>New weapon special for the touch attack: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Soulless)]]</span><br/>
+<span style='color:green'>Remove weapon special for the touch attack: plague</span><br/>
+<br/>
+=== Causing Enemies to Become Soulless Even if Killed Indirectly &ndash; soulless_infect ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Transforming_Enemies_into_Soulless_with_the_Plague_.E2.80.93_soulless|soulless]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the touch attack: [[LotI_Abilities#greater infect_.E2.80.93_poison|greater infect]]</span><br/>
+<span style='color:green'>Remove weapon special for the touch attack: plague</span><br/>
+<span style='color:green'>Damage decreased by 1 for the touch attack</span><br/>
+<br/>
+=== Causing Enemies to Become Soulless Even if Killed Indirectly &ndash; monstrosity ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_Enemies_to_Become_Soulless_Even_if_Killed_Indirectly_.E2.80.93_soulless_infect|soulless_infect]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the touch attack: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Monstrosity)]]</span><br/>
+<span style='color:green'>Remove weapon special for the touch attack: plague</span><br/>
+<span style='color:green'>Damage decreased by 1 for the touch attack</span><br/>
+<br/>
+=== Attacking Better when Making Plague &ndash; touch_damage ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_Enemies_to_Become_Soulless_Even_if_Killed_Indirectly_.E2.80.93_monstrosity|monstrosity]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage increased by 1 for the touch attack</span><br/>
+<br/>
+=== Causing a Severe Frailty Complex in Enemies' Minds (-15% Physical Resistances) &ndash; frail_tide ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (15)]]</span><br/>
+<br/>
+=== Causing an Even Worse Frailty Complex in Enemies' Minds (-20% Physical Resistances) &ndash; frail_tide2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_a_Severe_Frailty_Complex_in_Enemies'_Minds_(-15%_Physical_Resistances)_.E2.80.93_frail_tide_2|frail_tide]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (15)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (20)]]</span><br/>
+<br/>
+=== More Undead-Like Resistance (Improved Resistances, Slightly Worsened Weaknesses) &ndash; armour ===
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 2%</span><br/>
+<span style='color:#60A0FF'>Resistance to impact increased by -1%</span><br/>
+<span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by -1%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 3%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by -2%</span><br/>
+<br/>
+=== Faster &ndash; movement ===
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 

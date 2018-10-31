@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements avalible for catagories of units currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.
-This was generated at Tue Oct 10 07:57:14 2017 using version git-f216bea of LotI and version 0.3.5 of the generation script.
+This was generated at Wed Oct 31 20:12:22 2018 using version git-dea189d of LotI and version 0.3.5 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -334,6 +334,21 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement RBF to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special (melee attacks only): [[LotI_Abilities#soul thrash_.E2.80.93_damage|soul thrash]]</span><br/>
+<br/>
+=== Dealing More Damage After Being Hit (The Doctrine of Vindictiveness) &ndash; DoV1 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement DoV to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#triggerable_.E2.80.93_dummy|triggerable]]</span><br/>
+<br/>
+=== Dealing More Damage After an Adjacent Ally is Hit (The Doctrine of Vindictiveness) &ndash; DoV2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements DoV and [[#Dealing_More_Damage_After_Being_Hit_(The_Doctrine_of_Vindictiveness)_.E2.80.93_DoV1|DOV1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#vindictive_.E2.80.93_dummy|vindictive]]</span><br/>
+<br/>
+=== After Being Hit, Dealing More Damage to that Type (The Doctrine of Vindictiveness) &ndash; DoV3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements DoV and [[#Dealing_More_Damage_After_an_Adjacent_Ally_is_Hit_(The_Doctrine_of_Vindictiveness)_.E2.80.93_DoV2|DOV2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#vindictive_.E2.80.93_dummy|vindictive]]</span><br/>
 <br/>
 === 15%/5%/5%/-5% to Fire/Blade/Impact/Cold Resistance, 1 More Melee Damage (Fire Dragon Legacy) &ndash; FDL1 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
