@@ -24,7 +24,7 @@ import configparser
 
 from . import wml_parser, extractor, writer, utils, index
 
-__version__ = "0.3.5"
+__version__ = "0.3.5.1"
 
 header = """
 This is an auto-generated wiki page listing {{}} currently available in the campaign "Legend of the Invincibles". {{}}
@@ -166,27 +166,37 @@ def main():
             return "2" + x[0]
         return "3" + x[0]
 
-    def sort_by_all_but_not_last(x):
-        return list(map(str.lower, x[:-1]))
-
     def sort_by_first2(x):
         return x[0].lower()
+    
+    def sort_by_type(item):
+        type = item[1].keys["sort"].any
+        if type in writer.sort_translations:
+            type = writer.sort_translations[type]
+        return type
+
+    def sort_ability_type(ability):
+        type = ability[2]
+        if (type == "dummy"):
+            type = "Other"
+        return type
 
     print("Scanning standard advancements...")
     standard_advancements = list(extractor.extract_standard_advancements(start / "utils" / "amla.cfg"))
     standard_advancements.sort(key=sort_by_first)
 
+    #extract abilities before unit advancements because some special notes are defined in the ability file
+    print("Scanning abilities...")
+    abilities = list(extractor.extract_abilities(start))
+    abilities.sort(key=sort_by_first2)
+
     print("Scanning unit advancements...")
     unit_advancements = list(extractor.extract_unit_advancements(start / "units"))
     unit_advancements.sort(key=sort_by_first2)
 
-    print("Scanning abilities...")
-    abilities = list(extractor.extract_abilities(start))
-    abilities.sort(key=sort_by_all_but_not_last)
-
     print("Scanning items...")
     items = list(extractor.extract_items(start))
-    items.sort(key=sort_by_all_but_not_last)
+    items.sort(key=sort_by_type)
 
     print("Scanning scenarios...")
     scenarios = list(extractor.extract_scenarios(start))
@@ -199,24 +209,34 @@ def main():
     idx = index.Index(unit_advancements, standard_advancements, abilities, items, verbose=args.bug_detect)
 
     print("Writing item information to items.wiki")
-    with open("items.wiki", "w") as items_file:
+    with open("items.wiki", "w", encoding="utf-8") as items_file:
         print(header.format("all the items", "", version), file=items_file)
 
-        for item in items:
-            writer.write_item(*item, items_file, idx)
+        for type, items in itertools.groupby(items, sort_by_type):
+            print("==", type, "==", file=items_file)
+            items = list(items)
+            items.sort(key=sort_by_first2)
+            for item in items:
+                writer.write_item(*item, items_file, idx)
+             
 
     print("Writing ability information to abilities.wiki")
-    with open("abilities.wiki", "w") as ability_file:
+    with open("abilities.wiki", "w", encoding="utf-8") as ability_file:
         print(header.format("all the abilities and weapon specials", "", version), file=ability_file)
 
         for section, abilities in itertools.groupby(abilities, sort_by_first2):
             abilities = list(abilities)
+            abilities.sort(key = sort_ability_type)
             print("==", abilities[0][0], "==", file=ability_file)
-            for ab in abilities:
-                writer.write_ability(*ab, ability_file, idx)
+            for type, abs in itertools.groupby(abilities, sort_ability_type):
+                print("===", type, "===", file=ability_file)
+                abs = list(abs)
+                abs.sort(key = lambda x: x[1])
+                for ab in abs:
+                    writer.write_ability(*ab, ability_file, idx)
 
     print("Writing standard advancement information to standard_advancements.wiki")
-    with open("standard_advancements.wiki", "w") as adv_standard_file:
+    with open("standard_advancements.wiki", "w", encoding="utf-8") as adv_standard_file:
         print(header.format("all the advancements available for categories of units",
                             "See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit-specific advancements.",
                             version), file=adv_standard_file)
@@ -236,13 +256,15 @@ def main():
             print(file=adv_standard_file)
 
     print("Writing unit advancement information to unit_advancements.wiki")
-    with open("unit_advancements.wiki", "w") as adv_units_file:
+    with open("unit_advancements.wiki", "w", encoding="utf-8") as adv_units_file:
         print(header.format("all the advancements that are unit specific",
                             "See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.",
                             version), file=adv_units_file)
 
         for section, advs in itertools.groupby(unit_advancements, sort_by_first2):
             advs = list(advs)
+            if advs[0][0] == "Data Loaders":
+                continue
             print("==", advs[0][0], "==", file=adv_units_file)
             print("<span style='color:#808080'><i>{}</i></span>".format(advs[0][-1].replace("\n", "<br/>\n")), file=adv_units_file)
             print(file=adv_units_file)
@@ -251,7 +273,7 @@ def main():
             print(file=adv_units_file)
 
     print("Writing scenario information to scenarios.wiki")
-    with open("scenarios.wiki", "w") as scenarios_file:
+    with open("scenarios.wiki", "w", encoding="utf-8") as scenarios_file:
         print(header.format("all the scenarios",
                             "",
                             version), file=scenarios_file)
@@ -261,6 +283,8 @@ def main():
             print("== Chapter {} ==".format(scenarios[0][0]), file=scenarios_file)
             print(file=scenarios_file)
             for scenario in scenarios:
+                if (scenario[1].startswith("test")):
+                    continue
                 writer.write_scenario(*scenario, scenarios_file)
             print(file=scenarios_file)
 

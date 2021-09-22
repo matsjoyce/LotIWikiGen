@@ -30,7 +30,8 @@ wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\""),
                ("macro_open", r"(\{[^{}]+)"),
                ("pre", r"#(define|ifdef|else|endif|enddef|ifver) ?([^\n]*)"),
                ("whitespace", r"(\s+)"),
-               ("comment", r"#[^\n]*")]
+               ("comment", r"#[^\n]*"),
+               ("text", r"_?\s*\"(.*?)\"")]
 
 levels = ["EASY", "MEDIUM", "HARD"]
 
@@ -124,7 +125,6 @@ def tokenize(text, lineno, filename):
             raise RuntimeError("Can't parse {} at {}:{}".format(repr(text[:100]), filename, lineno))
 
 
-
 def preprocess(tokens):
     tokens = iter(tokens)
     for type, value, lineno in tokens:
@@ -203,6 +203,9 @@ def subparse_wml(tokens, filename, first_lineno, tag_ann="all"):
                         raise RuntimeError("EOF while parsing macro {}".format(name))
                 tag = subparse_wml(subtokens, filename, lineno, annotation)
                 tags[name].append(tag)
+        if type == "text":
+            # text translations for the special notes in the abilities file
+            tags["text"] = value
     return WMLTag(keys, tags, tag_ann, macros, "{}:{}".format(filename, first_lineno))
 
 

@@ -1,5 +1,5 @@
-This is an auto-generated wiki page listing all the scenarios currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed Oct 31 20:12:22 2018 using version git-dea189d of LotI and version 0.3.5 of the generation script.
+This is an auto-generated wiki page listing all the scenarios currently available in the campaign "Legend of the Invincibles". 
+This was generated at Tue Sep 21 22:36:25 2021 using version 3.2.6d of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -7,7 +7,7 @@ Other LotI-related wiki pages:
 
 * https://wiki.wesnoth.org/LotI_Items &ndash; items, such as weapons and books
 * https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
-* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit specific advancements
+* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit-specific advancements
 * https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
 * https://wiki.wesnoth.org/LotI_Scenarios &ndash; scenario information
 * https://wiki.wesnoth.org/DeadlyUnitsFromLotI
@@ -1066,20 +1066,6 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 7%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 7%</span><br/>
-<br/>
-=== test &ndash; Test Scenario ===
-<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 10%</span><br/>
-<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 13%</span><br/>
-<span style='color:#60A0FF'>Chance of a axe dropping is 17%</span><br/>
-<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
-<span style='color:#60A0FF'>Chance of a dagger dropping is 6%</span><br/>
-<span style='color:#60A0FF'>Chance of a knife dropping is 6%</span><br/>
-<span style='color:#60A0FF'>Chance of a mace dropping is 11%</span><br/>
-<span style='color:#60A0FF'>Chance of a spear dropping is 6%</span><br/>
-<span style='color:#60A0FF'>Chance of a staff dropping is 17%</span><br/>
-<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
-<span style='color:#60A0FF'>Chance of a xbow dropping is 6%</span><br/>
-<span style='color:#B81413'>Beelzebub will spawn at 16, 17 and will release 2 flies per turn</span><br/>
 <br/>
 
 == Chapter 7 ==

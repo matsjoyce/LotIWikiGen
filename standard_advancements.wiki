@@ -1,5 +1,5 @@
-This is an auto-generated wiki page listing all the advancements avalible for catagories of units currently avalible in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit specific advancements.
-This was generated at Wed Oct 31 20:12:22 2018 using version git-dea189d of LotI and version 0.3.5 of the generation script.
+This is an auto-generated wiki page listing all the advancements available for categories of units currently available in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit-specific advancements.
+This was generated at Tue Sep 21 22:36:25 2021 using version 3.2.6d of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -7,7 +7,7 @@ Other LotI-related wiki pages:
 
 * https://wiki.wesnoth.org/LotI_Items &ndash; items, such as weapons and books
 * https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
-* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit specific advancements
+* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit-specific advancements
 * https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
 * https://wiki.wesnoth.org/LotI_Scenarios &ndash; scenario information
 * https://wiki.wesnoth.org/DeadlyUnitsFromLotI
@@ -228,13 +228,13 @@ Other LotI-related wiki pages:
 === Possessing the Leadership of a Level 3 Unit (How to be an Overlord) &ndash; HtbaO1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement HtbaO to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: leadership level 3</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 3 unit)]]</span><br/>
 <br/>
 === Possessing the Leadership of a Level 4 Unit (How to be an Overlord) &ndash; HtbaO2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Possessing_the_Leadership_of_a_Level_3_Unit_(How_to_be_an_Overlord)_.E2.80.93_HtbaO1|HtbaO1]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: leadership level 3</span><br/>
-<span style='color:#60A0FF'>New ability: leadership level 4</span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 3 unit)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 4 unit)]]</span><br/>
 <br/>
 === Leading Allies to Charge into Battle (How to be an Overlord) &ndash; HtbaO2b ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -244,8 +244,8 @@ Other LotI-related wiki pages:
 === Possessing the Leadership of a Level 5 Unit (How to be an Overlord) &ndash; HtbaO3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Possessing_the_Leadership_of_a_Level_4_Unit_(How_to_be_an_Overlord)_.E2.80.93_HtbaO2|HtbaO2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: leadership level 4</span><br/>
-<span style='color:#60A0FF'>New ability: leadership level 5</span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 4 unit)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 5 unit)]]</span><br/>
 <br/>
 === Able to Cast Fireball (Serendipity) &ndash; Srn1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -342,13 +342,13 @@ Other LotI-related wiki pages:
 <br/>
 === Dealing More Damage After an Adjacent Ally is Hit (The Doctrine of Vindictiveness) &ndash; DoV2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements DoV and [[#Dealing_More_Damage_After_Being_Hit_(The_Doctrine_of_Vindictiveness)_.E2.80.93_DoV1|DOV1]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements DoV and [[#Dealing_More_Damage_After_Being_Hit_(The_Doctrine_of_Vindictiveness)_.E2.80.93_DoV1|DoV1]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#vindictive_.E2.80.93_dummy|vindictive]]</span><br/>
 <br/>
 === After Being Hit, Dealing More Damage to that Type (The Doctrine of Vindictiveness) &ndash; DoV3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements DoV and [[#Dealing_More_Damage_After_an_Adjacent_Ally_is_Hit_(The_Doctrine_of_Vindictiveness)_.E2.80.93_DoV2|DOV2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#vindictive_.E2.80.93_dummy|vindictive]]</span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements DoV and [[#Dealing_More_Damage_After_an_Adjacent_Ally_is_Hit_(The_Doctrine_of_Vindictiveness)_.E2.80.93_DoV2|DoV2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#unforgiving_.E2.80.93_dummy|unforgiving]]</span><br/>
 <br/>
 === 15%/5%/5%/-5% to Fire/Blade/Impact/Cold Resistance, 1 More Melee Damage (Fire Dragon Legacy) &ndash; FDL1 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
@@ -854,13 +854,13 @@ Other LotI-related wiki pages:
 === Able to Lead Allies into Battle (Leadership of a Level 4 Unit) &ndash; Leadership1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement leadership to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: leadership level 4</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 4 unit)]]</span><br/>
 <br/>
 === Able to Lead Allies into Battle (Leadership of a Level 5 Unit) &ndash; Leadership2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Lead_Allies_into_Battle_(Leadership_of_a_Level_4_Unit)_.E2.80.93_Leadership1|leadership1]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: leadership level 4</span><br/>
-<span style='color:#60A0FF'>New ability: leadership level 5</span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 4 unit)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 5 unit)]]</span><br/>
 <br/>
 === Able to Lead Allies into Battle to Fight Like Furious Savages &ndash; Leadership3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -929,52 +929,52 @@ Other LotI-related wiki pages:
 <span style='color:green'>Damage decreased by 7 for the lightning attack</span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
-=== Casting Lightnings Better &ndash; Lightning3 ===
+=== Casting Lightnings Faster &ndash; Lightning3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]] and [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]] and [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]] and [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 5 for the lightning attack</span><br/>
 <br/>
 === Using Lightnings Very Very Very Fast &ndash; Lightning4_firststrike ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the lightning attack: firststrike</span><br/>
 <span style='color:green'>Damage decreased by 3 for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 4 for the lightning attack</span><br/>
 <br/>
 === Using Lightnings Without Need to be at Good Health &ndash; Lightning5_noswarm ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] to be achieved first</i></span><br/>
 <span style='color:green'>Remove weapon special for the lightning attack: swarm</span><br/>
 <span style='color:green'>1 fewer attacks for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning6 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 3 for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Faster &ndash; Lightning6_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6|lightning6]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6|lightning6]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning7 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6|lightning6]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6|lightning6]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 2 for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Faster &ndash; Lightning7_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6|lightning6]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning7|lightning7]] and [[#Shooting_Lightnings_Faster_.E2.80.93_Lightning6_speed|lightning6_speed]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5|lightning5]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6|lightning6]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning7|lightning7]] and [[#Shooting_Lightnings_Faster_.E2.80.93_Lightning6_speed|lightning6_speed]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
@@ -1170,52 +1170,52 @@ Other LotI-related wiki pages:
 <span style='color:green'>Damage decreased by 10 for the lightning attack</span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
-=== Casting Lightnings Better &ndash; Lightning3 ===
+=== Casting Lightnings Faster &ndash; Lightning3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]] and [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]] and [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]] and [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 5 for the lightning attack</span><br/>
 <br/>
 === Using Lightnings Very Very Very Fast (Firststrike) &ndash; Lightning4_firststrike ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the lightning attack: firststrike</span><br/>
 <span style='color:green'>Damage decreased by 3 for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 4 for the lightning attack</span><br/>
 <br/>
 === Using Lightnings Without Need to be at Good Health &ndash; Lightning5_noswarm ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] to be achieved first</i></span><br/>
 <span style='color:green'>Remove weapon special for the lightning attack: swarm</span><br/>
 <span style='color:green'>1 fewer attacks for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning6 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 4 for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Faster &ndash; Lightning6_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6_2|lightning6]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6_2|lightning6]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Better &ndash; Lightning7 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6_2|lightning6]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]] and [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6_2|lightning6]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 3 for the lightning attack</span><br/>
 <br/>
 === Shooting Lightnings Faster &ndash; Lightning7_speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Better_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6_2|lightning6]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning7_2|lightning7]] and [[#Shooting_Lightnings_Faster_.E2.80.93_Lightning6_speed_2|lightning6_speed]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Capable_to_Use_Lightning_(Huge_Damage,_Few_Attacks)_.E2.80.93_Lightning1_2|lightning1]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning2_2|lightning2]], [[#Casting_Lightnings_Faster_.E2.80.93_Lightning3_2|lightning3]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning4_2|lightning4]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning5_2|lightning5]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning6_2|lightning6]], [[#Shooting_Lightnings_Better_.E2.80.93_Lightning7_2|lightning7]] and [[#Shooting_Lightnings_Faster_.E2.80.93_Lightning6_speed_2|lightning6_speed]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 2 for the lightning attack</span><br/>
 <span style='color:green'>1 more attacks for the lightning attack</span><br/>
 <br/>
@@ -1453,7 +1453,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Blast_Enemies_with_Entropic_Chaos_.E2.80.93_Entropy1|entropy1]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the entropy attack: slow</span><br/>
 <br/>
-=== Blasting Enemies with Entropy Better &ndash; Entropy2 ===
+=== Blasting Enemies with Entropy Faster &ndash; Entropy2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Blast_Enemies_with_Entropic_Chaos_.E2.80.93_Entropy1|entropy1]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 1 for the entropy attack</span><br/>
@@ -1461,22 +1461,22 @@ Other LotI-related wiki pages:
 <br/>
 === Poisoning Enemies with Entropical Blasts &ndash; Entropy2_poison ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy2|entropy2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Faster_.E2.80.93_Entropy2|entropy2]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the entropy attack: poison</span><br/>
 <br/>
-=== Blasting Enemies with Entropy Better &ndash; Entropy3 ===
+=== Blasting Enemies with Entropy Faster &ndash; Entropy3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy2|entropy2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Faster_.E2.80.93_Entropy2|entropy2]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the entropy attack</span><br/>
 <br/>
 === Dazzling Enemies with Entropical Blasts &ndash; Entropy3_dazzle ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy3|entropy3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Faster_.E2.80.93_Entropy3|entropy3]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#dazzle_.E2.80.93_dummy|dazzle]]</span><br/>
 <br/>
 === Blasting Enemies with Entropy Better &ndash; Entropy4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy3|entropy3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Faster_.E2.80.93_Entropy3|entropy3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 2 for the entropy attack</span><br/>
 <br/>
 === Maiming Enemies with Entropical Blasts &ndash; Entropy4_mayhem ===
@@ -1484,7 +1484,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy4|entropy4]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
 <br/>
-=== Blasting Enemies with Entropy Better &ndash; Entropy5 ===
+=== Blasting Enemies with Entropy Faster &ndash; Entropy5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy4|entropy4]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 1 for the entropy attack</span><br/>
@@ -1492,12 +1492,12 @@ Other LotI-related wiki pages:
 <br/>
 === Incinerating Enemies with Entropical Blasts &ndash; Entropy5_burn ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy5|entropy5]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Faster_.E2.80.93_Entropy5|entropy5]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the entropy attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <br/>
 === Blasting Enemies with Entropy Better &ndash; Entropy6 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Better_.E2.80.93_Entropy5|entropy5]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Blasting_Enemies_with_Entropy_Faster_.E2.80.93_Entropy5|entropy5]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the entropy attack</span><br/>
 <br/>
 === Turning Enemies into Zombies with Entropical Blasts &ndash; Entropy6_zombification ===
