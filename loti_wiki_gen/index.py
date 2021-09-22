@@ -56,8 +56,17 @@ class Index:
             print("BUG DETECT: Could not find advancement", name, "in", section)
 
     def query_item(self, item_name):
-        return self.item_index[item_name]
+        if item_name in self.item_index:
+            return self.item_index[item_name]
+        if self.verbose:
+            print("BUG DETECT: Could not find item", item_name)
 
+    def process_requirement(self, item_name):
+        if self.query_item(item_name.lower()):
+            return "(requires [[#{}|{}]])".format(self.query_item(item_name.lower()), item_name)
+        else:
+            return "(requires {})".format(item_name)      
+        
     def query_ability(self, ability_name):
         if ability_name in self.ability_index:
             return self.ability_index[ability_name]

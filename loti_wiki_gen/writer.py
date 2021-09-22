@@ -187,7 +187,9 @@ def ability_name(index, name, args):
         x = "regenerates ({})".format(args[0])
     elif name == "HEALS_OTHER":
         x = "heals ({})".format(args[0])
-    elif name in ("SHIELD", "DESPAIR", "CONVICTION", "FRAIL_TIDE", "UNHOLYBANE", "DEATHAURA", "CAREFUL"):
+    elif name == "LEADERSHIP_LEVEL":
+        x = "leadership (as level {} unit)".format(args[0])
+    elif name in ("SHIELD", "DESPAIR", "CONVICTION", "FRAIL_TIDE", "UNHOLYBANE", "DEATHAURA", "CAREFUL", "ANTIMAGIC"):
         x = "{} ({})".format(name.replace("_", " ").lower(), args[0])
     else:
         assert not args, name
@@ -364,7 +366,7 @@ def write_item(name, tag, file, index):
 
     for latent in tag.tags["latent"]:
         value = re.sub("\(requires ([^)]+)\)",
-                       lambda m: "(requires [[#{}|{}]])".format(index.query_item(m.group(1).lower()), m.group(1)),
+                       lambda m: index.process_requirement(m.group(1)),
                        latent.keys["desc"].any)
         write(re.sub("color='([^']+)'", "style='color:\\1'", value))
     if "description" in keys and write.writes < 3:
@@ -533,7 +535,7 @@ def write_advancement(section, name, tag, file, index):
 def write_ability(section, name, type, macro_name, tag, file, index):
     write = writer(file)
     keys = tag.keys
-    write("===", keys["name"].any, "&ndash;", type, "===", end="\n")
+    write("====", keys["name"].any, "&ndash;", type, "====", end="\n")
     write(re.sub("([^\n]+)", "<span style='color:#808080'><i>\\1</i></span>", keys["description"].any))
     write()
 

@@ -58,20 +58,24 @@ special_notes_translation = {
 
 
 def special_notes_sub(str):
-    for name, note in special_notes_translation.items():
+    for name, note in sorted(special_notes_translation.items(), key = lambda kv: -1 * len(kv[0])):
+        # substitute the names in reverse length order since some names may be substrings of another name
         str = str.replace(name, note)
     return str.replace("SPECIAL_NOTES", "\nSpecial Notes:").strip().replace("\n\n", "\n")
 
 
 def extract_abilities(start):
+    global special_notes_translation
     fname = start / "utils" / "abilities.cfg"
-    stuff = wml_parser.parse(fname.open().read(), fname, 1)
+    stuff = wml_parser.parse(fname.open(encoding="utf-8").read(), fname, 1)
     for name, (macro,) in stuff.tags.items():
         if name.startswith("ABILITY"):
             section = "Abilities"
         elif name.startswith("WEAPON_SPECIAL"):
             section = "Weapon Specials"
         else:
+            if name.startswith("SPECIAL_NOTES"):
+                special_notes_translation[name] = macro.tags["text"][0]
             continue
         for tag_type, tags in macro.tags.items():
             tags = [t for t in tags if t.keys["name"].any]
@@ -91,7 +95,7 @@ def extract_abilities(start):
 
 def extract_items(start):
     fname = start / "utils" / "item_list.cfg"
-    data = wml_parser.parse(fname.open().read(), fname, 1)
+    data = wml_parser.parse(fname.open(encoding="utf-8").read(), fname, 1)
     for tag in data.tags["ITEM_LIST"][0].tags["object"]:
         if "name" in tag.keys and "filter" not in tag.tags:
             yield tag.keys["name"].any, tag
@@ -102,7 +106,7 @@ def extract_unit_advancements(start):
         if item.is_dir():
             yield from extract_unit_advancements(item)
         elif item.suffix == ".cfg":
-            data = item.open().read()
+            data = item.open(encoding="utf-8").read()
             if "GENERIC_AMLA" in data:
                 amla_mode = "\nThis unit also has generic AMLA advancements"
             elif "SOUL_EATER_AMLA" in data:
@@ -137,7 +141,7 @@ def extract_unit_advancements(start):
 
 
 def extract_standard_advancements(fname):
-    x = wml_parser.parse(fname.open().read(), fname, 1)
+    x = wml_parser.parse(fname.open(encoding="utf-8").read(), fname, 1)
     for name, tags in x.tags.items():
         if name.endswith("ADVANCEMENTS") or name in ["ADDITIONAL_AMLA",
                                                      "LEGACY_DISCOVERY"]:
@@ -151,7 +155,7 @@ def extract_standard_advancements(fname):
 def extract_scenarios(start):
     for chapter in start.glob("scenarios*"):
         for fname in chapter.glob("*.cfg"):
-            x = wml_parser.parse(fname.open().read(), fname, 1)
+            x = wml_parser.parse(fname.open(encoding="utf-8").read(), fname, 1)
             for scenario in x.tags["scenario"]:
                 yield (int(chapter.name.replace("scenarios", "")),
                        "{} &ndash; {}".format(fname.name.split("_")[0], scenario.keys["name"].any),

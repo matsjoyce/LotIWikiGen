@@ -1,5 +1,5 @@
-This is an auto-generated wiki page listing all the abilities and weapon specials currently avalible in the campaign "Legend of the Invincibles". 
-This was generated at Wed Oct 31 20:12:22 2018 using version git-dea189d of LotI and version 0.3.5 of the generation script.
+This is an auto-generated wiki page listing all the abilities and weapon specials currently available in the campaign "Legend of the Invincibles". 
+This was generated at Tue Sep 21 22:36:25 2021 using version 3.2.6d of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -7,498 +7,519 @@ Other LotI-related wiki pages:
 
 * https://wiki.wesnoth.org/LotI_Items &ndash; items, such as weapons and books
 * https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
-* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit specific advancements
+* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit-specific advancements
 * https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
 * https://wiki.wesnoth.org/LotI_Scenarios &ndash; scenario information
 * https://wiki.wesnoth.org/DeadlyUnitsFromLotI
 
 == Abilities ==
-=== absorbs (1) &ndash; dummy ===
+=== Other ===
+==== absorbs (1) &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, it takes its regular damage, but heals 1 HP after it.</i></span><br/>
 <br/>
-=== absorbs (2) &ndash; dummy ===
+==== absorbs (2) &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, it takes its regular damage, but heals 2 HP after it.</i></span><br/>
 <br/>
-=== absorbs (3) &ndash; dummy ===
+==== absorbs (3) &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, it takes its regular damage, but heals 3 HP after it.</i></span><br/>
 <br/>
-=== absorbs (4) &ndash; dummy ===
+==== absorbs (4) &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, it takes its regular damage, but heals 4 HP after it.</i></span><br/>
 <br/>
-=== adamant &ndash; resistance ===
-<span style='color:#808080'><i>This unit’s resistances are tripled, up to a maximum of 80%, when defending. Vulnerabilities are not affected.</i></span><br/>
-<br/>
-=== alliance &ndash; leadership ===
-<span style='color:#808080'><i>This unit is very well versed in team tactics so that adjacent units with the same ability deal 35% more damage.</i></span><br/>
-<br/>
-=== anathema &ndash; leadership ===
-<span style='color:#808080'><i>This unit's behaviour is loathsome, it spreads foul smell and droplets containing neisseria gonorrhoeae. Others absolutely loathe fighting next to it. Adjacent allies deal 30% less damage.</i></span><br/>
-<br/>
-=== antisocial &ndash; leadership ===
-<span style='color:#808080'><i>This unit's manners are incredibly bad, others hate fighting next to it. Adjacent allies deal 20% less damage.</i></span><br/>
-<br/>
-=== aura of hunger &ndash; dummy ===
+==== aura of hunger &ndash; dummy ====
 <span style='color:#808080'><i>All adjacent allies gain melee drain that drains 25% of the damage dealt (instead of the usual 50%).</i></span><br/>
 <br/>
-=== blood drinking &ndash; dummy ===
+==== blood drinking &ndash; dummy ====
 <span style='color:#808080'><i>When a unit adjacent to this unit takes damage, this unit heals 5% of the damage.</i></span><br/>
 <br/>
-=== bloodbound &ndash; regenerate ===
-<span style='color:#808080'><i>The unit will heal itself 32 HP per turn if adjacent to another unit with the bloodbound ability. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
+==== cancer &ndash; dummy ====
+<span style='color:#808080'><i>This unit is poisoned at the beginning of its turn. Because it's not an attack, the <i>immune to poison</i> ability does not apply.</i></span><br/>
 <br/>
-=== burns foes (POWER) &ndash; heals ===
-<span style='color:#808080'><i>The unit singes adjacent enemies at the beginning of your turn, causing a loss of POWER HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
-<br/>
-=== cancer &ndash; dummy ===
-<span style='color:#808080'><i>This unit is poisoned at the beginning of its turn.</i></span><br/>
-<br/>
-=== cantor &ndash; dummy ===
+==== cantor &ndash; dummy ====
 <span style='color:#808080'><i>This unit grants marksman to all ranged attacks of all adjacent allies.</i></span><br/>
 <br/>
-=== careful &ndash; resistance ===
-<span style='color:#808080'><i>This unit’s resistances are increased by INTENSITY, up to a maximum of 80%, when defending. Vulnerabilities are not affected.</i></span><br/>
+==== cowardice &ndash; dummy ====
+<span style='color:#808080'><i>If this unit runs out of moves with no adjacent units, it loses its attack that turn but gains its moves back.</i></span><br/>
 <br/>
-=== conviction (INTENSITY) &ndash; resistance ===
-<span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with the guilt of their evil deeds, reducing their fire, cold and arcane resistances by INTENSITY%.</i></span><br/>
-<br/>
-=== dark aura &ndash; dummy ===
+==== dark aura &ndash; dummy ====
 <span style='color:#808080'><i>All adjacent enemies will be poisoned at the beginning of their turn.</i></span><br/>
 <br/>
-=== darkens &ndash; illuminates ===
-<span style='color:#808080'><i>This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.</i></span>
-
-<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were dusk when it is day, and as if it were night when it is dusk.</i></span><br/>
+==== evisceration &ndash; dummy ====
+<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 10 HP, and are ridden of poison and slow.</i></span><br/>
 <br/>
-=== darkens badly &ndash; illuminates ===
-<span style='color:#808080'><i>This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.</i></span>
-
-<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were dusk when it is day, as if it were night when it is dusk and the improvement of the chaotic units during the night is incredible.</i></span><br/>
+==== feeding &ndash; dummy ====
+<span style='color:#808080'><i>This unit gains 1 hitpoint added to its maximum whenever it kills a living unit.</i></span><br/>
 <br/>
-=== darkens severely &ndash; illuminates ===
-<span style='color:#808080'><i>This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.</i></span>
-
-<span style='color:#808080'><i>Any units adjacent to this unit will fight almost as if it were night when it is day, as if it were darker than the darkest night when it is dusk and the improvement of the chaotic units during the night is incredible.</i></span><br/>
+==== firecast &ndash; dummy ====
+<span style='color:#808080'><i>When this unit hits with a melee attack in offence, a randomly chosen fire spell is cast at the target.</i></span><br/>
 <br/>
-=== Deathaura &ndash; heals ===
+==== flaming radiance &ndash; dummy ====
+<span style='color:#808080'><i>All adjacent foes to this unit take fire damage every turn. At first turn, they take 8 damage and this number increases by 8 every turn they stand in the range of this ability. This ability cannot kill.</i></span><br/>
+<br/>
+==== freezing aura &ndash; dummy ====
+<span style='color:#808080'><i>All adjacent enemies will be slowed at the beginning of their turn.</i></span><br/>
+<br/>
+==== from the ashes &ndash; dummy ====
+<span style='color:#808080'><i>If this unit is attacked and its hitpoints drop below 20, it heals 40 hitpoints and deals 40 fire damage to all nearby foes. This ability can be used only once per 10 turns.</i></span><br/>
+<br/>
+==== frostbite &ndash; dummy ====
+<span style='color:#808080'><i>This unit takes 24 cold damage at the beginning of its turn.</i></span><br/>
+<br/>
+==== greater evisceration &ndash; dummy ====
+<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 16 HP, and are ridden of poison and slow.</i></span><br/>
+<br/>
+==== hate speech &ndash; dummy ====
+<span style='color:#808080'><i>When an adjacent unit offensively hits an enemy, its attack damage increases by 1. The added damage bonus halves each turn (rounded down).</i></span><br/>
+<br/>
+==== immune to drain &ndash; dummy ====
+<span style='color:#808080'><i>This unit is immune to drain.</i></span><br/>
+<br/>
+==== immune to poison &ndash; dummy ====
+<span style='color:#808080'><i>Poisonous attacks have no effect on this unit.</i></span><br/>
+<br/>
+==== innocence &ndash; dummy ====
+<span style='color:#808080'><i>Through magical means, this unit looks so innocent that attacking it causes the attacker to suffer emotional trauma that makes it deal 1 less damage for each hit. The damage decreased this way halves each turn.</i></span><br/>
+<br/>
+==== killhunger &ndash; dummy ====
+<span style='color:#808080'><i>When this unit kills another unit, it heals 4 HP, and is ridden of poison and slow.</i></span><br/>
+<br/>
+==== leeches &ndash; dummy ====
+<span style='color:#808080'><i>All adjacent enemy units to a unit with this ability lose 2 hitpoints at the beginning of this unit's turn. The damage dealt heals the unit. It cannot kill.</i></span><br/>
+<br/>
+==== lesser evisceration &ndash; dummy ====
+<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 4 HP, and are ridden of poison and slow.</i></span><br/>
+<br/>
+==== lesser redeem &ndash; dummy ====
+<span style='color:#808080'><i>When this unit attacks another unit, there is a chance that the target will be absorbed, inversely proportional to enemy level. When the redeem count reaches a certain level, the unit's properties will improve.</i></span><br/>
+<br/>
+==== martyrdom &ndash; dummy ====
+<span style='color:#808080'><i>Hatred arouses among its comrades when this unit gets hurt. For every hit this unit takes, the damage of all adjacent allies increases by 1. The damage increased this way halves each turn (rounded down).</i></span><br/>
+<br/>
+==== mockery &ndash; dummy ====
+<span style='color:#808080'><i>When an attack against this unit misses, he/she heals 2 HP.</i></span><br/>
+<br/>
+==== murderlust &ndash; dummy ====
+<span style='color:#808080'><i>When this unit kills another unit, he/she heals 8 HP.</i></span><br/>
+<br/>
+==== murderous presence &ndash; dummy ====
+<span style='color:#808080'><i>All nearby allies get melee backstab.</i></span><br/>
+<br/>
+==== necromancy &ndash; dummy ====
+<span style='color:#808080'><i>If this unit dies, it becomes a lich.</i></span><br/>
+<br/>
+==== northfrost aura &ndash; dummy ====
+<span style='color:#808080'><i>All enemies in the range of two hexes from this unit will be slowed at the beginning of their turn.</i></span><br/>
+<br/>
+==== parasite &ndash; dummy ====
+<span style='color:#808080'><i>All adjacent allies to a unit with this ability lose 4 hitpoints at the beginning of this unit's turn. The damage dealt heals the unit. It cannot kill.</i></span><br/>
+<br/>
+==== penetrates &ndash; dummy ====
+<span style='color:#808080'><i>This unit gains 1 movement after attacking, allowing it to slowly progress through ranks of enemies if it can survive their attacks.</i></span><br/>
+<br/>
+==== producer &ndash; dummy ====
+<span style='color:#808080'><i>This unit occasionally earns some gold for his side.</i></span><br/>
+<br/>
+==== push &ndash; dummy ====
+<span style='color:#808080'><i>When an ally standing next to this unit finishes attacking, it gains one movement point.</i></span><br/>
+<br/>
+==== radiating insanity &ndash; dummy ====
+<span style='color:#808080'><i>All nearby allies fight with a bloodlust equal to the dwarvish berserk.</i></span><br/>
+<br/>
+==== radiation &ndash; dummy ====
+<span style='color:#808080'><i>All nearby allies get poisonous attacks.</i></span><br/>
+<br/>
+==== reflect &ndash; dummy ====
+<span style='color:#808080'><i>When this unit is hit, an half of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
+<br/>
+==== regrowing &ndash; dummy ====
+<span style='color:#808080'><i>When this unit begins combat, offensively or defensively, it heals an amount of hitpoints equal to two times their level.</i></span><br/>
+<br/>
+==== resistant to slow &ndash; dummy ====
+<span style='color:#808080'><i>This unit has so much life energy in it, that it will break through any slowing effect almost instantly.</i></span><br/>
+<br/>
+==== retribution &ndash; dummy ====
+<span style='color:#808080'><i>When this unit is hit, an amount of fire damage equal to a quarter of the damage dealt hurts the attacker.</i></span><br/>
+<br/>
+==== soul eater &ndash; dummy ====
+<span style='color:#808080'><i>When this unit kills a certain amount of beings, it obtains special advancements.</i></span><br/>
+<br/>
+==== steals &ndash; dummy ====
+<span style='color:#808080'><i>When this unit hits an enemy with a melee attack, it has a chance to earn some gold.</i></span><br/>
+<br/>
+==== tax collector &ndash; dummy ====
+<span style='color:#808080'><i>When this unit hits an enemy, it has a chance to tax its own side and part it from some gold.</i></span><br/>
+<br/>
+==== temptation &ndash; dummy ====
+<span style='color:#808080'><i>This unit makes its enemies of opposite gender infatuated at the beginning of their turn, making them unable to attack, but able to break this charm by fleeing.</i></span><br/>
+<br/>
+==== thorns &ndash; dummy ====
+<span style='color:#808080'><i>Any unit that attacks this unit in melee suffers two points of piercing damage. Unlike reflect, it can kill.</i></span><br/>
+<br/>
+==== triggerable &ndash; dummy ====
+<span style='color:#808080'><i>This unit's attack damage increases by 1 when hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
+<br/>
+==== unforgiving &ndash; dummy ====
+<span style='color:#808080'><i>This unit's attack deals 50% additional fire damage when directly hitting a unit type that hit it in the last 5 turns. Does not work when hit by a retaliating unit.</i></span><br/>
+<br/>
+==== unholy hunger &ndash; dummy ====
+<span style='color:#808080'><i>This unit craves for the souls of living beings. When it kills a living unit, it will heal 10 HP and its maximum HP will increase by 3. When it is not fed continually, it starts to starve, and loses 1 point of maximum HP more for each turn it did not kill something at the beginning of each turn. The hunger has no effect if the unit is cared by a healer or standing in a village.</i></span><br/>
+<br/>
+==== vindictive &ndash; dummy ====
+<span style='color:#808080'><i>This unit's attack damage increases by 1 when an adjacent ally is hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
+<br/>
+==== wardrums &ndash; dummy ====
+<span style='color:#808080'><i>All adjacent members of the same side get +2 to movement at the start of their turn.</i></span><br/>
+<br/>
+==== warlord's rule &ndash; dummy ====
+<span style='color:#808080'><i>All nearby allies deal and take 50% more damage.</i></span><br/>
+<br/>
+==== weak reflect &ndash; dummy ====
+<span style='color:#808080'><i>When this unit is hit, an quarter of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
+<br/>
+==== wrath &ndash; dummy ====
+<span style='color:#808080'><i>When offensively hitting an enemy, this unit's attack damage increases by 1. The added damage bonus halves each turn (rounded down).</i></span><br/>
+<br/>
+==== zeal aura &ndash; dummy ====
+<span style='color:#808080'><i>All nearby allies get firststrike.</i></span><br/>
+<br/>
+=== heals ===
+==== Deathaura &ndash; heals ====
 <span style='color:#808080'><i>This ability causes its bearer unit to hurt adjacent enemy units at the beginning of your turn (INTENSITY damage).</i></span>
 
 <span style='color:#808080'><i>Does not affect poisoned enemies.</i></span><br/>
 <br/>
-=== despair (INTENSITY) &ndash; leadership ===
-<span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with despair, dealing INTENSITY% less damage.</i></span><br/>
+==== burns foes (POWER) &ndash; heals ====
+<span style='color:#808080'><i>The unit singes adjacent enemies at the beginning of your turn, causing a loss of POWER HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
 <br/>
-=== evisceration &ndash; dummy ===
-<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 10 HP, and are ridden of poison and slow.</i></span><br/>
-<br/>
-=== exile &ndash; resistance ===
-<span style='color:#808080'><i>This unit’s resistances are increased by 10% (up to a maximum of 70%) if it has no adjacent allies.</i></span><br/>
-<br/>
-=== feeding &ndash; dummy ===
-<span style='color:#808080'><i>This unit gains 1 hitpoint added to its maximum whenever it kills a living unit.</i></span><br/>
-<br/>
-=== firecast &ndash; dummy ===
-<span style='color:#808080'><i>When this unit hits with a melee attack in offence, a randomly chosen fire spell is cast at the target.</i></span><br/>
-<br/>
-=== flaming radiance &ndash; dummy ===
-<span style='color:#808080'><i>All adjacent foes to this unit take fire damage every turn. At first turn, they take 8 damage and this number increases by 8 every turn they stand in the range of this ability. This ability cannot kill.</i></span><br/>
-<br/>
-=== forsaken &ndash; resistance ===
-<span style='color:#808080'><i>This unit’s resistances are increased by 20% (up to a maximum of 70%) if it has no adjacent allies.</i></span><br/>
-<br/>
-=== frail tide (INTENSITY) &ndash; resistance ===
-<span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with a decrepifying feeling of age and weariness, reducing their resistances to pierce, blade and impact by INTENSITY%.</i></span><br/>
-<br/>
-=== freezing aura &ndash; dummy ===
-<span style='color:#808080'><i>All adjacent enemies will be slowed at the beginning of their turn.</i></span><br/>
-<br/>
-=== from the ashes &ndash; dummy ===
-<span style='color:#808080'><i>If this unit is attacked and its hitpoints drop bellow 20, it heals 40 hitpoints and deals 40 fire damage to all nearby foes. This ability can be used only once per 10 turns.</i></span><br/>
-<br/>
-=== frostbite &ndash; dummy ===
-<span style='color:#808080'><i>This unit takes 24 cold damage at the beginning of its turn.</i></span><br/>
-<br/>
-=== great illumination &ndash; illuminates ===
-<span style='color:#808080'><i>This unit illuminates the surrounding area, making lawful units fight better, and chaotic units fight worse.</i></span>
-
-<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were almost day when it is night, better than if it were day when it is dusk, and far better during the day (worse if they are chaotic or liminal).</i></span><br/>
-<br/>
-=== greater evisceration &ndash; dummy ===
-<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 16 HP, and are ridden of poison and slow.</i></span><br/>
-<br/>
-=== hate speech &ndash; dummy ===
-<span style='color:#808080'><i>When an adjacent unit offensively hits an enemy, its attack damage increases by 1. The added damage bonus halves each turn (rounded down).</i></span><br/>
-<br/>
-=== heals +VALUE &ndash; heals ===
+==== heals +VALUE &ndash; heals ====
 <span style='color:#808080'><i>This unit combines herbal remedies with magic to heal units more quickly than is normally possible on the battlefield.</i></span>
 
 <span style='color:#808080'><i>A unit cared for by this healer may heal up to VALUE HP per turn, or be cured of poisoning.</i></span><br/>
 <br/>
-=== immune to drain &ndash; dummy ===
-<span style='color:#808080'><i>This unit is immune to drain.</i></span><br/>
+==== unholybane (INTENSITY) &ndash; heals ====
+<span style='color:#808080'><i>The unit damages adjacent undead enemies at the beginning of your turn, causing a loss of INTENSITY HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
 <br/>
-=== immune to poison &ndash; dummy ===
-<span style='color:#808080'><i>Poisonous attacks have no effect on this unit.</i></span><br/>
-<br/>
-=== improved illumination &ndash; illuminates ===
-<span style='color:#808080'><i>This unit illuminates the surrounding area, making lawful units fight better, and chaotic units fight worse.</i></span>
-
-<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were dusk when it is night, as if it were day when it is dusk, and even better during the day (worse if they are chaotic or liminal).</i></span><br/>
-<br/>
-=== innocence &ndash; dummy ===
-<span style='color:#808080'><i>Through magical means, this unit looks so innocent that attacking it causes the attacker to suffer emotional trauma that makes it deal 1 less damage for each hit. The damage decreased this way halves each turn.</i></span><br/>
-<br/>
-=== killhunger &ndash; dummy ===
-<span style='color:#808080'><i>When this unit kills another unit, it heals 4 HP, and is ridden of poison and slow.</i></span><br/>
-<br/>
-=== leadership &ndash; leadership ===
-<span style='color:#808080'><i>This unit can lead your own units that are next to it, making them fight better.</i></span>
-
-<span style='color:#808080'><i>Adjacent own units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels.</i></span><br/>
-<br/>
-=== leeches &ndash; dummy ===
-<span style='color:#808080'><i>All adjacent enemy units to a unit with this ability lose 2 hitpoints at the beginning of this unit's turn. The damage dealt heals the unit. It cannot kill.</i></span><br/>
-<br/>
-=== lesser ambush &ndash; hides ===
+=== hides ===
+==== lesser ambush &ndash; hides ====
 <span style='color:#808080'><i>This unit can hide in forest, and remain undetected by its enemies. But only in deciduous forest.</i></span>
 
 <span style='color:#808080'><i>Enemy units cannot see this unit while it is in forest, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
-=== lesser antisocial &ndash; leadership ===
-<span style='color:#808080'><i>This unit's manners are very bad, others hate fighting next to it. Adjacent allies deal 10% less damage.</i></span><br/>
-<br/>
-=== lesser evisceration &ndash; dummy ===
-<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 4 HP, and are ridden of poison and slow.</i></span><br/>
-<br/>
-=== lesser nightstalk &ndash; hides ===
+==== lesser nightstalk &ndash; hides ====
 <span style='color:#808080'><i>The unit becomes invisible during night, but only in forests, hills, mountains and villages.</i></span>
 
 <span style='color:#808080'><i>Enemy units cannot see this unit at night, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
-=== lesser redeem &ndash; dummy ===
-<span style='color:#808080'><i>When this unit attacks another unit, there is a chance that the target will be absorbed, inversely proportional to enemy level. When the redeem count reaches a certain level, the unit's properties will improve.</i></span><br/>
-<br/>
-=== martyrdom &ndash; dummy ===
-<span style='color:#808080'><i>Hatred arouses among its comrades when this unit gets hurt. For every hit this unit takes, the damage of all adjacent allies increases by 1. The damage increased this way halves each turn (rounded down).</i></span><br/>
-<br/>
-=== mockery &ndash; dummy ===
-<span style='color:#808080'><i>When an attack against this unit misses, he/she heals 2 HP.</i></span><br/>
-<br/>
-=== murderlust &ndash; dummy ===
-<span style='color:#808080'><i>When this unit kills another unit, he/she heals 8 HP.</i></span><br/>
-<br/>
-=== murderous presence &ndash; dummy ===
-<span style='color:#808080'><i>All nearby allies get melee backstab.</i></span><br/>
-<br/>
-=== NAME (INTENSITY) &ndash; leadership ===
-<span style='color:#808080'><i>Adjacent allies will do INTENSITY% more damage.</i></span><br/>
-<br/>
-=== NAME (POWER) &ndash; resistance ===
-<span style='color:#808080'><i>This unit can rally the adjacent allies to ignore damage taken better, increasing their resistances by POWER%, up to a maximum of 80%.</i></span><br/>
-<br/>
-=== necromancy &ndash; dummy ===
-<span style='color:#808080'><i>If this unit dies, it becomes a lich.</i></span><br/>
-<br/>
-=== nocturnal ambush &ndash; hides ===
+==== nocturnal ambush &ndash; hides ====
 <span style='color:#808080'><i>The unit becomes invisible in forests, but only at night.</i></span>
 
 <span style='color:#808080'><i>Enemy units cannot see this unit at night, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
-=== northfrost aura &ndash; dummy ===
-<span style='color:#808080'><i>All enemies in the range of two hexes from this unit will be slowed at the beginning of their turn.</i></span><br/>
-<br/>
-=== parasite &ndash; dummy ===
-<span style='color:#808080'><i>All adjacent allies to a unit with this ability lose 4 hitpoints at the beginning of this unit's turn. The damage dealt heals the unit. It cannot kill.</i></span><br/>
-<br/>
-=== penetrates &ndash; dummy ===
-<span style='color:#808080'><i>This unit gains 1 movement after attacking, allowing it to slowly progress through ranks of enemies if it can survive their attacks.</i></span><br/>
-<br/>
-=== producer &ndash; dummy ===
-<span style='color:#808080'><i>This unit occasionally earns some gold for his side.</i></span><br/>
-<br/>
-=== push &ndash; dummy ===
-<span style='color:#808080'><i>When an ally standing next to this unit finishes attacking, it gains one movement point.</i></span><br/>
-<br/>
-=== radiating insanity &ndash; dummy ===
-<span style='color:#808080'><i>All nearby allies fight with a bloodlust equal to the dwarvish berserk.</i></span><br/>
-<br/>
-=== radiation &ndash; dummy ===
-<span style='color:#808080'><i>All nearby allies get poisonous attacks.</i></span><br/>
-<br/>
-=== reflect &ndash; dummy ===
-<span style='color:#808080'><i>When this unit is hit, an half of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
-<br/>
-=== regenerates (VALUE) &ndash; regenerate ===
-<span style='color:#808080'><i>The unit will heal itself VALUE HP per turn. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
-<br/>
-=== regenerates slightly &ndash; regenerate ===
-<span style='color:#808080'><i>The unit will heal itself 4 HP per turn. If it is poisoned, these two effects will negate themselves.</i></span><br/>
-<br/>
-=== regrowing &ndash; dummy ===
-<span style='color:#808080'><i>When this unit begins combat, offensively or defensively, it heals an amount of hitpoints equal to two times their level.</i></span><br/>
-<br/>
-=== resistant to slow &ndash; dummy ===
-<span style='color:#808080'><i>This unit has so much life energy in it, that it will break through any slowing effect almost instantly.</i></span><br/>
-<br/>
-=== retribution &ndash; dummy ===
-<span style='color:#808080'><i>When this unit is hit, an amount of fire damage equal to a quarter of the damage dealt hurts the attacker.</i></span><br/>
-<br/>
-=== shield (INTENSITY) &ndash; resistance ===
-<span style='color:#808080'><i>This unit's presence is so glorious that all adjacent allies are honoured and inspired by them, increasing their resistances by INTENSITY%, up to a maximum of 60%.</i></span><br/>
-<br/>
-=== snow ambush &ndash; hides ===
+==== snow ambush &ndash; hides ====
 <span style='color:#808080'><i>This unit can hide on frozen terrains, and remain undetected by its enemies.</i></span>
 
 <span style='color:#808080'><i>Enemy units cannot see this unit while it is on frozen terrains, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
-=== soul eater &ndash; dummy ===
-<span style='color:#808080'><i>When this unit kills a certain amount of beings, it obtains special advancements.</i></span><br/>
-<br/>
-=== spell eater &ndash; resistance ===
-<span style='color:#808080'><i>This unit feeds on nearby magical energies, increasing nearby allied units' arcane resistance by 100% and grows stronger when a nearby allied unit is hit with arcane, fire or cold damage.</i></span><br/>
-<br/>
-=== steals &ndash; dummy ===
-<span style='color:#808080'><i>When this unit hits an enemy with a melee attack, it has a chance to earn some gold.</i></span><br/>
-<br/>
-=== tax collector &ndash; dummy ===
-<span style='color:#808080'><i>When this unit hits an enemy, it has a chance to tax its side and part it from some gold.</i></span><br/>
-<br/>
-=== temptation &ndash; dummy ===
-<span style='color:#808080'><i>This unit makes its enemies of opposite gender infatuated at the beginning of their turn, making them unable to attack, but able to break this charm by fleeing.</i></span><br/>
-<br/>
-=== thorns &ndash; dummy ===
-<span style='color:#808080'><i>Any unit that attacks this unit in melee suffers two points of piercing damage. Unlike reflect, it can kill.</i></span><br/>
-<br/>
-=== triggerable &ndash; dummy ===
-<span style='color:#808080'><i>This unit's attack damage increases by 1 when hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
-<br/>
-=== twilightstalk &ndash; hides ===
+==== twilightstalk &ndash; hides ====
 <span style='color:#808080'><i>The unit becomes invisible during dawn or dusk, hiding in long shadows created by the sun near the horizont.</i></span>
 
 <span style='color:#808080'><i>Enemy units cannot see this unit during dawn or dusk, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
-=== unforgiving &ndash; dummy ===
-<span style='color:#808080'><i>This unit's attack deals 50% additional fire damage when directly hitting a unit type that hit it in the last 5 turns. Does not work when hit by a retaliating unit.</i></span><br/>
+=== illuminates ===
+==== darkens &ndash; illuminates ====
+<span style='color:#808080'><i>This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.</i></span>
+
+<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were dusk when it is day, and as if it were night when it is dusk.</i></span><br/>
 <br/>
-=== unholy hunger &ndash; dummy ===
-<span style='color:#808080'><i>This unit craves for the souls of living beings. When it kills a living unit, it will heal 10 HP and its maximum HP will increase by 3. When it is not fed continually, it starts to starve, and loses 1 point of maximum HP more for each turn it did not kill something at the beginning of each turn. The hunger has no effect if the unit is cared by a healer or standing in a village.</i></span><br/>
+==== darkens badly &ndash; illuminates ====
+<span style='color:#808080'><i>This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.</i></span>
+
+<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were dusk when it is day, as if it were night when it is dusk and the improvement of the chaotic units during the night is incredible.</i></span><br/>
 <br/>
-=== unholybane (INTENSITY) &ndash; heals ===
-<span style='color:#808080'><i>The unit damages adjacent undead enemies at the beginning of your turn, causing a loss of INTENSITY HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
+==== darkens severely &ndash; illuminates ====
+<span style='color:#808080'><i>This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.</i></span>
+
+<span style='color:#808080'><i>Any units adjacent to this unit will fight almost as if it were night when it is day, as if it were darker than the darkest night when it is dusk and the improvement of the chaotic units during the night is incredible.</i></span><br/>
 <br/>
-=== unyielding &ndash; resistance ===
+==== great illumination &ndash; illuminates ====
+<span style='color:#808080'><i>This unit illuminates the surrounding area, making lawful units fight better, and chaotic units fight worse.</i></span>
+
+<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were almost day when it is night, better than if it were day when it is dusk, and far better during the day (worse if they are chaotic or liminal).</i></span><br/>
+<br/>
+==== improved illumination &ndash; illuminates ====
+<span style='color:#808080'><i>This unit illuminates the surrounding area, making lawful units fight better, and chaotic units fight worse.</i></span>
+
+<span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were dusk when it is night, as if it were day when it is dusk, and even better during the day (worse if they are chaotic or liminal).</i></span><br/>
+<br/>
+=== leadership ===
+==== NAME (INTENSITY) &ndash; leadership ====
+<span style='color:#808080'><i>Adjacent allies will do INTENSITY% more damage.</i></span><br/>
+<br/>
+==== alliance &ndash; leadership ====
+<span style='color:#808080'><i>This unit is very well versed in team tactics so that adjacent units with the same ability deal 35% more damage.</i></span><br/>
+<br/>
+==== anathema &ndash; leadership ====
+<span style='color:#808080'><i>This unit's behaviour is loathsome, it spreads foul smell and droplets containing neisseria gonorrhoeae. Others absolutely loathe fighting next to it. Adjacent allies deal 30% less damage.</i></span><br/>
+<br/>
+==== antisocial &ndash; leadership ====
+<span style='color:#808080'><i>This unit's manners are incredibly bad, others hate fighting next to it. Adjacent allies deal 20% less damage.</i></span><br/>
+<br/>
+==== despair (INTENSITY) &ndash; leadership ====
+<span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with despair, dealing INTENSITY% less damage.</i></span><br/>
+<br/>
+==== leadership (as level LEVEL unit) &ndash; leadership ====
+<span style='color:#808080'><i>This unit can lead your own units that are next to it, making them fight better.</i></span>
+
+<span style='color:#808080'><i>Adjacent own units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels.</i></span><br/>
+<br/>
+==== lesser antisocial &ndash; leadership ====
+<span style='color:#808080'><i>This unit's manners are very bad, others hate fighting next to it. Adjacent allies deal 10% less damage.</i></span><br/>
+<br/>
+=== regenerate ===
+==== bloodbound &ndash; regenerate ====
+<span style='color:#808080'><i>The unit will heal itself 32 HP per turn if adjacent to another unit with the bloodbound ability. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
+<br/>
+==== regenerates (VALUE) &ndash; regenerate ====
+<span style='color:#808080'><i>The unit will heal itself VALUE HP per turn. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
+<br/>
+==== regenerates slightly &ndash; regenerate ====
+<span style='color:#808080'><i>The unit will heal itself 4 HP per turn. If it is poisoned, these two effects will negate themselves.</i></span><br/>
+<br/>
+=== resistance ===
+==== NAME (POWER) &ndash; resistance ====
+<span style='color:#808080'><i>This unit can rally the adjacent allies to ignore damage taken better, increasing their resistances by POWER%, up to a maximum of 80%.</i></span><br/>
+<br/>
+==== adamant &ndash; resistance ====
+<span style='color:#808080'><i>This unit’s resistances are tripled, up to a maximum of 80%, when defending. Vulnerabilities are not affected.</i></span><br/>
+<br/>
+==== antimagic (INTENSITY) &ndash; resistance ====
+<span style='color:#808080'><i>This unit's presence weakens surrounding magic, increasing resistances of oneself and any nearby units by INTENSITY%, up to a maximum of 80%.</i></span><br/>
+<br/>
+==== careful &ndash; resistance ====
+<span style='color:#808080'><i>This unit’s resistances are increased by INTENSITY, up to a maximum of 80%, when defending. Vulnerabilities are not affected.</i></span><br/>
+<br/>
+==== conviction (INTENSITY) &ndash; resistance ====
+<span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with the guilt of their evil deeds, reducing their fire, cold and arcane resistances by INTENSITY%.</i></span><br/>
+<br/>
+==== exile &ndash; resistance ====
+<span style='color:#808080'><i>This unit’s resistances are increased by 10% (up to a maximum of 70%) if it has no adjacent allies.</i></span><br/>
+<br/>
+==== forsaken &ndash; resistance ====
+<span style='color:#808080'><i>This unit’s resistances are increased by 20% (up to a maximum of 70%) if it has no adjacent allies.</i></span><br/>
+<br/>
+==== frail tide (INTENSITY) &ndash; resistance ====
+<span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with a decrepifying feeling of age and weariness, reducing their resistances to pierce, blade and impact by INTENSITY%.</i></span><br/>
+<br/>
+==== shield (INTENSITY) &ndash; resistance ====
+<span style='color:#808080'><i>This unit's presence is so glorious that all adjacent allies are honoured and inspired by them, increasing their resistances by INTENSITY%, up to a maximum of 60%.</i></span><br/>
+<br/>
+==== spell eater &ndash; resistance ====
+<span style='color:#808080'><i>This unit feeds on nearby magical energies, increasing nearby allied units' arcane resistance by 100% and grows stronger when a nearby allied unit is hit with arcane, fire or cold damage.</i></span><br/>
+<br/>
+==== unyielding &ndash; resistance ====
 <span style='color:#808080'><i>This unit’s resistances are doubled, up to a maximum of 70%, when defending. Vulnerabilities are not affected.</i></span><br/>
 <br/>
-=== vindictive &ndash; dummy ===
-<span style='color:#808080'><i>This unit's attack damage increases by 1 when an adjacent ally is hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
-<br/>
-=== wardrums &ndash; dummy ===
-<span style='color:#808080'><i>All adjacent members of the same side get +2 to movement at the start of their turn.</i></span><br/>
-<br/>
-=== warlord's rule &ndash; dummy ===
-<span style='color:#808080'><i>All nearby allies deal and take 50% more damage.</i></span><br/>
-<br/>
-=== weak reflect &ndash; dummy ===
-<span style='color:#808080'><i>When this unit is hit, an quarter of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
-<br/>
-=== wrath &ndash; dummy ===
-<span style='color:#808080'><i>When offensively hitting an enemy, this unit's attack damage increases by 1. The added damage bonus halves each turn (rounded down).</i></span><br/>
-<br/>
-=== zeal &ndash; resistance ===
+==== zeal &ndash; resistance ====
 <span style='color:#808080'><i>This unit's resistances are doubled, up to a maximum of 70%, when attacking. Vulnerabilities are not affected.</i></span><br/>
 <br/>
-=== zeal aura &ndash; dummy ===
-<span style='color:#808080'><i>All nearby allies get firststrike.</i></span><br/>
-<br/>
 == Weapon Specials ==
-=== anarchy &ndash; damage ===
-<span style='color:#808080'><i>This attack does 50% more damage to lawful units.</i></span><br/>
-<br/>
-=== anger &ndash; attacks ===
-<span style='color:#808080'><i>When used offensively, this attack doubles the attacks done by both attacker and defender.</i></span><br/>
-<br/>
-=== chaos &ndash; chance_to_hit ===
-<span style='color:#808080'><i>When used defensively, this attacks damages all surrounding foes for a half of the damage, and it always has a 70% chance to hit regardless of the defensive ability of the attacking unit. Whether in defence or on attack, it is so tiring that the unit's damage decreases by 2 afterwards and then halves with each turn.</i></span><br/>
-<br/>
-=== chaotic &ndash; damage ===
-<span style='color:#808080'><i>This attack is 25% better at night and 25% worse at day.</i></span><br/>
-<br/>
-=== chaotic and lawful &ndash; damage ===
-<span style='color:#808080'><i>This attack is 25% better at night. This attack is 25% better at day.</i></span><br/>
-<br/>
-=== charge &ndash; damage ===
-<span style='color:#808080'><i>When used offensively, this attack deals multiplied damage to the target. It also causes this unit to take multiplied damage from the target's counterattack.</i></span><br/>
-<br/>
-=== charging backstab &ndash; damage ===
-<span style='color:#808080'><i>When used offensively, this attack deals double damage to the target if the target is facing backwards to the attacker. It also causes this unit to take double damage from the target’s counterattack.</i></span><br/>
-<br/>
-=== cleave &ndash; damage ===
-<span style='color:#808080'><i>This attack will hit additional enemies in the two hexes that are adjacent to both the attacker and defender, in a crescent moon shape, for 50% of the original damage. It is so tiring that the unit's damage decreases by 2 after the attack, the damage penalty will half each turn.</i></span><br/>
-<br/>
-=== cone &ndash; dummy ===
+=== Other ===
+==== cone &ndash; dummy ====
 <span style='color:#808080'><i>With this attack enemies next to attacker and target suffer 1/2 the damage. The foe behind the defender takes 1/2 of the damage too, while their adjacent comrades take 1/4 of it. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
-=== dazzle &ndash; dummy ===
+==== dazzle &ndash; dummy ====
 <span style='color:#808080'><i>This weapon special limits the target's chance to hit to 50% for one turn.</i></span><br/>
 <br/>
-=== disintegrate &ndash; damage ===
-<span style='color:#808080'><i>Every blow with this weapon has a 2% chance to kill an enemy without any checks.</i></span><br/>
-<br/>
-=== distant attack &ndash; attacks ===
-<span style='color:#808080'><i>When this attack is used, the enemy will not counter.</i></span><br/>
-<br/>
-=== doom &ndash; dummy ===
+==== doom &ndash; dummy ====
 <span style='color:#808080'><i>If this attack hits, opponent's resistances will drop by 5% until he advances.</i></span><br/>
 <br/>
-=== explosive &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used, all enemies adjacent to the target take 75% of the damage, and even those behind them will take a few if the damage is sufficiently high. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
-<br/>
-=== explosive damage &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used offensively, all units adjacent to the target take 10 damage.</i></span><br/>
-<br/>
-=== explosive leech &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used, all enemies next to the target take 1/4 of the damage the target was dealt and the life is added to the caster's health. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn.</i></span><br/>
-<br/>
-=== explosive slow &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used, all enemies adjacent to a target are slowed.</i></span><br/>
-<br/>
-=== explosive unprotected &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used, all units adjacent to the target take 75% of the damage, including allies. It is so tiring that the unit's damage decreases by 8 after the attack, the damage penalty will half each turn.</i></span><br/>
-<br/>
-=== extra damage (+5; impact) &ndash; dummy ===
+==== extra damage (+5; impact) &ndash; dummy ====
 <span style='color:#808080'><i>After the damage with this weapon is dealt, the target takes 5 points of impact damage, that is unaffected by charge or slow.</i></span><br/>
 <br/>
-=== focused &ndash; chance_to_hit ===
-<span style='color:#808080'><i>This attack always has at least a 80% chance to hit.</i></span><br/>
-<br/>
-=== greater backstab &ndash; damage ===
-<span style='color:#808080'><i>When used offensively, this attack deals 2.5 times more damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed).</i></span><br/>
-<br/>
-=== greater infect &ndash; poison ===
-<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Soulless.</i></span><br/>
-<br/>
-=== guided &ndash; chance_to_hit ===
-<span style='color:#808080'><i>This attack always has an 90% chance to hit, regardless of the defensive ability of the defending unit.</i></span><br/>
-<br/>
-=== hit and run &ndash; dummy ===
+==== hit and run &ndash; dummy ====
 <span style='color:#808080'><i>When this attack is used, the unit regains half of its max MP.</i></span><br/>
 <br/>
-=== horrid &ndash; dummy ===
+==== horrid &ndash; dummy ====
 <span style='color:#808080'><i>When this attack is used offensively, the damage of retaliation attacks is decreased by 33%.</i></span><br/>
 <br/>
-=== hose &ndash; dummy ===
+==== hose &ndash; dummy ====
 <span style='color:#808080'><i>If this attack us used, many enemies behind and around the original target are hit. It is so tiring that the unit's damage decreases by 12 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
-=== iceform &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used, the user is transformed into a moving block of ice, taking 33% less cold, pierce and blade damage. It works both offensively and defensively.</i></span><br/>
-<br/>
-=== imprecise &ndash; chance_to_hit ===
-<span style='color:#808080'><i>This attack has a 10% lower chance to hit.</i></span><br/>
-<br/>
-=== incinerate &ndash; dummy ===
+==== incinerate &ndash; dummy ====
 <span style='color:#808080'><i>This attack incinerates its targets. Burning units lose 16 HP every turn until they are cured. Flames can kill a unit, the attacker that incinerated the unit gets the experience.</i></span><br/>
 <br/>
-=== infect &ndash; poison ===
-<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Walking Corpse.</i></span><br/>
-<br/>
-=== kamikaze sprint &ndash; damage ===
-<span style='color:#808080'><i>If this attack hits offensively, the attacker first takes the damage of all the opponent's attacks. Then, the enemy behind the target takes a half of this attack's damage, the enemy behind him takes a quarter of the initial damage etc, until there are no more enemies in the row, and the attacker will appear there. If the opponent's damage would kill, the weapon special does not work.</i></span><br/>
-<br/>
-=== knockback &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used offensively, at the end of the fight the enemy will be knocked back.</i></span><br/>
-<br/>
-=== lawful &ndash; damage ===
-<span style='color:#808080'><i>This attack is 25% better at day and 25% worse at night.</i></span><br/>
-<br/>
-=== leeches &ndash; damage ===
-<span style='color:#808080'><i>This is similar to the drains ability, but it drains only 1/10 of the damage inflicted but it can leech also the magic bound in the undeath of non-living foes.</i></span><br/>
-<br/>
-=== lesser berserk (COUNT) &ndash; berserk ===
-<span style='color:#808080'><i>Whether used offensively or defensively, this attack presses the engagement until one of the combatants is slain, or COUNT rounds of attacks have occurred.</i></span><br/>
-<br/>
-=== lesser lethargy &ndash; dummy ===
+==== lesser lethargy &ndash; dummy ====
 <span style='color:#808080'><i>When hitting an enemy, the opponent's attack damage decreases by 1. The reduction of damage bonus halves each turn (rounded down).</i></span><br/>
 <br/>
-=== lethargy &ndash; dummy ===
+==== lethargy &ndash; dummy ====
 <span style='color:#808080'><i>When hitting an enemy, the opponent's attack damage decreases by 2. The reduction of damage bonus halves each turn (rounded down).</i></span><br/>
 <br/>
-=== lord of the flies &ndash; damage ===
-<span style='color:#808080'><i>This attack does quadruple damage to flies.</i></span><br/>
-<br/>
-=== lurk &ndash; damage ===
-<span style='color:#808080'><i>When used offensively and the target is not adjacent to any of its allies, it deals double damage to the target.</i></span><br/>
-<br/>
-=== mayhem &ndash; dummy ===
+==== mayhem &ndash; dummy ====
 <span style='color:#808080'><i>If this attack hits, opponent's damage is lowered by 1, until he advances.</i></span><br/>
 <br/>
-=== mind raid &ndash; dummy ===
-<span style='color:#808080'><i>This weapon special steals 1 experience from the opponent, increasing the user's experience. It does not work if the target has no experience.</i></span><br/>
+==== mind raid &ndash; dummy ====
+<span style='color:#808080'><i>This weapon special steals 2 experience from the opponent, increasing the user's experience. It does not work if the target does not have enough experience.</i></span><br/>
 <br/>
-=== misanthropia &ndash; damage ===
-<span style='color:#808080'><i>This attack does double damage to humans.</i></span><br/>
-<br/>
-=== misdraconia &ndash; damage ===
-<span style='color:#808080'><i>This attack does double damage to drakes and dragons.</i></span><br/>
-<br/>
-=== misdryadia &ndash; damage ===
-<span style='color:#808080'><i>This attack does double damage to elves.</i></span><br/>
-<br/>
-=== misnania &ndash; damage ===
-<span style='color:#808080'><i>This attack does double damage to dwarves.</i></span><br/>
-<br/>
-=== misorcia &ndash; damage ===
-<span style='color:#808080'><i>This attack does double damage to orcs.</i></span><br/>
-<br/>
-=== nosferatu's gorge &ndash; damage ===
-<span style='color:#808080'><i>Every blow with this attack has a chance to add all the victims' remaining hitpoints to the attacker's hitpoints, killing the victim. The chance depends on victim's level. Works only in offence.</i></span><br/>
-<br/>
-=== parry &ndash; dummy ===
+==== parry &ndash; dummy ====
 <span style='color:#808080'><i>When the target misses, the attacker will hit him without any checks.</i></span><br/>
 <br/>
-=== pierce &ndash; dummy ===
+==== pierce &ndash; dummy ====
 <span style='color:#808080'><i>If this attack is used, the enemy behind the target is hurt as well, for 1/2 of the damage. The user loses 2 damage points after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
-=== plague (LANGUAGE_TYPE) &ndash; plague ===
-<span style='color:#808080'><i>When a unit is killed by a Plague attack, that unit is replaced with a unit on the same side as the unit with the Plague attack. This doesn’t work on Undead or units in villages.</i></span><br/>
-<br/>
-=== purify &ndash; dummy ===
+==== purify &ndash; dummy ====
 <span style='color:#808080'><i>When an undead unit is killed by this attack, it becomes living again.</i></span><br/>
 <br/>
-=== quickstrike &ndash; attacks ===
-<span style='color:#808080'><i>When this attack is used, the attacker loses no movement. However, this does not give back the movement lost due to entering a unit's ZoC.</i></span><br/>
-<br/>
-=== Raijer's saloon &ndash; damage ===
-<span style='color:#808080'><i>Every blow with this attack has a chance to add all the victims' hitpoints to the hitpoints of attacker and attacker's nearby allies (divided by the number of healed units), killing the victim. The chance depends on victim's level. Works only in offence.</i></span><br/>
-<br/>
-=== shockwave &ndash; slow ===
-<span style='color:#808080'><i>This attack is so strong that it slows the target, and creates a shock wave that knocks all enemies adjacent to the target 1 hex away from it, and causes them to take 8 impact damage. When used defensively, it only slows the attacker.</i></span><br/>
-<br/>
-=== soul annihilation &ndash; damage ===
-<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, dealing arcane damage to nearby enemies, the damage is the amount of victim's remaining health divided by the number of nearby enemies with arcane damage.</i></span><br/>
-<br/>
-=== soul extraction &ndash; damage ===
-<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, summoning a Ghost in the process.</i></span><br/>
-<br/>
-=== soul thrash &ndash; damage ===
-<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, adding the victims' level to the attacker's wrath (increasing the damage temporarily, the increase is halved every turn). Works only offensively.</i></span><br/>
-<br/>
-=== spiritual attack &ndash; damage ===
-<span style='color:#808080'><i>When this attack is used, the damage of physical retaliation attacks is divided by 3.</i></span><br/>
-<br/>
-=== storm &ndash; dummy ===
+==== storm &ndash; dummy ====
 <span style='color:#808080'><i>The damage of this attack will affect also a lot of other enemy units around the caster, and will also deal some impact damage. It is so tiring that the unit's damage decreases by 12 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
-=== struggle &ndash; chance_to_hit ===
-<span style='color:#808080'><i>This attack causes the opponent to have a 10% lower chance to hit.</i></span><br/>
-<br/>
-=== trickery &ndash; dummy ===
+==== trickery &ndash; dummy ====
 <span style='color:#808080'><i>If this attack hits offensively, opponent's defence on all terrains is lowered by 5%, until he advances.</i></span><br/>
 <br/>
-=== uber backstab &ndash; damage ===
+=== attacks ===
+==== anger &ndash; attacks ====
+<span style='color:#808080'><i>When used offensively, this attack doubles the attacks done by both attacker and defender.</i></span><br/>
+<br/>
+==== distant attack &ndash; attacks ====
+<span style='color:#808080'><i>When this attack is used, the enemy will not counter.</i></span><br/>
+<br/>
+==== quickstrike &ndash; attacks ====
+<span style='color:#808080'><i>When this attack is used, the attacker loses no movement. However, this does not give back the movement lost due to entering a unit's ZoC.</i></span><br/>
+<br/>
+==== whirlwind &ndash; attacks ====
+<span style='color:#808080'><i>When this attack is used, all enemies adjacent the attacker take the damage and the enemy cannot retaliate. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
+<br/>
+=== berserk ===
+==== lesser berserk (COUNT) &ndash; berserk ====
+<span style='color:#808080'><i>Whether used offensively or defensively, this attack presses the engagement until one of the combatants is slain, or COUNT rounds of attacks have occurred.</i></span><br/>
+<br/>
+=== chance_to_hit ===
+==== chaos &ndash; chance_to_hit ====
+<span style='color:#808080'><i>When used defensively, this attacks damages all surrounding foes for a half of the damage, and it always has a 70% chance to hit regardless of the defensive ability of the attacking unit. Whether in defence or on attack, it is so tiring that the unit's damage decreases by 2 afterwards and then halves with each turn.</i></span><br/>
+<br/>
+==== focused &ndash; chance_to_hit ====
+<span style='color:#808080'><i>This attack always has at least a 80% chance to hit.</i></span><br/>
+<br/>
+==== guided &ndash; chance_to_hit ====
+<span style='color:#808080'><i>This attack always has an 90% chance to hit, regardless of the defensive ability of the defending unit.</i></span><br/>
+<br/>
+==== imprecise &ndash; chance_to_hit ====
+<span style='color:#808080'><i>This attack has a 10% lower chance to hit.</i></span><br/>
+<br/>
+==== struggle &ndash; chance_to_hit ====
+<span style='color:#808080'><i>This attack causes the opponent to have a 10% lower chance to hit.</i></span><br/>
+<br/>
+=== damage ===
+==== Raijer's saloon &ndash; damage ====
+<span style='color:#808080'><i>Every blow with this attack has a chance to add all the victims' hitpoints to the hitpoints of attacker and attacker's nearby allies (divided by the number of healed units), killing the victim. The chance depends on victim's level. Works only in offence.</i></span><br/>
+<br/>
+==== anarchy &ndash; damage ====
+<span style='color:#808080'><i>This attack does 50% more damage to lawful units.</i></span><br/>
+<br/>
+==== chaotic &ndash; damage ====
+<span style='color:#808080'><i>This attack is 25% better at night and 25% worse at day.</i></span><br/>
+<br/>
+==== chaotic and lawful &ndash; damage ====
+<span style='color:#808080'><i>This attack is 25% better at night. This attack is 25% better at day.</i></span><br/>
+<br/>
+==== charge &ndash; damage ====
+<span style='color:#808080'><i>When used offensively, this attack deals multiplied damage to the target. It also causes this unit to take multiplied damage from the target's counterattack.</i></span><br/>
+<br/>
+==== charging backstab &ndash; damage ====
+<span style='color:#808080'><i>When used offensively, this attack deals double damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed). It also causes this unit to take double damage from the target’s counterattack.</i></span><br/>
+<br/>
+==== cleave &ndash; damage ====
+<span style='color:#808080'><i>This attack will hit additional enemies in the two hexes that are adjacent to both the attacker and defender, in a crescent moon shape, for 50% of the original damage. It is so tiring that the unit's damage decreases by 2 after the attack, the damage penalty will half each turn.</i></span><br/>
+<br/>
+==== disintegrate &ndash; damage ====
+<span style='color:#808080'><i>Every blow with this weapon has a 2% chance to kill an enemy without any checks.</i></span><br/>
+<br/>
+==== explosive &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used, all enemies adjacent to the target take 75% of the damage, and even those behind them will take a few if the damage is sufficiently high. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
+<br/>
+==== explosive damage &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used offensively, all units adjacent to the target take 10 damage.</i></span><br/>
+<br/>
+==== explosive leech &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used, all enemies next to the target take 1/4 of the damage the target was dealt and the life is added to the caster's health. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn.</i></span><br/>
+<br/>
+==== explosive slow &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used, all enemies adjacent to a target are slowed.</i></span><br/>
+<br/>
+==== explosive unprotected &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used, all units adjacent to the target take 75% of the damage, including allies. It is so tiring that the unit's damage decreases by 8 after the attack, the damage penalty will half each turn.</i></span><br/>
+<br/>
+==== greater backstab &ndash; damage ====
+<span style='color:#808080'><i>When used offensively, this attack deals 2.5 times more damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed).</i></span><br/>
+<br/>
+==== iceform &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used, the user is transformed into a moving block of ice, taking 33% less cold, pierce and blade damage. It works both offensively and defensively.</i></span><br/>
+<br/>
+==== kamikaze sprint &ndash; damage ====
+<span style='color:#808080'><i>If this attack hits offensively, the attacker first takes the damage of all the opponent's attacks. Then, the enemy behind the target takes a half of this attack's damage, the enemy behind him takes a quarter of the initial damage etc, until there are no more enemies in the row, and the attacker will appear there. If the opponent's damage would kill, the weapon special does not work.</i></span><br/>
+<br/>
+==== knockback &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used offensively, at the end of the fight the enemy will be knocked back.</i></span><br/>
+<br/>
+==== lawful &ndash; damage ====
+<span style='color:#808080'><i>This attack is 25% better at day and 25% worse at night.</i></span><br/>
+<br/>
+==== leeches &ndash; damage ====
+<span style='color:#808080'><i>This is similar to the drains ability, but it drains only 1/10 of the damage inflicted but it can leech also the magic bound in the undeath of non-living foes.</i></span><br/>
+<br/>
+==== lord of the flies &ndash; damage ====
+<span style='color:#808080'><i>This attack does quadruple damage to flies.</i></span><br/>
+<br/>
+==== lurk &ndash; damage ====
+<span style='color:#808080'><i>When used offensively and the target is not adjacent to any of its allies, it deals double damage to the target.</i></span><br/>
+<br/>
+==== misanthropia &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to humans.</i></span><br/>
+<br/>
+==== misdraconia &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to drakes and dragons.</i></span><br/>
+<br/>
+==== misdryadia &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to elves.</i></span><br/>
+<br/>
+==== misnania &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to dwarves.</i></span><br/>
+<br/>
+==== misorcia &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to orcs.</i></span><br/>
+<br/>
+==== nosferatu's gorge &ndash; damage ====
+<span style='color:#808080'><i>Every blow with this attack has a chance to add all the victims' remaining hitpoints to the attacker's hitpoints, killing the victim. The chance depends on victim's level. Works only in offence.</i></span><br/>
+<br/>
+==== soul annihilation &ndash; damage ====
+<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, dealing arcane damage to nearby enemies, the damage is the amount of victim's remaining health divided by the number of nearby enemies with arcane damage.</i></span><br/>
+<br/>
+==== soul extraction &ndash; damage ====
+<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, summoning a Ghost in the process.</i></span><br/>
+<br/>
+==== soul thrash &ndash; damage ====
+<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, adding the victims' level to the attacker's wrath (increasing the damage temporarily, the increase is halved every turn). Works only offensively.</i></span><br/>
+<br/>
+==== spiritual attack &ndash; damage ====
+<span style='color:#808080'><i>When this attack is used, the damage of physical retaliation attacks is divided by 3.</i></span><br/>
+<br/>
+==== uber backstab &ndash; damage ====
 <span style='color:#808080'><i>When used offensively, this attack deals triple damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed).</i></span><br/>
 <br/>
-=== unholybane &ndash; damage ===
+==== unholybane &ndash; damage ====
 <span style='color:#808080'><i>This attack does triple damage to undead (also other non-monster creations of magic).</i></span><br/>
 <br/>
-=== whirlwind &ndash; attacks ===
-<span style='color:#808080'><i>When this attack is used, all enemies adjacent the attacker take the damage and the enemy cannot retaliate. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
+=== plague ===
+==== plague (LANGUAGE_TYPE) &ndash; plague ====
+<span style='color:#808080'><i>When a unit is killed by a Plague attack, that unit is replaced with a unit on the same side as the unit with the Plague attack. This doesn’t work on Undead or units in villages.</i></span><br/>
+<br/>
+=== poison ===
+==== greater infect &ndash; poison ====
+<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Soulless.</i></span><br/>
+<br/>
+==== infect &ndash; poison ====
+<span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Walking Corpse.</i></span><br/>
+<br/>
+=== slow ===
+==== shockwave &ndash; slow ====
+<span style='color:#808080'><i>This attack is so strong that it slows the target, and creates a shock wave that knocks all enemies adjacent to the target 1 hex away from it, and causes them to take 8 impact damage. When used defensively, it only slows the attacker.</i></span><br/>
 <br/>
