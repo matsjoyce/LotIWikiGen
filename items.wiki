@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently available in the campaign "Legend of the Invincibles". 
-This was generated at Tue Sep 21 22:36:25 2021 using version 3.2.6d of LotI and version 0.3.5.1 of the generation script.
+This was generated at Wed Sep 22 20:59:16 2021 using version git-24b4ead of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -272,7 +272,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]]</span><br/>
 <br/>
 === Herod's Mithral Armour &ndash; armour ===
-<span style='color:#808080'><i>He was a poweful ruler, but he was not very righteous. No wonder that his cousin dethroned him.</i></span><br/>
+<span style='color:#808080'><i>He was a powerful ruler, but he was not very righteous. No wonder that his cousin dethroned him.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
@@ -638,7 +638,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <br/>
 === Unholy Axe &ndash; axe ===
-<span style='color:#808080'><i>Use the lightbeam spell. It kills anything unholy enough.</i></span><br/>
+<span style='color:#808080'><i>You, comrade with that Unholy Axe, position yourself as far from me as possible!</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#darkens_.E2.80.93_illuminates|darkens]]</span><br/>
@@ -1062,7 +1062,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <br/>
 === The Touch of God &ndash; cloak ===
 <span style='color:#808080'><i>'I... I have been touched by god.'
-'Touched by our almightly lord and saviour?'
+'Touched by our almighty lord and saviour?'
 'No, by lord Cthulhu.'</i></span><br/>
 <span style='color:#60A0FF'>Decreases physical resistances by 20%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (40)]]</span><br/>
@@ -1070,7 +1070,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <br/>
 === The Touch of God &ndash; cloak ===
 <span style='color:#808080'><i>'I... I have been touched by god.'
-'Touched by our almightly lord and saviour?'
+'Touched by our almighty lord and saviour?'
 'No, by lord Cthulhu.'</i></span><br/>
 <span style='color:#60A0FF'>Decreases physical resistances by 20%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (40)]]</span><br/>
@@ -2203,7 +2203,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 <br/>
 === Raijer's Bloody Field &ndash; limited ===
 <span style='color:#808080'><i>Those who are the first of their kinds are often the mightiest of them.</i></span><br/>
-<span style='color:orange'>New advancements: Techniques of extracting the victims's soul and using it for own profit</span><br/>
+<span style='color:orange'>New advancements: Techniques of extracting the victim's soul and using it for own profit</span><br/>
 <br/>
 === Serendipity &ndash; limited ===
 <span style='color:#808080'><i>'Some inventions come out of nowhere.' - Kevla the Saviour</i></span><br/>
@@ -2502,7 +2502,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#808080'><i>When you are defeated, search for solace in the darkness.</i></span><br/>
 <span style='color:#60A0FF'>New ability: nightstalk</span><br/>
 <br/>
-=== Otherworldy Cinders &ndash; potion ===
+=== Otherworldly Cinders &ndash; potion ===
 <span style='color:#808080'><i>Arise, the bird of death, burn when you die and reappear from your flames.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 40%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#from the ashes_.E2.80.93_dummy|from the ashes]]</span><br/>
@@ -2687,7 +2687,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 30%</span><br/>
 <br/>
 === Ring of Wisdom &ndash; ring ===
-<span style='color:#808080'><i>This magical artifact is one of a kind. Use it well.</i></span><br/>
+<span style='color:#808080'><i>This magical artefact is one of a kind. Use it well.</i></span><br/>
 <span style='color:green'>Increases all magical damages by 40%</span><br/>
 <br/>
 === Ring of Wizard's Bane &ndash; ring ===
@@ -3100,7 +3100,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <br/>
 === Holy Sword &ndash; sword ===
-<span style='color:#808080'><i>You, comrade with that Unholy Axe, position yourself as far from me as possible!</i></span><br/>
+<span style='color:#808080'><i>Use the lightbeam spell. It kills anything unholy enough.</i></span><br/>
 <span style='color:green'>Damage increased by 25%</span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>

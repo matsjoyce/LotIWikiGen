@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently available in the campaign "Legend of the Invincibles". 
-This was generated at Tue Sep 21 22:36:25 2021 using version 3.2.6d of LotI and version 0.3.5.1 of the generation script.
+This was generated at Wed Sep 22 20:59:16 2021 using version git-24b4ead of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -221,7 +221,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>Enemy units cannot see this unit while it is on frozen terrains, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
 ==== twilightstalk &ndash; hides ====
-<span style='color:#808080'><i>The unit becomes invisible during dawn or dusk, hiding in long shadows created by the sun near the horizont.</i></span>
+<span style='color:#808080'><i>The unit becomes invisible during dawn or dusk, hiding in long shadows created by the sun near the horizon.</i></span>
 
 <span style='color:#808080'><i>Enemy units cannot see this unit during dawn or dusk, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
@@ -367,7 +367,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>If this attack is used, the enemy behind the target is hurt as well, for 1/2 of the damage. The user loses 2 damage points after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 ==== purify &ndash; dummy ====
-<span style='color:#808080'><i>When an undead unit is killed by this attack, it becomes living again.</i></span><br/>
+<span style='color:#808080'><i>When an undead unit is killed by this attack, it becomes living again. Does not work on undead demons, black souls or other otherwordly undead-like abominations.</i></span><br/>
 <br/>
 ==== storm &ndash; dummy ====
 <span style='color:#808080'><i>The damage of this attack will affect also a lot of other enemy units around the caster, and will also deal some impact damage. It is so tiring that the unit's damage decreases by 12 after the attack, the damage penalty will half each turn.</i></span><br/>
@@ -425,7 +425,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When used offensively, this attack deals multiplied damage to the target. It also causes this unit to take multiplied damage from the target's counterattack.</i></span><br/>
 <br/>
 ==== charging backstab &ndash; damage ====
-<span style='color:#808080'><i>When used offensively, this attack deals double damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed). It also causes this unit to take double damage from the target’s counterattack.</i></span><br/>
+<span style='color:#808080'><i>When used offensively, this attack deals double damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralysed). It also causes this unit to take double damage from the target’s counterattack.</i></span><br/>
 <br/>
 ==== cleave &ndash; damage ====
 <span style='color:#808080'><i>This attack will hit additional enemies in the two hexes that are adjacent to both the attacker and defender, in a crescent moon shape, for 50% of the original damage. It is so tiring that the unit's damage decreases by 2 after the attack, the damage penalty will half each turn.</i></span><br/>
@@ -449,7 +449,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When this attack is used, all units adjacent to the target take 75% of the damage, including allies. It is so tiring that the unit's damage decreases by 8 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 ==== greater backstab &ndash; damage ====
-<span style='color:#808080'><i>When used offensively, this attack deals 2.5 times more damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed).</i></span><br/>
+<span style='color:#808080'><i>When used offensively, this attack deals 2.5 times more damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralysed).</i></span><br/>
 <br/>
 ==== iceform &ndash; damage ====
 <span style='color:#808080'><i>When this attack is used, the user is transformed into a moving block of ice, taking 33% less cold, pierce and blade damage. It works both offensively and defensively.</i></span><br/>
@@ -503,7 +503,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When this attack is used, the damage of physical retaliation attacks is divided by 3.</i></span><br/>
 <br/>
 ==== uber backstab &ndash; damage ====
-<span style='color:#808080'><i>When used offensively, this attack deals triple damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralyzed).</i></span><br/>
+<span style='color:#808080'><i>When used offensively, this attack deals triple damage if there is an enemy of the target on the opposite side of the target, and that unit is not incapacitated (turned to stone or otherwise paralysed).</i></span><br/>
 <br/>
 ==== unholybane &ndash; damage ====
 <span style='color:#808080'><i>This attack does triple damage to undead (also other non-monster creations of magic).</i></span><br/>
