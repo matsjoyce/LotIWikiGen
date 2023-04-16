@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently available in the campaign "Legend of the Invincibles". 
-This was generated at Wed Sep 22 20:59:16 2021 using version git-24b4ead of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sun Apr 16 20:10:06 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -79,7 +79,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Spells suck 1 (in EASY difficulty) health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_dummy|radiation]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_poison|radiation]]</span><br/>
 <br/>
 === Eidolon's Necklace &ndash; amulet ===
 <span style='color:#808080'><i>He was ingenious enough to become something new, not a pack of bones but a spirit. An opaque one.</i></span><br/>
@@ -258,7 +258,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:green'>Increases all magical damages by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 40%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_damage|warlord's rule]]</span><br/>
 <br/>
 === Hellforge Armour &ndash; armour ===
 <span style='color:#808080'><i>'Forge me an armour. I need to have forged armour to stop attacks armour stops.' - Abaddon</i></span><br/>
@@ -656,7 +656,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#808080'><i>Let them try to attack us for we shall be those who strike first.</i></span><br/>
 <span style='color:green'>Damage increased by 45%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal aura_.E2.80.93_dummy|zeal aura]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal aura_.E2.80.93_firststrike|zeal aura]]</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 == boots ==
@@ -851,7 +851,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:green'>Damage increased by 30%</span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#cantor_.E2.80.93_dummy|cantor]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#cantor_.E2.80.93_chance_to_hit|cantor]]</span><br/>
 <br/>
 === Coward's Bow &ndash; bow ===
 <span style='color:#808080'><i>I am using a bow because I hate being hit. I even have a bow made specially for me.</i></span><br/>
@@ -974,7 +974,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>New weapon special: backstab</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#murderous presence_.E2.80.93_dummy|murderous presence]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#murderous presence_.E2.80.93_damage|murderous presence]]</span><br/>
 <br/>
 === Cloak of the Pale Rider &ndash; cloak ===
 <span style='color:#808080'><i>Do not fear death if it is not near you.</i></span><br/>
@@ -1397,8 +1397,8 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>New weapon special: berserk</span><br/>
 <span style='color:green'>New weapon special: charge</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiating insanity_.E2.80.93_dummy|radiating insanity]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiating insanity_.E2.80.93_berserk|radiating insanity]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_damage|warlord's rule]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#wrath_.E2.80.93_dummy|wrath]]</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 3 Topazes, 3 Opals, 3 Pearls, 3 Diamonds, 10 Rubies, 10 Emeralds, 10 Amethysts, 10 Sapphires and 10 Black Pearls</span><br/>
 <br/>
@@ -1505,7 +1505,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <br/>
 === Soul Eclipse &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Hide your soul and gifts of undeath await you.</i></span><br/>
-<span style='color:green'>Damage increased by 4 (in EASY difficulty), 0 (in MEDIUM difficulty), -4 (in HARD difficulty)</span><br/>
+<span style='color:green'>Damage increased by 4 (in EASY difficulty), 1 (in MEDIUM difficulty), -4 (in HARD difficulty)</span><br/>
 <span style='color:green'>New weapon special: drain</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
@@ -1550,6 +1550,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <br/>
 === The Lesser Lich &ndash; craftable as any weapon ===
 <span style='color:#808080'><i>Let this skeleton be my lieutenant. They will not notice any difference.</i></span><br/>
+<span style='color:green'>Damage increased by 25% (in EASY difficulty), 20% (in MEDIUM difficulty), 15% (in HARD difficulty)</span><br/>
 <span style='color:green'>30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
 <span style='color:#60A0FF'>Sucks 2 health from targets with each hit</span><br/>
@@ -1596,7 +1597,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#808080'><i>Does this make you feel some sort of... bloodlust?</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#aura of hunger_.E2.80.93_dummy|aura of hunger]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#aura of hunger_.E2.80.93_drains|aura of hunger]]</span><br/>
 <br/>
 === Dagger of Shielding &ndash; dagger ===
 <span style='color:#808080'><i>He survived a thousand knife fights. Not because of his bravery.</i></span><br/>
@@ -2020,7 +2021,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>He looks sick. Killing him will be easy, just try not to catch whatever he has.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:green'>New weapon special: poison (melee attacks only)</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_dummy|radiation]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_poison|radiation]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#dark aura_.E2.80.93_dummy|dark aura]]</span><br/>
 <span style='color:#60A0FF'>16 fewer hitpoints per level</span><br/>
 <br/>
@@ -2256,7 +2257,7 @@ The bloodline of true warriors</i></span><br/>
 == mace ==
 === Beelzebub's Hammer &ndash; mace ===
 <span style='color:#808080'><i>Where is Bruce gone?</i></span><br/>
-<span style='color:green'>Damage increased by 10% (in EASY difficulty), 25% (in MEDIUM difficulty), 40% (in HARD difficulty)</span><br/>
+<span style='color:green'>Damage increased by 40% (in EASY difficulty), 25% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#lord of the flies_.E2.80.93_damage|lord of the flies]]</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 15%</span><br/>
 <br/>
@@ -2541,7 +2542,7 @@ The bloodline of true warriors</i></span><br/>
 <br/>
 === Potion of Titanic Strength &ndash; potion ===
 <span style='color:#808080'><i>Cronus was the mightiest of the Titans. Only a fraction of his strength is devastating.</i></span><br/>
-<span style='color:orange'>Increases all melee damages by 10</span><br/>
+<span style='color:orange'>Increases damage of all melee weapons by 10</span><br/>
 <br/>
 === Potion of Vitality &ndash; potion ===
 <span style='color:#808080'><i>A new life flows in the veins of those who drink this brew.</i></span><br/>

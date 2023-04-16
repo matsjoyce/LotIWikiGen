@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently available in the campaign "Legend of the Invincibles". 
-This was generated at Wed Sep 22 20:59:16 2021 using version git-24b4ead of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sun Apr 16 20:10:06 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -26,17 +26,11 @@ Other LotI-related wiki pages:
 ==== absorbs (4) &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, it takes its regular damage, but heals 4 HP after it.</i></span><br/>
 <br/>
-==== aura of hunger &ndash; dummy ====
-<span style='color:#808080'><i>All adjacent allies gain melee drain that drains 25% of the damage dealt (instead of the usual 50%).</i></span><br/>
-<br/>
 ==== blood drinking &ndash; dummy ====
 <span style='color:#808080'><i>When a unit adjacent to this unit takes damage, this unit heals 5% of the damage.</i></span><br/>
 <br/>
 ==== cancer &ndash; dummy ====
 <span style='color:#808080'><i>This unit is poisoned at the beginning of its turn. Because it's not an attack, the <i>immune to poison</i> ability does not apply.</i></span><br/>
-<br/>
-==== cantor &ndash; dummy ====
-<span style='color:#808080'><i>This unit grants marksman to all ranged attacks of all adjacent allies.</i></span><br/>
 <br/>
 ==== cowardice &ndash; dummy ====
 <span style='color:#808080'><i>If this unit runs out of moves with no adjacent units, it loses its attack that turn but gains its moves back.</i></span><br/>
@@ -101,9 +95,6 @@ Other LotI-related wiki pages:
 ==== murderlust &ndash; dummy ====
 <span style='color:#808080'><i>When this unit kills another unit, he/she heals 8 HP.</i></span><br/>
 <br/>
-==== murderous presence &ndash; dummy ====
-<span style='color:#808080'><i>All nearby allies get melee backstab.</i></span><br/>
-<br/>
 ==== necromancy &ndash; dummy ====
 <span style='color:#808080'><i>If this unit dies, it becomes a lich.</i></span><br/>
 <br/>
@@ -121,12 +112,6 @@ Other LotI-related wiki pages:
 <br/>
 ==== push &ndash; dummy ====
 <span style='color:#808080'><i>When an ally standing next to this unit finishes attacking, it gains one movement point.</i></span><br/>
-<br/>
-==== radiating insanity &ndash; dummy ====
-<span style='color:#808080'><i>All nearby allies fight with a bloodlust equal to the dwarvish berserk.</i></span><br/>
-<br/>
-==== radiation &ndash; dummy ====
-<span style='color:#808080'><i>All nearby allies get poisonous attacks.</i></span><br/>
 <br/>
 ==== reflect &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, an half of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
@@ -170,19 +155,36 @@ Other LotI-related wiki pages:
 ==== wardrums &ndash; dummy ====
 <span style='color:#808080'><i>All adjacent members of the same side get +2 to movement at the start of their turn.</i></span><br/>
 <br/>
-==== warlord's rule &ndash; dummy ====
-<span style='color:#808080'><i>All nearby allies deal and take 50% more damage.</i></span><br/>
-<br/>
 ==== weak reflect &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, an quarter of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
 <br/>
 ==== wrath &ndash; dummy ====
 <span style='color:#808080'><i>When offensively hitting an enemy, this unit's attack damage increases by 1. The added damage bonus halves each turn (rounded down).</i></span><br/>
 <br/>
-==== zeal aura &ndash; dummy ====
+=== Berserk ===
+==== radiating insanity &ndash; berserk ====
+<span style='color:#808080'><i>All nearby allies fight with a bloodlust equal to the dwarvish berserk.</i></span><br/>
+<br/>
+=== Chance to Hit ===
+==== cantor &ndash; chance_to_hit ====
+<span style='color:#808080'><i>This unit grants marksman to all ranged attacks of all adjacent allies.</i></span><br/>
+<br/>
+=== Damage ===
+==== murderous presence &ndash; damage ====
+<span style='color:#808080'><i>All nearby allies get melee backstab.</i></span><br/>
+<br/>
+==== warlord's rule &ndash; damage ====
+<span style='color:#808080'><i>All nearby allies deal and take 50% more damage.</i></span><br/>
+<br/>
+=== Drains ===
+==== aura of hunger &ndash; drains ====
+<span style='color:#808080'><i>All adjacent allies gain melee drain that drains 25% of the damage dealt (instead of the usual 50%).</i></span><br/>
+<br/>
+=== Firststrike ===
+==== zeal aura &ndash; firststrike ====
 <span style='color:#808080'><i>All nearby allies get firststrike.</i></span><br/>
 <br/>
-=== heals ===
+=== Heals ===
 ==== Deathaura &ndash; heals ====
 <span style='color:#808080'><i>This ability causes its bearer unit to hurt adjacent enemy units at the beginning of your turn (INTENSITY damage).</i></span>
 
@@ -199,7 +201,7 @@ Other LotI-related wiki pages:
 ==== unholybane (INTENSITY) &ndash; heals ====
 <span style='color:#808080'><i>The unit damages adjacent undead enemies at the beginning of your turn, causing a loss of INTENSITY HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
 <br/>
-=== hides ===
+=== Hides ===
 ==== lesser ambush &ndash; hides ====
 <span style='color:#808080'><i>This unit can hide in forest, and remain undetected by its enemies. But only in deciduous forest.</i></span>
 
@@ -225,7 +227,7 @@ Other LotI-related wiki pages:
 
 <span style='color:#808080'><i>Enemy units cannot see this unit during dawn or dusk, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
-=== illuminates ===
+=== Illuminates ===
 ==== darkens &ndash; illuminates ====
 <span style='color:#808080'><i>This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.</i></span>
 
@@ -251,7 +253,7 @@ Other LotI-related wiki pages:
 
 <span style='color:#808080'><i>Any units adjacent to this unit will fight as if it were dusk when it is night, as if it were day when it is dusk, and even better during the day (worse if they are chaotic or liminal).</i></span><br/>
 <br/>
-=== leadership ===
+=== Leadership ===
 ==== NAME (INTENSITY) &ndash; leadership ====
 <span style='color:#808080'><i>Adjacent allies will do INTENSITY% more damage.</i></span><br/>
 <br/>
@@ -275,7 +277,11 @@ Other LotI-related wiki pages:
 ==== lesser antisocial &ndash; leadership ====
 <span style='color:#808080'><i>This unit's manners are very bad, others hate fighting next to it. Adjacent allies deal 10% less damage.</i></span><br/>
 <br/>
-=== regenerate ===
+=== Poison ===
+==== radiation &ndash; poison ====
+<span style='color:#808080'><i>All nearby allies get poisonous attacks.</i></span><br/>
+<br/>
+=== Regenerate ===
 ==== bloodbound &ndash; regenerate ====
 <span style='color:#808080'><i>The unit will heal itself 32 HP per turn if adjacent to another unit with the bloodbound ability. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
 <br/>
@@ -285,7 +291,7 @@ Other LotI-related wiki pages:
 ==== regenerates slightly &ndash; regenerate ====
 <span style='color:#808080'><i>The unit will heal itself 4 HP per turn. If it is poisoned, these two effects will negate themselves.</i></span><br/>
 <br/>
-=== resistance ===
+=== Resistance ===
 ==== NAME (POWER) &ndash; resistance ====
 <span style='color:#808080'><i>This unit can rally the adjacent allies to ignore damage taken better, increasing their resistances by POWER%, up to a maximum of 80%.</i></span><br/>
 <br/>
@@ -375,7 +381,7 @@ Other LotI-related wiki pages:
 ==== trickery &ndash; dummy ====
 <span style='color:#808080'><i>If this attack hits offensively, opponent's defence on all terrains is lowered by 5%, until he advances.</i></span><br/>
 <br/>
-=== attacks ===
+=== Attacks ===
 ==== anger &ndash; attacks ====
 <span style='color:#808080'><i>When used offensively, this attack doubles the attacks done by both attacker and defender.</i></span><br/>
 <br/>
@@ -388,11 +394,11 @@ Other LotI-related wiki pages:
 ==== whirlwind &ndash; attacks ====
 <span style='color:#808080'><i>When this attack is used, all enemies adjacent the attacker take the damage and the enemy cannot retaliate. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
-=== berserk ===
+=== Berserk ===
 ==== lesser berserk (COUNT) &ndash; berserk ====
 <span style='color:#808080'><i>Whether used offensively or defensively, this attack presses the engagement until one of the combatants is slain, or COUNT rounds of attacks have occurred.</i></span><br/>
 <br/>
-=== chance_to_hit ===
+=== Chance to Hit ===
 ==== chaos &ndash; chance_to_hit ====
 <span style='color:#808080'><i>When used defensively, this attacks damages all surrounding foes for a half of the damage, and it always has a 70% chance to hit regardless of the defensive ability of the attacking unit. Whether in defence or on attack, it is so tiring that the unit's damage decreases by 2 afterwards and then halves with each turn.</i></span><br/>
 <br/>
@@ -408,7 +414,7 @@ Other LotI-related wiki pages:
 ==== struggle &ndash; chance_to_hit ====
 <span style='color:#808080'><i>This attack causes the opponent to have a 10% lower chance to hit.</i></span><br/>
 <br/>
-=== damage ===
+=== Damage ===
 ==== Raijer's saloon &ndash; damage ====
 <span style='color:#808080'><i>Every blow with this attack has a chance to add all the victims' hitpoints to the hitpoints of attacker and attacker's nearby allies (divided by the number of healed units), killing the victim. The chance depends on victim's level. Works only in offence.</i></span><br/>
 <br/>
@@ -467,7 +473,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This is similar to the drains ability, but it drains only 1/10 of the damage inflicted but it can leech also the magic bound in the undeath of non-living foes.</i></span><br/>
 <br/>
 ==== lord of the flies &ndash; damage ====
-<span style='color:#808080'><i>This attack does quadruple damage to flies.</i></span><br/>
+<span style='color:#808080'><i>This attack does triple damage to flies.</i></span><br/>
 <br/>
 ==== lurk &ndash; damage ====
 <span style='color:#808080'><i>When used offensively and the target is not adjacent to any of its allies, it deals double damage to the target.</i></span><br/>
@@ -508,18 +514,18 @@ Other LotI-related wiki pages:
 ==== unholybane &ndash; damage ====
 <span style='color:#808080'><i>This attack does triple damage to undead (also other non-monster creations of magic).</i></span><br/>
 <br/>
-=== plague ===
+=== Plague ===
 ==== plague (LANGUAGE_TYPE) &ndash; plague ====
 <span style='color:#808080'><i>When a unit is killed by a Plague attack, that unit is replaced with a unit on the same side as the unit with the Plague attack. This doesn’t work on Undead or units in villages.</i></span><br/>
 <br/>
-=== poison ===
+=== Poison ===
 ==== greater infect &ndash; poison ====
 <span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Soulless.</i></span><br/>
 <br/>
 ==== infect &ndash; poison ====
 <span style='color:#808080'><i>The target of this weapon specials becomes poisoned in a special way: if it dies from this toxin or is killed while affected by it, it becomes a Walking Corpse.</i></span><br/>
 <br/>
-=== slow ===
+=== Slow ===
 ==== shockwave &ndash; slow ====
 <span style='color:#808080'><i>This attack is so strong that it slows the target, and creates a shock wave that knocks all enemies adjacent to the target 1 hex away from it, and causes them to take 8 impact damage. When used defensively, it only slows the attacker.</i></span><br/>
 <br/>

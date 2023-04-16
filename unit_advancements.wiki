@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently available in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Wed Sep 22 20:59:16 2021 using version git-24b4ead of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sun Apr 16 20:10:06 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -13,8 +13,7 @@ Other LotI-related wiki pages:
 * https://wiki.wesnoth.org/DeadlyUnitsFromLotI
 
 == Abomination ==
-<span style='color:#808080'><i>Horror tales about terrifying undead usually lie. They describe ghasts as the most nightmarish beings that ever existed. And that is just plain wrong. There is Abomination, a mutated kind of ghast that scares even the most courageous monster hunters. It has literally a dozen mouths, most of them belonging to ghoul homunculi attached to its body with tentacles. <br/>
-Special Notes: The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures.<br/>
+<span style='color:#808080'><i>Horror tales about terrifying undead usually lie. They describe ghasts as the most nightmarish beings that ever existed. And that is just plain wrong. There is Abomination, a mutated kind of ghast that scares even the most courageous monster hunters. It has literally a dozen mouths, most of them belonging to ghoul homunculi attached to its body with tentacles.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Biting Better &ndash; bite1 ===
@@ -74,8 +73,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Ancient Demon (Lilith) ==
-<span style='color:#808080'><i>An ancient demon is a creature living since time immemorial, powerful enough to survive eons. They were either born with that power, or achieved it by arcane means, collecting powerful spells and artefacts of power, or a combination of the two. In any case, their survival was more likely because of great precaution than because of luck, so killing them might be a great challenge. Many legends tell of great heroes slaying ancient demons only to see them come back to life after some time.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent.</i></span>
+<span style='color:#808080'><i>An ancient demon is a creature living since time immemorial, powerful enough to survive eons. They were either born with that power, or achieved it by arcane means, collecting powerful spells and artefacts of power, or a combination of the two. In any case, their survival was more likely because of great precaution than because of luck, so killing them might be a great challenge. Many legends tell of great heroes slaying ancient demons only to see them come back to life after some time.</i></span>
 
 ===  &ndash; amla_demon_lord ===
 <span style='color:#808080'><i>This advancement can be taken 100 times</i></span><br/>
@@ -171,7 +169,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Ancient Lich ==
 <span style='color:#808080'><i>A being of this order is a revenant of ages long past. Anyone who encounters an Ancient Lich likely has far worse things to worry about than death.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit can move unseen in deep water, requiring no air from the surface.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; melee ===
@@ -241,7 +238,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Arch Necromancer ==
 <span style='color:#808080'><i>The greatest of the necromancers are greatly prepared to become liches, but they prefer to enjoy life while they are still living. They are much stronger in human body, and when they die, they become liches, but their magic abilities will diminish during the transformation.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. Foes who lose their life to the plague will rise again in unlife, unless they are standing on a village. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; melee ===
@@ -343,7 +339,6 @@ This unit also has generic AMLA advancements</i></span>
 == Celestial Messenger ==
 <span style='color:#808080'><i>Gods are legendary beings living from humans' worship. They are greatly powerful and usually out of our reach, but sometimes even gods give birth to children with humans. Their children retain some of their power, but this power fades over generation. However, priestly white magic can awaken it, greatly enhancing the powers of Light inside his body, allowing the White Mage to become far more exalted than he could ever hope to.<br/>
 Thanks to the feathered wings on their backs, they can travel much faster through difficult terrains than others.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit is capable of healing those around it, and curing them of poison. Illumination increases the lighting level in adjacent areas.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Magic &ndash; lightbeam ===
@@ -432,7 +427,6 @@ Those who understand this rule learn to defend extremely well and become so lege
 Gameplay notes:<br/>
 This unit is highly defensive and focused on counterattacks, not on damage.<br/>
 Advancements are defense-oriented, this unit's potential in avoiding hits is the greatest of all units.<br/>
-Special Notes: This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; sword ===
@@ -508,7 +502,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Champion Bowman ==
-<span style='color:#808080'><i>Although any Master Bowman claims he has have reached the zenith of his art, inasmuch as any human is capable, it is far from truth. Their elite archers can become Champion Bowmen, that are really the ones who have reached the zenith of their art, inasmuch as any human is capable. This unit’s marksmanship gives it a high chance of hitting targeted enemies, but only on the attack.<br/>
+<span style='color:#808080'><i>Although any Master Bowman claims he has have reached the zenith of his art, inasmuch as any human is capable, it is far from truth. Their elite archers can become Champion Bowmen, that are really the ones who have reached the zenith of their art, inasmuch as any human is capable.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Bow &ndash; bow ===
@@ -571,7 +565,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Chaos Rider ==
 <span style='color:#808080'><i>The daring deeds of Cavaliers are known, but only some of them choose to play with fire. Wizards bind spirits of fire into their swords and horses, making them one of the most dangerous things on the battlefield.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Sword &ndash; sword ===
@@ -624,7 +617,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Dark Shade ==
 <span style='color:#808080'><i>Dark shade is a spirit of something so dark that it was not allowed to exist in the real world. Only its shadow appears on walls and attacks the shadows of its victims - and the victims will get hurt too.<br/>
-Special Notes: If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy. Spirits have very unusual resistances to damage, and move quite slowly over open water. This unit is able to hide at night, leaving no trace of its presence. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them. During battle, this unit can drain life from victims to renew its own health.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Clawing Better &ndash; claws ===
@@ -675,7 +667,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Deathlord ==
 <span style='color:#808080'><i>Clad in a dark armour radiating with evil power of their controller, carrying a battle axe made not of steel, but of bones of its victims put together with malevolent magic, these terrible knights of evil bring doom to everyone who crosses their path. Cruelty is not what it seeks, but warfare is the only thing it remembers from its previous life, and so it fights; without any purpose or goal, it is simply the only thing its mindless body can do.<br/>
-Special Notes: This unit can move unseen in deep water, requiring no air from the surface.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Melee Combat &ndash; axe ===
@@ -757,8 +748,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Demigod (Efraim God) ==
-<span style='color:#808080'><i>Half-gods are things so rare, that nobody ever cared to describe their full powers.<br/>
-Special Notes: Telling everything a half-god can do would be too lengthy. But a matter to consider is that they have developed compassion out of a desire to save their wretched enemies from sins, pain, suffering and misery, they are able to redeem tormented souls. Even if this 'redeem attack' can be used only once every three turns.<br/>
+<span style='color:#808080'><i>Half-gods are things so rare, that nobody ever cared to describe their full powers. Telling everything a half-god can do would be too lengthy. But a matter to consider is that they have developed compassion out of a desire to save their wretched enemies from sins, pain, suffering and misery, they are able to redeem tormented souls. Even if this 'redeem attack' can be used only once every three turns.<br/>
 Gameplay notes:<br/>
 It is imperative to use the redeem attack from time to time. After redeeming a certain amount of enemies, redeem becomes more effective (possibly also a good offensive weapon) and the unit gains a new advancement line of choice. Some of them add new spells, others add new abilities. Spells gained have huge ranges, incomparable to other spells, and converge into Particle storm, an attack hitting many enemies and dealing severe arcane damage. Physical abilities converge into Spiritual Transformation, that is an attack that makes the unit attack a single target with huge damage and taking only 33% of the damage.<br/>
 Without these advancements, the unit will never get particularly strong, and low level enemies may become rare to find.<br/>
@@ -1054,8 +1044,7 @@ This unit also has god AMLA advancements</i></span>
 <br/>
 
 == Demigod (Lethalia God) ==
-<span style='color:#808080'><i>Half-gods are things so rare, that nobody ever cared to describe their full powers.<br/>
-Special Notes: Telling everything a half-god can do would be too lengthy. But a matter to consider is that they have developed compassion out of a desire to save their wretched enemies from sins, pain, suffering and misery, they are able to redeem tormented souls. Even if this 'redeem attack' can be used only once every three turns.<br/>
+<span style='color:#808080'><i>Half-gods are things so rare, that nobody ever cared to describe their full powers. Telling everything a half-god can do would be too lengthy. But a matter to consider is that they have developed compassion out of a desire to save their wretched enemies from sins, pain, suffering and misery, they are able to redeem tormented souls. Even if this 'redeem attack' can be used only once every three turns.<br/>
 Gameplay notes:<br/>
 It is imperative to use the redeem attack from time to time. After redeeming a certain amount of enemies, redeem becomes more effective (possibly also a good offensive weapon) and the unit gains a new advancement line of choice. Some of them add new spells, others add new abilities. Spells gained have huge ranges, incomparable to other spells, and converge into Particle storm, an attack hitting many enemies and dealing severe arcane damage. Physical abilities converge into Spiritual Transformation, that is an attack that makes the unit attack a single target with huge damage and taking only 33% of the damage.<br/>
 Without these advancements, the unit will never get particularly strong, and low level enemies may become rare to find.<br/>
@@ -1409,7 +1398,6 @@ This unit also has god AMLA advancements</i></span>
 
 == Demilich ==
 <span style='color:#808080'><i>Some liches are less than pleased with their frail skeletal body and experiment with ghosts to keep their ethereal enough to protect themselves from attack. Their ultimate goal is to look like the people they once were. This is a specimen of one that hasn't succeeded yet.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit can move unseen in deep water, requiring no air from the surface.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Melee Combat &ndash; melee ===
@@ -1454,11 +1442,6 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>1 more attacks for the shadow wave attack</span><br/>
 <br/>
-=== A Better Caster of Chill Tempests &ndash; magic-chill2 ===
-<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#A_Faster_Caster_of_Chill_Tempests_.E2.80.93_magic-chill_2|magic-chill]] and [[#A_Better_Caster_.E2.80.93_magic_2|magic]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage increased by 1 for the chill tempest attack</span><br/>
-<br/>
 === A Better Caster of Shadow Waves &ndash; magic-shadow2 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#A_Faster_Caster_of_Shadow_Waves_.E2.80.93_magic-shadow_3|magic-shadow]] and [[#A_Better_Caster_.E2.80.93_magic_2|magic]] to be achieved first</i></span><br/>
@@ -1501,8 +1484,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Demon Infiltrator (Romero) ==
-<span style='color:#808080'><i>Some demons are violent and war-loving, but others prefer more peaceful approach to their misdeeds. Pretending to be good and misleading the good to turn to evil is frequently more effective than brutish violence. But this does not mean that if it comes to fighting, it will be an easy fight.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. During battle, this unit can drain life from victims to renew its own health.</i></span>
+<span style='color:#808080'><i>Some demons are violent and war-loving, but others prefer more peaceful approach to their misdeeds. Pretending to be good and misleading the good to turn to evil is frequently more effective than brutish violence. But this does not mean that if it comes to fighting, it will be an easy fight.</i></span>
 
 ===  &ndash; amla_demon_lord ===
 <span style='color:#808080'><i>This advancement can be taken 100 times</i></span><br/>
@@ -1511,8 +1493,7 @@ Special Notes: This unit has magical attacks, which always have a high chance of
 <br/>
 
 == Demon Lord ==
-<span style='color:#808080'><i>Demon Lords are ancient creatures of supreme power and unexpectable abilities. Their nearly human appearance makes it easy for them to manipulate mortals into mischief.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent.</i></span>
+<span style='color:#808080'><i>Demon Lords are ancient creatures of supreme power and unexpectable abilities. Their nearly human appearance makes it easy for them to manipulate mortals into mischief.</i></span>
 
 ===  &ndash; amla_demon_lord ===
 <span style='color:#808080'><i>This advancement can be taken 100 times</i></span><br/>
@@ -1521,8 +1502,7 @@ Special Notes: This unit has magical attacks, which always have a high chance of
 <br/>
 
 == Demon Queen (Uria) ==
-<span style='color:#808080'><i>This is Uria, the worst thing ever known to mankind after the Fall. She is frequently considered to be the ultimate evil, and the source of evil.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. During battle, this unit can drain life from victims to renew its own health. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them. This unit is able to hide at night, leaving no trace of its presence. This unit’s marksmanship gives it a high chance of hitting targeted enemies, but only on the attack.</i></span>
+<span style='color:#808080'><i>This is Uria, the worst thing ever known to mankind after the Fall. She is frequently considered to be the ultimate evil, and the source of evil.</i></span>
 
 ===  &ndash; amla_demon_lord ===
 <span style='color:#808080'><i>This advancement can be taken 100 times</i></span><br/>
@@ -1531,8 +1511,7 @@ Special Notes: This unit has magical attacks, which always have a high chance of
 <br/>
 
 == Demon Queen's Avatar (Uria Avatar) ==
-<span style='color:#808080'><i>This is Uria, the worst thing ever known to mankind after the Fall. She is frequently considered to be the ultimate evil, and the source of all evil.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. During battle, this unit can drain life from victims to renew its own health. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them. This unit is able to hide at night, leaving no trace of its presence.</i></span>
+<span style='color:#808080'><i>This is Uria, the worst thing ever known to mankind after the Fall. She is frequently considered to be the ultimate evil, and the source of all evil.</i></span>
 
 ===  &ndash; amla_demon_lord ===
 <span style='color:#808080'><i>This advancement can be taken 100 times</i></span><br/>
@@ -1594,7 +1573,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Divine Emissary (Stormrider) ==
 <span style='color:#808080'><i>Sometimes a paladin swores to a good god an oath to fight the evil that may pose a thread to the entire world, gaining new powers. They can feel where is a danger to the entire world starts and they try destroy it in the beginning of its growth.<br/>
-Special Notes: Using a charging attack doubles both damage dealt and received; this does not affect defensive retaliation. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit is capable of basic healing. This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Swinging Faster with the Sword &ndash; sword ===
@@ -1776,7 +1754,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Doppelgänger (Efraim Doppelganger) ==
 <span style='color:#808080'><i>Through dark magic, it is possible to grab a part of one's soul and make it appear as a material being. The soul essentially becomes a part of two bodies. The creator and the doppelgänger have their minds interconnected. The doppelgänger is controlled as tightly as possible without annoying his master, being incapable of individual opinions but able to perform most activities and make necessary decisions by itself.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit can move unseen in deep water, requiring no air from the surface. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Melee Combat &ndash; melee ===
@@ -1839,7 +1816,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Doppelgänger (Lethalia Doppelganger) ==
 <span style='color:#808080'><i>Through dark magic, it is possible to grab a part of one's soul and make it appear as a material being. The soul essentially becomes a part of two bodies. The creator and the doppelgänger have their minds interconnected. The doppelgänger is controlled as tightly as possible without annoying his master, being incapable of individual opinions but able to perform most activities and make necessary decisions by itself.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit can move unseen in deep water, requiring no air from the surface. The swarming attacks of this unit become less deadly whenever its members are wounded. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit is capable of healing those around it, and curing them of poison.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Axe Combat &ndash; melee ===
@@ -1902,7 +1878,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Dragon Rider ==
 <span style='color:#808080'><i>The greatest elite of human warriors is sometimes invited to join a special order, the Dragon Riders. Relatively unknown to the world, they managed to control the mightiest creatures of the world. They appear when the world is in danger.<br/>
-Special Notes: Using a charging attack doubles both damage dealt and received; this does not affect defensive retaliation.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Commanding the Dragon to Bite Better &ndash; bite ===
@@ -1995,7 +1970,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Duelist Wizard ==
 <span style='color:#808080'><i>Duelist Wizards are a rare group of mages, who instead of studying magic deeper and deeper decided to start using it to defeat other mages. The main motivation of this was of course the desire to get higher in ranks among other magi, who usually underestimate them because of their weaker knowledge of magical theories. Their philosophy is not based on the seek of knowledge, but on the desire to be stronger than other magi.<br/>
-Special Notes:SPECIAL_NOTE^ Duelist Wizards are well-attuned to their magical natures and are highly resistant to non-physical damage. This unit has magical attacks, which always have a high chance of hitting an opponent. This unit can use one move to teleport between any two empty villages controlled by its side.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Magic &ndash; magic ===
@@ -2069,7 +2043,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Duke ==
 <span style='color:#808080'><i>If those who have earned the title of Grand Marshal are fearsome, those leaders of battle known as Dukes make them seem like lowly corporals. Few other commanders leave such a great mark on battlefield and state alike, as the sheer strategic prowess of the Duke inevitably carries over into political life. Though some may best him in single combat, few have ever triumphed over a Duke in charge of a full army; not only can he exhort those in his command to greater efficiency as a unit, his mere presence is enough to stir his troops to rash death-or-glory charges against the enemy.<br/>
-Special Notes: The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level. This unit can fanaticise all units adjacent to him into a frenzy, making them deal and take double damage, but only offensively.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee &ndash; melee ===
@@ -2110,7 +2083,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Make All Adjacent Allies Capable to Attack First Even when Defending &ndash; leadership2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Possessing_the_Leadership_of_a_Level_6_Unit_.E2.80.93_leadership|leadership]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal aura_.E2.80.93_dummy|zeal aura]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal aura_.E2.80.93_firststrike|zeal aura]]</span><br/>
 <br/>
 === Able to Let All Adjacent Allies Gain 1 Movement Point After Attacking &ndash; leadership3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -2134,7 +2107,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Dwarvish Battlerager ==
 <span style='color:#808080'><i>Dwarvish Lords are always thinking about ways to make their army more powerful. One of their frequent decisions is that Berserkers, a rare caste of Dwarves, who work themselves into a towering rage before combat, disdain all notion of defence, thinking only of the unrelenting assaults for which they are legendary, should wear armours. Berserkers usually refuse, because armour would prevent them from attacking as strongly as possible. Sometimes a cunning Dwarvish Lord decides to forge an armour to appeal to them. These armours are black, heavy, and there is a lot of spikes on them, that attires the attention of any Berserker. Clad in a spiky armour, a Berserker becomes a Battlerager, an even more scary warrior than Berserkers.<br/>
-Special Notes: Whenever its berserk attack is used, this unit continues to push the attack until either it or its enemy lies dead.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Frenzying Better &ndash; axe ===
@@ -2281,7 +2253,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Dwarvish Protector ==
 <span style='color:#808080'><i>Dwarvish Protectors are the hardiest from all dwarves. A wall of Dwarvish Protectors can resist enemy blows better than a stone wall - and is much more dangerous.<br/>
-Special Notes: The steadiness of this unit reduces damage from some attacks, but only while defending.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Spear &ndash; spear ===
@@ -2419,7 +2390,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Elder Mage ==
 <span style='color:#808080'><i>Great Magi spread rumours that only several mages per century are given the title of a great mage, but the truth is quite different. They are speaking about Elder Magi, and misuse the similarity and the rarity of them. Among them, there is an even sparser number who, despite their blessed age, are more progressive than the younger professional fraternity. Elder Magi are the real masters of magic, the ones who make new spells and truly understand the arcane. Even if they are not trained for battle, their powerful magic can destroy most enemies before the need for quick reflexes comes.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Fireball &ndash; fireball ===
@@ -2531,7 +2501,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Elvish Assassin ==
 <span style='color:#808080'><i>Unlike human assassins, elvish assassins are honoured warriors who have proven their incredible skill in archery by killing the enemy warband's leader just by shooting him from a distance, or even a whole enemy clump by covering them by a deadly arrow storm before they came to him. Even when cornered and forced to fight in melee range, they can defeat their enemies with trickery, without properly fighting them.<br/>
-Special Notes: This unit’s marksmanship gives it a high chance of hitting targeted enemies, but only on the attack. If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee &ndash; melee ===
@@ -2794,7 +2763,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Elvish Nightprowler ==
 <span style='color:#808080'><i>Sometimes, elvish avengers will become so good at stealth, that they can even leave the forest at night, remaining concealed.<br/>
-Special Notes: In woodlands, this unit’s ambush skill renders it invisible to enemies unless it is immediately adjacent or has revealed itself by attacking. This unit is able to hide at night, leaving no trace of its presence.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with the Bow &ndash; bow ===
@@ -2885,7 +2853,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Elvish Overlord ==
 <span style='color:#808080'><i>Some elvish fighters who use faerie powers a lot may eventually become a male half-fairy. It gives them unusual dexterity and their skill with swords will get even better. The main problem with it is that touching iron causes pain to them - that is why they use weapons made from various rare metals.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; sword ===
@@ -2988,7 +2955,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Elvish Seer ==
 <span style='color:#808080'><i>Sometimes, an elf can get so close to the faerie world, that it grants her a knowledge all the other beings never even dreamed about. This allows her to be both a good healer and a powerful spell-caster.<br/>
-Special Notes: This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. This unit is capable of basic healing. This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; melee ===
@@ -3071,7 +3037,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Elvish Sprite ==
 <span style='color:#808080'><i>Some elves who chose to walk the path of faerie decided to use their supernatural dexterity in melee combat. Clad in armour of magical metal, that does not burn faerie beings, Elvish Sprites make potent melee combatants and spellcasters in the same person.<br/>
-Special Notes: This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. This unit is capable of healing those around it, and curing them of poison. This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; melee ===
@@ -3125,7 +3090,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Elvish Warlord ==
 <span style='color:#808080'><i>Some elves are not so peace-loving as others, and intentionally seek war. They are not trying to start wars, just joining wars where they know which side is evil. Their skill at leading allies into combat is incredibly good, so that trying to outsmart an Elvish Warlord usually results in an even more humiliating defeat than fighting them using usual strategies.<br/>
-Special Notes: The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Sword &ndash; sword ===
@@ -3177,7 +3141,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Improve Nearby Allies' Reactions &ndash; leadership2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Leader_(Like_a_Level_5_Unit)_.E2.80.93_leadership|leadership]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal aura_.E2.80.93_dummy|zeal aura]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#zeal aura_.E2.80.93_firststrike|zeal aura]]</span><br/>
 <br/>
 === Able to Attack in a Terribly Scary Way (New Attack) &ndash; horrid ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -3219,7 +3183,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Exterminator ==
 <span style='color:#808080'><i>Masters of the Assassins are almost always sent to slay their victims rather than to steal something. Their favourite technique is to stab enemies from behind with a dagger, but because not all murders can be done silently, they also practised standard combat, and carry a scythe they can wield with scary skill, that is particularly useful when surrounded. Deadly at night, exterminators are less able fighting under the sun.<br/>
-Special Notes: If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster with Dagger &ndash; dagger ===
@@ -3356,7 +3319,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Faerie Incarnation ==
 <span style='color:#808080'><i>Some elves have gone so far on the faerie path, that they are much more a fairy than an elf. This gives them unearthly beauty and otherworldly powers commanding plants. However, this transformation also includes behavioural changes, and their integration into elvish society is problematic.<br/>
-Special Notes: This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. This unit is capable of healing those around it, and curing them of poison. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit regenerates, which allows it to heal as though always stationed in a village, if it is standing in a forest.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Commanding Vines to Attack Faster &ndash; melee ===
@@ -3442,8 +3404,7 @@ This unit also has generic AMLA advancements</i></span>
 
 == Fencer ==
 <span style='color:#808080'><i>Fencers belong to a school of thought that considers the armor most soldiers wear in combat to be their own worst enemy. While armor can only soften a blow, evading it leaves the defender completely unharmed. Being able to reliably dodge any offensive move is a luxury only afforded to the fit of body, and then only to those who endure rigorous training.<br/>
-Outfitted with only a dagger and saber, fencers are light on their feet and useful in many situations where their armor-bound peers are at a disadvantage. They relish dancing circles around troops like heavy infantry, mocking the weight of their full armor.<br/>
-Special Notes: This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit has magical attacks, which always have a high chance of hitting an opponent.</i></span>
+Outfitted with only a dagger and saber, fencers are light on their feet and useful in many situations where their armor-bound peers are at a disadvantage. They relish dancing circles around troops like heavy infantry, mocking the weight of their full armor.</i></span>
 
 === Better with Sword &ndash; sword ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -3710,7 +3671,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Goblin Ravager ==
 <span style='color:#808080'><i>To perform their destructive work effectively, Goblin Pillagers must be able to move fast. In the event of a shortage of wolves, another mount has to fill in. Though giant spiders are far less intelligent than wolves, the fear spread by their sight makes up for this imperfection. Taming those beasts claims high casualties and their appetite for riders in front of them is detrimental – but one has to overlook such little mishaps leniently: Goblins are numerous, useless for most other jobs, and since birth used to submit to their fates.<br/>
-Special Notes: This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Biting Better &ndash; fangs1 ===
@@ -3849,7 +3809,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Grim Knight ==
 <span style='color:#808080'><i>Grim Knights are undead who can ride a living horse thanks to dark magic controlling the horse's mind and altering its body. Undead legions use them for approximately the same purposes as living armies use their horsemen.<br/>
-Special Notes: Using a charging attack doubles both damage dealt and received; this does not affect defensive retaliation.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Lance &ndash; lance ===
@@ -3919,8 +3878,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Half-Robotic Freak (Akula Steel Finale) ==
-<span style='color:#808080'><i>She was once a normal person. Until she found some forgotten ruins with weapons of great technical level, and manipulating with one of them transformed her into this. She survived it only thanks to necromancy, but now she is a whole new level freak.<br/>
-Special Notes: When this unit is attacked in melee range, the attacker takes a huge amount of impact damage from her tentacles, because he strayed too close. This unit regenerates, which allows it to heal as though always stationed in a village. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit has magical attacks, which always have a high chance of hitting an opponent.</i></span>
+<span style='color:#808080'><i>She was once a normal person. Until she found some forgotten ruins with weapons of great technical level, and manipulating with one of them transformed her into this. She survived it only thanks to necromancy, but now she is a whole new level freak.</i></span>
 
 === Better at Melee Combat &ndash; sword ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -3961,8 +3919,7 @@ Special Notes: When this unit is attacked in melee range, the attacker takes a h
 <br/>
 
 == Half-Robotic Freak (Akula Steel) ==
-<span style='color:#808080'><i>She was once a normal person. Until she found some forgotten ruins with weapons of great technical level, and manipulating with one of them transformed her into this. She survived it only thanks to necromancy, but now she is a whole new level freak.<br/>
-Special Notes: When this unit is attacked in melee range, the attacker takes 15 impact damage from her tentacles, because he strayed too close. This unit regenerates, which allows it to heal as though always stationed in a village. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit has magical attacks, which always have a high chance of hitting an opponent.</i></span>
+<span style='color:#808080'><i>She was once a normal person. Until she found some forgotten ruins with weapons of great technical level, and manipulating with one of them transformed her into this. She survived it only thanks to necromancy, but now she is a whole new level freak.</i></span>
 
 === Better at Melee Combat &ndash; sword ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -4004,7 +3961,6 @@ Special Notes: When this unit is attacked in melee range, the attacker takes 15 
 
 == Infernal Knight ==
 <span style='color:#808080'><i>Tales are told of the mightiest warriors and generals, who, cursed with hate and stung by betrayal, have experimented with demonic magic and returned back to this world as Infernal Knights. Wielding the same weapons as in life, they command both fire and the Undead in their quest for revenge.<br/>
-Special Notes: The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level. This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Casting Random Fire Spells on Enemies when Attacking Them with an Axe &ndash; firecast ===
@@ -4071,7 +4027,6 @@ This unit also has generic AMLA advancements</i></span>
 == Lesser Demigod (Krux Later) ==
 <span style='color:#808080'><i>Divine blood flows in the veins of those whose parents were gods. They can learn to be powerful and wise incredibly fast, their bodies show supernatural abilities, and they radiate an aura that affects everything around in a way that suits them.<br/>
 Being an offspring of an elf and human, he looks like a human to elves and like an elf to humans.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Sword &ndash; sword1 ===
@@ -4328,7 +4283,6 @@ This unit also has generic AMLA advancements</i></span>
 == Lesser Demigod (Krux) ==
 <span style='color:#808080'><i>Divine blood flows in the veins of those whose parents were gods. They can learn to be powerful and wise incredibly fast, their bodies show supernatural abilities, and they radiate an aura that affects everything around in a way that suits them.<br/>
 Being an offspring of an elf and human, he looks like a human to elves and like an elf to humans.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Sword &ndash; sword1 ===
@@ -4572,7 +4526,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Lich King ==
 <span style='color:#808080'><i>Lich Kings are powerful undead warriors with free will and magic powers. Unlike other undead, they are not obeying a master, they are raising and controlling their minions, and unlike liches, they are leading their minions into battles.<br/>
-Special Notes: The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level. This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Melee Combat &ndash; axe ===
@@ -4640,8 +4593,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 
 == Lord of the Flies (Beelzebub) ==
-<span style='color:#808080'><i>Ancient nobles of demonkind are among the scariest visitors from Inferno. Their vast power and number of followers allow them to destroy armies, bringing death and destruction whenever they come. Fortunately for mankind, they live in Inferno and rarely get out of there. However, some of them have made spells to summon them are known and sometimes come into the hands of the foolish...<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit can move unseen in deep water, requiring no air from the surface. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health.</i></span>
+<span style='color:#808080'><i>Ancient nobles of demonkind are among the scariest visitors from Inferno. Their vast power and number of followers allow them to destroy armies, bringing death and destruction whenever they come. Fortunately for mankind, they live in Inferno and rarely get out of there. However, some of them have made spells to summon them are known and sometimes come into the hands of the foolish...</i></span>
 
 ===  &ndash; amla_demon_lord ===
 <span style='color:#808080'><i>This advancement can be taken 100 times</i></span><br/>
@@ -4651,7 +4603,6 @@ Special Notes: This unit regenerates, which allows it to heal as though always s
 
 == Lunatic Knight ==
 <span style='color:#808080'><i>Lunatic knights are ones of the most zealous warriors a warlord might employ. The reason why they fight is neither glory nor gold. They enjoy the thrill of battles, and that motivates them to join armed conflicts. In battle, they are feared adversaries, their fervour, speed and strength are a huge threat for anyone. They usually die before they realise that Lunatic Knights are not quite well protected, and can fall whenever their charge fails to defeat their target.<br/>
-Special Notes: Using a charging attack doubles both damage dealt and received; this does not affect defensive retaliation.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Lance &ndash; lance ===
@@ -4704,7 +4655,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Monstrosity ==
 <span style='color:#808080'><i>When a Walking Corpse kills a victim and reanimates it to unlife, it also drains a part of its soul. This rarely has an effect, but sometimes, when much of the flesh has rotten away already, this accumulated soul energy reshapes the corpse into a horrid, tentaculous form with bones protruding from it that floats around, scaring everything.<br/>
-Special Notes: Foes who lose their life to the plague will rise again in unlife, unless they are standing on a village.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Hitting Harder &ndash; melee ===
@@ -4768,7 +4718,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Orcish Nightblade ==
 <span style='color:#808080'><i>A blade in the dark, dripping with poison — for many orcish warlords the last thing they see. Due to their high fees, orcish nightblades specialize in “resolving internal conflicts” and are rarely seen on the battlefield. Practice makes perfect, and few can rival them in that regard: they have long lost count of their victims, though that admittedly isn’t too hard for an orc with only ten fingers.<br/>
-Special Notes: This unit’s marksmanship gives it a high chance of hitting targeted enemies, but only on the attack. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Clawing Better &ndash; claws ===
@@ -5045,7 +4994,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Cause Nearby Allies to Attack Like Bloodthirsty Fanatics &ndash; leadership2_bloodthirst ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Leader_(Like_a_Level_3_Unit)_.E2.80.93_leadership2|leadership2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_damage|warlord's rule]]</span><br/>
 <br/>
 === Better at Gruesome Things that Arouse Nearby Allies &ndash; evisceration ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -5076,7 +5025,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Phantom ==
 <span style='color:#808080'><i>Undead lords sometimes figure out a way to make their deathblades fully use their potential. They remove their legs, replacing them with a ghostly tail allowing them to float and spin as they want. They also add them an additional pair of arms, to make these minions more destructive. Phantoms are, however, quite vulnerable.<br/>
-Special Notes: This unit can move unseen in deep water, requiring no air from the surface.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Axe Combat &ndash; axe ===
@@ -5134,7 +5082,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Pilum Master ==
 <span style='color:#808080'><i>Some javelineers came to an incredible skill with javelins, and improved their javelins into pilums. These weapons are hard to use, but they can deal heavy damages to anyone before they even come close enough to hit, even if they are attacked. Although many soldiers consider their weapons obsolete, they wield them proudly, because unlike swords or bows, pilums can be used both in melee and ranged combat.<br/>
-Special Notes: The length of this unit’s weapon allows it to strike first in melee, even in defense.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Pilum &ndash; spear ===
@@ -5201,7 +5148,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Predator ==
 <span style='color:#808080'><i>Master huntsmen often get to like hunting more than anything else. Their deadly passion guides them, and they care only a little if their prey is human or animal. These predators may attack anything they spot, if it is not too numerous. Provided that one has enough guards around, it is possible to parlay with them, or even to employ them.<br/>
-Special Notes: This unit’s marksmanship gives it a high chance of hitting targeted enemies, but only on the attack.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Bow &ndash; bow ===
@@ -5308,7 +5254,6 @@ This unit also has generic AMLA advancements</i></span>
 Gameplay notes:<br/>
 Advancements with sword add marksman and plague, and lots of damage.<br/>
 Advancements with crossbow add great precision.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit can move unseen in deep water, requiring no air from the surface. The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level. During battle, this unit can drain life from victims to renew its own health.<br/>
 This unit also has soul eater AMLA advancements</i></span>
 
 === Better with Sword &ndash; sword1 ===
@@ -5437,7 +5382,6 @@ This unit also has soul eater AMLA advancements</i></span>
 
 == Preserved Lich (Delly Lich) ==
 <span style='color:#808080'><i>Preserved liches are an exotic kind of liches, they are far more powerful than mere liches.<br/>
-Special Notes: If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has soul eater AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; sword ===
@@ -5570,7 +5514,6 @@ Advancements with wave of fear bring huge damage, slow, explosive slow, leech, a
 Don't neglect defensive abilities. They stack additively with gear, while the effects of different parts of armour stack only multiplicatively.<br/>
 The soul eater ability will add a lot of other advancements (new attacks, regeneration, healing, various abilities and much more).<br/>
 Try to avoid learning from books, because while normal advancements add 20 to maximum experience to preserved liches, these advancements add 20% to maximum experience; that might later be an equivalent even to five advancements.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit can move unseen in deep water, requiring no air from the surface. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health.<br/>
 This unit also has soul eater AMLA advancements</i></span>
 
 === Better with Sword &ndash; sword1 ===
@@ -5865,7 +5808,6 @@ Advancements with gossamer add various weapon specials to it, but its damage is 
 Don't neglect defensive abilities. They stack additively with gear, while the effects of different parts of armour stack only multiplicatively.<br/>
 The soul eater ability will add a lot of other advancements (new attacks, regeneration, healing, various abilities and much more).<br/>
 Try to avoid learning from books, because while normal advancements add 20 to maximum experience to preserved liches, these advancements add 20% to maximum experience; that might later be an equivalent even to five advancements.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit can move unseen in deep water, requiring no air from the surface. The swarming attacks of this unit become less deadly whenever its members are wounded. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit is capable of healing those around it, and curing them of poison.<br/>
 This unit also has soul eater AMLA advancements</i></span>
 
 === Better with Staff &ndash; staff1 ===
@@ -6224,7 +6166,6 @@ This unit also has soul eater AMLA advancements</i></span>
 
 == Princess of Shadows (Delly Start) ==
 <span style='color:#808080'><i>Although women are not very frequent in criminal gangs, those who are there may use their charm to expand their control over various noblemen. Sometimes, this can create good friendships and alliances between criminals and nobles.<br/>
-Special Notes: If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; sword ===
@@ -6347,7 +6288,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Prophet ==
 <span style='color:#808080'><i>Formerly either Paladins who decided to expand their knowledge of white magic or Magi of Light who decided that evil has to be defeated also by weapons of war, Prophets are the pious knights who both care about destroying the evil and about helping any righteous person.<br/>
-Special Notes: Using a charging attack doubles both damage dealt and received; this does not affect defensive retaliation. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures. This unit is capable of healing those around it, and curing them of poison. Illumination increases the lighting level in adjacent areas.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Lance &ndash; lance ===
@@ -6461,7 +6401,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Reaper ==
 <span style='color:#808080'><i>Reapers are abominations, brought from the world of the dead into our world, but maintaining connections to their world to drain excessive amounts of power from it, longing for nothing else but bringing as many souls into the world of the dead. In most cases, they are a creation of a necromancer, forcing a spirit to become a reaper, manipulating it to do what he wants.<br/>
-Special Notes: During battle, this unit can drain life from victims to renew its own health. Spirits have very unusual resistances to damage, and move quite slowly over open water. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Combat with a Scythe &ndash; scythe ===
@@ -6563,7 +6502,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Scythemaster ==
 <span style='color:#808080'><i>The greatest weapon masters will eventually come to master scythes, whose dual-wielding is the most destructive possibility ever.<br/>
-Special Notes: The length of this unit’s weapon allows it to strike first in melee, even in defense.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Impaling Better with Scythe &ndash; scythe ===
@@ -6619,7 +6557,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Shadow Prince ==
 <span style='color:#808080'><i>After years of life as a criminal, the outlaw gains pride and no longer feels the need to behave like a brute. To teach the others that they are superior too, they learn some magic, and practise fighting with a staff that they used when learning magic. Their authority above other criminals is so great, that they can hide in any settlement.<br/>
-Special Notes: This unit can hide in villages (with the exception of water villages), and remain undetected by its enemies, except by those standing next to it.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Striking Better with Quarterstaff &ndash; quarterstaff ===
@@ -6699,7 +6636,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Shadowalker ==
 <span style='color:#808080'><i>Sometimes, the most dextrous from all masters of combat become Shadowalkers, fighters whose skill with sword is unmatched. No longer requiring illumination to fight, they can fight equally well under the sun and in dark caves. If the situation is not ideal for fencing, they can shoot a poisoned bolt at their enemy or surprise him with an unexpected spell.<br/>
-Special Notes: If there is an enemy of the target on the opposite side of the target while attacking it, this unit may backstab, inflicting double damage by creeping around behind that enemy. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee Combat &ndash; sword ===
@@ -6825,7 +6761,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Siege Troll ==
 <span style='color:#808080'><i>Trolls rarely use more than the most basic of equipment. The Orcish tribes will occasionally outfit the biggest, strongest, toughest Troll they can find with heavy armour and use it as a siege weapon.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Stronger with Hammer &ndash; hammer ===
@@ -6917,7 +6852,6 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>Even of the mightiest living creatures there will remain nothing but bones and dark sinew in the end. But dark powers that know no bounds raise also those back to life – and if they are downright nasty in the shape of a harmless looking pile of bone... Only few who have been deceived by that appearance lived long enough to realise their terrible mistake.<br/>
 Gameplay notes: This unit can learn to use a dark breath that can, along with its jaws, turn this skeletal dragon into a doom to all living.<br/>
 Keep in mind that this unit is a unique creation of magic, sacrificing it is not the best idea (and a crime against the preservation of biodiversity).<br/>
-Special Notes: During battle, this unit can drain life from victims to renew its own health. This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Biting Better &ndash; jaws1 ===
@@ -7036,7 +6970,6 @@ This unit also has generic AMLA advancements</i></span>
 == Snow Hunter ==
 <span style='color:#808080'><i>Having lost their ancient homeland in forests after the Fall, some elves remained seeking last remains of forests and eventually found them in the north, but others tried to adopt to other areas. Several elves adopted to live in deserts, others adopted to live in tundras. Thanks to their adaptation abilities granted by their magic nature, they became as close to snow-covered tundras as their ancestors were close to their forests.<br/>
 Because of the constant danger and harsh weather condition the Snow Elves live in, they are all trained for battle and skilled in usage of weapons. Thanks to their fast metabolism, they are highly resistant to frost, capable to sit half-naked in a circle and chat in freezing temperatures. They wear thick clothes when ice storms come, and others would freeze also in three layers of animal furs.<br/>
-Special Notes: This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === A Much Better Fighter &ndash; melee ===
@@ -7150,7 +7083,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Soul Shooter ==
 <span style='color:#808080'><i>Entrapped by the evil of their existence, their victims' souls frequently remain on the battlefield, too scared to leave into the world of the dead. Soul Shooters can exploit them by binding them into their arrows, making them incredibly powerful.<br/>
-Special Notes: This unit can move unseen in deep water, requiring no air from the surface.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Bow &ndash; bow ===
@@ -7298,7 +7230,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Troll Boulderlobber ==
 <span style='color:#808080'><i>Some trolls show an uncommon ability in throwing boulders. These Boulderlobbers throw enormous rocks, that common trolls could not even lift and that are often bigger than a man.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Throwing Boulders Better &ndash; sling ===
@@ -7383,7 +7314,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Unholy Breed (Lethalia Evil Good) ==
 <span style='color:#808080'><i>The wicked Queen of Darkness managed to escape her pursuers with very little power remaining, but it was still enough to possess people and perform dark experiments to create a body that would not deteriorate over time, and incarnate in it. Her growth was accelerated by her ancient soul, and is already old enough to use all black magic she learned before.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Sword &ndash; sword ===
@@ -7480,7 +7410,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Unholy Breed (Vritra Later) ==
 <span style='color:#808080'><i>Born from a special breed between a serpent and an elf, she inherited elvish appearance and intelligence, and serpent-like malice and dexterity. She is rather good than evil because of her education, but the evil power within her was difficult to control, until she learned how to control it, using her anger only when she needs.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Sword &ndash; sword1 ===
@@ -7693,7 +7622,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Unholy Breed (Vritra) ==
 <span style='color:#808080'><i>Born from a special breed between a serpent and an elf, she inherited elvish appearance and intelligence, and serpent-like malice and dexterity. She is rather good than evil because of her education, but the evil power within her is still hard to control. If it gets bad, a healing potion might help her.<br/>
-Special Notes: This unit regenerates, which allows it to heal as though always stationed in a village. This unit has magical attacks, which always have a high chance of hitting an opponent. During battle, this unit can drain life from victims to renew its own health. This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them. This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures. This unit’s arcane attack deals tremendous damage to magical creatures, and even some to mundane creatures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Oops, Something Went Wrong &ndash; backup_amla ===
@@ -7846,7 +7774,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Unknown (Lethalia Lich-Weakened) ==
 <span style='color:#808080'><i>Don't ask. Even she has no idea what she is.<br/>
-Special Notes: This unit is able to slow its enemies, halving their movement speed and attack damage until they end a turn. This unit has magical attacks, which always have a high chance of hitting an opponent.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Axe &ndash; axe1 ===
@@ -8170,7 +8097,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Warlock ==
 <span style='color:#808080'><i>After numerous years of practice, Sword Magi and Knights of Magic went close to the pinnacle of warfare, that they became masters of both mundane and arcane combat. They can manage to unite these two skills into one, and become even more deadly. But still, because they simply cannot wear too much armour that causes difficulties to spellcasting and dodging, they are quite vulnerable to physical blows.<br/>
-Special Notes: This unit has magical attacks, which always have a high chance of hitting an opponent.This unit's lack of social skills decreases the damage of all adjacent allies by 20%.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better with Sword &ndash; sword ===
@@ -8260,7 +8186,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Werewolf Rider ==
 <span style='color:#808080'><i>Sometimes it happens that an orc grows really unintelligent and naive, but blessed with extraordinary strength and predator-like instincts and ferocity. They have great difficulties with integration into the orcish community, but shamans usually perform a ritual that allows them to transform their body to the shape of an animal, which lets them use their innate abilities better. It is said that those orcs have the legacy of their beast ancestors of distant past and are considered sacred. They abandon orcish communities and hunt in the wilderness. They shift back into the humanoid form only rarely, usually only when they need to climb somewhere. Those orcs are half-men and half-beasts and are nearly impossible to tame. However, sometimes there are also battle-hardened and experienced goblin riders who are ambitious enough to search for those werewolves and even manage to tame one enough to ride with him into battle. Those goblins are called werewolf riders and whenever they appear on a battlefield, they strike fear into the hearts of their foes and are even respected by the greatest of the orcs.<br/>
-Special Notes: The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures.<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Faster at Clawing &ndash; claws ===
@@ -8341,8 +8266,6 @@ This unit also has generic AMLA advancements</i></span>
 
 == Zombie Rider ==
 <span style='color:#808080'><i>During undead invasions, not only humans, but also farm animals die and are resurrected into undeath. These undead animals can be ridden by skeletons, producing units that are both zombie and skeleton in nature.<br/>
-Special Notes:<br/>
-Special Notes:_DEFENSE_CAP<br/>
 This unit also has generic AMLA advancements</i></span>
 
 === Better at Axe Combat &ndash; axe ===
@@ -8374,19 +8297,19 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Transforming_Enemies_into_Soulless_with_the_Plague_.E2.80.93_soulless|soulless]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the touch attack: [[LotI_Abilities#greater infect_.E2.80.93_poison|greater infect]]</span><br/>
-<span style='color:green'>Remove weapon special for the touch attack: plague</span><br/>
+<span style='color:green'>Remove weapon special for the touch attack: plague(Soulless)</span><br/>
 <span style='color:green'>Damage decreased by 1 for the touch attack</span><br/>
 <br/>
-=== Causing Enemies to Become Soulless Even if Killed Indirectly &ndash; monstrosity ===
+=== Transforming Enemies into Monstrosities with the Plague &ndash; monstrosity ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Causing_Enemies_to_Become_Soulless_Even_if_Killed_Indirectly_.E2.80.93_soulless_infect|soulless_infect]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the touch attack: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Monstrosity)]]</span><br/>
-<span style='color:green'>Remove weapon special for the touch attack: plague</span><br/>
+<span style='color:green'>Remove weapon special for the touch attack: greater infect</span><br/>
 <span style='color:green'>Damage decreased by 1 for the touch attack</span><br/>
 <br/>
 === Attacking Better when Making Plague &ndash; touch_damage ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_Enemies_to_Become_Soulless_Even_if_Killed_Indirectly_.E2.80.93_monstrosity|monstrosity]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Transforming_Enemies_into_Monstrosities_with_the_Plague_.E2.80.93_monstrosity|monstrosity]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the touch attack</span><br/>
 <br/>
 === Causing a Severe Frailty Complex in Enemies' Minds (-15% Physical Resistances) &ndash; frail_tide ===

@@ -168,7 +168,7 @@ def main():
 
     def sort_by_first2(x):
         return x[0].lower()
-    
+
     def sort_by_type(item):
         type = item[1].keys["sort"].any
         if type in writer.sort_translations:
@@ -218,7 +218,7 @@ def main():
             items.sort(key=sort_by_first2)
             for item in items:
                 writer.write_item(*item, items_file, idx)
-             
+
 
     print("Writing ability information to abilities.wiki")
     with open("abilities.wiki", "w", encoding="utf-8") as ability_file:
@@ -229,7 +229,7 @@ def main():
             abilities.sort(key = sort_ability_type)
             print("==", abilities[0][0], "==", file=ability_file)
             for type, abs in itertools.groupby(abilities, sort_ability_type):
-                print("===", type, "===", file=ability_file)
+                print("===", utils.english_title(type.replace("_", " ")), "===", file=ability_file)
                 abs = list(abs)
                 abs.sort(key = lambda x: x[1])
                 for ab in abs:

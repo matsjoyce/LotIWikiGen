@@ -369,8 +369,8 @@ def write_item(name, tag, file, index):
                        lambda m: index.process_requirement(m.group(1)),
                        latent.keys["desc"].any)
         write(re.sub("color='([^']+)'", "style='color:\\1'", value))
-    if "description" in keys and write.writes < 3:
-        v = re.sub("color='([^']+)'", "style='color:\\1'", keys["description"].any)
+    if ("description" in keys or "description_override" in keys) and write.writes < 3:
+        v = re.sub("color='([^']+)'", "style='color:\\1'", keys.get("description", keys.get("description_override")).any)
         if "<" not in v:
             v = "<span style='color:#808080'><i>{}</i></span>".format(v)
         write(v.replace("\n", "<br/>"))

@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements available for categories of units currently available in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit-specific advancements.
-This was generated at Wed Sep 22 20:59:16 2021 using version git-24b4ead of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sun Apr 16 20:10:06 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
 
@@ -81,7 +81,7 @@ Other LotI-related wiki pages:
 === Able to Poison Weapons of All Adjacent Allies (Book of Herbal Tinctures and Malignancies) &ndash; BoHTaM3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Poison_Weapons_(Book_of_Herbal_Tinctures_and_Malignancies)_.E2.80.93_BoHTaM1|BoHTaM1]] and [[#Capable_of_Self-Healing_(Book_of_Herbal_Tinctures_and_Malignancies)_.E2.80.93_BoHTaM2|BoHTaM2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_dummy|radiation]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_poison|radiation]]</span><br/>
 <br/>
 === Improving the Damage of All Nearby Allies by 15% (Tome of Bards) &ndash; ToB1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -239,7 +239,7 @@ Other LotI-related wiki pages:
 === Leading Allies to Charge into Battle (How to be an Overlord) &ndash; HtbaO2b ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Possessing_the_Leadership_of_a_Level_4_Unit_(How_to_be_an_Overlord)_.E2.80.93_HtbaO2|HtbaO2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_damage|warlord's rule]]</span><br/>
 <br/>
 === Possessing the Leadership of a Level 5 Unit (How to be an Overlord) &ndash; HtbaO3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -359,7 +359,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by -5%</span><br/>
 <br/>
-=== 10% Better Fire Resistance, Able to Breathe Fire 11-4, Some Fire Penetration (Fire Dragon Legacy) &ndash; FDL2 ===
+=== 10% Better Fire Resistance, Able to Breathe Fire 14-4, Some Fire Penetration (Fire Dragon Legacy) &ndash; FDL2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy and [[#15%/5%/5%/-5%_to_Fire/Blade/Impact/Cold_Resistance,_1_More_Melee_Damage_(Fire_Dragon_Legacy)_.E2.80.93_FDL1|FDL1]] to be achieved first</i></span><br/>
 <span style='color:green'>New attack: fire breath legacy (14 - 4, fire)</span><br/>
@@ -369,7 +369,7 @@ Other LotI-related wiki pages:
 <br/>
 === Breathing Fire Better, More Fire Penetration, 5%/2%/2% Better Resistance to Fire/Blade/Impact (Fire Dragon Legacy) &ndash; FDL3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy and [[#10%_Better_Fire_Resistance,_Able_to_Breathe_Fire_11-4,_Some_Fire_Penetration_(Fire_Dragon_Legacy)_.E2.80.93_FDL2|FDL2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy and [[#10%_Better_Fire_Resistance,_Able_to_Breathe_Fire_14-4,_Some_Fire_Penetration_(Fire_Dragon_Legacy)_.E2.80.93_FDL2|FDL2]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the fire breath legacy attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <span style='color:green'>Damage increased by 3 for the fire breath legacy attack</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 2%</span><br/>
@@ -865,7 +865,7 @@ Other LotI-related wiki pages:
 === Able to Lead Allies into Battle to Fight Like Furious Savages &ndash; Leadership3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Lead_Allies_into_Battle_(Leadership_of_a_Level_5_Unit)_.E2.80.93_Leadership2|leadership2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_dummy|warlord's rule]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_damage|warlord's rule]]</span><br/>
 <br/>
 === Able to Leave the Mortal Shell to Attack Almost Immune to Physical Damage &ndash; Spirit1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -982,6 +982,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement thunder to be achieved first</i></span><br/>
 <span style='color:green'>New attack: thunder (30 - 1, lightning)</span><br/>
+<span style='color:green'>New weapon special for the thunder attack: magical</span><br/>
 <span style='color:green'>New weapon special for the thunder attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <br/>
 === Casting Stronger Thunder &ndash; Thunder2 ===

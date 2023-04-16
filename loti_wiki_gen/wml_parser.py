@@ -163,7 +163,10 @@ def subparse_wml(tokens, filename, first_lineno, tag_ann="all"):
                 if nt[:2] == ("close", (value[0],)):
                     count -= 1
                 subtokens.append(nt)
-                nt = next(tokens)
+                try:
+                    nt = next(tokens)
+                except StopIteration:
+                    break
             try:
                 tag = subparse_wml(subtokens, filename, lineno, annotation)
             except Exception as e:
@@ -228,4 +231,5 @@ def format_parsed(tag, level=0):
 
 
 def parse(text, filename, lineno):
+    print(" -> Parsing", filename)
     return subparse_wml(preprocess(tokenize(text, lineno, filename)), str(filename), lineno)
