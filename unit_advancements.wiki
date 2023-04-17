@@ -1,16 +1,16 @@
-This is an auto-generated wiki page listing all the advancements that are unit specific currently available in the campaign "Legend of the Invincibles". See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.
-This was generated at Sun Apr 16 20:10:06 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
+This is an auto-generated wiki page listing all the advancements that are unit specific currently available in the campaign "Legend of the Invincibles". See [[LotI Standard Advancements]] for general advancements such as legacies and books.
+This was generated at Mon Apr 17 08:52:38 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
-Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
+Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
 Other LotI-related wiki pages:
 
-* https://wiki.wesnoth.org/LotI_Items &ndash; items, such as weapons and books
-* https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
-* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit-specific advancements
-* https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
-* https://wiki.wesnoth.org/LotI_Scenarios &ndash; scenario information
-* https://wiki.wesnoth.org/DeadlyUnitsFromLotI
+* [[LotI Items]] &ndash; items, such as weapons and books
+* [[LotI Standard Advancements]] &ndash; general advancements such as legacies and books
+* [[LotI Unit Advancements]] &ndash; unit-specific advancements
+* [[LotI Abilities]] &ndash; abilities and weapon specials
+* [[LotI Scenarios]] &ndash; scenario information
+* [[DeadlyUnitsFromLotI]]
 
 == Abomination ==
 <span style='color:#808080'><i>Horror tales about terrifying undead usually lie. They describe ghasts as the most nightmarish beings that ever existed. And that is just plain wrong. There is Abomination, a mutated kind of ghast that scares even the most courageous monster hunters. It has literally a dozen mouths, most of them belonging to ghoul homunculi attached to its body with tentacles.<br/>

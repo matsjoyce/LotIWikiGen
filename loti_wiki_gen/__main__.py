@@ -30,16 +30,16 @@ header = """
 This is an auto-generated wiki page listing {{}} currently available in the campaign "Legend of the Invincibles". {{}}
 This was generated at {} using version {{}} of LotI and version {} of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
-Instead, create a new issue at https://github.com/matsjoyce/LotIWikiGen/issues/new and the script will be adjusted.
+Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
 Other LotI-related wiki pages:
 
-* https://wiki.wesnoth.org/LotI_Items &ndash; items, such as weapons and books
-* https://wiki.wesnoth.org/LotI_Standard_Advancements &ndash; general advancements such as legacies and books
-* https://wiki.wesnoth.org/LotI_Unit_Advancements &ndash; unit-specific advancements
-* https://wiki.wesnoth.org/LotI_Abilities &ndash; abilities and weapon specials
-* https://wiki.wesnoth.org/LotI_Scenarios &ndash; scenario information
-* https://wiki.wesnoth.org/DeadlyUnitsFromLotI
+* [[LotI Items]] &ndash; items, such as weapons and books
+* [[LotI Standard Advancements]] &ndash; general advancements such as legacies and books
+* [[LotI Unit Advancements]] &ndash; unit-specific advancements
+* [[LotI Abilities]] &ndash; abilities and weapon specials
+* [[LotI Scenarios]] &ndash; scenario information
+* [[DeadlyUnitsFromLotI]]
 """.lstrip().format(time.ctime(), __version__)
 
 
@@ -238,7 +238,7 @@ def main():
     print("Writing standard advancement information to standard_advancements.wiki")
     with open("standard_advancements.wiki", "w", encoding="utf-8") as adv_standard_file:
         print(header.format("all the advancements available for categories of units",
-                            "See https://wiki.wesnoth.org/LotI_Unit_Advancements for unit-specific advancements.",
+                            "See [[LotI Standard Advancements]] for unit-specific advancements.",
                             version), file=adv_standard_file)
 
         for section, advs in itertools.groupby(standard_advancements, sort_by_first):
@@ -258,7 +258,7 @@ def main():
     print("Writing unit advancement information to unit_advancements.wiki")
     with open("unit_advancements.wiki", "w", encoding="utf-8") as adv_units_file:
         print(header.format("all the advancements that are unit specific",
-                            "See https://wiki.wesnoth.org/LotI_Standard_Advancements for general advancements such as legacies and books.",
+                            "See [[LotI Standard Advancements]] for general advancements such as legacies and books.",
                             version), file=adv_units_file)
 
         for section, advs in itertools.groupby(unit_advancements, sort_by_first2):
