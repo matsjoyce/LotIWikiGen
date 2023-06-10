@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently available in the campaign "Legend of the Invincibles". 
-This was generated at Mon Apr 17 08:52:38 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat Jun 10 14:24:52 2023 using version git-861c9ee of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 

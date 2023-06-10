@@ -30,7 +30,7 @@ def english_pluralify(word, number=0):
 def english_join(items, pluralify=True):
     items = list(items)
     if len(items) == 1:
-        return " " + items[0]
+        return (" " + items[0]) if pluralify else items[0]
     else:
         before = ", ".join(items[:-1]) + " and " + items[-1]
         return ("s " + before) if pluralify else before

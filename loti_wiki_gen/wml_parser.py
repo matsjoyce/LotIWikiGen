@@ -47,6 +47,8 @@ class WMLValue:
 
     @property
     def any(self):
+        if not all:
+            raise RuntimeError("Cannot use any")
         return self.EASY or self.MEDIUM or self.HARD
 
     @property

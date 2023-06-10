@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently available in the campaign "Legend of the Invincibles". 
-This was generated at Mon Apr 17 08:52:38 2023 using version git-29a5aac of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat Jun 10 14:24:52 2023 using version git-861c9ee of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -40,8 +40,8 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to fire increased by 3%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 3%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 3%</span><br/>
-<span style='color:purple'>+12 to hitpoints (requires [[#Cloak of the Pale Rider_.E2.80.93_cloak|Cloak of the Pale Rider]])</span><br/>
-<span style='color:purple'>5% to all resistances (requires [[#Angel of Death's Ring_.E2.80.93_ring|Angel of Death's Ring]])</span><br/>
+<span style='color:purple'>12 more hitpoints (requires [[#Cloak of the Pale Rider_.E2.80.93_cloak|Cloak of the Pale Rider]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Angel of Death's Ring_.E2.80.93_ring|Angel of Death's Ring]])</span><br/>
 <br/>
 === Amulet of Twilight &ndash; amulet ===
 <span style='color:#808080'><i>When the day and night mix, unique powers appear.</i></span><br/>
@@ -89,11 +89,11 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to cold increased by 20%</span><br/>
 <span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
 <span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
-<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
-<span style='color:purple'>1 to movement (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
-<span style='color:purple'>New ability: Frail Tide (15) (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (15)]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === Frozen Locket &ndash; amulet ===
 <span style='color:#808080'><i>Frozen memories shall thaw and redeem.</i></span><br/>
@@ -115,6 +115,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>Transform your blood to acid and nobody will drink it.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to drain_.E2.80.93_dummy|immune to drain]]</span><br/>
+<span style='color:green'>Adds status undrainable</span><br/>
 <br/>
 === Liquid Hatred &ndash; amulet ===
 <span style='color:#808080'><i>The essence of liquid hatred, purified and distilled.</i></span><br/>
@@ -126,7 +127,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>Look at this trinket I found in my haystack. It will protect me from the atrocities of war.</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:#60A0FF'>16 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>16 more hitpoints</span><br/>
 <br/>
 === Tears of the Dead &ndash; amulet ===
 <span style='color:#808080'><i>Pity the walking dead for they know no pleasure.</i></span><br/>
@@ -135,13 +136,14 @@ Other LotI-related wiki pages:
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to drain_.E2.80.93_dummy|immune to drain]]</span><br/>
+<span style='color:green'>Adds status undrainable</span><br/>
 <br/>
 === The gloomy Amulet &ndash; amulet ===
 <span style='color:#808080'><i>Bring sadness to your enemies by showing them how weak they are.</i></span><br/>
 <span style='color:green'>Damage increased by 30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
 <span style='color:green'>1 more attacks</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#The gloomy Cloak_.E2.80.93_cloak|The gloomy Cloak]])</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#The gloomy Ring_.E2.80.93_ring|The gloomy Ring]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#The gloomy Cloak_.E2.80.93_cloak|The gloomy Cloak]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#The gloomy Ring_.E2.80.93_ring|The gloomy Ring]])</span><br/>
 <br/>
 === Unthought Memories &ndash; amulet ===
 <span style='color:#808080'><i>Your life's experience may disappear when you perish, but once somebody will come to the same experience.</i></span><br/>
@@ -150,9 +152,9 @@ Other LotI-related wiki pages:
 <span style='color:green'>Enemy resistances to arcane decreased by 5%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
-<span style='color:purple'>4% to all physical resistances (requires [[#Unseen Writings_.E2.80.93_cloak|Unseen Writings]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Unspoken Words_.E2.80.93_gauntlets|Unspoken Words]])</span><br/>
-<span style='color:purple'>4% to magical resistances (requires [[#Unsung Odes_.E2.80.93_armour|Unsung Odes]])</span><br/>
+<span style='color:purple'>4% to blade, impact and pierce resistance (requires [[#Unseen Writings_.E2.80.93_cloak|Unseen Writings]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Unspoken Words_.E2.80.93_gauntlets|Unspoken Words]])</span><br/>
+<span style='color:purple'>4% to arcane, cold and fire resistance (requires [[#Unsung Odes_.E2.80.93_armour|Unsung Odes]])</span><br/>
 <br/>
 == armour ==
 === Ancient Armour &ndash; armour ===
@@ -188,8 +190,8 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
 <span style='color:#60A0FF'>Movement costs on hills set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs on mountains set to 1</span><br/>
-<span style='color:purple'>New Ability: warlord's rule (requires [[#Sceptre of the King_.E2.80.93_mace|Sceptre of the King]])</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#Crown of the King_.E2.80.93_helm|Crown of the King]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#warlord's rule_.E2.80.93_damage|warlord's rule]] (requires [[#Sceptre of the King_.E2.80.93_mace|Sceptre of the King]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Crown of the King_.E2.80.93_helm|Crown of the King]])</span><br/>
 <span style='color:purple'>4 more hitpoints per level (requires [[#Ring of the King_.E2.80.93_ring|Ring of the King]])</span><br/>
 <br/>
 === Beyond Death &ndash; armour ===
@@ -208,8 +210,8 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (40)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#antisocial_.E2.80.93_leadership|antisocial]]</span><br/>
-<span style='color:purple'>5% to all resistances (requires [[#Cunctator's sword_.E2.80.93_sword|Cunctator's Sword]])</span><br/>
-<span style='color:purple'>5% to all resistances (requires [[#Cunctator's Helmet_.E2.80.93_helm|Cunctator's Helmet]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Cunctator's sword_.E2.80.93_sword|Cunctator's Sword]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Cunctator's Helmet_.E2.80.93_helm|Cunctator's Helmet]])</span><br/>
 <br/>
 === Dark Sarcasm &ndash; armour ===
 <span style='color:#808080'><i>You missed! You cannot even hit me! Hahahaha! I feel so good to see you fail, loser!</i></span><br/>
@@ -229,11 +231,11 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>New ability: regenerates</span><br/>
 <span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
 <span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
-<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
-<span style='color:purple'>1 to movement (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
-<span style='color:purple'>New ability: Wrath (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#wrath_.E2.80.93_dummy|wrath]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === Greater Guardsman's Leather Armour &ndash; armour ===
 <span style='color:#808080'><i>A good guardsman never yields.</i></span><br/>
@@ -250,8 +252,8 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
 <span style='color:green'>New weapon special: slow (ranged attacks only)</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 30%</span><br/>
-<span style='color:purple'>New weapon special: slows (melee attacks only) (requires [[#Iced Boots_.E2.80.93_boots|Iced Boots]])</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Chilling Touch_.E2.80.93_gauntlets|Chilling Touch]])</span><br/>
+<span style='color:purple'>New weapon special (melee attacks only): slow (requires [[#Iced Boots_.E2.80.93_boots|Iced Boots]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Chilling Touch_.E2.80.93_gauntlets|Chilling Touch]])</span><br/>
 <br/>
 === Hell Warlord's Armour &ndash; armour ===
 <span style='color:#808080'><i>Abaddon ruled Inferno with an iron hand, but it did not stop his loyals from following him.</i></span><br/>
@@ -300,7 +302,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 25%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (30)]]</span><br/>
-<span style='color:purple'>New ability: conviction (20) (requires [[#Legion Slayer_.E2.80.93_cloak|Legion Slayer]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (20)]] (requires [[#Legion Slayer_.E2.80.93_cloak|Legion Slayer]])</span><br/>
 <br/>
 === Ice Armour &ndash; armour ===
 <span style='color:#808080'><i>Dwarvish runes can prevent ice from melting.</i></span><br/>
@@ -311,7 +313,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>Hot weather is bad for health.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 30%</span><br/>
-<span style='color:#60A0FF'>5 more hitpoints per level per level</span><br/>
+<span style='color:#60A0FF'>5 more hitpoints per level</span><br/>
 <br/>
 === Iron Armour &ndash; armour ===
 <span style='color:#808080'><i>When choosing between a hundred warriors clad in iron and fifty warriors clad in mithril, choose iron.</i></span><br/>
@@ -348,21 +350,21 @@ Other LotI-related wiki pages:
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
-<span style='color:purple'>5% to all base resistances (requires [[#Lethalia's Staff_.E2.80.93_staff|Lethalia's Staff]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Lethalia's Staff_.E2.80.93_staff|Lethalia's Staff]])</span><br/>
 <br/>
 === Lionheart &ndash; armour ===
 <span style='color:#808080'><i>Lions spend twenty hours per day slacking. Yet they are a symbol of bravery. Like our nobles.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:green'>Damage increased by 1</span><br/>
 <span style='color:#60A0FF'>10% chance to strike a devastating blow</span><br/>
-<span style='color:#60A0FF'>16 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>16 more hitpoints</span><br/>
 <br/>
 === Marilyn's Armour &ndash; armour ===
 <span style='color:#808080'><i>A manly man can have a woman's name without being funny.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
 <span style='color:#60A0FF'>10% chance to strike a devastating blow</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
-<span style='color:#60A0FF'>24 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>24 more hitpoints</span><br/>
 <br/>
 === Mithral Armour &ndash; armour ===
 <span style='color:#808080'><i>This highly valuable armour is told to be made by dwarvish apprentices. I wonder what their masters make.</i></span><br/>
@@ -440,9 +442,9 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>Shiny armour will only attract unwanted attention.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#Rherraent's Sword_.E2.80.93_sword|Rherraent's Sword]])</span><br/>
-<span style='color:purple'>3% to all resistances (requires [[#Rherraent's Helm_.E2.80.93_helm|Rherraent's Helm]])</span><br/>
-<span style='color:purple'>3% to all resistances (requires [[#Rherraent's Ring_.E2.80.93_ring|Rherraent's Ring]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Rherraent's Sword_.E2.80.93_sword|Rherraent's Sword]])</span><br/>
+<span style='color:purple'>3% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Rherraent's Helm_.E2.80.93_helm|Rherraent's Helm]])</span><br/>
+<span style='color:purple'>3% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Rherraent's Ring_.E2.80.93_ring|Rherraent's Ring]])</span><br/>
 <br/>
 === Runner's Leather Armour &ndash; armour ===
 <span style='color:#808080'><i>Running is always better without heavy armour.</i></span><br/>
@@ -490,6 +492,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>3 fewer movement points</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#resistant to slow_.E2.80.93_dummy|resistant to slow]]</span><br/>
+<span style='color:green'>Adds status unslowable</span><br/>
 <br/>
 === Unsung Odes &ndash; armour ===
 <span style='color:#808080'><i>Your deeds of valour will not be revered forever. But their consequences will not vanish.</i></span><br/>
@@ -499,9 +502,9 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Unseen Writings_.E2.80.93_cloak|Unseen Writings]])</span><br/>
-<span style='color:purple'>4% to all physical resistances (requires [[#Unspoken Words_.E2.80.93_gauntlets|Unspoken Words]])</span><br/>
-<span style='color:purple'>4% to magical resistances (requires [[#Unthought Memories_.E2.80.93_amulet|Unthought Memories]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Unseen Writings_.E2.80.93_cloak|Unseen Writings]])</span><br/>
+<span style='color:purple'>4% to blade, impact and pierce resistance (requires [[#Unspoken Words_.E2.80.93_gauntlets|Unspoken Words]])</span><br/>
+<span style='color:purple'>4% to arcane, cold and fire resistance (requires [[#Unthought Memories_.E2.80.93_amulet|Unthought Memories]])</span><br/>
 <br/>
 === Vanquisher's Mithral Armour &ndash; armour ===
 <span style='color:#808080'><i>Like a tempest, he landed on his enemies, gore flying everywhere. Even his armour helped him spill blood.</i></span><br/>
@@ -528,7 +531,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
-<span style='color:purple'>20% increased damage with violent beatdown (requires [[#Violent Mage's Cloak_.E2.80.93_cloak|Violent Mage's Cloak]])</span><br/>
+<span style='color:purple'>Damage increased by 20% for the violent beatdown attack (requires [[#Violent Mage's Cloak_.E2.80.93_cloak|Violent Mage's Cloak]])</span><br/>
 <br/>
 === Void &ndash; armour ===
 <span style='color:#808080'><i>Try to cut through this. There is nothing inside, my guts are in another dimension!</i></span><br/>
@@ -611,7 +614,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:green'>Damage increased by 45%</span><br/>
 <span style='color:green'>35% more attacks</span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
-<span style='color:purple'>10% more overall damage (requires [[#Lethal staff_.E2.80.93_staff|Lethal Staff]])</span><br/>
+<span style='color:purple'>Damage increased by 10% (requires [[#Lethal staff_.E2.80.93_staff|Lethal Staff]])</span><br/>
 <br/>
 === Lilith's Precious &ndash; axe ===
 <span style='color:#808080'><i>In order to be able to fight with any weapon available, Lilith swaps weapon types once per century.</i></span><br/>
@@ -665,7 +668,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 20%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
-<span style='color:purple'>2 to base damage (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
 <br/>
 === Boots of Evanescence &ndash; boots ===
 <span style='color:#808080'><i>Now you see me. Now you don't.</i></span><br/>
@@ -697,10 +700,10 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
 <span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
 <span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
-<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
-<span style='color:purple'>New ability: Wardrums (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#wardrums_.E2.80.93_dummy|wardrums]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === Elusive Boots &ndash; boots ===
 <span style='color:#808080'><i>Enemies are blocking the way? Who cares?</i></span><br/>
@@ -736,8 +739,8 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
-<span style='color:purple'>Movement increased by 1 (requires [[#Heart of Ice_.E2.80.93_armour|Heart of Ice]])</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Chilling Touch_.E2.80.93_gauntlets|Chilling Touch]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Heart of Ice_.E2.80.93_armour|Heart of Ice]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Chilling Touch_.E2.80.93_gauntlets|Chilling Touch]])</span><br/>
 <br/>
 === Merciless Wake &ndash; boots ===
 <span style='color:#808080'><i>Why so much hurry? Go slowly, look around, contemplate, kill whatever you like...</i></span><br/>
@@ -770,8 +773,8 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
 <span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#Wisdom of the Ages_.E2.80.93_helm|Wisdom of the Ages]])</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#Tracking the Lost Knowledge_.E2.80.93_cloak|Tracking the Lost Knowledge]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Wisdom of the Ages_.E2.80.93_helm|Wisdom of the Ages]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Tracking the Lost Knowledge_.E2.80.93_cloak|Tracking the Lost Knowledge]])</span><br/>
 <br/>
 === Slow Boots &ndash; boots ===
 <span style='color:#808080'><i>If you cannot outrun the knights, why do you even try?</i></span><br/>
@@ -819,7 +822,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#808080'><i>Your footwear dictates your mobility and protects you from environment. Avoid any sacrifices for style or comfort.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit decreased by 10%</span><br/>
-<span style='color:#60A0FF'>8 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>8 more hitpoints</span><br/>
 <br/>
 === The Southern Boots &ndash; boots ===
 <span style='color:#808080'><i>Boots are impractical in hot weather? We shall see about that!</i></span><br/>
@@ -966,7 +969,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
-<span style='color:purple'>New ability: Absorbs (1) (requires [[#Koschei's Journal_.E2.80.93_limited|Koschei's Journal]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#absorbs (1)_.E2.80.93_dummy|absorbs (1)]] (requires [[#Koschei's Journal_.E2.80.93_limited|Koschei's Journal]])</span><br/>
 <br/>
 === Cloak of the Assassin leader &ndash; cloak ===
 <span style='color:#808080'><i>I care not if you are assassins or not, when you are around me, you will attack my way.</i></span><br/>
@@ -982,8 +985,8 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 20%</span><br/>
-<span style='color:purple'>+12 to hitpoints (requires [[#Angel of Death's Ring_.E2.80.93_ring|Angel of Death's Ring]])</span><br/>
-<span style='color:purple'>5% to all resistances (requires [[#Amulet of the Last Guide_.E2.80.93_amulet|Amulet of the Last Guide]])</span><br/>
+<span style='color:purple'>12 more hitpoints (requires [[#Angel of Death's Ring_.E2.80.93_ring|Angel of Death's Ring]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Amulet of the Last Guide_.E2.80.93_amulet|Amulet of the Last Guide]])</span><br/>
 <br/>
 === Eidolon's Coat &ndash; cloak ===
 <span style='color:#808080'><i>He, a being of darkness, studied the art of white mages for generations. He learned the powers of light.</i></span><br/>
@@ -992,16 +995,16 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
 <span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
 <span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
-<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
-<span style='color:purple'>New ability: Absorbs (1) (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#absorbs (1)_.E2.80.93_dummy|absorbs (1)]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === Legion Slayer &ndash; cloak ===
 <span style='color:#808080'><i>Nobody knows how he works. Nobody knows when he strikes. Nobody lives to tell how he looks.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#penetrates_.E2.80.93_dummy|penetrates]]</span><br/>
-<span style='color:purple'> 2 more movement points (requires [[#Hunter of Kings_.E2.80.93_armour|Hunter of Kings]])</span><br/>
+<span style='color:purple'>2 more movement points (requires [[#Hunter of Kings_.E2.80.93_armour|Hunter of Kings]])</span><br/>
 <br/>
 === Nocturnal Cloak &ndash; cloak ===
 <span style='color:#808080'><i>You merely adopted darkness, I was molded by it.</i></span><br/>
@@ -1021,8 +1024,8 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
-<span style='color:purple'>5% to magical resistances (requires [[#Pyromancer's Sword_.E2.80.93_sword|Pyromancer's Sword]])</span><br/>
-<span style='color:purple'>New ability: from the ashes (requires [[#Pyromancer's Ring_.E2.80.93_ring|Pyromancer's Ring]])</span><br/>
+<span style='color:purple'>5% to arcane, cold and fire resistance (requires [[#Pyromancer's Sword_.E2.80.93_sword|Pyromancer's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#from the ashes_.E2.80.93_dummy|from the ashes]] (requires [[#Pyromancer's Ring_.E2.80.93_ring|Pyromancer's Ring]])</span><br/>
 <br/>
 === Robes of Filth &ndash; cloak ===
 <span style='color:#808080'><i>You call my new shirt filth?! For the thirty dirty pins in the sleeves?</i></span><br/>
@@ -1042,8 +1045,8 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Damage increased by 40%</span><br/>
 <span style='color:#60A0FF'>Sucks 1 (in EASY difficulty) health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#The gloomy Ring_.E2.80.93_ring|The gloomy Ring]])</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#The gloomy Amulet_.E2.80.93_amulet|The gloomy Amulet]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#The gloomy Ring_.E2.80.93_ring|The gloomy Ring]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#The gloomy Amulet_.E2.80.93_amulet|The gloomy Amulet]])</span><br/>
 <br/>
 === The Grey Cloak &ndash; cloak ===
 <span style='color:#808080'><i>It somewhat reminds me of Gundolf the Great.</i></span><br/>
@@ -1084,13 +1087,39 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:purple'>New ability: absorb (1) (requires [[#Wisdom of the Ages_.E2.80.93_helm|Wisdom of the Ages]])</span><br/>
-<span style='color:purple'>New base ranged weapon special: horrid (requires [[#Search for Wisdom_.E2.80.93_boots|Search for Wisdom]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#absorbs (1)_.E2.80.93_dummy|absorbs (1)]] (requires [[#Wisdom of the Ages_.E2.80.93_helm|Wisdom of the Ages]])</span><br/>
+<span style='color:purple'>New weapon special (ranged attacks only): [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]] (requires [[#Search for Wisdom_.E2.80.93_boots|Search for Wisdom]])</span><br/>
 <br/>
 === Transformed Flesh &ndash; cloak ===
 <span style='color:#808080'><i>Some barbarian civilisations could achieve great inventions without magic.</i></span><br/>
-<span style='color:purple'>5% better defence on all terrains (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
-<span style='color:purple'>5% better defence on all terrains (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in forests reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit on frozen places reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit on flat terrains reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in caves reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in mushroom groves reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in villages reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in castles reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in shallow waters reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in deep water reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in swamps reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit on hills reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit on mountains reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit on sands reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit above unwalkable places reduced by 5% (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>Chance to get hit in forests reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit on frozen places reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit on flat terrains reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in caves reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in mushroom groves reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in villages reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in castles reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in shallow waters reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in deep water reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit in swamps reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit on hills reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit on mountains reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit on sands reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Chance to get hit above unwalkable places reduced by 5% (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
 <br/>
 === Unseen Writings &ndash; cloak ===
 <span style='color:#808080'><i>No matter how well you write, after a millenium there will be nothing of it. Though copies may survive.</i></span><br/>
@@ -1099,9 +1128,9 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Enemy resistances to arcane decreased by 5%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 10%</span><br/>
-<span style='color:purple'>4% to magical resistances (requires [[#Unspoken Words_.E2.80.93_gauntlets|Unspoken Words]])</span><br/>
-<span style='color:purple'>New base ranged weapon special: struggle (requires [[#Unthought Memories_.E2.80.93_amulet|Unthought Memories]])</span><br/>
-<span style='color:purple'>4% to all physical resistances (requires [[#Unsung Odes_.E2.80.93_armour|Unsung Odes]])</span><br/>
+<span style='color:purple'>4% to arcane, cold and fire resistance (requires [[#Unspoken Words_.E2.80.93_gauntlets|Unspoken Words]])</span><br/>
+<span style='color:purple'>New weapon special (ranged attacks only): [[LotI_Abilities#struggle_.E2.80.93_chance_to_hit|struggle]] (requires [[#Unthought Memories_.E2.80.93_amulet|Unthought Memories]])</span><br/>
+<span style='color:purple'>4% to blade, impact and pierce resistance (requires [[#Unsung Odes_.E2.80.93_armour|Unsung Odes]])</span><br/>
 <br/>
 === Violent Mage's Cloak &ndash; cloak ===
 <span style='color:#808080'><i>After many brawls, he decided to use his magic to improve his brawling abilities.</i></span><br/>
@@ -1109,11 +1138,12 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
-<span style='color:purple'>20% increased damage with violent beatdown (requires [[#Violent Mage's Armour_.E2.80.93_armour|Violent Mage's Armour]])</span><br/>
+<span style='color:purple'>Damage increased by 20% for the violent beatdown attack (requires [[#Violent Mage's Armour_.E2.80.93_armour|Violent Mage's Armour]])</span><br/>
 <br/>
 === Woodland Cloak &ndash; cloak ===
 <span style='color:#808080'><i>Where is the elf wearing that green cloak? Has anybody seen him?</i></span><br/>
 <span style='color:#60A0FF'>New ability: ambush</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in forests reduced by 10%</span><br/>
 <span style='color:#60A0FF'>Movement costs through forests set to 1</span><br/>
 <br/>
 === Worshipper of Darkness &ndash; cloak ===
@@ -1212,8 +1242,8 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#808080'><i>You will need a lot of hits to strike down a mastodon.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
-<span style='color:#60A0FF'>8 more hitpoints per level</span><br/>
-<span style='color:#60A0FF'>6 more hitpoints per level per level</span><br/>
+<span style='color:#60A0FF'>8 more hitpoints</span><br/>
+<span style='color:#60A0FF'>6 more hitpoints per level</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal and 3 Pearls</span><br/>
 <br/>
 === Murderlust &ndash; craftable as any armour ===
@@ -1545,7 +1575,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
 <span style='color:green'>Increases all magical damages by 35%</span><br/>
-<span style='color:purple'>5% to all resistances to magic (requires [[#Quintessence_.E2.80.93_craftable as any armour|Quintessence]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Quintessence_.E2.80.93_craftable as any armour|Quintessence]])</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 1 Topaz, 1 Pearl, 1 Diamond and 1 Ruby</span><br/>
 <br/>
 === The Lesser Lich &ndash; craftable as any weapon ===
@@ -1629,18 +1659,18 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
 <br/>
 === Exterminator's Dagger &ndash; dagger ===
 <span style='color:#808080'><i>Slay the tyrant. Put an end to his wicked rule.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
 <br/>
 === Nightstalker &ndash; dagger ===
 <span style='color:#808080'><i>That looming darkness is a herald of his arrival. Somebody will die very soon.</i></span><br/>
@@ -1651,6 +1681,8 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 === Souldrainer &ndash; dagger ===
 <span style='color:#808080'><i>To kill or to preserve oneself? One has to consider the situation.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
+<span style='color:green'>New bonus attack: drain (-70% - 100% melee)</span><br/>
+<span style='color:green'>New weapon special for the drain attack: drain</span><br/>
 <br/>
 === Straight out of Nowhere &ndash; dagger ===
 <span style='color:#808080'><i>Expect the unexpected. Diabolus ex machina.</i></span><br/>
@@ -1667,6 +1699,8 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#808080'><i>I will kill you! Kill! Kill! Hahahahahahaha, aaahahahahahahaaa! Hahahaaa!</i></span><br/>
 <span style='color:green'>30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
+<span style='color:green'>New bonus attack: fury (100%, 100% melee)</span><br/>
+<span style='color:green'>New weapon special for the fury attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <br/>
 === Titan's Bane &ndash; dagger ===
 <span style='color:#808080'><i>My blows may cause mere scratches on your skin, but it can be enough for you to die.</i></span><br/>
@@ -1694,16 +1728,16 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Damage decreased by 3</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
-<span style='color:purple'>New ability: freezing aura (requires [[#Heart of Ice_.E2.80.93_armour|Heart of Ice]])</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Iced Boots_.E2.80.93_boots|Iced Boots]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#freezing aura_.E2.80.93_dummy|freezing aura]] (requires [[#Heart of Ice_.E2.80.93_armour|Heart of Ice]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Iced Boots_.E2.80.93_boots|Iced Boots]])</span><br/>
 <br/>
 === Dark Gloves of Destruction &ndash; gauntlets ===
 <span style='color:#808080'><i>Surviving warriors have learned that healing while fighting is necessary for survival.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Dark Sword of Destruction_.E2.80.93_sword|Dark Sword of Destruction]])</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Dark Helm of Destruction_.E2.80.93_helm|Dark Helm of Destruction]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Dark Sword of Destruction_.E2.80.93_sword|Dark Sword of Destruction]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Dark Helm of Destruction_.E2.80.93_helm|Dark Helm of Destruction]])</span><br/>
 <br/>
 === Draingloves &ndash; gauntlets ===
 <span style='color:#808080'><i>You hit, you heal. I hit, you heal. But can you heal enough?</i></span><br/>
@@ -1721,10 +1755,10 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
 <span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
 <span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
-<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
-<span style='color:purple'>New ability: Steals (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#steals_.E2.80.93_dummy|steals]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === Fiery Blood &ndash; gauntlets ===
 <span style='color:#808080'><i>Red is the fire. Red is the blood. I am not sure which of them is pouring.</i></span><br/>
@@ -1758,7 +1792,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
-<span style='color:#60A0FF'>4 more hitpoints per level per level</span><br/>
+<span style='color:#60A0FF'>4 more hitpoints per level</span><br/>
 <br/>
 === Hellslash &ndash; gauntlets ===
 <span style='color:#808080'><i>Careful about him, you will get hurt even if he is not attacking you.</i></span><br/>
@@ -1813,9 +1847,9 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 5%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:purple'>4% to all physical resistances (requires [[#Unseen Writings_.E2.80.93_cloak|Unseen Writings]])</span><br/>
-<span style='color:purple'>4% to magical resistances (requires [[#Unthought Memories_.E2.80.93_amulet|Unthought Memories]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Unsung Odes_.E2.80.93_armour|Unsung Odes]])</span><br/>
+<span style='color:purple'>4% to blade, impact and pierce resistance (requires [[#Unseen Writings_.E2.80.93_cloak|Unseen Writings]])</span><br/>
+<span style='color:purple'>4% to arcane, cold and fire resistance (requires [[#Unthought Memories_.E2.80.93_amulet|Unthought Memories]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Unsung Odes_.E2.80.93_armour|Unsung Odes]])</span><br/>
 <br/>
 == gem ==
 === Amethyst &ndash; gem ===
@@ -1872,24 +1906,24 @@ Then he saw this item.</i></span><br/>
 <span style='color:#808080'><i>The masses obeyed the one who had the crown. Whoever it was.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
-<span style='color:purple'>New Ability: cantor (requires [[#Ring of the King_.E2.80.93_ring|Ring of the King]])</span><br/>
-<span style='color:purple'>+1 to base attacks (requires [[#Armour of the King_.E2.80.93_armour|Armour of the King]])</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#Sceptre of the King_.E2.80.93_mace|Sceptre of the King]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#cantor_.E2.80.93_chance_to_hit|cantor]] (requires [[#Ring of the King_.E2.80.93_ring|Ring of the King]])</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Armour of the King_.E2.80.93_armour|Armour of the King]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Sceptre of the King_.E2.80.93_mace|Sceptre of the King]])</span><br/>
 <br/>
 === Cunctator's Helmet &ndash; helm ===
 <span style='color:#808080'><i>If you command Cunctator to attack immediately, he will not obey.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:green'>Damage decreased by 10% (in EASY difficulty), 20% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
-<span style='color:purple'>New ability: careful (10) (requires [[#Cunctator's sword_.E2.80.93_sword|Cunctator's Sword]])</span><br/>
-<span style='color:purple'>New ability: 10% to physical resistances (requires [[#Cunctator's Armour_.E2.80.93_armour|Cunctator's Armour]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (10)]] (requires [[#Cunctator's sword_.E2.80.93_sword|Cunctator's Sword]])</span><br/>
+<span style='color:purple'>10% to blade, impact and pierce resistance (requires [[#Cunctator's Armour_.E2.80.93_armour|Cunctator's Armour]])</span><br/>
 <br/>
 === Dark Helm of Destruction &ndash; helm ===
 <span style='color:#808080'><i>Deadly warriors wear even offensive armour.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:green'>1 more attacks</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Dark Sword of Destruction_.E2.80.93_sword|Dark Sword of Destruction]])</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Dark Gloves of Destruction_.E2.80.93_gauntlets|Dark Gloves of Destruction]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Dark Sword of Destruction_.E2.80.93_sword|Dark Sword of Destruction]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Dark Gloves of Destruction_.E2.80.93_gauntlets|Dark Gloves of Destruction]])</span><br/>
 <br/>
 === Diadem of the Dark Headmaster &ndash; helm ===
 <span style='color:#808080'><i>He presides. He protects. He teaches. He attacks.</i></span><br/>
@@ -1905,9 +1939,9 @@ Then he saw this item.</i></span><br/>
 <span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
 <span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
 <span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
-<span style='color:purple'>New ability: Mockery (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#mockery_.E2.80.93_dummy|mockery]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === False Paradise &ndash; helm ===
 <span style='color:#808080'><i>Their society was almost utopian. They grew lazy and weak and became an easy prey for invaders.</i></span><br/>
@@ -1981,7 +2015,7 @@ Then he saw this item.</i></span><br/>
 defeat your foes mace to face.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#Rherraent's Sword_.E2.80.93_sword|Rherraent's Sword]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Rherraent's Sword_.E2.80.93_sword|Rherraent's Sword]])</span><br/>
 <span style='color:purple'>12 more hitpoints (requires [[#Rherraent's Armour_.E2.80.93_armour|Rherraent's Armour]])</span><br/>
 <span style='color:purple'>12 more hitpoints (requires [[#Rherraent's Ring_.E2.80.93_ring|Rherraent's Ring]])</span><br/>
 <br/>
@@ -2023,7 +2057,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:green'>New weapon special: poison (melee attacks only)</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#radiation_.E2.80.93_poison|radiation]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#dark aura_.E2.80.93_dummy|dark aura]]</span><br/>
-<span style='color:#60A0FF'>16 fewer hitpoints per level</span><br/>
+<span style='color:#60A0FF'>16 fewer hitpoints</span><br/>
 <br/>
 === Virtual Void &ndash; helm ===
 <span style='color:#808080'><i>The pure shall be overridden.</i></span><br/>
@@ -2053,8 +2087,8 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#60A0FF'>Sucks 1 (in EASY difficulty) health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
-<span style='color:purple'>+1 to base attacks (requires [[#Search for Wisdom_.E2.80.93_boots|Search for Wisdom]])</span><br/>
-<span style='color:purple'>+2 base damage (requires [[#Tracking the Lost Knowledge_.E2.80.93_cloak|Tracking the Lost Knowledge]])</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Search for Wisdom_.E2.80.93_boots|Search for Wisdom]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (requires [[#Tracking the Lost Knowledge_.E2.80.93_cloak|Tracking the Lost Knowledge]])</span><br/>
 <br/>
 == knife ==
 === Blade Juggler &ndash; knife ===
@@ -2069,17 +2103,17 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>It may be hard to get close enough.</i></span><br/>
 <span style='color:green'>Damage increased by 40%</span><br/>
 <span style='color:green'>Sets damage type to cold</span><br/>
-<span style='color:purple'>+1 to base ranged damage (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
 <span style='color:purple'>16 more hitpoints (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
-<span style='color:purple'>+1 to base attacks (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
 <br/>
 === Exterminator's Knives &ndash; knife ===
 <span style='color:#808080'><i>It may be hard to get close enough.</i></span><br/>
 <span style='color:green'>Damage increased by 40%</span><br/>
 <span style='color:green'>Sets damage type to cold</span><br/>
-<span style='color:purple'>+1 to base ranged damage (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
 <span style='color:purple'>16 more hitpoints (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
-<span style='color:purple'>+1 to base attacks (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
 <br/>
 === Glowing Flight &ndash; knife ===
 <span style='color:#808080'><i>The pragmatic baron sent an assassin to kill a necromancer. It was not a bad idea.</i></span><br/>
@@ -2136,6 +2170,8 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>I can hit all four of you with a single knife, hehe.</i></span><br/>
 <span style='color:green'>Damage increased by 45% (in EASY difficulty), 35% (in MEDIUM difficulty), 25% (in HARD difficulty)</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
+<span style='color:green'>New bonus attack: shrapnel (100%, 100% ranged)</span><br/>
+<span style='color:green'>New weapon special for the shrapnel attack: [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 === The Vile Knife &ndash; knife ===
@@ -2152,7 +2188,7 @@ defeat your foes mace to face.</i></span><br/>
 but whips were raised to strike them,
 traditions were brought to them.</i></span><br/>
 <span style='color:purple'>10% to arcane resistance (requires [[#Theophrastus Redivivus_.E2.80.93_limited|Theophrastus Redivivus]])</span><br/>
-<span style='color:purple'>New ability: frail tide (10) (requires [[#Treatise of the Three Impostors_.E2.80.93_limited|Treatise of the Three Impostors]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (10)]] (requires [[#Treatise of the Three Impostors_.E2.80.93_limited|Treatise of the Three Impostors]])</span><br/>
 <br/>
 === Blue orb of dragonflame &ndash; limited ===
 <span style='color:#808080'><i>'Have you ever seen something like this?'
@@ -2179,7 +2215,7 @@ traditions were brought to them.</i></span><br/>
 <br/>
 === Glitch Item &ndash; limited ===
 <span style='color:#808080'><i>Everything can fail. Regardless of the amount of polishing done.</i></span><br/>
-<span style='color:red'>New obligation: Report this bug on the forums</span><br/>
+<span style='color:purple'>8 more hitpoints</span><br/>
 <br/>
 === Guide to Lycanthropy &ndash; limited ===
 <span style='color:#808080'><i>Search your memories and find the monster you are.</i></span><br/>
@@ -2225,7 +2261,7 @@ pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul
 === Theophrastus Redivivus &ndash; limited ===
 <span style='color:#808080'><i>Difficile est negave Deos, si inconcione quaratur, sed in familliarium, sermone, en consessur facilitimum...</i></span><br/>
 <span style='color:purple'>10% to arcane resistance (requires [[#Treatise of the Three Impostors_.E2.80.93_limited|Treatise of the Three Impostors]])</span><br/>
-<span style='color:purple'>New ability: regenerates slightly (requires [[#Al-Fuṣūl wa al-ghāyāt_.E2.80.93_limited|Al-Fuṣūl wa al-ghāyāt]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#regenerates slightly_.E2.80.93_regenerate|regenerates slightly]] (requires [[#Al-Fuṣūl wa al-ghāyāt_.E2.80.93_limited|Al-Fuṣūl wa al-ghāyāt]])</span><br/>
 <br/>
 === Tome of Bards &ndash; limited ===
 <span style='color:#808080'><i>Stand up and fight
@@ -2248,7 +2284,7 @@ The bloodline of true warriors</i></span><br/>
 === Treatise of the Three Impostors &ndash; limited ===
 <span style='color:#808080'><i>However important it may be for all men to know the Truth, very few, nevertheless, are acquainted with it...</i></span><br/>
 <span style='color:purple'>10% to arcane resistance (requires [[#Theophrastus Redivivus_.E2.80.93_limited|Theophrastus Redivivus]])</span><br/>
-<span style='color:purple'>New ability: exile (requires [[#Al-Fuṣūl wa al-ghāyāt_.E2.80.93_limited|Al-Fuṣūl wa al-ghāyāt]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#exile_.E2.80.93_resistance|exile]] (requires [[#Al-Fuṣūl wa al-ghāyāt_.E2.80.93_limited|Al-Fuṣūl wa al-ghāyāt]])</span><br/>
 <br/>
 === Wrathful Combat Techniques &ndash; limited ===
 <span style='color:#808080'><i>Let the anger flow through your veins.</i></span><br/>
@@ -2342,7 +2378,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#dazzle_.E2.80.93_dummy|dazzle]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#dark aura_.E2.80.93_dummy|dark aura]]</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
-<span style='color:#60A0FF'>24 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>24 more hitpoints</span><br/>
 <br/>
 === Morgenstern &ndash; mace ===
 <span style='color:#808080'><i>The star of dawn will smash your face.</i></span><br/>
@@ -2382,9 +2418,9 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
 <span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
-<span style='color:purple'>New Ability: radiation (requires [[#Crown of the King_.E2.80.93_helm|Crown of the King]])</span><br/>
-<span style='color:purple'>+1 to base attacks (requires [[#Armour of the King_.E2.80.93_armour|Armour of the King]])</span><br/>
-<span style='color:purple'>+2 to base damage (requires [[#Ring of the King_.E2.80.93_ring|Ring of the King]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#radiation_.E2.80.93_poison|radiation]] (requires [[#Crown of the King_.E2.80.93_helm|Crown of the King]])</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Armour of the King_.E2.80.93_armour|Armour of the King]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (requires [[#Ring of the King_.E2.80.93_ring|Ring of the King]])</span><br/>
 <br/>
 === The Disease and the Cure &ndash; mace ===
 <span style='color:#808080'><i>You are the disease. We are the cure.</i></span><br/>
@@ -2410,6 +2446,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#resistant to slow_.E2.80.93_dummy|resistant to slow]]</span><br/>
+<span style='color:green'>Adds status unslowable</span><br/>
 <br/>
 === Tormentor of Light &ndash; mace ===
 <span style='color:#808080'><i>In the absence of light, darkness and disorder rules.</i></span><br/>
@@ -2446,17 +2483,17 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#808080'><i>Victims' loyals look for revenge.</i></span><br/>
 <span style='color:green'>Damage increased by 30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
 <span style='color:green'>35% more attacks</span><br/>
-<span style='color:purple'>+1 to base damage (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
-<span style='color:purple'>+1 to base damage (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
-<span style='color:purple'>+1 to base damage (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
 <br/>
 === Exterminator's Scythe &ndash; polearm ===
 <span style='color:#808080'><i>Victims' loyals look for revenge.</i></span><br/>
 <span style='color:green'>Damage increased by 30% (in EASY difficulty), 20% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
 <span style='color:green'>35% more attacks</span><br/>
-<span style='color:purple'>+1 to base damage (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
-<span style='color:purple'>+1 to base damage (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
-<span style='color:purple'>+1 to base damage (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
 <br/>
 === Xuanquang's Soul Harvest &ndash; polearm ===
 <span style='color:#808080'><i>Don't be afraid when seeing a bloody road. Keep calm and turn back to face the one who made it so bloody.</i></span><br/>
@@ -2492,7 +2529,7 @@ The bloodline of true warriors</i></span><br/>
 <br/>
 === Healing Potion &ndash; potion ===
 <span style='color:#808080'><i>I am healed! More healthy than ever!</i></span><br/>
-<span style='color:#60A0FF'>10 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>10 more hitpoints</span><br/>
 <span style='color=#60A0FF'>Full heal</span><br/>
 <br/>
 === Holy potion &ndash; potion ===
@@ -2568,8 +2605,8 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 7%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 7%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 7%</span><br/>
-<span style='color:purple'>+12 to hitpoints (requires [[#Cloak of the Pale Rider_.E2.80.93_cloak|Cloak of the Pale Rider]])</span><br/>
-<span style='color:purple'>5% to all resistances (requires [[#Amulet of the Last Guide_.E2.80.93_amulet|Amulet of the Last Guide]])</span><br/>
+<span style='color:purple'>12 more hitpoints (requires [[#Cloak of the Pale Rider_.E2.80.93_cloak|Cloak of the Pale Rider]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Amulet of the Last Guide_.E2.80.93_amulet|Amulet of the Last Guide]])</span><br/>
 <br/>
 === Dazzling Ring &ndash; ring ===
 <span style='color:#808080'><i>You were born to die blind.</i></span><br/>
@@ -2585,26 +2622,26 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
 <span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
 <span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
-<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
-<span style='color:purple'>New ability: Deathaura (8) (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#Deathaura_.E2.80.93_heals|deathaura (8)]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === Exterminator's Ring &ndash; ring ===
 <span style='color:#808080'><i>Hide from the revolution.</i></span><br/>
 <span style='color:green'>Damage increased by 1</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 15%</span><br/>
-<span style='color:purple'>+1 to base ranged damage (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
-<span style='color:purple'>+1 to base ranged damage (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
 <br/>
 === Exterminator's Ring &ndash; ring ===
 <span style='color:#808080'><i>Hide from the revolution.</i></span><br/>
 <span style='color:green'>Damage increased by 1</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 15%</span><br/>
-<span style='color:purple'>+1 to base ranged damage (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
-<span style='color:purple'>+1 to base ranged damage (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
-<span style='color:purple'>2% to all resistances (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
+<span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
 <br/>
 === Precious Eagle Cactus Fruit &ndash; ring ===
 <span style='color:#808080'><i>I need sacrifice. Be it involuntary or not.</i></span><br/>
@@ -2619,14 +2656,14 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
-<span style='color:purple'>New attack: fireball (11-4 fire damage, magical) (requires [[#Pyromancer's Sword_.E2.80.93_sword|Pyromancer's Sword]])</span><br/>
+<span style='color:purple'>New attack: fireball (11 - 4, fire) (requires [[#Pyromancer's Sword_.E2.80.93_sword|Pyromancer's Sword]])</span><br/>
 <span style='color:purple'>Damage increased by 2 (requires [[#Pyromancer's Cloak_.E2.80.93_cloak|Pyromancer's Cloak]])</span><br/>
 <br/>
 === Rherraent's Ring &ndash; ring ===
 <span style='color:#808080'><i>His poor widow sold his property bit by bit, and they lost their power.</i></span><br/>
 <span style='color:green'>Enemy resistances to blade decreased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
-<span style='color:purple'>New Ability: regenerates (requires [[#Rherraent's Sword_.E2.80.93_sword|Rherraent's Sword]])</span><br/>
+<span style='color:purple'>New ability: regenerates (requires [[#Rherraent's Sword_.E2.80.93_sword|Rherraent's Sword]])</span><br/>
 <br/>
 === Ring of Deathaura &ndash; ring ===
 <span style='color:#808080'><i>A harbinger of death from the world of witchcraft.</i></span><br/>
@@ -2651,7 +2688,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#808080'><i>Health is more important than body count.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:#60A0FF'>8 more hitpoints per level per level</span><br/>
+<span style='color:#60A0FF'>8 more hitpoints per level</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#regenerates slightly_.E2.80.93_regenerate|regenerates slightly]]</span><br/>
 <br/>
 === Ring of Iced Veins &ndash; ring ===
@@ -2665,9 +2702,9 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#808080'><i>The king was greatly fond of his magical ring. He should have been more fond of his throne.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
-<span style='color:purple'>New Ability: leadership (level 3) (requires [[#Armour of the King_.E2.80.93_armour|Armour of the King]])</span><br/>
-<span style='color:purple'>+1 base damage (requires [[#Crown of the King_.E2.80.93_helm|Crown of the King]])</span><br/>
-<span style='color:purple'>5% to all resistances (requires [[#Sceptre of the King_.E2.80.93_mace|Sceptre of the King]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 3 unit)]] (requires [[#Armour of the King_.E2.80.93_armour|Armour of the King]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Crown of the King_.E2.80.93_helm|Crown of the King]])</span><br/>
+<span style='color:purple'>5% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Sceptre of the King_.E2.80.93_mace|Sceptre of the King]])</span><br/>
 <br/>
 === Ring of Unearthly Existence &ndash; ring ===
 <span style='color:#808080'><i>Warriors were no match for him. He was no match for wizards.</i></span><br/>
@@ -2731,8 +2768,8 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>Damage increased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 20%</span><br/>
-<span style='color:purple'>New Ability: deathaura (requires [[#The gloomy Cloak_.E2.80.93_cloak|The gloomy Cloak]])</span><br/>
-<span style='color:purple'>New Ability: despair (requires [[#The gloomy Amulet_.E2.80.93_amulet|The gloomy Amulet]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#Deathaura_.E2.80.93_heals|deathaura (10)]] (requires [[#The gloomy Cloak_.E2.80.93_cloak|The gloomy Cloak]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]] (requires [[#The gloomy Amulet_.E2.80.93_amulet|The gloomy Amulet]])</span><br/>
 <br/>
 === The Unprecious Ring &ndash; ring ===
 <span style='color:#808080'><i>Sometimes a fiery or rimy blade is not what you need.</i></span><br/>
@@ -2751,7 +2788,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#808080'><i>You will need courage in this cruel world.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
-<span style='color:#60A0FF'>16 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>16 more hitpoints</span><br/>
 <br/>
 == spear ==
 === Caeordwyccywyrin's Spear &ndash; spear ===
@@ -2793,6 +2830,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 20%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to drain_.E2.80.93_dummy|immune to drain]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#absorbs (1)_.E2.80.93_dummy|absorbs (1)]]</span><br/>
+<span style='color:green'>Adds status undrainable</span><br/>
 <br/>
 === Return to the Tribe &ndash; spear ===
 <span style='color:#808080'><i>I may be no better, but at least I am different.</i></span><br/>
@@ -2867,7 +2905,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#808080'><i>Most elvish shamans heal. Others kill.</i></span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 15%</span><br/>
 <span style='color:green'>Increases all magical damages by 30%</span><br/>
-<span style='color:purple'>10% more overall damage (requires [[#Lethal Axe_.E2.80.93_axe|Lethal Axe]])</span><br/>
+<span style='color:purple'>Damage increased by 10% (requires [[#Lethal Axe_.E2.80.93_axe|Lethal Axe]])</span><br/>
 <br/>
 === Lethalia's Staff &ndash; staff ===
 <span style='color:#808080'><i>Tinebrithiel's will never be forgotten.</i></span><br/>
@@ -2875,7 +2913,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>Damage increased by 3</span><br/>
 <span style='color:green'>Increases all magical damages by 30%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:purple'>1 more movement point (requires [[#Lethalia's Armour_.E2.80.93_armour|Lethalia's Armour]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Lethalia's Armour_.E2.80.93_armour|Lethalia's Armour]])</span><br/>
 <br/>
 === Mother de Rais &ndash; staff ===
 <span style='color:#808080'><i>The undead were too numerous to be burned by her fireballs. She had to jump into a river far below to save herself.</i></span><br/>
@@ -2936,7 +2974,7 @@ Showshaunshog proved him wrong by collecting condensed water from smoke.</i></sp
 <span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 20%</span><br/>
-<span style='color:purple'>16 to Maximum Health (requires [[#Koschei's Journal_.E2.80.93_limited|Koschei's Journal]])</span><br/>
+<span style='color:purple'>16 more hitpoints (requires [[#Koschei's Journal_.E2.80.93_limited|Koschei's Journal]])</span><br/>
 <br/>
 === Stardust &ndash; staff ===
 <span style='color:#808080'><i>Born from absolute destruction, craving for absolute destruction.</i></span><br/>
@@ -2958,6 +2996,8 @@ Showshaunshog proved him wrong by collecting condensed water from smoke.</i></sp
 <span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
 <span style='color:green'>Increases all magical damages by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
+<span style='color:green'>New bonus attack: aim (-20% - 100% ranged)</span><br/>
+<span style='color:green'>New weapon special for the aim attack: [[LotI_Abilities#guided_.E2.80.93_chance_to_hit|guided]]</span><br/>
 <br/>
 === The Killer of Great Magi &ndash; staff ===
 <span style='color:#808080'><i>I care not how much better you are. Your crippling overspecialisation will be your downfall.</i></span><br/>
@@ -2978,13 +3018,15 @@ Showshaunshog proved him wrong by collecting condensed water from smoke.</i></sp
 <span style='color:#808080'><i>He was not a bad mage, but he enjoyed hitting enemies with hard objects a bit too much.</i></span><br/>
 <span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
-<span style='color:purple'>New ability: firecast (requires the two other Violent Mage's items)</span><br/>
+<span style='color:green'>New bonus attack: violent beatdown (100%, 100% melee, copy of staff)</span><br/>
+<span style='color:green'>New weapon special for the violent beatdown attack: [[LotI_Abilities#anger_.E2.80.93_attacks|anger]]</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#firecast_.E2.80.93_dummy|firecast]] (requires the two other Violent Mage's items)</span><br/>
 <br/>
 === Virtue of Hope &ndash; staff ===
 <span style='color:#808080'><i>See the ones who know.</i></span><br/>
 <span style='color:green'>Increases all magical damages by 25%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
-<span style='color:#60A0FF'>4 more hitpoints per level per level</span><br/>
+<span style='color:#60A0FF'>4 more hitpoints per level</span><br/>
 <br/>
 == sword ==
 === Aevyn's Wrath &ndash; sword ===
@@ -3038,16 +3080,16 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#explosive slow_.E2.80.93_damage|explosive slow]]</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
-<span style='color:purple'>New melee weapon special: struggle (requires [[#Cunctator's Armour_.E2.80.93_armour|Cunctator's Armour]])</span><br/>
-<span style='color:purple'>5% to all magical resistances (requires [[#Cunctator's Helmet_.E2.80.93_helm|Cunctator's Helmet]])</span><br/>
+<span style='color:purple'>New weapon special (melee attacks only): [[LotI_Abilities#struggle_.E2.80.93_chance_to_hit|struggle]] (requires [[#Cunctator's Armour_.E2.80.93_armour|Cunctator's Armour]])</span><br/>
+<span style='color:purple'>5% to arcane, cold and fire resistance (requires [[#Cunctator's Helmet_.E2.80.93_helm|Cunctator's Helmet]])</span><br/>
 <br/>
 === Dark Sword of Destruction &ndash; sword ===
 <span style='color:#808080'><i>Real warriors know that their opponents will get heavy armours and prepare for it.</i></span><br/>
 <span style='color:green'>Damage increased by 50%</span><br/>
 <span style='color:green'>Sets damage type to cold</span><br/>
 <span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
-<span style='color:purple'>+1 to base attacks (requires [[#Dark Helm of Destruction_.E2.80.93_helm|Dark Helm of Destruction]])</span><br/>
-<span style='color:purple'>+1 to base attacks (requires [[#Dark Gloves of Destruction_.E2.80.93_gauntlets|Dark Gloves of Destruction]])</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Dark Helm of Destruction_.E2.80.93_helm|Dark Helm of Destruction]])</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Dark Gloves of Destruction_.E2.80.93_gauntlets|Dark Gloves of Destruction]])</span><br/>
 <br/>
 === Deathwhirl &ndash; sword ===
 <span style='color:#808080'><i>Swarm him so that he would not get to me! Oh, dammit...</i></span><br/>
@@ -3089,9 +3131,9 @@ and saved the righteous.</i></span><br/>
 <span style='color:purple'>4% to cold resistance (requires [[#Eidolon's Ring_.E2.80.93_ring|Eidolon's Ring]])</span><br/>
 <span style='color:purple'>3% to pierce resistance (requires [[#Eidolon's Necklace_.E2.80.93_amulet|Eidolon's Necklace]])</span><br/>
 <span style='color:purple'>3% to blade resistance (requires [[#Eidolon's Armour_.E2.80.93_armour|Eidolon's Armour]])</span><br/>
-<span style='color:purple'>4 to hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
-<span style='color:purple'>1 to damage (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
-<span style='color:purple'>1 to movement (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
+<span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
+<span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
+<span style='color:purple'>1 more movement points (requires [[#Eidolon's Boots_.E2.80.93_boots|Eidolon's Boots]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
 <br/>
 === Flaming Sword &ndash; sword ===
@@ -3120,17 +3162,17 @@ and saved the righteous.</i></span><br/>
 <span style='color:#808080'><i>Flames were his nature, they replaced his insides.</i></span><br/>
 <span style='color:green'>Damage increased by 20% (in EASY difficulty), -10% (in MEDIUM difficulty), -40% (in HARD difficulty)</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
-<span style='color:purple'>New ability: firecast (requires [[#Pyromancer's Ring_.E2.80.93_ring|Pyromancer's Ring]])</span><br/>
-<span style='color:purple'>5% to magical resistances (requires [[#Pyromancer's Cloak_.E2.80.93_cloak|Pyromancer's Cloak]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#firecast_.E2.80.93_dummy|firecast]] (requires [[#Pyromancer's Ring_.E2.80.93_ring|Pyromancer's Ring]])</span><br/>
+<span style='color:purple'>5% to arcane, cold and fire resistance (requires [[#Pyromancer's Cloak_.E2.80.93_cloak|Pyromancer's Cloak]])</span><br/>
 <br/>
 === Rherraent's Sword &ndash; sword ===
 <span style='color:#808080'><i>In his hands, the sword was a formidable weapon. In the hands of its thief, it was useless.</i></span><br/>
 <span style='color:green'>Damage increased by 20%</span><br/>
 <span style='color:#60A0FF'>Sucks 1 (in EASY difficulty) health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
-<span style='color:purple'>+2 to base melee damage (requires [[#Rherraent's Armour_.E2.80.93_armour|Rherraent's Armour]])</span><br/>
-<span style='color:purple'>+2 to base melee damage (requires [[#Rherraent's Helm_.E2.80.93_helm|Rherraent's Helm]])</span><br/>
-<span style='color:purple'>+2 to base melee damage (requires [[#Rherraent's Ring_.E2.80.93_ring|Rherraent's Ring]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (melee attacks only) (requires [[#Rherraent's Armour_.E2.80.93_armour|Rherraent's Armour]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (melee attacks only) (requires [[#Rherraent's Helm_.E2.80.93_helm|Rherraent's Helm]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (melee attacks only) (requires [[#Rherraent's Ring_.E2.80.93_ring|Rherraent's Ring]])</span><br/>
 <br/>
 === Stormrend &ndash; sword ===
 <span style='color:#808080'><i>They are protected well. Have them try to survive lightning.</i></span><br/>
@@ -3181,16 +3223,20 @@ and saved the righteous.</i></span><br/>
 <span style='color:#808080'><i>Mages say it does not come from any world.</i></span><br/>
 <span style='color:green'>Damage increased by 65% (in EASY difficulty), 50% (in MEDIUM difficulty), 35% (in HARD difficulty)</span><br/>
 <span style='color:green'>25% (in EASY difficulty), 15% (in MEDIUM difficulty), 5% (in HARD difficulty) more attacks</span><br/>
-<span style='color:purple'>2 to base melee damage (requires [[#Transformed Flesh_.E2.80.93_cloak|Transformed Flesh]])</span><br/>
-<span style='color:purple'>2 to base melee damage (requires [[#Bones of Steel_.E2.80.93_boots|Bones of Steel]])</span><br/>
-<span style='color:purple'>2 to base melee damage (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
-<span style='color:purple'>1 to base melee attacks (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (melee attacks only) (requires [[#Transformed Flesh_.E2.80.93_cloak|Transformed Flesh]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (melee attacks only) (requires [[#Bones of Steel_.E2.80.93_boots|Bones of Steel]])</span><br/>
+<span style='color:purple'>Damage increased by 2 (melee attacks only) (requires [[#Hydraulic Core_.E2.80.93_amulet|Hydraulic Core]])</span><br/>
+<span style='color:purple'>1 more attacks (melee attacks only) (requires [[#Mind Assisting Element_.E2.80.93_helm|Mind Assisting Element]])</span><br/>
 <br/>
 === The Searing Ice &ndash; sword ===
 <span style='color:#808080'><i>Be careful not to get some cold burns.</i></span><br/>
 <span style='color:#60A0FF'>Sucks 2 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
+<span style='color:green'>New bonus attack: flaming sword (20% - 100% melee fire)</span><br/>
+<span style='color:green'>New weapon special for the flaming sword attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
+<span style='color:green'>New bonus attack: freezing sword (20% - 100% melee cold)</span><br/>
+<span style='color:green'>New weapon special for the freezing sword attack: slow</span><br/>
 <br/>
 === Thornsword &ndash; sword ===
 <span style='color:#808080'><i>'How can you cut something with that?'
@@ -3271,12 +3317,14 @@ and saved the righteous.</i></span><br/>
 === Orcish Ingenuity &ndash; xbow ===
 <span style='color:#808080'><i>How the hell could an orc invent this?!</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
+<span style='color:green'>New bonus attack: fire bolt (100%, 100% ranged fire)</span><br/>
+<span style='color:green'>New weapon special for the fire bolt attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <br/>
 === Relentless Fury &ndash; xbow ===
 <span style='color:#808080'><i>You tell that my hits are weak? I will show you how many of them you can survive, nothing can stop me!</i></span><br/>
 <span style='color:green'>Damage decreased by 30% (in EASY difficulty), 40% (in MEDIUM difficulty), 50% (in HARD difficulty)</span><br/>
 <span style='color:green'>100% (in EASY difficulty), 80% (in MEDIUM difficulty), 60% (in HARD difficulty) more attacks</span><br/>
-<span style='color:#60A0FF'>24 more hitpoints per level</span><br/>
+<span style='color:#60A0FF'>24 more hitpoints</span><br/>
 <br/>
 === Starbreaker &ndash; xbow ===
 <span style='color:#808080'><i>So you are good at blocking? We shall see about that!</i></span><br/>
@@ -3293,8 +3341,14 @@ and saved the righteous.</i></span><br/>
 === The Overdrawer &ndash; xbow ===
 <span style='color:#808080'><i>Draw the arrow, draw it more, more, more, and now you can shoot through enemies!</i></span><br/>
 <span style='color:green'>Damage increased by 45% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
+<span style='color:green'>New bonus attack: overdraw (75% - 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: great overdraw (150% - 100% ranged)</span><br/>
+<span style='color:green'>New weapon special for the great overdraw attack: [[LotI_Abilities#pierce_.E2.80.93_dummy|pierce]]</span><br/>
 <br/>
 === The Underdrawer &ndash; xbow ===
 <span style='color:#808080'><i>Shoot as much as you can, enemies will think they are facing a large army!</i></span><br/>
 <span style='color:green'>45% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty) more attacks</span><br/>
+<span style='color:green'>New bonus attack: underdraw (-35% - 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: great underdraw (-65% - 100% ranged)</span><br/>
+<span style='color:green'>New weapon special for the great underdraw attack: [[LotI_Abilities#lesser lethargy_.E2.80.93_dummy|lesser lethargy]]</span><br/>
 <br/>

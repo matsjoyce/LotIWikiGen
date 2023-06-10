@@ -210,6 +210,125 @@ def writer(file):
     return write
 
 
+def write_effect(effect, write, index):
+    if effect.keys["apply_to"].any == "new_ability":
+        for specials in effect.tags["abilities"]:
+            for special in specials.macros:
+                sname, *args = shlex.split(special)
+                real_name = ability_name(index, sname.replace("ABILITY_", ""), args)
+                write("<span style='color:#60A0FF'>New ability: {}</span>".format(real_name))
+            others = {ability.keys["id"].any for abilities in specials.tags.values() for ability in abilities}
+            for special in others:
+                write("<span style='color:#60A0FF'>New ability: {}</span>".format(ability_name(index, special, ())))
+    elif effect.keys["apply_to"].any == "movement":
+        write(format_values(effect.keys["increase"],
+                            "<span style='color:#60A0FF'>{} more movement points</span>",
+                            "<span style='color:#60A0FF'>{} fewer movement points</span>"))
+    elif effect.keys["apply_to"].any == "vision":
+        write(format_values(effect.keys["vision"],
+                            "<span style='color:#60A0FF'>Increases vision range by {}</span>",
+                            "<span style='color:#60A0FF'>Decreases vision range by {}</span>"))
+    elif effect.keys["apply_to"].any == "hitpoints":
+        times = " per level" if "times" in effect.keys and effect.keys["times"].any == "per level" else ""
+        if "increase_total" in effect.keys:
+            write(format_values(effect.keys["increase_total"],
+                                "<span style='color:#60A0FF'>{{}} more hitpoints{}</span>".format(times),
+                                "<span style='color:#60A0FF'>{{}} fewer hitpoints{}</span>".format(times)))
+        if "heal_full" in effect.keys and effect.keys["heal_full"].any == "yes":
+            write("<span style='color=#60A0FF'>Full heal</span>")
+    elif effect.keys["apply_to"].any == "defense":
+        for defense in effect.tags["defense"]:
+            for m, h in defence_types:
+                if m in defense.keys:
+                    write(format_values(defense.keys[m],
+                                        "<span style='color:#60A0FF'>Chance to get hit {} increased by {{}}</span>".format(h),
+                                        "<span style='color:#60A0FF'>Chance to get hit {} reduced by {{}}</span>".format(h),
+                                        percent=True))
+    elif effect.keys["apply_to"].any == "movement_costs":
+        for movement in effect.tags["movement_costs"]:
+            for m, h in movement_costs:
+                if m in movement.keys:
+                    write(format_values(movement.keys[m],
+                                        "<span style='color:#60A0FF'>Movement costs {} set to {{}}</span>".format(h)))
+    elif effect.keys["apply_to"].any == "alignment":
+        write(format_values(effect.keys["alignment"],
+                            "<span style='color:#60A0FF'>Sets alignment to {}</span>"))
+    elif effect.keys["apply_to"].any == "status" and effect.keys["add"].any == "not_living":
+        write("<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span>")
+    elif effect.keys["apply_to"].any == "new_attack":
+        write("<span style='color:green'>New attack: {} ({} - {}, {})</span>".format(effect.keys["name"].any,
+                                                                                    effect.keys["damage"].any,
+                                                                                    effect.keys["number"].any,
+                                                                                    effect.keys["type"].any))
+    elif effect.keys["apply_to"].any == "new_advancement":
+        write("<span style='color:orange'>New advancements: {}</span>".format(effect.keys["description"].any))
+    elif effect.keys["apply_to"].any in ["attack", "improve_bonus_attack"]:
+        bonus = effect.keys["apply_to"].any == "improve_bonus_attack"
+        range = wname = wtype = rt = ""
+        if "range" in effect.keys:
+            range = format_values(effect.keys["range"], "{}")
+        if "type" in effect.keys:
+            wtype = format_values(effect.keys["type"], "{}")
+        if range or wtype:
+            rt = " ({}{}{} attacks only)".format(range, " " if range and wtype else "", wtype)
+        if "name" in effect.keys:
+            wname = format_values(effect.keys["name"], " for the {} attack")
+        for specials in effect.tags["set_specials"]:
+            for special in specials.macros:
+                sname, *args = shlex.split(special)
+                real_name = special_name(index, sname.replace("WEAPON_SPECIAL_", ""), args)
+                write("<span style='color:green'>New weapon special{}{}: {}</span>".format(wname, rt, real_name))
+        if "remove_specials" in effect.keys:
+            write(format_values(effect.keys["remove_specials"],
+                                "<span style='color:green'>Remove weapon special{}{}: {{}}</span>".format(wname, rt)))
+        if "increase_damage" in effect.keys:
+            write(format_values(effect.keys["increase_damage"],
+                                "<span style='color:green'>Damage increased by {{}}{}{}</span>".format(wname, rt),
+                                "<span style='color:green'>Damage decreased by {{}}{}{}</span>".format(wname, rt),
+                                percent=bonus))
+        if "increase_attacks" in effect.keys:
+            write(format_values(effect.keys["increase_attacks"],
+                                "<span style='color:green'>{{}} more attacks{}{}</span>".format(wname, rt),
+                                "<span style='color:green'>{{}} fewer attacks{}{}</span>".format(wname, rt),
+                                percent=bonus))
+        if "set_type" in effect.keys:
+            write(format_values(effect.keys["set_type"],
+                                "<span style='color:green'>Sets damage type to {{}}{}{}</span>".format(wname, rt)))
+    elif effect.keys["apply_to"].any == "resistance":
+        assert effect.keys["replace"].any != "yes"
+        changes = set(c.any for c in effect.tags["resistance"][0].keys.values())
+        if len(changes) != 1:
+            raise RuntimeError("Plz implement non-homogeneous resistance changes")
+        write("<span style='color:green'>{}% to {} resistance</span>".format(-int(next(iter(changes))), utils.english_join(sorted(effect.tags["resistance"][0].keys), pluralify=False)))
+    elif effect.keys["apply_to"].any == "status":
+        write(format_values(effect.keys["add"],
+                            "<span style='color:green'>Adds status {}</span>"))
+    elif effect.keys["apply_to"].any in {"new_animation", "new animation", "image_mod"}:
+        pass
+    elif effect.keys["apply_to"].any == "bonus_attack":
+        if effect.keys["damage"].any:
+            attk_info = "{}% - {}%".format(effect.keys["damage"].any, effect.keys["number"].any or 100)
+        else:
+            attk_info = "100%, 100%"
+        if effect.keys["range"].any:
+            attk_info += " " + effect.keys["range"].any
+        if effect.keys["type"].any:
+            attk_info += " " + effect.keys["type"].any
+        elif effect.keys["force_original_attack"].any:
+            attk_info += ", copy of {}".format(effect.keys["force_original_attack"].any)
+        write("<span style='color:green'>New bonus attack: {} ({})</span>".format(effect.keys["name"].any, attk_info))
+        wname = format_values(effect.keys["name"], " for the {} attack")
+        for specials in effect.tags["specials"]:
+            for special in specials.macros:
+                name, *args = shlex.split(special)
+                real_name = special_name(index, name.replace("WEAPON_SPECIAL_", ""), args)
+                write("<span style='color:green'>New weapon special{}: {}</span>".format(wname, real_name))
+    elif effect.keys["apply_to"].any == "max_attacks":
+        write("<span style='color:orange'>{} extra attack per turn</span>".format(effect.keys["add"].any))
+    else:
+        raise RuntimeError("Can't handle effect " + effect.keys["apply_to"].any)
+
+
 def write_item(name, tag, file, index):
     write = writer(file)
     sort = tag.keys["sort"].any
@@ -280,95 +399,18 @@ def write_item(name, tag, file, index):
                                 "<span style='color:#60A0FF'>Resistance to {} decreased by {{}}</span>".format(t),
                                 percent=True))
     for effect in tag.tags["effect"]:
-        if effect.keys["apply_to"].any == "new_ability":
-            for specials in effect.tags["abilities"]:
-                for special in specials.macros:
-                    sname, *args = shlex.split(special)
-                    real_name = ability_name(index, sname.replace("ABILITY_", ""), args)
-                    write("<span style='color:#60A0FF'>New ability: {}</span>".format(real_name))
-                others = {ability.keys["id"].any for abilities in specials.tags.values() for ability in abilities}
-                for special in others:
-                    write("<span style='color:#60A0FF'>New ability: {}</span>".format(ability_name(index, special, ())))
-        elif effect.keys["apply_to"].any == "movement":
-            write(format_values(effect.keys["increase"],
-                                "<span style='color:#60A0FF'>{} more movement points</span>",
-                                "<span style='color:#60A0FF'>{} fewer movement points</span>"))
-        elif effect.keys["apply_to"].any == "vision":
-            write(format_values(effect.keys["vision"],
-                                "<span style='color:#60A0FF'>Increases vision range by {}</span>",
-                                "<span style='color:#60A0FF'>Decreases vision range by {}</span>"))
-        elif effect.keys["apply_to"].any == "hitpoints":
-            times = " per level" if "times" in effect.keys and effect.keys["times"].any == "per level" else ""
-            if "increase_total" in effect.keys:
-                write(format_values(effect.keys["increase_total"],
-                                    "<span style='color:#60A0FF'>{{}} more hitpoints per level{}</span>".format(times),
-                                    "<span style='color:#60A0FF'>{{}} fewer hitpoints per level{}</span>".format(times)))
-            if "heal_full" in effect.keys and effect.keys["heal_full"].any == "yes":
-                write("<span style='color=#60A0FF'>Full heal</span>")
-        elif effect.keys["apply_to"].any == "defence":
-            for defence in effect.tags["defence"]:
-                for m, h in defence_types:
-                    if m in defence.keys:
-                        write(format_values(defence.keys[m],
-                                            "<span style='color:#60A0FF'>Chance to get hit {} increased by {{}}</span>".format(h),
-                                            "<span style='color:#60A0FF'>Chance to get hit {} reduced by {{}}</span>".format(h),
-                                            percent=True))
-        elif effect.keys["apply_to"].any == "movement_costs":
-            for movement in effect.tags["movement_costs"]:
-                for m, h in movement_costs:
-                    if m in movement.keys:
-                        write(format_values(movement.keys[m],
-                                            "<span style='color:#60A0FF'>Movement costs {} set to {{}}</span>".format(h)))
-        elif effect.keys["apply_to"].any == "alignment":
-            write(format_values(effect.keys["alignment"],
-                                "<span style='color:#60A0FF'>Sets alignment to {}</span>"))
-        elif effect.keys["apply_to"].any == "status" and effect.keys["add"].any == "not_living":
-            write("<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span>")
-        elif effect.keys["apply_to"].any == "new_attack":
-            write("<span style='color:green'>New attack: {} ({} - {}, {})</span>".format(effect.keys["name"].any,
-                                                                                     effect.keys["damage"].any,
-                                                                                     effect.keys["number"].any,
-                                                                                     effect.keys["type"].any))
-        elif effect.keys["apply_to"].any == "new_advancement":
-            write("<span style='color:orange'>New advancements: {}</span>".format(effect.keys["description"].any))
-        elif effect.keys["apply_to"].any in ["attack", "improve_bonus_attack"]:
-            bonus = effect.keys["apply_to"].any == "improve_bonus_attack"
-            range = wname = wtype = rt = ""
-            if "range" in effect.keys:
-                range = format_values(effect.keys["range"], "{}")
-            if "type" in effect.keys:
-                wtype = format_values(effect.keys["type"], "{}")
-            if range or wtype:
-                rt = " ({}{}{} attacks only)".format(range, " " if range and wtype else "", wtype)
-            if "name" in effect.keys:
-                wname = format_values(effect.keys["name"], " for the {} attack")
-            for specials in effect.tags["set_specials"]:
-                for special in specials.macros:
-                    sname, *args = shlex.split(special)
-                    real_name = special_name(index, sname.replace("WEAPON_SPECIAL_", ""), args)
-                    write("<span style='color:green'>New weapon special{}{}: {}</span>".format(wname, rt, real_name))
-            if "remove_specials" in effect.keys:
-                write(format_values(effect.keys["remove_specials"],
-                                    "<span style='color:green'>Remove weapon special{}{}: {{}}</span>".format(wname, rt)))
-            if "increase_damage" in effect.keys:
-                write(format_values(effect.keys["increase_damage"],
-                                    "<span style='color:green'>Damage increased by {{}}{}{}</span>".format(wname, rt),
-                                    "<span style='color:green'>Damage decreased by {{}}{}{}</span>".format(wname, rt),
-                                    percent=bonus))
-            if "increase_attacks" in effect.keys:
-                write(format_values(effect.keys["increase_attacks"],
-                                    "<span style='color:green'>{{}} more attacks{}{}</span>".format(wname, rt),
-                                    "<span style='color:green'>{{}} fewer attacks{}{}</span>".format(wname, rt),
-                                    percent=bonus))
-            if "set_type" in effect.keys:
-                write(format_values(effect.keys["set_type"],
-                                    "<span style='color:green'>Sets damage type to {{}}{}{}</span>".format(wname, rt)))
+        write_effect(effect, write, index)
 
     for latent in tag.tags["latent"]:
-        value = re.sub("\(requires ([^)]+)\)",
-                       lambda m: index.process_requirement(m.group(1)),
-                       latent.keys["desc"].any)
-        write(re.sub("color='([^']+)'", "style='color:\\1'", value))
+        m = re.search("\(requires ([^)]+)\)", latent.keys["desc"].any)
+        if m:
+            req = " " + index.process_requirement(m.group(1))
+        else:
+            req = ""
+        def write_latent(txt):
+            inner = re.sub("</?span[^>]*>", "", txt)
+            write("<span style='color:purple'>{}{}</span>".format(inner, req))
+        write_effect(latent, write_latent, index)
     if ("description" in keys or "description_override" in keys) and write.writes < 3:
         v = re.sub("color='([^']+)'", "style='color:\\1'", keys.get("description", keys.get("description_override")).any)
         if "<" not in v:
@@ -420,15 +462,15 @@ def write_advancement(section, name, tag, file, index):
             times = " per level" if "times" in effect.keys and effect.keys["times"].any == "per level" else ""
             if "increase_total" in effect.keys:
                 write(format_values(effect.keys["increase_total"],
-                                    "<span style='color:#60A0FF'>{{}} more hitpoints per level{}</span>".format(times),
-                                    "<span style='color:#60A0FF'>{{}} fewer hitpoints per level{}</span>".format(times)))
+                                    "<span style='color:#60A0FF'>{{}} more hitpoints{}</span>".format(times),
+                                    "<span style='color:#60A0FF'>{{}} fewer hitpoints{}</span>".format(times)))
             if "heal_full" in effect.keys and effect.keys["heal_full"].any == "yes":
                 write("<span style='color=#60A0FF'>Full heal</span>")
-        elif effect.keys["apply_to"].any == "defence":
-            for defence in effect.tags["defence"]:
+        elif effect.keys["apply_to"].any == "defense":
+            for defense in effect.tags["defense"]:
                 for m, h in defence_types:
-                    if m in defence.keys:
-                        write(format_values(defence.keys[m],
+                    if m in defense.keys:
+                        write(format_values(defense.keys[m],
                                             "<span style='color:#60A0FF'>Chance to get hit {} increased by {{}}</span>".format(h),
                                             "<span style='color:#60A0FF'>Chance to get hit {} reduced by {{}}</span>".format(h),
                                             percent=True))
@@ -499,10 +541,10 @@ def write_advancement(section, name, tag, file, index):
                                             "<span style='color:#60A0FF'>Resistance to {} increased by {{}}</span>".format(t),
                                             percent=True, invert=True))
         elif effect.keys["apply_to"].any == "defense":
-            for defence in effect.tags["defense"]:
+            for defense in effect.tags["defense"]:
                 for m, h in defence_types:
-                    if m in defence.keys:
-                        write(format_values(defence.keys[m],
+                    if m in defense.keys:
+                        write(format_values(defense.keys[m],
                                             "<span style='color:#60A0FF'>Chance to get hit {} increased by {{}}</span>".format(h),
                                             "<span style='color:#60A0FF'>Chance to get hit {} reduced by {{}}</span>".format(h),
                                             percent=True))
