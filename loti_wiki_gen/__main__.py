@@ -216,8 +216,9 @@ def main():
             print("==", type, "==", file=items_file)
             items = list(items)
             items.sort(key=sort_by_first2)
-            for item in items:
-                writer.write_item(*item, items_file, idx)
+            names = [n for n, *_ in items]
+            for i, item in enumerate(items):
+                writer.write_item(*item, items_file, idx, duplicated_item=i != names.index(item[0]))
 
 
     print("Writing ability information to abilities.wiki")

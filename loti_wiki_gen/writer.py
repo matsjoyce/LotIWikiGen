@@ -329,7 +329,7 @@ def write_effect(effect, write, index):
         raise RuntimeError("Can't handle effect " + effect.keys["apply_to"].any)
 
 
-def write_item(name, tag, file, index):
+def write_item(name, tag, file, index, *, duplicated_item=False):
     write = writer(file)
     sort = tag.keys["sort"].any
     keys = tag.keys
@@ -424,6 +424,10 @@ def write_item(name, tag, file, index):
                                  pluralify=False)
         write("<span style='color:#000080'>Gem{} needed for crafting: {}</span>".format("" if sum(gems.values()) == 1 else "s",
                                                                                         txt))
+
+    if duplicated_item:
+        write("<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span>")
+
     write()
 
 

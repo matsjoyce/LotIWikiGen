@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently available in the campaign "Legend of the Invincibles". 
-This was generated at Sat Jun 10 14:24:52 2023 using version git-861c9ee of LotI and version 0.3.5.1 of the generation script.
+This was generated at Tue Jun 27 18:58:45 2023 using version git-a8c4f38 of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -177,6 +177,7 @@ Other LotI-related wiki pages:
 <span style='color:green'>Damage increased by 2</span><br/>
 <span style='color:green'>Increases all magical damages by 15%</span><br/>
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Archer's Leather Armour &ndash; armour ===
 <span style='color:#808080'><i>Better do not let enemies anywhere near you when wearing this.</i></span><br/>
@@ -420,6 +421,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Prismatic Iron Armour &ndash; armour ===
 <span style='color:#808080'><i>This armour was made to kill wizards, so do not expect it to save you from deadly blades.</i></span><br/>
@@ -810,6 +812,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
 <span style='color:#60A0FF'>3 more movement points</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#tax collector_.E2.80.93_dummy|tax collector]]</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === The Pit Dweller &ndash; boots ===
 <span style='color:#808080'><i>Darkness is where he stays.</i></span><br/>
@@ -906,6 +909,7 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 5%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === The Outcast &ndash; bow ===
 <span style='color:#808080'><i>Loneliness will teach you to stop relying on others. It makes you free if you pay its price.</i></span><br/>
@@ -1078,6 +1082,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Decreases physical resistances by 20%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (40)]]</span><br/>
 <span style='color:#60A0FF'>1 fewer movement points</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Tracking the Lost Knowledge &ndash; cloak ===
 <span style='color:#808080'><i>If it has been lost, then it must had been created before. Maybe it was never created.</i></span><br/>
@@ -1671,6 +1676,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
 <span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
 <span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Nightstalker &ndash; dagger ===
 <span style='color:#808080'><i>That looming darkness is a herald of his arrival. Somebody will die very soon.</i></span><br/>
@@ -2114,6 +2120,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
 <span style='color:purple'>16 more hitpoints (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
 <span style='color:purple'>1 more attacks (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Glowing Flight &ndash; knife ===
 <span style='color:#808080'><i>The pragmatic baron sent an assassin to kill a necromancer. It was not a bad idea.</i></span><br/>
@@ -2128,6 +2135,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:green'>40% more attacks</span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Rigor Mortis &ndash; knife ===
 <span style='color:#808080'><i>Freeze! I need to aim!</i></span><br/>
@@ -2280,6 +2288,7 @@ The bloodline of true warriors</i></span><br/>
 === Tome of Liches &ndash; limited ===
 <span style='color:#808080'><i>Are you fed up of mortality?</i></span><br/>
 <span style='color:orange'>New advancements: Teachings of the dark arts of necromancy</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Treatise of the Three Impostors &ndash; limited ===
 <span style='color:#808080'><i>However important it may be for all men to know the Truth, very few, nevertheless, are acquainted with it...</i></span><br/>
@@ -2310,6 +2319,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#plague (LANGUAGE_TYPE)_.E2.80.93_plague|plague (Revenant)]]</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 5%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Eternity's End &ndash; mace ===
 <span style='color:#808080'><i>Even lich lords cannot live forever.</i></span><br/>
@@ -2350,6 +2360,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>10% chance to strike a devastating blow</span><br/>
 <span style='color:green'>Enemy resistances to impact decreased by 20%</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Gvødgührvoḧzzorghkuz &ndash; mace ===
 <span style='color:#808080'><i>Ürhrabgzubruprÿÿrv øẗhnäæzdaz grohruth züürd myyvöthgavrhyd...</i></span><br/>
@@ -2477,6 +2488,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>New weapon special: marksman</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#chaotic and lawful_.E2.80.93_damage|chaotic and lawful]]</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 == polearm ==
 === Exterminator's Scythe &ndash; polearm ===
@@ -2494,6 +2506,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
 <span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
 <span style='color:purple'>Damage increased by 1 (requires [[#Exterminator's Ring_.E2.80.93_ring|Exterminator's Ring]])</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Xuanquang's Soul Harvest &ndash; polearm ===
 <span style='color:#808080'><i>Don't be afraid when seeing a bloody road. Keep calm and turn back to face the one who made it so bloody.</i></span><br/>
@@ -2642,6 +2655,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Scythe_.E2.80.93_polearm|Exterminator's Scythe]])</span><br/>
 <span style='color:purple'>Damage increased by 1 (ranged attacks only) (requires [[#Exterminator's Dagger_.E2.80.93_dagger|Exterminator's Dagger]])</span><br/>
 <span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Exterminator's Knives_.E2.80.93_knife|Exterminator's Knives]])</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Precious Eagle Cactus Fruit &ndash; ring ===
 <span style='color:#808080'><i>I need sacrifice. Be it involuntary or not.</i></span><br/>
@@ -2723,6 +2737,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire decreased by 30%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold decreased by 30%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 30%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Ring of Wisdom &ndash; ring ===
 <span style='color:#808080'><i>This magical artefact is one of a kind. Use it well.</i></span><br/>
@@ -2960,6 +2975,7 @@ Showshaunshog proved him wrong by collecting condensed water from smoke.</i></sp
 <span style='color:green'>Increases all magical damages by 40%</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Staff of Kerathur &ndash; staff ===
 <span style='color:#808080'><i>'I know that you have no idea who I am...' - Kerathur the Unheard Of</i></span><br/>
@@ -3116,6 +3132,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#disintegrate_.E2.80.93_damage|disintegrate]]</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Dragon Claw &ndash; sword ===
 <span style='color:#808080'><i>Claws of dragons have no unusual magical properties, but they cut so well.</i></span><br/>
@@ -3212,6 +3229,7 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to blade decreased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact decreased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce decreased by 15%</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === The Nightreaver &ndash; sword ===
 <span style='color:#808080'><i>Aggressive and violent, they strike when least expected and take away all serenity.</i></span><br/>
@@ -3276,6 +3294,7 @@ and saved the righteous.</i></span><br/>
 === Ballista &ndash; xbow ===
 <span style='color:#808080'><i>Are you sure that thing is meant to be hand-held?</i></span><br/>
 <span style='color:green'>Damage increased by 120% (in EASY difficulty), 100% (in MEDIUM difficulty), 80% (in HARD difficulty)</span><br/>
+<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Black Raptor &ndash; xbow ===
 <span style='color:#808080'><i>Birds look upwards to avoid eagles. They should look down to avoid hunters.</i></span><br/>
