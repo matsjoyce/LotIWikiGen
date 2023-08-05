@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements available for categories of units currently available in the campaign "Legend of the Invincibles". See [[LotI Standard Advancements]] for unit-specific advancements.
-This was generated at Tue Jun 27 18:58:45 2023 using version git-a8c4f38 of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -141,18 +141,18 @@ Other LotI-related wiki pages:
 === Able to Transform into the Form of a Wolf when Attacking (20% More Damage and 20% More Attacks; Guide to Lycanthropy) &ndash; GtL1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement GtL to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: werewolf (20% - 20% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: werewolf (120% damage and 120% attacks of the base attack, melee blade)</span><br/>
 <br/>
 === Able to Transform into the Form of a Direwolf when Attacking (5% More Damage, 40% More Attacks and Poison; Guide to Lycanthropy) &ndash; GtL2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements GtL and [[#Able_to_Transform_into_the_Form_of_a_Wolf_when_Attacking_(20%_More_Damage_and_20%_More_Attacks;_Guide_to_Lycanthropy)_.E2.80.93_GtL1|GtL1]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: direwolf (5% - 40% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: direwolf (105% damage and 140% attacks of the base attack, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the direwolf attack: poison</span><br/>
 <br/>
 === Able to Transform into the Form of a Hellhound when Attacking (Berserk; Guide to Lycanthropy) &ndash; GtL3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements GtL, [[#Able_to_Transform_into_the_Form_of_a_Wolf_when_Attacking_(20%_More_Damage_and_20%_More_Attacks;_Guide_to_Lycanthropy)_.E2.80.93_GtL1|GtL1]] and [[#Able_to_Transform_into_the_Form_of_a_Direwolf_when_Attacking_(5%_More_Damage,_40%_More_Attacks_and_Poison;_Guide_to_Lycanthropy)_.E2.80.93_GtL2|GtL2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: hellhound (100%, 100% melee fire)</span><br/>
+<span style='color:green'>New bonus attack: hellhound (100% damage and 100% attacks of the base attack, melee fire)</span><br/>
 <span style='color:green'>New weapon special for the hellhound attack: berserk</span><br/>
 <br/>
 === Able to Breathe Fire when in Hellhound Form (10-5 Damage; Guide to Lycanthropy) &ndash; GtL4 ===
@@ -205,19 +205,19 @@ Other LotI-related wiki pages:
 === Attack Twice in a Row (Wrathful Combat Techniques) &ndash; WCT1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement WCT to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: fury (2) (100%, 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: fury (2) (100% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the fury (2) attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
 <br/>
 === Attack Thrice in a Row (Wrathful Combat Techniques) &ndash; WCT2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements WCT and [[#Attack_Twice_in_a_Row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT1|WCT1]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: fury (3) (100%, 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: fury (3) (100% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the fury (3) attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <br/>
 === Attack Five Times in a Row (Wrathful Combat Techniques) &ndash; WCT3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements WCT, [[#Attack_Twice_in_a_Row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT1|WCT1]] and [[#Attack_Thrice_in_a_Row_(Wrathful_Combat_Techniques)_.E2.80.93_WCT2|WCT2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: fury (5) (100%, 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: fury (5) (100% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the fury (5) attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <br/>
 === Able to Use the Wrath Ability to Increase Damage in Subsequent Attacks (Wrathful Combat Techniques) &ndash; WCT4 ===
@@ -387,7 +387,7 @@ Other LotI-related wiki pages:
 === Breathing Fire with Large Blast Radius, More Fire Penetration (Fire Dragon Legacy) &ndash; FDL5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements fire_dragon_legacy and [[#Breathing_Fire_Faster,_More_Fire_Penetration_(Fire_Dragon_Legacy)_.E2.80.93_FDL4|FDL4]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: explosive fire breath legacy (100%, 100%, copy of fire breath legacy)</span><br/>
+<span style='color:green'>New bonus attack: explosive fire breath legacy (100% damage and 100% attacks of fire breath legacy)</span><br/>
 <span style='color:green'>New weapon special for the explosive fire breath legacy attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <span style='color:green'>Enemy resistances to fire decreased by 3%</span><br/>
 <br/>
@@ -426,7 +426,7 @@ Other LotI-related wiki pages:
 === Hitting More Enemies with Breath and More Cold Penetration (Ice Dragon Legacy) &ndash; IDL5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements ice_dragon_legacy and [[#Breathing_Cold_Faster,_More_Cold_Penetration_(Ice_Dragon_Legacy)_.E2.80.93_IDL4|IDL4]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: explosive fire breath legacy (100%, 100%, copy of ice breath legacy)</span><br/>
+<span style='color:green'>New bonus attack: explosive fire breath legacy (100% damage and 100% attacks of ice breath legacy)</span><br/>
 <span style='color:green'>New weapon special for the explosive fire breath legacy attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 3%</span><br/>
 <br/>
@@ -687,7 +687,7 @@ Other LotI-related wiki pages:
 === Able to Transform Temporarily to Ice (Taking Less Damage, Dealing 20% More Damage; Legacy of the Freezing North) &ndash; LotFN1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements legacy_of_the_freezing_north and [[#Aware_of_Legacy_Possessed_.E2.80.93_Awareness|awareness]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: iceform (20% - 100% melee impact)</span><br/>
+<span style='color:green'>New bonus attack: iceform (120% damage and 100% attacks of the base attack, melee impact)</span><br/>
 <span style='color:green'>New weapon special for the iceform attack: [[LotI_Abilities#iceform_.E2.80.93_damage|iceform]]</span><br/>
 <br/>
 === Dealing More Damage in the Icy Form (Legacy of the Freezing North) &ndash; LotFN2 ===
@@ -870,7 +870,7 @@ Other LotI-related wiki pages:
 === Able to Leave the Mortal Shell to Attack Almost Immune to Physical Damage &ndash; Spirit1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement spirit to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: spiritual transformation (20% - 100% melee arcane)</span><br/>
+<span style='color:green'>New bonus attack: spiritual transformation (120% damage and 100% attacks of the base attack, melee arcane)</span><br/>
 <span style='color:green'>New weapon special for the spiritual transformation attack: [[LotI_Abilities#spiritual attack_.E2.80.93_damage|spiritual attack]]</span><br/>
 <br/>
 === Doing More Damage in the Spiritual Form &ndash; Spirit2 ===

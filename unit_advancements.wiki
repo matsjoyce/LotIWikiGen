@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently available in the campaign "Legend of the Invincibles". See [[LotI Standard Advancements]] for general advancements such as legacies and books.
-This was generated at Tue Jun 27 18:58:45 2023 using version git-a8c4f38 of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -528,7 +528,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Shoot a Storm on Arrows Without Giving the Enemy a Chance to Counterattack (New Attack) &ndash; arrowstorm ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: arrow storm (-20% - -40% ranged)</span><br/>
+<span style='color:green'>New bonus attack: arrow storm (80% damage and 60% attacks of the base attack, ranged)</span><br/>
 <span style='color:green'>New weapon special for the arrow storm attack: [[LotI_Abilities#distant attack_.E2.80.93_attacks|distant attack]]</span><br/>
 <br/>
 === Shooting Arrow Storms Better &ndash; arrowstorm2 ===
@@ -691,7 +691,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Terrible Way that Lowers Enemy Resistance (New Attack) &ndash; doom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: doom (-30% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: doom (70% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the doom attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
 <br/>
 === Crippling Enemies Better &ndash; doom2 ===
@@ -811,7 +811,7 @@ This unit also has god AMLA advancements</i></span>
 === Able to Attack Twice in a Row &ndash; berserk1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Sword_.E2.80.93_sword1|sword1]], [[#Better_with_Sword_.E2.80.93_sword2_2|sword2]], [[#Better_with_Sword_.E2.80.93_sword3|sword3]] and [[#More_Precise_with_Sword_.E2.80.93_sword2_marksman|sword2_marksman]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk2 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk2 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: marksman</span><br/>
@@ -819,7 +819,7 @@ This unit also has god AMLA advancements</i></span>
 === Able to Attack Thrice in a Row &ndash; berserk2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1|berserk1]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk3 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk3 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: marksman</span><br/>
@@ -827,7 +827,7 @@ This unit also has god AMLA advancements</i></span>
 === Able to Attack Five Times in a Row &ndash; berserk3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2|berserk2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk5 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk5 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: marksman</span><br/>
@@ -1198,7 +1198,7 @@ This unit also has god AMLA advancements</i></span>
 === Able to Deal Damage to Multiple Units with Faerie Fire &ndash; faerie1_boom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1|faerie1]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: explosive faerie fire (100%, 100%, copy of faerie fire)</span><br/>
+<span style='color:green'>New bonus attack: explosive faerie fire (100% damage and 100% attacks of faerie fire)</span><br/>
 <span style='color:green'>New weapon special for the explosive faerie fire attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie2 ===
@@ -2282,7 +2282,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Charge into Battle (New Attack) &ndash; charge ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: charge (100%, 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: charge (100% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the charge attack: charge</span><br/>
 <br/>
 === Better Resistances when Defending &ndash; adamant ===
@@ -2356,7 +2356,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === More Technically Skilled, Using a Gun that Can Fire Very Quickly (New Attack) &ndash; storm ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: bullet storm (-90% - 500% ranged)</span><br/>
+<span style='color:green'>New bonus attack: bullet storm (10% damage and 600% attacks of the base attack, ranged)</span><br/>
 <br/>
 === Shooting Bullet Storms Faster &ndash; storm2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -2366,7 +2366,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === More Technically Skilled, Using a Very Precise Gun (New Attack) &ndash; blunderbuss ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: blunderbuss (-40% - 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: blunderbuss (60% damage and 100% attacks of the base attack, ranged)</span><br/>
 <span style='color:green'>New weapon special for the blunderbuss attack: marksman</span><br/>
 <br/>
 === Doing More Damage when Shooting Precisely &ndash; blunderbuss2 ===
@@ -2540,7 +2540,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Shoot a Storm of Arrows Without Giving the Enemy a Chance to Counterattack (New Attack) &ndash; arrowstorm ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: arrow storm (-20% - -40% ranged, copy of longbow)</span><br/>
+<span style='color:green'>New bonus attack: arrow storm (80% damage and 60% attacks of longbow, ranged)</span><br/>
 <span style='color:green'>New weapon special for the arrow storm attack: [[LotI_Abilities#distant attack_.E2.80.93_attacks|distant attack]]</span><br/>
 <br/>
 === Shooting Arrow Storms Better &ndash; arrowstorm2 ===
@@ -2697,7 +2697,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Terribly Scary Way (New Attack) &ndash; horrid ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: grim strike (-20% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: grim strike (80% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the grim strike attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <br/>
 === Scaring Enemies with the Sword Attack Better &ndash; horrid2 ===
@@ -2708,7 +2708,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Maim Enemies, Lowering Their Damage Until They Advance (New Attack) &ndash; mayhem ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Striking_Better_with_Sword_.E2.80.93_sword_3|sword]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mayhem (-20% - -40% melee)</span><br/>
+<span style='color:green'>New bonus attack: mayhem (80% damage and 60% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the mayhem attack: [[LotI_Abilities#mayhem_.E2.80.93_dummy|mayhem]]</span><br/>
 <br/>
 === Striking Better when Maiming Enemies &ndash; mayhem2 ===
@@ -2816,7 +2816,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Enter a Shooting Frenzy Like Dwarves with Axes, But Only when Attacking (New Attack) &ndash; berserk ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Faster_with_Bow_.E2.80.93_bow2|bow2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: bow_berserk (-30% - 100% ranged, copy of bow)</span><br/>
+<span style='color:green'>New bonus attack: bow_berserk (70% damage and 60% attacks of bow, ranged)</span><br/>
 <span style='color:green'>New weapon special for the bow_berserk attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <br/>
 === Shooting Faster when in Shooting Frenzy &ndash; berserk2 ===
@@ -2891,7 +2891,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Cover His Sword in Sticky Spiderwebs to Slow Enemies (New Attack) &ndash; gossamer ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Caster_.E2.80.93_faerie2|faerie2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: spiderweb sword (-40% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: spiderweb sword (60% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the spiderweb sword attack: slow</span><br/>
 <br/>
 === Dealing More Damage with the Spiderweb Sword &ndash; gossamer2 ===
@@ -2968,7 +2968,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Create a Sword from Pure Magic (New Attack) &ndash; sabre ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: faerie sabre (10% - 20% melee arcane)</span><br/>
+<span style='color:green'>New bonus attack: faerie sabre (110% damage and 120% attacks of the base attack, melee arcane)</span><br/>
 <span style='color:green'>New weapon special for the faerie sabre attack: [[LotI_Abilities#struggle_.E2.80.93_chance_to_hit|struggle]]</span><br/>
 <br/>
 === Doing More Damage with Faerie Sabre &ndash; sabre2 ===
@@ -3145,7 +3145,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Terribly Scary Way (New Attack) &ndash; horrid ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: grim strike (-20% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: grim strike (80% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the grim strike attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <br/>
 === Scaring Enemies with the Sword Attack Better &ndash; horrid2 ===
@@ -3233,7 +3233,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Charge at Enemies when Backstabbing if Selected (New Attack) &ndash; murderous_frenzy ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: murderous frenzy (-30% - 100% melee, copy of dagger)</span><br/>
+<span style='color:green'>New bonus attack: murderous frenzy (70% damage and 100% attacks of dagger, melee)</span><br/>
 <span style='color:green'>New weapon special for the murderous frenzy attack: [[LotI_Abilities#charging backstab_.E2.80.93_damage|charging backstab]]</span><br/>
 <br/>
 === Charging at Enemy Backs Better &ndash; murderous_frenzy2 ===
@@ -3243,7 +3243,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Perform a Whirlwind Attack (New Attack) &ndash; whirlwind ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: whirlwind-scythe (-30% - -30% melee, copy of scythe)</span><br/>
+<span style='color:green'>New bonus attack: whirlwind-scythe (70% damage and 70% attacks of scythe, melee)</span><br/>
 <span style='color:green'>New weapon special for the whirlwind-scythe attack: [[LotI_Abilities#whirlwind_.E2.80.93_attacks|whirlwind]]</span><br/>
 <span style='color:green'>New weapon special for the whirlwind-scythe attack: magical</span><br/>
 <br/>
@@ -3632,7 +3632,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack Parrying Enemy Blows (New Attack) &ndash; parry ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: parry (-20% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: parry (80% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the parry attack: [[LotI_Abilities#parry_.E2.80.93_dummy|parry]]</span><br/>
 <br/>
 === Parrying Better &ndash; parry2 ===
@@ -3840,7 +3840,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Knock Enemies Back (New Attack) &ndash; knockback ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: knockback (100%, 100% melee, copy of lance)</span><br/>
+<span style='color:green'>New bonus attack: knockback (100% damage and 100% attacks of lance, melee)</span><br/>
 <span style='color:green'>New weapon special for the knockback attack: [[LotI_Abilities#knockback_.E2.80.93_damage|knockback]]</span><br/>
 <br/>
 === Better at Axe Combat &ndash; axe ===
@@ -4550,7 +4550,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Terrible Way that Lowers Enemy Resistance (New Attack) &ndash; doom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: doom (-30% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: doom (70% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the doom attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
 <br/>
 === Crippling Enemies Better &ndash; doom2 ===
@@ -4785,7 +4785,7 @@ This unit also has generic AMLA advancements</i></span>
 === Using Magically Returning Knives (New Berserk Ranged Attack) &ndash; knife-berserk ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Using_Arcane-Enchanted_Knives_.E2.80.93_knife2|knife2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: throwing berserk (100%, 100% ranged, copy of throwing knives)</span><br/>
+<span style='color:green'>New bonus attack: throwing berserk (100% damage and 100% attacks of throwing knives, ranged)</span><br/>
 <span style='color:green'>New weapon special for the throwing berserk attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <br/>
 === Able to Move at Night Without Being Seen on Useful Terrains &ndash; nightstalk ===
@@ -4947,7 +4947,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Terrible Way that Lowers Enemy Resistance (New Attack) &ndash; doom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: doom (-30% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: doom (70% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the doom attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
 <br/>
 === Crippling Enemies Better &ndash; doom2 ===
@@ -5049,7 +5049,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Perform a Whirlwind Attack (New Attack) &ndash; whirlwind ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: whirlwind-axe (-30% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: whirlwind-axe (70% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the whirlwind-axe attack: [[LotI_Abilities#whirlwind_.E2.80.93_attacks|whirlwind]]</span><br/>
 <span style='color:green'>New weapon special for the whirlwind-axe attack: magical</span><br/>
 <br/>
@@ -5116,7 +5116,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Tricky Way that Lowers Enemy Defence (New Attack) &ndash; trickery ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: trickery (-30% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: trickery (70% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the trickery attack: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
 <br/>
 === Tricking Enemies Better &ndash; trickery2 ===
@@ -5181,7 +5181,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Deal Heavy Damage with a Single Shot (New Attack) &ndash; execution ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: execution (-45% - 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: execution (55% damage and 100% attacks of the base attack, ranged)</span><br/>
 <br/>
 === Executing Enemy Bosses Better &ndash; execution2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -5490,7 +5490,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Able to Attack Parrying Enemy Blows (New Attack) &ndash; parry ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: parry (-20% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: parry (80% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the parry attack: [[LotI_Abilities#parry_.E2.80.93_dummy|parry]]</span><br/>
 <br/>
 === Parrying Better &ndash; parry2 ===
@@ -5569,7 +5569,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Able to Attack Twice in a Row &ndash; berserk1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk2 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk2 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: marksman</span><br/>
@@ -5577,7 +5577,7 @@ This unit also has soul eater AMLA advancements</i></span>
 === Able to Attack Thrice in a Row &ndash; berserk2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1_2|berserk1]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk3 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk3 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: marksman</span><br/>
@@ -5585,7 +5585,7 @@ This unit also has soul eater AMLA advancements</i></span>
 === Able to Attack Five Times in a Row &ndash; berserk3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2_2|berserk2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk5 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk5 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: marksman</span><br/>
@@ -5970,7 +5970,7 @@ This unit also has soul eater AMLA advancements</i></span>
 === Able to Deal Damage to Multiple Units with Faerie Fire &ndash; faerie2_boom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_4|faerie1]] and [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_4|faerie2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: conical faerie fire (100%, 100%, copy of faerie fire)</span><br/>
+<span style='color:green'>New bonus attack: conical faerie fire (100% damage and 100% attacks of faerie fire)</span><br/>
 <span style='color:green'>New weapon special for the conical faerie fire attack: [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie3 ===
@@ -5997,7 +5997,7 @@ This unit also has soul eater AMLA advancements</i></span>
 === Able to Deal Damage to Much More Units with Faerie Fire &ndash; faerie4_boom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_4|faerie1]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_4|faerie2]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie3_4|faerie3]], [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie4_4|faerie4]] and [[#Able_to_Deal_Damage_to_Multiple_Units_with_Faerie_Fire_.E2.80.93_faerie2_boom|faerie2_boom]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: explosive faerie fire (100%, 100%, copy of faerie fire)</span><br/>
+<span style='color:green'>New bonus attack: explosive faerie fire (100% damage and 100% attacks of faerie fire)</span><br/>
 <span style='color:green'>New weapon special for the explosive faerie fire attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie5 ===
@@ -6272,7 +6272,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack Parrying Enemy Blows (New Attack) &ndash; parry ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: parry (-20% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: parry (80% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the parry attack: [[LotI_Abilities#parry_.E2.80.93_dummy|parry]]</span><br/>
 <br/>
 === Parrying Better &ndash; parry2 ===
@@ -6536,7 +6536,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack with a Confusing Attack (New Attack) &ndash; trickery ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: trickery (-20% - -50% melee, copy of scythe)</span><br/>
+<span style='color:green'>New bonus attack: trickery (80% damage and 50% attacks of scythe, melee)</span><br/>
 <span style='color:green'>New weapon special for the trickery attack: [[LotI_Abilities#trickery_.E2.80.93_dummy|trickery]]</span><br/>
 <br/>
 === Able to Attack Slightly Faster with the Confusing Attack &ndash; trickery2 ===
@@ -6734,7 +6734,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Perform a Whirlwind Attack (New Attack) &ndash; whirlwind ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: whirlwind (-30% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: whirlwind (70% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the whirlwind attack: [[LotI_Abilities#whirlwind_.E2.80.93_attacks|whirlwind]]</span><br/>
 <span style='color:green'>New weapon special for the whirlwind attack: magical</span><br/>
 <br/>
@@ -6745,7 +6745,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack Parrying Enemy Blows (New Attack) &ndash; parry ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: parry (-20% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: parry (80% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the parry attack: [[LotI_Abilities#parry_.E2.80.93_dummy|parry]]</span><br/>
 <br/>
 === Parrying Better &ndash; parry2 ===
@@ -6785,7 +6785,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Terribly Scary Way (New Attack) &ndash; horrid ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: grim strike (-20% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: grim strike (80% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the grim strike attack: [[LotI_Abilities#horrid_.E2.80.93_dummy|horrid]]</span><br/>
 <br/>
 === Scaring Enemies with the Scary Attack Better &ndash; horrid2 ===
@@ -6795,7 +6795,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack and Defend with a Single, Devastating Blow (New Attack) &ndash; devastation ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: devastation (-40% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: devastation (60% damage and 100% attacks of the base attack, melee)</span><br/>
 <br/>
 === Attacking Better with the Single Blow &ndash; devastation2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -7118,7 +7118,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Shoot Cursed Arcane Arrows (New Attack) &ndash; arcane ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: cursed arrow (-20% - 100% ranged arcane)</span><br/>
+<span style='color:green'>New bonus attack: cursed arrow (80% damage and 100% attacks of the base attack, ranged arcane)</span><br/>
 <br/>
 === Shooting Cursed Arrows Better &ndash; arcane2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -7180,7 +7180,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack Parrying Enemy Blows (New Attack) &ndash; parry ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: parry (-20% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: parry (80% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the parry attack: [[LotI_Abilities#parry_.E2.80.93_dummy|parry]]</span><br/>
 <br/>
 === Parrying Better &ndash; parry2 ===
@@ -7191,7 +7191,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack in a Terrible Way that Lowers Enemy Resistance (New Attack) &ndash; doom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: doom (-30% - -30% melee)</span><br/>
+<span style='color:green'>New bonus attack: doom (70% damage and 70% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the doom attack: [[LotI_Abilities#doom_.E2.80.93_dummy|doom]]</span><br/>
 <br/>
 === Crippling Enemies Better &ndash; doom2 ===
@@ -7370,7 +7370,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack with Magically Increased Speed (New Attack) &ndash; speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: speed (-30% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: speed (70% damage and 100% attacks of the base attack, melee)</span><br/>
 <br/>
 === Attacking Better Under the Effect of Quickening Spell &ndash; speed2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -7379,7 +7379,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack with Magically Flaming Sword (New Attack) &ndash; fire ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: fiery saber (100%, 100% melee fire)</span><br/>
+<span style='color:green'>New bonus attack: fiery saber (100% damage and 80% attacks of the base attack, melee fire)</span><br/>
 <br/>
 === Attacking Better with the Flaming Sword &ndash; fire2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -7459,13 +7459,13 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Attack Thrice in a Row &ndash; berserk2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement berserk1 to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk3 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk3 (80% damage and 100% attacks of the base attack, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <br/>
 === Able to Attack Five Times in a Row &ndash; berserk3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2_3|berserk2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk5 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk5 (80% damage and 100% attacks of the base attack, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <br/>
 === Doing More Damage with the Furious Attack &ndash; berserk1_damage ===
@@ -7809,7 +7809,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Deal Damage to Multiple Units with Faerie Fire &ndash; faerie2_boom ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie1_5|faerie1]] and [[#Causing_More_Havoc_with_Faerie_Fire_.E2.80.93_faerie2_5|faerie2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: conical faerie fire (100%, 100%, copy of faerie fire)</span><br/>
+<span style='color:green'>New bonus attack: conical faerie fire (100% damage and 100% attacks of faerie fire)</span><br/>
 <span style='color:green'>New weapon special for the conical faerie fire attack: [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
 <br/>
 === Causing More Havoc with Faerie Fire &ndash; faerie3 ===
@@ -7936,7 +7936,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack Twice in a Row &ndash; berserk1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk2 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk2 (80% damage and 100% attacks of the base attack, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: marksman</span><br/>
@@ -7944,7 +7944,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Attack Thrice in a Row &ndash; berserk2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1_3|berserk1]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk3 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk3 (80% damage and 100% attacks of the base attack, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: marksman</span><br/>
@@ -7952,7 +7952,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Attack Five Times in a Row &ndash; berserk3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2_4|berserk2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: mberserk5 (-20% - 100% melee blade)</span><br/>
+<span style='color:green'>New bonus attack: mberserk5 (80% damage and 100% attacks of the base attack, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: swarm</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: marksman</span><br/>
@@ -8131,7 +8131,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack with Magically Increased Speed (New Attack) &ndash; speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: speed (-30% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: speed (70% damage and 100% attacks of the base attack, melee)</span><br/>
 <br/>
 === Attacking Better Under the Effect of Quickening Spell &ndash; speed2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -8140,7 +8140,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Attack with Magically Flaming Sword (New Attack) &ndash; fire ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: fiery saber (100%, 100% melee fire)</span><br/>
+<span style='color:green'>New bonus attack: fiery saber (100% damage and 80% attacks of the base attack, melee fire)</span><br/>
 <br/>
 === Attacking Better with the Flaming Sword &ndash; fire2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -8212,7 +8212,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Claw in a Violent Fury (New Attack) &ndash; berserk ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Clawing_.E2.80.93_claws2|claws2]] to be achieved first</i></span><br/>
-<span style='color:green'>New bonus attack: fury (100%, 100% melee, copy of claws)</span><br/>
+<span style='color:green'>New bonus attack: fury (100% damage and 60% attacks of claws, melee)</span><br/>
 <span style='color:green'>New weapon special for the fury attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <br/>
 === Clawing in an Even More Vicious Berserk &ndash; berserk2 ===

@@ -251,7 +251,7 @@ def write_effect(effect, write, index):
                     write(format_values(movement.keys[m],
                                         "<span style='color:#60A0FF'>Movement costs {} set to {{}}</span>".format(h)))
     elif effect.keys["apply_to"].any == "alignment":
-        write(format_values(effect.keys["alignment"],
+        write(format_values(effect.keys["set"],
                             "<span style='color:#60A0FF'>Sets alignment to {}</span>"))
     elif effect.keys["apply_to"].any == "status" and effect.keys["add"].any == "not_living":
         write("<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span>")
@@ -306,16 +306,18 @@ def write_effect(effect, write, index):
     elif effect.keys["apply_to"].any in {"new_animation", "new animation", "image_mod"}:
         pass
     elif effect.keys["apply_to"].any == "bonus_attack":
-        if effect.keys["damage"].any:
-            attk_info = "{}% - {}%".format(effect.keys["damage"].any, effect.keys["number"].any or 100)
-        else:
-            attk_info = "100%, 100%"
-        if effect.keys["range"].any:
-            attk_info += " " + effect.keys["range"].any
-        if effect.keys["type"].any:
-            attk_info += " " + effect.keys["type"].any
-        elif effect.keys["force_original_attack"].any:
-            attk_info += ", copy of {}".format(effect.keys["force_original_attack"].any)
+        damage, attacks = 100, 100
+        damage += int(effect.keys["damage"].any or 0)
+        attacks += int(effect.keys["number"].any or 0)
+        attacks += int(effect.keys["attacks"].any or 0)
+        copied_attack = effect.keys["force_original_attack"].any or "the base attack"
+        attk_info = "{}% damage and {}% attacks of {}".format(damage, attacks, copied_attack)
+        if effect.keys["range"].any or effect.keys["type"].any:
+            attk_info += ","
+            if effect.keys["range"].any:
+                attk_info += " " + effect.keys["range"].any
+            if effect.keys["type"].any:
+                attk_info += " " + effect.keys["type"].any
         write("<span style='color:green'>New bonus attack: {} ({})</span>".format(effect.keys["name"].any, attk_info))
         wname = format_values(effect.keys["name"], " for the {} attack")
         for specials in effect.tags["specials"]:
@@ -324,7 +326,7 @@ def write_effect(effect, write, index):
                 real_name = special_name(index, name.replace("WEAPON_SPECIAL_", ""), args)
                 write("<span style='color:green'>New weapon special{}: {}</span>".format(wname, real_name))
     elif effect.keys["apply_to"].any == "max_attacks":
-        write("<span style='color:orange'>{} extra attack per turn</span>".format(effect.keys["add"].any))
+        write("<span style='color:orange'>{} extra attack per turn</span>".format(effect.keys["increase"].any))
     else:
         raise RuntimeError("Can't handle effect " + effect.keys["apply_to"].any)
 
@@ -485,7 +487,7 @@ def write_advancement(section, name, tag, file, index):
                         write(format_values(movement.keys[m],
                                             "<span style='color:#60A0FF'>Movement costs {} set to {{}}</span>".format(h)))
         elif effect.keys["apply_to"].any == "alignment":
-            write(format_values(effect.keys["alignment"],
+            write(format_values(effect.keys["set"],
                                 "<span style='color:#60A0FF'>Sets alignment to {}</span>"))
         elif effect.keys["apply_to"].any == "status" and effect.keys["add"].any == "not_living":
             write("<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span>")
@@ -553,16 +555,18 @@ def write_advancement(section, name, tag, file, index):
                                             "<span style='color:#60A0FF'>Chance to get hit {} reduced by {{}}</span>".format(h),
                                             percent=True))
         elif effect.keys["apply_to"].any == "bonus_attack":
-            if effect.keys["damage"].any:
-                attk_info = "{}% - {}%".format(effect.keys["damage"].any, effect.keys["number"].any or 100)
-            else:
-                attk_info = "100%, 100%"
-            if effect.keys["range"].any:
-                attk_info += " " + effect.keys["range"].any
-            if effect.keys["type"].any:
-                attk_info += " " + effect.keys["type"].any
-            elif effect.keys["force_original_attack"].any:
-                attk_info += ", copy of {}".format(effect.keys["force_original_attack"].any)
+            damage, attacks = 100, 100
+            damage += int(effect.keys["damage"].any or 0)
+            attacks += int(effect.keys["number"].any or 0)
+            attacks += int(effect.keys["attacks"].any or 0)
+            copied_attack = effect.keys["force_original_attack"].any or "the base attack"
+            attk_info = "{}% damage and {}% attacks of {}".format(damage, attacks, copied_attack)
+            if effect.keys["range"].any or effect.keys["type"].any:
+                attk_info += ","
+                if effect.keys["range"].any:
+                    attk_info += " " + effect.keys["range"].any
+                if effect.keys["type"].any:
+                    attk_info += " " + effect.keys["type"].any
             write("<span style='color:green'>New bonus attack: {} ({})</span>".format(effect.keys["name"].any, attk_info))
             wname = format_values(effect.keys["name"], " for the {} attack")
             for specials in effect.tags["specials"]:

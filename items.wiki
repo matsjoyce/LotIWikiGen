@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently available in the campaign "Legend of the Invincibles". 
-This was generated at Tue Jun 27 18:58:45 2023 using version git-a8c4f38 of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -1687,7 +1687,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 === Souldrainer &ndash; dagger ===
 <span style='color:#808080'><i>To kill or to preserve oneself? One has to consider the situation.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
-<span style='color:green'>New bonus attack: drain (-70% - 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: drain (30% damage and 100% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the drain attack: drain</span><br/>
 <br/>
 === Straight out of Nowhere &ndash; dagger ===
@@ -1705,7 +1705,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#808080'><i>I will kill you! Kill! Kill! Hahahahahahaha, aaahahahahahahaaa! Hahahaaa!</i></span><br/>
 <span style='color:green'>30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty) more attacks</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
-<span style='color:green'>New bonus attack: fury (100%, 100% melee)</span><br/>
+<span style='color:green'>New bonus attack: fury (100% damage and 75% attacks of the base attack, melee)</span><br/>
 <span style='color:green'>New weapon special for the fury attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <br/>
 === Titan's Bane &ndash; dagger ===
@@ -2178,7 +2178,7 @@ defeat your foes mace to face.</i></span><br/>
 <span style='color:#808080'><i>I can hit all four of you with a single knife, hehe.</i></span><br/>
 <span style='color:green'>Damage increased by 45% (in EASY difficulty), 35% (in MEDIUM difficulty), 25% (in HARD difficulty)</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
-<span style='color:green'>New bonus attack: shrapnel (100%, 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: shrapnel (100% damage and 100% attacks of the base attack, ranged)</span><br/>
 <span style='color:green'>New weapon special for the shrapnel attack: [[LotI_Abilities#cone_.E2.80.93_dummy|cone]]</span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
@@ -3012,7 +3012,7 @@ Showshaunshog proved him wrong by collecting condensed water from smoke.</i></sp
 <span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
 <span style='color:green'>Increases all magical damages by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
-<span style='color:green'>New bonus attack: aim (-20% - 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: aim (80% damage and 100% attacks of the base attack, ranged)</span><br/>
 <span style='color:green'>New weapon special for the aim attack: [[LotI_Abilities#guided_.E2.80.93_chance_to_hit|guided]]</span><br/>
 <br/>
 === The Killer of Great Magi &ndash; staff ===
@@ -3034,7 +3034,7 @@ Showshaunshog proved him wrong by collecting condensed water from smoke.</i></sp
 <span style='color:#808080'><i>He was not a bad mage, but he enjoyed hitting enemies with hard objects a bit too much.</i></span><br/>
 <span style='color:green'>20% more attacks</span><br/>
 <span style='color:#60A0FF'>Spells suck 1 health from targets with each hit</span><br/>
-<span style='color:green'>New bonus attack: violent beatdown (100%, 100% melee, copy of staff)</span><br/>
+<span style='color:green'>New bonus attack: violent beatdown (100% damage and 100% attacks of staff, melee)</span><br/>
 <span style='color:green'>New weapon special for the violent beatdown attack: [[LotI_Abilities#anger_.E2.80.93_attacks|anger]]</span><br/>
 <span style='color:purple'>New ability: [[LotI_Abilities#firecast_.E2.80.93_dummy|firecast]] (requires the two other Violent Mage's items)</span><br/>
 <br/>
@@ -3251,9 +3251,9 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Sucks 2 health from targets with each hit</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 15%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 15%</span><br/>
-<span style='color:green'>New bonus attack: flaming sword (20% - 100% melee fire)</span><br/>
+<span style='color:green'>New bonus attack: flaming sword (120% damage and 100% attacks of the base attack, melee fire)</span><br/>
 <span style='color:green'>New weapon special for the flaming sword attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
-<span style='color:green'>New bonus attack: freezing sword (20% - 100% melee cold)</span><br/>
+<span style='color:green'>New bonus attack: freezing sword (120% damage and 100% attacks of the base attack, melee cold)</span><br/>
 <span style='color:green'>New weapon special for the freezing sword attack: slow</span><br/>
 <br/>
 === Thornsword &ndash; sword ===
@@ -3336,7 +3336,7 @@ and saved the righteous.</i></span><br/>
 === Orcish Ingenuity &ndash; xbow ===
 <span style='color:#808080'><i>How the hell could an orc invent this?!</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
-<span style='color:green'>New bonus attack: fire bolt (100%, 100% ranged fire)</span><br/>
+<span style='color:green'>New bonus attack: fire bolt (100% damage and 100% attacks of the base attack, ranged fire)</span><br/>
 <span style='color:green'>New weapon special for the fire bolt attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <br/>
 === Relentless Fury &ndash; xbow ===
@@ -3360,14 +3360,14 @@ and saved the righteous.</i></span><br/>
 === The Overdrawer &ndash; xbow ===
 <span style='color:#808080'><i>Draw the arrow, draw it more, more, more, and now you can shoot through enemies!</i></span><br/>
 <span style='color:green'>Damage increased by 45% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>New bonus attack: overdraw (75% - 100% ranged)</span><br/>
-<span style='color:green'>New bonus attack: great overdraw (150% - 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: overdraw (175% damage and 65% attacks of the base attack, ranged)</span><br/>
+<span style='color:green'>New bonus attack: great overdraw (250% damage and 40% attacks of the base attack, ranged)</span><br/>
 <span style='color:green'>New weapon special for the great overdraw attack: [[LotI_Abilities#pierce_.E2.80.93_dummy|pierce]]</span><br/>
 <br/>
 === The Underdrawer &ndash; xbow ===
 <span style='color:#808080'><i>Shoot as much as you can, enemies will think they are facing a large army!</i></span><br/>
 <span style='color:green'>45% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty) more attacks</span><br/>
-<span style='color:green'>New bonus attack: underdraw (-35% - 100% ranged)</span><br/>
-<span style='color:green'>New bonus attack: great underdraw (-65% - 100% ranged)</span><br/>
+<span style='color:green'>New bonus attack: underdraw (65% damage and 165% attacks of the base attack, ranged)</span><br/>
+<span style='color:green'>New bonus attack: great underdraw (35% damage and 230% attacks of the base attack, ranged)</span><br/>
 <span style='color:green'>New weapon special for the great underdraw attack: [[LotI_Abilities#lesser lethargy_.E2.80.93_dummy|lesser lethargy]]</span><br/>
 <br/>

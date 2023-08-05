@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently available in the campaign "Legend of the Invincibles". 
-This was generated at Tue Jun 27 18:58:45 2023 using version git-a8c4f38 of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -163,7 +163,7 @@ Other LotI-related wiki pages:
 <br/>
 === Berserk ===
 ==== radiating insanity &ndash; berserk ====
-<span style='color:#808080'><i>All nearby allies fight with a bloodlust equal to the dwarvish berserk.</i></span><br/>
+<span style='color:#808080'><i>All nearby allies fight with a bloodlust equal to the dwarvish berserk on melee attacks.</i></span><br/>
 <br/>
 === Chance to Hit ===
 ==== cantor &ndash; chance_to_hit ====
@@ -174,7 +174,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>All nearby allies get melee backstab.</i></span><br/>
 <br/>
 ==== warlord's rule &ndash; damage ====
-<span style='color:#808080'><i>All nearby allies deal and take 50% more damage.</i></span><br/>
+<span style='color:#808080'><i>All nearby allies deal and take 50% more melee damage.</i></span><br/>
 <br/>
 === Drains ===
 ==== aura of hunger &ndash; drains ====
@@ -194,33 +194,23 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>The unit singes adjacent enemies at the beginning of your turn, causing a loss of POWER HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
 <br/>
 ==== heals +VALUE &ndash; heals ====
-<span style='color:#808080'><i>This unit combines herbal remedies with magic to heal units more quickly than is normally possible on the battlefield.</i></span>
-
-<span style='color:#808080'><i>A unit cared for by this healer may heal up to VALUE HP per turn, or be cured of poisoning.</i></span><br/>
+<span style='color:#808080'><i>This unit combines herbal remedies with magic to heal units more quickly than is normally possible on the battlefield.  A unit cared for by this healer may heal up to VALUE HP per turn, or be cured of poisoning.</i></span><br/>
 <br/>
 ==== unholybane (INTENSITY) &ndash; heals ====
 <span style='color:#808080'><i>The unit damages adjacent undead enemies at the beginning of your turn, causing a loss of INTENSITY HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
 <br/>
 === Hides ===
 ==== lesser ambush &ndash; hides ====
-<span style='color:#808080'><i>This unit can hide in forest, and remain undetected by its enemies. But only in deciduous forest.</i></span>
-
-<span style='color:#808080'><i>Enemy units cannot see this unit while it is in forest, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
+<span style='color:#808080'><i>This unit can hide in deciduous forest when not next to an enemy unit, and remain undetected by its enemies.  Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
 ==== lesser nightstalk &ndash; hides ====
-<span style='color:#808080'><i>The unit becomes invisible during night, but only in forests, hills, mountains and villages.</i></span>
-
-<span style='color:#808080'><i>Enemy units cannot see this unit at night, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
+<span style='color:#808080'><i>The unit becomes invisible during night when not next to an enemy unit, but only in forests, hills, mountains and villages.  Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
 ==== nocturnal ambush &ndash; hides ====
-<span style='color:#808080'><i>The unit becomes invisible in forests, but only at night.</i></span>
-
-<span style='color:#808080'><i>Enemy units cannot see this unit at night, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
+<span style='color:#808080'><i>The unit becomes invisible in forests when not next to an enemy unit, but only at night.  Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
 ==== snow ambush &ndash; hides ====
-<span style='color:#808080'><i>This unit can hide on frozen terrains, and remain undetected by its enemies.</i></span>
-
-<span style='color:#808080'><i>Enemy units cannot see this unit while it is on frozen terrains, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
+<span style='color:#808080'><i>This unit can hide on frozen terrains when not next to an enemy unit, and remain undetected by its enemies.  Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
 ==== twilightstalk &ndash; hides ====
 <span style='color:#808080'><i>The unit becomes invisible during dawn or dusk, hiding in long shadows created by the sun near the horizon.</i></span>
@@ -270,9 +260,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with despair, dealing INTENSITY% less damage.</i></span><br/>
 <br/>
 ==== leadership (as level LEVEL unit) &ndash; leadership ====
-<span style='color:#808080'><i>This unit can lead your own units that are next to it, making them fight better.</i></span>
-
-<span style='color:#808080'><i>Adjacent own units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels.</i></span><br/>
+<span style='color:#808080'><i>This unit can lead your own units that are next to it, making them fight better.  Adjacent own units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels.</i></span><br/>
 <br/>
 ==== lesser antisocial &ndash; leadership ====
 <span style='color:#808080'><i>This unit's manners are very bad, others hate fighting next to it. Adjacent allies deal 10% less damage.</i></span><br/>
@@ -331,13 +319,13 @@ Other LotI-related wiki pages:
 == Weapon Specials ==
 === Other ===
 ==== cone &ndash; dummy ====
-<span style='color:#808080'><i>With this attack enemies next to attacker and target suffer 1/2 the damage. The foe behind the defender takes 1/2 of the damage too, while their adjacent comrades take 1/4 of it. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn.</i></span><br/>
+<span style='color:#808080'><i>With this attack enemies next to attacker and target suffer 1/2 the damage. The foe behind the defender takes 1/2 of the damage too, while their adjacent comrades take 1/4 of it. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn. Works only offensively.</i></span><br/>
 <br/>
 ==== dazzle &ndash; dummy ====
 <span style='color:#808080'><i>This weapon special limits the target's chance to hit to 50% for one turn.</i></span><br/>
 <br/>
 ==== doom &ndash; dummy ====
-<span style='color:#808080'><i>If this attack hits, opponent's resistances will drop by 5% until he advances.</i></span><br/>
+<span style='color:#808080'><i>If this attack hits offensively, opponent's resistances will drop by 5% until he advances.</i></span><br/>
 <br/>
 ==== extra damage (+5; impact) &ndash; dummy ====
 <span style='color:#808080'><i>After the damage with this weapon is dealt, the target takes 5 points of impact damage, that is unaffected by charge or slow.</i></span><br/>
@@ -349,7 +337,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When this attack is used offensively, the damage of retaliation attacks is decreased by 33%.</i></span><br/>
 <br/>
 ==== hose &ndash; dummy ====
-<span style='color:#808080'><i>If this attack us used, many enemies behind and around the original target are hit. It is so tiring that the unit's damage decreases by 12 after the attack, the damage penalty will half each turn.</i></span><br/>
+<span style='color:#808080'><i>If this attack us used offensively, many enemies behind and around the original target are hit. It is so tiring that the unit's damage decreases by 12 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 ==== incinerate &ndash; dummy ====
 <span style='color:#808080'><i>This attack incinerates its targets. Burning units lose 16 HP every turn until they are cured. Flames can kill a unit, the attacker that incinerated the unit gets the experience.</i></span><br/>
@@ -361,16 +349,16 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When hitting an enemy, the opponent's attack damage decreases by 2. The reduction of damage bonus halves each turn (rounded down).</i></span><br/>
 <br/>
 ==== mayhem &ndash; dummy ====
-<span style='color:#808080'><i>If this attack hits, opponent's damage is lowered by 1, until he advances.</i></span><br/>
+<span style='color:#808080'><i>If this attack hits offensively, opponent's damage is lowered by 1, until he advances.</i></span><br/>
 <br/>
 ==== mind raid &ndash; dummy ====
 <span style='color:#808080'><i>This weapon special steals 2 experience from the opponent, increasing the user's experience. It does not work if the target does not have enough experience.</i></span><br/>
 <br/>
 ==== parry &ndash; dummy ====
-<span style='color:#808080'><i>When the target misses, the attacker will hit him without any checks.</i></span><br/>
+<span style='color:#808080'><i>When a defender target misses, the attacker will hit him without any checks.</i></span><br/>
 <br/>
 ==== pierce &ndash; dummy ====
-<span style='color:#808080'><i>If this attack is used, the enemy behind the target is hurt as well, for 1/2 of the damage. The user loses 2 damage points after the attack, the damage penalty will half each turn.</i></span><br/>
+<span style='color:#808080'><i>If this attack is used offensively, the enemy behind the target is hurt as well, for 1/2 of the damage. The user loses 2 damage points after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 ==== purify &ndash; dummy ====
 <span style='color:#808080'><i>When an undead unit is killed by this attack, it becomes living again. Does not work on undead demons, black souls or other otherwordly undead-like abominations.</i></span><br/>
