@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the items currently available in the campaign "Legend of the Invincibles". 
-This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat May 18 17:26:16 2024 using version git-0a0a7e9 of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -112,9 +112,8 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <br/>
 === Leechward &ndash; amulet ===
-<span style='color:#808080'><i>Transform your blood to acid and nobody will drink it.</i></span><br/>
+<span style='color:#808080'><i>Transform your blood into acid and nobody will drink it.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 20%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to drain_.E2.80.93_dummy|immune to drain]]</span><br/>
 <span style='color:green'>Adds status undrainable</span><br/>
 <br/>
 === Liquid Hatred &ndash; amulet ===
@@ -135,7 +134,6 @@ Other LotI-related wiki pages:
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to drain_.E2.80.93_dummy|immune to drain]]</span><br/>
 <span style='color:green'>Adds status undrainable</span><br/>
 <br/>
 === The gloomy Amulet &ndash; amulet ===
@@ -302,7 +300,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>Nobody knows who he was. Nobody knows where he came from. Nobody knows how to stop him.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 25%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (30)]]</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (30)]] (requires [[#Lost Memoirs of the Inglorious_.E2.80.93_limited|Lost Memoirs of the Inglorious]])</span><br/>
 <span style='color:purple'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (20)]] (requires [[#Legion Slayer_.E2.80.93_cloak|Legion Slayer]])</span><br/>
 <br/>
 === Ice Armour &ndash; armour ===
@@ -464,6 +462,11 @@ Other LotI-related wiki pages:
 <span style='color:green'>1 fewer attacks</span><br/>
 <span style='color:#60A0FF'>2 fewer movement points</span><br/>
 <br/>
+=== The Deterrent &ndash; armour ===
+<span style='color:#808080'><i>If you want to fight my friends, you will have to fight me first.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#thorns aura_.E2.80.93_dummy|thorns aura]]</span><br/>
+<br/>
 === The Generous Armour &ndash; armour ===
 <span style='color:#808080'><i>Hey there, you are a bad fighter, wear this.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
@@ -493,7 +496,6 @@ If you do not believe them, you did it wrong.</i></span><br/>
 <span style='color:#808080'><i>A mummy cannot be stopped. If it is tangled, it will just unravel the tangled parts.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
 <span style='color:#60A0FF'>3 fewer movement points</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#resistant to slow_.E2.80.93_dummy|resistant to slow]]</span><br/>
 <span style='color:green'>Adds status unslowable</span><br/>
 <br/>
 === Unsung Odes &ndash; armour ===
@@ -1154,7 +1156,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 === Worshipper of Darkness &ndash; cloak ===
 <span style='color:#808080'><i>Worshipping the heralds of Light is a heavy burden people think to be pleasant to carry.</i></span><br/>
 <span style='color:green'>Damage decreased by 2</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#Deathaura_.E2.80.93_heals|deathaura (8)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#Deathaura (INTENSITY)_.E2.80.93_periodic_damage_aura|deathaura (8)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (10)]]</span><br/>
 <br/>
 == craftable as any armour ==
@@ -1210,22 +1212,20 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#absorbs (3)_.E2.80.93_dummy|absorbs (3)]]</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 2 Topazes, 2 Opals, 2 Pearls, 2 Diamonds, 2 Rubies, 4 Emeralds, 4 Amethysts, 4 Sapphires and 4 Black Pearls</span><br/>
 <br/>
-=== Dying Dreams &ndash; craftable as any armour ===
-<span style='color:#808080'><i>Have you ever dreamed of defeating me? Feel your weakness and see me recovering from everything.</i></span><br/>
-<span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
-<span style='color:green'>1 more attacks</span><br/>
-<span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
+=== Fear Eater &ndash; craftable as any armour ===
+<span style='color:#808080'><i>Your fear weakens you... and feeds me.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 30%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#leeches_.E2.80.93_dummy|leech]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (30)]]</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 2 Topazes, 2 Diamonds, 3 Rubies and 1 Emerald</span><br/>
 <br/>
 === Hatred &ndash; craftable as any armour ===
 <span style='color:#808080'><i>Arm yourself with hatred, your lacking skill will not matter.</i></span><br/>
-<span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
 <span style='color:green'>Damage increased by 8 (in EASY difficulty), 7 (in MEDIUM difficulty), 6 (in HARD difficulty)</span><br/>
-<span style='color:green'>1 more attacks</span><br/>
-<span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
+<span style='color:#60A0FF'>10% chance to strike a devastating blow</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Soul Thrash_.E2.80.93_gauntlets|Soul Thrash]])</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 2 Topazes, 1 Opal, 1 Amethyst, 2 Sapphires and 1 Black Pearl</span><br/>
 <br/>
 === Intoxicator &ndash; craftable as any armour ===
@@ -1234,8 +1234,16 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:green'>Damage increased by 10%</span><br/>
 <span style='color:green'>New weapon special: poison</span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to poison_.E2.80.93_dummy|immune to poison]]</span><br/>
+<span style='color:green'>Adds status unpoisonable</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 3 Opals, 1 Pearl, 2 Diamonds and 2 Emeralds</span><br/>
+<br/>
+=== Killhunger &ndash; craftable as any armour ===
+<span style='color:#808080'><i>Killing makes you stronger, why should you stop doing it?</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
+<span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#killhunger_.E2.80.93_dummy|killhunger]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#penetrates_.E2.80.93_dummy|penetrates]]</span><br/>
+<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 3 Pearls, 1 Diamond, 1 Ruby and 2 Emeralds</span><br/>
 <br/>
 === Lightning Agility &ndash; craftable as any armour ===
 <span style='color:#808080'><i>That speed... Nothing can hit him.</i></span><br/>
@@ -1250,14 +1258,6 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>8 more hitpoints</span><br/>
 <span style='color:#60A0FF'>6 more hitpoints per level</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal and 3 Pearls</span><br/>
-<br/>
-=== Murderlust &ndash; craftable as any armour ===
-<span style='color:#808080'><i>Killing makes you stronger, why should you stop doing it?</i></span><br/>
-<span style='color:#60A0FF'>Increases physical resistances by 20%</span><br/>
-<span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#murderlust_.E2.80.93_dummy|murderlust]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#penetrates_.E2.80.93_dummy|penetrates]]</span><br/>
-<span style='color:#000080'>Gems needed for crafting: 2 Topazes, 3 Pearls, 1 Diamond, 1 Ruby and 2 Emeralds</span><br/>
 <br/>
 === Nighwalker &ndash; craftable as any armour ===
 <span style='color:#808080'><i>Black and transparent</i></span><br/>
@@ -1368,9 +1368,9 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <br/>
 === The Godless &ndash; craftable as any armour ===
 <span style='color:#808080'><i>Do not justify your actions with the name of a man made deity.</i></span><br/>
-<span style='color:#60A0FF'>Increases physical resistances by 35%</span><br/>
-<span style='color:#60A0FF'>Resistance to fire increased by 25%</span><br/>
-<span style='color:#60A0FF'>Resistance to arcane increased by 30%</span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 35% (in EASY difficulty), 30% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
+<span style='color:#60A0FF'>Resistance to fire increased by 25% (in EASY difficulty), 20% (in MEDIUM difficulty), 15% (in HARD difficulty)</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 30% (in EASY difficulty), 25% (in MEDIUM difficulty), 20% (in HARD difficulty)</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 1 Obsidian, 1 Topaz, 1 Opal, 1 Pearl, 1 Diamond, 1 Ruby and 1 Emerald</span><br/>
 <br/>
 === The Shiverbringer &ndash; craftable as any armour ===
@@ -1394,11 +1394,11 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 === Warheart &ndash; craftable as any armour ===
 <span style='color:#808080'><i>This will please my war loving heart.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 25%</span><br/>
-<span style='color:green'>1 more attacks</span><br/>
 <span style='color:#60A0FF'>5% chance to strike a devastating blow</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|damage aura (10)]]</span><br/>
+<span style='color:purple'>1 more attacks (requires [[#Warguard_.E2.80.93_gauntlets|Warguard]])</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 2 Obsidians, 1 Opal, 1 Diamond, 2 Rubies and 1 Amethyst</span><br/>
 <br/>
 == craftable as any weapon ==
@@ -1510,7 +1510,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#808080'><i>Let your anger penetrate into the depths of your bones.</i></span><br/>
 <span style='color:green'>Damage increased by 40% (in EASY difficulty), 25% (in MEDIUM difficulty), 10% (in HARD difficulty)</span><br/>
 <span style='color:green'>Damage increased by 2</span><br/>
-<span style='color:green'>30% more attacks</span><br/>
+<span style='color:green'>30% fewer attacks</span><br/>
 <span style='color:green'>Sets damage type to impact</span><br/>
 <span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
 <span style='color:green'>Enemy resistances to impact decreased by 20%</span><br/>
@@ -1545,7 +1545,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#60A0FF'>Resistance to blade increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane decreased by 10%</span><br/>
-<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span><br/>
+<span style='color:green'>Adds status unpoisonable,undrainable,unplagueable</span><br/>
 <span style='color:#000080'>Gems needed for crafting: 3 Obsidians, 2 Topazes, 3 Diamonds, 1 Emerald and 2 Amethysts</span><br/>
 <br/>
 === Soul Hunter &ndash; craftable as any weapon ===
@@ -1829,7 +1829,7 @@ I did what I did. I cannot change it, so why should I torment myself with it?</i
 <span style='color:#808080'><i>'My life is in ruins, if I die, I cannot lose anything.'
 Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
-<span style='color:green'>Damage decreased by 30% (in EASY difficulty), 40% (in MEDIUM difficulty), 50% (in HARD difficulty)</span><br/>
+<span style='color:green'>Damage decreased by 20% (in EASY difficulty), 30% (in MEDIUM difficulty), 40% (in HARD difficulty)</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#soul thrash_.E2.80.93_damage|soul thrash]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#wrath_.E2.80.93_dummy|wrath]]</span><br/>
 <br/>
@@ -1856,6 +1856,12 @@ Then he saw this item.</i></span><br/>
 <span style='color:purple'>4% to blade, impact and pierce resistance (requires [[#Unseen Writings_.E2.80.93_cloak|Unseen Writings]])</span><br/>
 <span style='color:purple'>4% to arcane, cold and fire resistance (requires [[#Unthought Memories_.E2.80.93_amulet|Unthought Memories]])</span><br/>
 <span style='color:purple'>2% to arcane, blade, cold, fire, impact and pierce resistance (requires [[#Unsung Odes_.E2.80.93_armour|Unsung Odes]])</span><br/>
+<br/>
+=== Warguard &ndash; gauntlets ===
+<span style='color:#808080'><i>A real warrior's armour is heavy.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
+<span style='color:green'>Enemy resistances to blade decreased by 5%</span><br/>
+<span style='color:#60A0FF'>1 fewer movement points</span><br/>
 <br/>
 == gem ==
 === Amethyst &ndash; gem ===
@@ -1938,6 +1944,14 @@ Then he saw this item.</i></span><br/>
 <span style='color:green'>Enemy resistances to cold decreased by 10%</span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <br/>
+=== Dying Dreams &ndash; helm ===
+<span style='color:#808080'><i>Have you ever dreamed of defeating me? Feel your weakness and see me recovering from everything.</i></span><br/>
+<span style='color:#60A0FF'>Increases physical resistances by 15%</span><br/>
+<span style='color:green'>1 more attacks</span><br/>
+<span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#leeches_.E2.80.93_dummy|leech]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (15)]]</span><br/>
+<br/>
 === Eidolon's Mask &ndash; helm ===
 <span style='color:#808080'><i>His experience showed him that if dead are all around, people need a champion. Otherwise they fall without resistance.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
@@ -1958,7 +1972,7 @@ Then he saw this item.</i></span><br/>
 === Helmet of Paladins &ndash; helm ===
 <span style='color:#808080'><i>Let the light show you the way into the darkness that you can enlighten.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: illuminates</span><br/>
+<span style='color:#60A0FF'>New ability: illuminates loti</span><br/>
 <br/>
 === Irongut Helmet &ndash; helm ===
 <span style='color:#808080'><i>'Are those berries edible?'
@@ -1966,7 +1980,7 @@ Then he saw this item.</i></span><br/>
 <span style='color:#60A0FF'>Increases physical resistances by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 5%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to poison_.E2.80.93_dummy|immune to poison]]</span><br/>
+<span style='color:green'>Adds status unpoisonable</span><br/>
 <br/>
 === King Salmon's Crown &ndash; helm ===
 <span style='color:#808080'><i>What? The king has a known name? Now I can no longer call him what I want...</i></span><br/>
@@ -2241,6 +2255,10 @@ traditions were brought to them.</i></span><br/>
 <span style='color:#808080'><i>The princess asked him where his soul was hidden. The prince found it.</i></span><br/>
 <span style='color:orange'>New advancements: Powerful improvements to spells</span><br/>
 <br/>
+=== Lost Memoirs of the Inglorious &ndash; limited ===
+<span style='color:#808080'><i>Nobody knew his identity, yet everyone knew his face.</i></span><br/>
+<span style='color:purple'>15% to arcane resistance (requires [[#Legion Slayer_.E2.80.93_cloak|Legion Slayer]])</span><br/>
+<br/>
 === Orb of Demonic Wrath &ndash; limited ===
 <span style='color:#808080'><i>Live for the spite, serve the rage, love the hate, drink the anger, embrace the loathing,
 pet the resentment, enjoy the scorning, cuddle the abhorrence, kiss all the foul.</i></span><br/>
@@ -2284,11 +2302,6 @@ The bloodline of true warriors</i></span><br/>
 === Tome of Liches &ndash; limited ===
 <span style='color:#808080'><i>Are you fed up of mortality?</i></span><br/>
 <span style='color:orange'>New advancements: Teachings of the dark arts of necromancy</span><br/>
-<br/>
-=== Tome of Liches &ndash; limited ===
-<span style='color:#808080'><i>Are you fed up of mortality?</i></span><br/>
-<span style='color:orange'>New advancements: Teachings of the dark arts of necromancy</span><br/>
-<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Treatise of the Three Impostors &ndash; limited ===
 <span style='color:#808080'><i>However important it may be for all men to know the Truth, very few, nevertheless, are acquainted with it...</i></span><br/>
@@ -2373,7 +2386,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#lawful_.E2.80.93_damage|lawful]]</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: illuminates</span><br/>
+<span style='color:#60A0FF'>New ability: illuminates loti</span><br/>
 <br/>
 === Jawbreaker &ndash; mace ===
 <span style='color:#808080'><i>Why are you grinning like that? It could have killed you!</i></span><br/>
@@ -2456,7 +2469,6 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to impact increased by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#resistant to slow_.E2.80.93_dummy|resistant to slow]]</span><br/>
 <span style='color:green'>Adds status unslowable</span><br/>
 <br/>
 === Tormentor of Light &ndash; mace ===
@@ -2603,7 +2615,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:orange'>1 extra attack per turn</span><br/>
 <br/>
 === Stolen Potion &ndash; potion ===
-<span style='color:#808080'><i>I have stolen this. Now all the word is here for me to steal.</i></span><br/>
+<span style='color:#808080'><i>I have stolen this. Now all the world is here for me to steal.</i></span><br/>
 <span style='color:#60A0FF'>New ability: skirmisher</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#steals_.E2.80.93_dummy|steals]]</span><br/>
 <br/>
@@ -2638,7 +2650,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:purple'>4 more hitpoints (requires [[#Eidolon's Mask_.E2.80.93_helm|Eidolon's Mask]])</span><br/>
 <span style='color:purple'>Damage increased by 1 (requires [[#Eidolon's Gauntlets_.E2.80.93_gauntlets|Eidolon's Gauntlets]])</span><br/>
 <span style='color:purple'>2% to arcane resistance (requires [[#Eidolon's Coat_.E2.80.93_cloak|Eidolon's Coat]])</span><br/>
-<span style='color:purple'>New ability: [[LotI_Abilities#Deathaura_.E2.80.93_heals|deathaura (8)]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#Deathaura (INTENSITY)_.E2.80.93_periodic_damage_aura|deathaura (8)]] (requires [[#Eidolon's Sword_.E2.80.93_sword|Eidolon's Sword]])</span><br/>
 <br/>
 === Exterminator's Ring &ndash; ring ===
 <span style='color:#808080'><i>Hide from the revolution.</i></span><br/>
@@ -2684,7 +2696,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 5%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 20%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#Deathaura_.E2.80.93_heals|deathaura (13)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#Deathaura (INTENSITY)_.E2.80.93_periodic_damage_aura|deathaura (13)]]</span><br/>
 <br/>
 === Ring of Devil's Doom &ndash; ring ===
 <span style='color:#808080'><i>The demonic magic is deadly, but you can prepare yourself to live through it.</i></span><br/>
@@ -2783,7 +2795,7 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:green'>Damage increased by 10%</span><br/>
 <span style='color:green'>Increases all magical damages by 10%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 20%</span><br/>
-<span style='color:purple'>New ability: [[LotI_Abilities#Deathaura_.E2.80.93_heals|deathaura (10)]] (requires [[#The gloomy Cloak_.E2.80.93_cloak|The gloomy Cloak]])</span><br/>
+<span style='color:purple'>New ability: [[LotI_Abilities#Deathaura (INTENSITY)_.E2.80.93_periodic_damage_aura|deathaura (10)]] (requires [[#The gloomy Cloak_.E2.80.93_cloak|The gloomy Cloak]])</span><br/>
 <span style='color:purple'>New ability: [[LotI_Abilities#despair (INTENSITY)_.E2.80.93_leadership|despair (20)]] (requires [[#The gloomy Amulet_.E2.80.93_amulet|The gloomy Amulet]])</span><br/>
 <br/>
 === The Unprecious Ring &ndash; ring ===
@@ -2843,7 +2855,6 @@ The bloodline of true warriors</i></span><br/>
 <span style='color:#808080'><i>Odin was a warrior, but every winter solstice, he came and brought gifts to kids.</i></span><br/>
 <span style='color:green'>Damage increased by 50%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 20%</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#immune to drain_.E2.80.93_dummy|immune to drain]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#absorbs (1)_.E2.80.93_dummy|absorbs (1)]]</span><br/>
 <span style='color:green'>Adds status undrainable</span><br/>
 <br/>
@@ -3107,6 +3118,12 @@ and saved the righteous.</i></span><br/>
 <span style='color:purple'>1 more attacks (requires [[#Dark Helm of Destruction_.E2.80.93_helm|Dark Helm of Destruction]])</span><br/>
 <span style='color:purple'>1 more attacks (requires [[#Dark Gloves of Destruction_.E2.80.93_gauntlets|Dark Gloves of Destruction]])</span><br/>
 <br/>
+=== Deathbringer &ndash; sword ===
+<span style='color:#808080'><i>Die! Die! Die! Wait... how do I make him die instead of simply getting cut?</i></span><br/>
+<span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#disintegrate_.E2.80.93_damage|disintegrate]]</span><br/>
+<span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
+<br/>
 === Deathwhirl &ndash; sword ===
 <span style='color:#808080'><i>Swarm him so that he would not get to me! Oh, dammit...</i></span><br/>
 <span style='color:green'>Damage increased by 50% (in EASY difficulty), 40% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
@@ -3123,16 +3140,6 @@ and saved the righteous.</i></span><br/>
 <span style='color:green'>New weapon special: slow</span><br/>
 <span style='color:green'>New weapon special: [[LotI_Abilities#disintegrate_.E2.80.93_damage|disintegrate]]</span><br/>
 <span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
-<br/>
-=== Doombringer &ndash; sword ===
-<span style='color:#808080'><i>Hitting the enemy hard is not crucial. You have to make sure that you will not get killed when he hits you.</i></span><br/>
-<span style='color:green'>Damage increased by 70% (in EASY difficulty), 50% (in MEDIUM difficulty), 30% (in HARD difficulty)</span><br/>
-<span style='color:green'>20% more attacks</span><br/>
-<span style='color:#60A0FF'>Sucks 1 health from targets with each hit</span><br/>
-<span style='color:green'>New weapon special: slow</span><br/>
-<span style='color:green'>New weapon special: [[LotI_Abilities#disintegrate_.E2.80.93_damage|disintegrate]]</span><br/>
-<span style='color:#60A0FF'>Resistance to blade increased by 10%</span><br/>
-<span style='color:#808080'>This item is duplicated inside LotI, see the [https://github.com/matsjoyce/LotIWikiGen/issues/15 GitHub issue] for more details</span><br/>
 <br/>
 === Dragon Claw &ndash; sword ===
 <span style='color:#808080'><i>Claws of dragons have no unusual magical properties, but they cut so well.</i></span><br/>
@@ -3160,14 +3167,12 @@ and saved the righteous.</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <br/>
 === Holy Sword &ndash; sword ===
-<span style='color:#808080'><i>Use the lightbeam spell. It kills anything unholy enough.</i></span><br/>
+<span style='color:#808080'><i>Stay in my light and your sword shall destroy the servants of darkness.</i></span><br/>
 <span style='color:green'>Damage increased by 25%</span><br/>
 <span style='color:green'>Sets damage type to arcane</span><br/>
-<span style='color:green'>Enemy resistances to arcane decreased by 10%</span><br/>
-<span style='color:#60A0FF'>Resistance to arcane increased by 10%</span><br/>
-<span style='color:#60A0FF'>New ability: illuminates</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#unholybane (INTENSITY)_.E2.80.93_heals|unholybane (12)]]</span><br/>
-<span style='color:#60A0FF'>Sets alignment to lawful</span><br/>
+<span style='color:green'>New weapon special: [[LotI_Abilities#lawful_.E2.80.93_damage|lawful]]</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by 15%</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#unholybane (INTENSITY)_.E2.80.93_heals|unholybane (16)]]</span><br/>
 <br/>
 === Lilith's Other Old Precious &ndash; sword ===
 <span style='color:#808080'><i>In order to be able to fight with any weapon available, Lilith swaps weapon types once per century.</i></span><br/>

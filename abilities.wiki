@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the abilities and weapon specials currently available in the campaign "Legend of the Invincibles". 
-This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat May 18 17:26:16 2024 using version git-0a0a7e9 of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -30,7 +30,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When a unit adjacent to this unit takes damage, this unit heals 5% of the damage.</i></span><br/>
 <br/>
 ==== cancer &ndash; dummy ====
-<span style='color:#808080'><i>This unit is poisoned at the beginning of its turn. Because it's not an attack, the <i>immune to poison</i> ability does not apply.</i></span><br/>
+<span style='color:#808080'><i>This unit is poisoned at the beginning of its turn.</i></span><br/>
 <br/>
 ==== cowardice &ndash; dummy ====
 <span style='color:#808080'><i>If this unit runs out of moves with no adjacent units, it loses its attack that turn but gains its moves back.</i></span><br/>
@@ -38,8 +38,14 @@ Other LotI-related wiki pages:
 ==== dark aura &ndash; dummy ====
 <span style='color:#808080'><i>All adjacent enemies will be poisoned at the beginning of their turn.</i></span><br/>
 <br/>
+==== eats walking corpses &ndash; dummy ====
+<span style='color:#808080'><i>This unit will eat a Walking Corpse of its own side at the start of its turn to become fed for a turn.</i></span><br/>
+<br/>
+==== electrical discharge &ndash; dummy ====
+<span style='color:#808080'><i>When this unit is hit with a melee attack, the resulting discharge of electricity causes an equal amount of lightning damage to be taken by the attacker. It can kill.</i></span><br/>
+<br/>
 ==== evisceration &ndash; dummy ====
-<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 10 HP, and are ridden of poison and slow.</i></span><br/>
+<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 10 HP.</i></span><br/>
 <br/>
 ==== feeding &ndash; dummy ====
 <span style='color:#808080'><i>This unit gains 1 hitpoint added to its maximum whenever it kills a living unit.</i></span><br/>
@@ -59,29 +65,26 @@ Other LotI-related wiki pages:
 ==== frostbite &ndash; dummy ====
 <span style='color:#808080'><i>This unit takes 24 cold damage at the beginning of its turn.</i></span><br/>
 <br/>
+==== fueled by death &ndash; dummy ====
+<span style='color:#808080'><i>All adjacent units to a unit with this ability lose 4 hitpoints at the beginning of this unit's turn. Half of the damage dealt increases this unit's damage in a way that decays to half every turn. Undrainable units are not hurt but contribute to the damage bonus notheless. It cannot kill.</i></span><br/>
+<br/>
 ==== greater evisceration &ndash; dummy ====
-<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 16 HP, and are ridden of poison and slow.</i></span><br/>
+<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 16 HP.</i></span><br/>
 <br/>
 ==== hate speech &ndash; dummy ====
 <span style='color:#808080'><i>When an adjacent unit offensively hits an enemy, its attack damage increases by 1. The added damage bonus halves each turn (rounded down).</i></span><br/>
-<br/>
-==== immune to drain &ndash; dummy ====
-<span style='color:#808080'><i>This unit is immune to drain.</i></span><br/>
-<br/>
-==== immune to poison &ndash; dummy ====
-<span style='color:#808080'><i>Poisonous attacks have no effect on this unit.</i></span><br/>
 <br/>
 ==== innocence &ndash; dummy ====
 <span style='color:#808080'><i>Through magical means, this unit looks so innocent that attacking it causes the attacker to suffer emotional trauma that makes it deal 1 less damage for each hit. The damage decreased this way halves each turn.</i></span><br/>
 <br/>
 ==== killhunger &ndash; dummy ====
-<span style='color:#808080'><i>When this unit kills another unit, it heals 4 HP, and is ridden of poison and slow.</i></span><br/>
+<span style='color:#808080'><i>When this unit kills another unit, it heals 4 HP.</i></span><br/>
 <br/>
 ==== leeches &ndash; dummy ====
 <span style='color:#808080'><i>All adjacent enemy units to a unit with this ability lose 2 hitpoints at the beginning of this unit's turn. The damage dealt heals the unit. It cannot kill.</i></span><br/>
 <br/>
 ==== lesser evisceration &ndash; dummy ====
-<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 4 HP, and are ridden of poison and slow.</i></span><br/>
+<span style='color:#808080'><i>When this unit kills another unit, nearby allies heal 4 HP.</i></span><br/>
 <br/>
 ==== lesser redeem &ndash; dummy ====
 <span style='color:#808080'><i>When this unit attacks another unit, there is a chance that the target will be absorbed, inversely proportional to enemy level. When the redeem count reaches a certain level, the unit's properties will improve.</i></span><br/>
@@ -93,7 +96,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When an attack against this unit misses, he/she heals 2 HP.</i></span><br/>
 <br/>
 ==== murderlust &ndash; dummy ====
-<span style='color:#808080'><i>When this unit kills another unit, he/she heals 8 HP.</i></span><br/>
+<span style='color:#808080'><i>When this unit kills another unit during his/her turn, he/she heals 8 HP.</i></span><br/>
 <br/>
 ==== necromancy &ndash; dummy ====
 <span style='color:#808080'><i>If this unit dies, it becomes a lich.</i></span><br/>
@@ -114,13 +117,13 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When an ally standing next to this unit finishes attacking, it gains one movement point.</i></span><br/>
 <br/>
 ==== reflect &ndash; dummy ====
-<span style='color:#808080'><i>When this unit is hit, an half of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
+<span style='color:#808080'><i>When this unit is hit, a half of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
+<br/>
+==== reflect aura &ndash; dummy ====
+<span style='color:#808080'><i>When an adjacent ally of unit is hit, an half of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
 <br/>
 ==== regrowing &ndash; dummy ====
 <span style='color:#808080'><i>When this unit begins combat, offensively or defensively, it heals an amount of hitpoints equal to two times their level.</i></span><br/>
-<br/>
-==== resistant to slow &ndash; dummy ====
-<span style='color:#808080'><i>This unit has so much life energy in it, that it will break through any slowing effect almost instantly.</i></span><br/>
 <br/>
 ==== retribution &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, an amount of fire damage equal to a quarter of the damage dealt hurts the attacker.</i></span><br/>
@@ -131,6 +134,9 @@ Other LotI-related wiki pages:
 ==== steals &ndash; dummy ====
 <span style='color:#808080'><i>When this unit hits an enemy with a melee attack, it has a chance to earn some gold.</i></span><br/>
 <br/>
+==== supreme murderlust &ndash; dummy ====
+<span style='color:#808080'><i>When this unit kills another unit, he/she heals 8 HP and is ridden of poison and slow.</i></span><br/>
+<br/>
 ==== tax collector &ndash; dummy ====
 <span style='color:#808080'><i>When this unit hits an enemy, it has a chance to tax its own side and part it from some gold.</i></span><br/>
 <br/>
@@ -138,7 +144,10 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This unit makes its enemies of opposite gender infatuated at the beginning of their turn, making them unable to attack, but able to break this charm by fleeing.</i></span><br/>
 <br/>
 ==== thorns &ndash; dummy ====
-<span style='color:#808080'><i>Any unit that attacks this unit in melee suffers two points of piercing damage. Unlike reflect, it can kill.</i></span><br/>
+<span style='color:#808080'><i>Any unit that attacks this unit suffers 4 points of piercing damage. Unlike reflect, it can kill.</i></span><br/>
+<br/>
+==== thorns aura &ndash; dummy ====
+<span style='color:#808080'><i>Any unit that attacks an adjacent ally of this unit suffers 4 points of piercing damage. Unlike reflect, it can kill.</i></span><br/>
 <br/>
 ==== triggerable &ndash; dummy ====
 <span style='color:#808080'><i>This unit's attack damage increases by 1 when hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
@@ -147,7 +156,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This unit's attack deals 50% additional fire damage when directly hitting a unit type that hit it in the last 5 turns. Does not work when hit by a retaliating unit.</i></span><br/>
 <br/>
 ==== unholy hunger &ndash; dummy ====
-<span style='color:#808080'><i>This unit craves for the souls of living beings. When it kills a living unit, it will heal 10 HP and its maximum HP will increase by 3. When it is not fed continually, it starts to starve, and loses 1 point of maximum HP more for each turn it did not kill something at the beginning of each turn. The hunger has no effect if the unit is cared by a healer or standing in a village.</i></span><br/>
+<span style='color:#808080'><i>This unit craves for the souls of living beings. When it kills a living unit, it will heal 10 HP and its maximum HP will increase by 3. When it is not fed continually, it starts to starve, and loses 1 maximum HP more for each turn it did not kill something at the beginning of each turn. The hunger has no effect if the unit is cared by a healer or standing in a village.</i></span><br/>
 <br/>
 ==== vindictive &ndash; dummy ====
 <span style='color:#808080'><i>This unit's attack damage increases by 1 when an adjacent ally is hit. Does not work when hit by a retaliating unit. The added damage bonus halves each turn (rounded down).</i></span><br/>
@@ -158,8 +167,19 @@ Other LotI-related wiki pages:
 ==== weak reflect &ndash; dummy ====
 <span style='color:#808080'><i>When this unit is hit, an quarter of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
 <br/>
+==== weak reflect aura &ndash; dummy ====
+<span style='color:#808080'><i>When an adjacent ally of unit is hit, an quarter of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns.</i></span><br/>
+<br/>
 ==== wrath &ndash; dummy ====
 <span style='color:#808080'><i>When offensively hitting an enemy, this unit's attack damage increases by 1. The added damage bonus halves each turn (rounded down).</i></span><br/>
+<br/>
+=== Aggressive Blood ===
+==== corrosive blood (DAMAGE) &ndash; aggressive_blood ====
+<span style='color:#808080'><i>When this unit is hit, adjacent enemy units take 2 fire damage and become poisoned. It can kill.</i></span><br/>
+<br/>
+=== Attacks ===
+==== grim presence &ndash; attacks ====
+<span style='color:#808080'><i>Adjacent enemies have 1 less attack</i></span><br/>
 <br/>
 === Berserk ===
 ==== radiating insanity &ndash; berserk ====
@@ -185,14 +205,6 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>All nearby allies get firststrike.</i></span><br/>
 <br/>
 === Heals ===
-==== Deathaura &ndash; heals ====
-<span style='color:#808080'><i>This ability causes its bearer unit to hurt adjacent enemy units at the beginning of your turn (INTENSITY damage).</i></span>
-
-<span style='color:#808080'><i>Does not affect poisoned enemies.</i></span><br/>
-<br/>
-==== burns foes (POWER) &ndash; heals ====
-<span style='color:#808080'><i>The unit singes adjacent enemies at the beginning of your turn, causing a loss of POWER HP (max. down to 1 HP, never kills). The ability ignores any of the enemy's resistances or weaknesses, so it is very powerful against spirits!</i></span><br/>
-<br/>
 ==== heals +VALUE &ndash; heals ====
 <span style='color:#808080'><i>This unit combines herbal remedies with magic to heal units more quickly than is normally possible on the battlefield.  A unit cared for by this healer may heal up to VALUE HP per turn, or be cured of poisoning.</i></span><br/>
 <br/>
@@ -208,6 +220,11 @@ Other LotI-related wiki pages:
 <br/>
 ==== nocturnal ambush &ndash; hides ====
 <span style='color:#808080'><i>The unit becomes invisible in forests when not next to an enemy unit, but only at night.  Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
+<br/>
+==== shadowstalk (radius RADIUS) &ndash; hides ====
+<span style='color:#808080'><i>The unit becomes invisible when a unit is nearby, hiding in its shadow. The unit must have no ability to hide.</i></span>
+
+<span style='color:#808080'><i>Enemy units cannot see this unit during dawn or dusk, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
 <br/>
 ==== snow ambush &ndash; hides ====
 <span style='color:#808080'><i>This unit can hide on frozen terrains when not next to an enemy unit, and remain undetected by its enemies.  Any enemy unit that first discovers this unit immediately loses all its remaining movement.</i></span><br/>
@@ -247,6 +264,9 @@ Other LotI-related wiki pages:
 ==== NAME (INTENSITY) &ndash; leadership ====
 <span style='color:#808080'><i>Adjacent allies will do INTENSITY% more damage.</i></span><br/>
 <br/>
+==== all damage aura (INTENSITY) &ndash; leadership ====
+<span style='color:#808080'><i>This unit and any adjacent units do INTENSITY% more damage.</i></span><br/>
+<br/>
 ==== alliance &ndash; leadership ====
 <span style='color:#808080'><i>This unit is very well versed in team tactics so that adjacent units with the same ability deal 35% more damage.</i></span><br/>
 <br/>
@@ -259,11 +279,26 @@ Other LotI-related wiki pages:
 ==== despair (INTENSITY) &ndash; leadership ====
 <span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with despair, dealing INTENSITY% less damage.</i></span><br/>
 <br/>
+==== leadership &ndash; leadership ====
+<span style='color:#808080'><i>This unit can lead other troops in battle.</i></span>
+
+<span style='color:#808080'><i>All adjacent lower-level units from the same side deal 25% more damage for each difference in level.</i></span><br/>
+<br/>
 ==== leadership (as level LEVEL unit) &ndash; leadership ====
 <span style='color:#808080'><i>This unit can lead your own units that are next to it, making them fight better.  Adjacent own units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels.</i></span><br/>
 <br/>
 ==== lesser antisocial &ndash; leadership ====
 <span style='color:#808080'><i>This unit's manners are very bad, others hate fighting next to it. Adjacent allies deal 10% less damage.</i></span><br/>
+<br/>
+==== socratic &ndash; leadership ====
+<span style='color:#808080'><i>This unit can ask good enough questions to help stronger units rethink their strategy. Adjacent own units of higher level will do more damage in battle. When a unit adjacent to, of a higher level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels. This is limited to 75%.</i></span><br/>
+<br/>
+=== Periodic Damage Aura ===
+==== Deathaura (INTENSITY) &ndash; periodic_damage_aura ====
+<span style='color:#808080'><i>This ability causes its bearer unit to poison and injure adjacent enemy units at the beginning of your turn (INTENSITY damage). It cannot kill.</i></span><br/>
+<br/>
+==== burns foes (POWER) &ndash; periodic_damage_aura ====
+<span style='color:#808080'><i>The unit singes adjacent enemies at the beginning of your turn, causing them to take POWER fire damage. It can kill.</i></span><br/>
 <br/>
 === Poison ===
 ==== radiation &ndash; poison ====
@@ -272,6 +307,9 @@ Other LotI-related wiki pages:
 === Regenerate ===
 ==== bloodbound &ndash; regenerate ====
 <span style='color:#808080'><i>The unit will heal itself 32 HP per turn if adjacent to another unit with the bloodbound ability. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
+<br/>
+==== devouring embers &ndash; regenerate ====
+<span style='color:#808080'><i>This unit heals 16 HP per turn when above lava. If poisoned, the poison will be cured instead.</i></span><br/>
 <br/>
 ==== regenerates (VALUE) &ndash; regenerate ====
 <span style='color:#808080'><i>The unit will heal itself VALUE HP per turn. If it is poisoned, it will remove the poison instead of healing.</i></span><br/>
@@ -295,6 +333,9 @@ Other LotI-related wiki pages:
 ==== conviction (INTENSITY) &ndash; resistance ====
 <span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with the guilt of their evil deeds, reducing their fire, cold and arcane resistances by INTENSITY%.</i></span><br/>
 <br/>
+==== death blending &ndash; resistance ====
+<span style='color:#808080'><i>This unit is so familiar death that it can gain a more undead-like constitution whenever standing next to at least two allied undead, increasing its resistances to blade, pierce and cold by 30%.</i></span><br/>
+<br/>
 ==== exile &ndash; resistance ====
 <span style='color:#808080'><i>This unit’s resistances are increased by 10% (up to a maximum of 70%) if it has no adjacent allies.</i></span><br/>
 <br/>
@@ -303,6 +344,12 @@ Other LotI-related wiki pages:
 <br/>
 ==== frail tide (INTENSITY) &ndash; resistance ====
 <span style='color:#808080'><i>This unit's presence is so darkly ominous that all adjacent enemies struggle with a decrepifying feeling of age and weariness, reducing their resistances to pierce, blade and impact by INTENSITY%.</i></span><br/>
+<br/>
+==== lifeforce transfer &ndash; resistance ====
+<span style='color:#808080'><i>This unit's presence bestows bits of life to adjacent undead allies, giving them living-like vulnerabilities, increasing their resistances to fire, impact and arcane by 30%.</i></span><br/>
+<br/>
+==== memories of life &ndash; resistance ====
+<span style='color:#808080'><i>This unit remembers slightly how it was to be alive, and if standing near at least 2 allied non-undead units, its resistances to fire, arcane and impact are increased by 30%.</i></span><br/>
 <br/>
 ==== shield (INTENSITY) &ndash; resistance ====
 <span style='color:#808080'><i>This unit's presence is so glorious that all adjacent allies are honoured and inspired by them, increasing their resistances by INTENSITY%, up to a maximum of 60%.</i></span><br/>
@@ -313,8 +360,34 @@ Other LotI-related wiki pages:
 ==== unyielding &ndash; resistance ====
 <span style='color:#808080'><i>This unit’s resistances are doubled, up to a maximum of 70%, when defending. Vulnerabilities are not affected.</i></span><br/>
 <br/>
+==== weapon repulsion (INTENSITY) &ndash; resistance ====
+<span style='color:#808080'><i>This unit's presence causes enemy weapons to be pushed away, increasing resistances of oneself and any nearby units by INTENSITY%, up to a maximum of 80%.</i></span><br/>
+<br/>
+==== withering presence &ndash; resistance ====
+<span style='color:#808080'><i>This unit's presence drains the life essence from adjacent enemies, giving them undead-like vulnerabilities, reducing their resistances to fire, impact and arcane by 30%.</i></span><br/>
+<br/>
 ==== zeal &ndash; resistance ====
 <span style='color:#808080'><i>This unit's resistances are doubled, up to a maximum of 70%, when attacking. Vulnerabilities are not affected.</i></span><br/>
+<br/>
+=== Slow ===
+==== gossamer dispenser &ndash; slow ====
+<span style='color:#808080'><i>All adjacent allies will slow targets with melee attacks.</i></span><br/>
+<br/>
+=== Teleport ===
+==== blackwatch &ndash; teleport ====
+<span style='color:#808080'><i>While in darkness, this unit can teleport to any hex adjacent to a unit of the same side that is adjacent to an enemy, up to 3 hexes from its last location.</i></span><br/>
+<br/>
+==== combat recall &ndash; teleport ====
+<span style='color:#808080'><i>This unit may teleport to any hex up to 3 hexes from a leader of its side.</i></span><br/>
+<br/>
+==== homecoming &ndash; teleport ====
+<span style='color:#808080'><i>This unit may teleport to an Ancient Lich, Arch Necromancer, Demilich or Lich King.</i></span><br/>
+<br/>
+==== recall &ndash; teleport ====
+<span style='color:#808080'><i>This unit may teleport to a leader of its side.</i></span><br/>
+<br/>
+==== shadowalk &ndash; teleport ====
+<span style='color:#808080'><i>While in darkness, this unit can teleport to any hex adjacent to an adjacent enemy.</i></span><br/>
 <br/>
 == Weapon Specials ==
 === Other ===
@@ -348,6 +421,9 @@ Other LotI-related wiki pages:
 ==== lethargy &ndash; dummy ====
 <span style='color:#808080'><i>When hitting an enemy, the opponent's attack damage decreases by 2. The reduction of damage bonus halves each turn (rounded down).</i></span><br/>
 <br/>
+==== massive missile &ndash; dummy ====
+<span style='color:#808080'><i>If this attack is used offensively, multiple enemies behind the target are hurt as well, dealing DECAY% of previous target's damage to a subsequent target, until the damage gets below 10. The user loses 6 damage points after the attack, the damage penalty will half each turn.</i></span><br/>
+<br/>
 ==== mayhem &ndash; dummy ====
 <span style='color:#808080'><i>If this attack hits offensively, opponent's damage is lowered by 1, until he advances.</i></span><br/>
 <br/>
@@ -361,7 +437,10 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>If this attack is used offensively, the enemy behind the target is hurt as well, for 1/2 of the damage. The user loses 2 damage points after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 ==== purify &ndash; dummy ====
-<span style='color:#808080'><i>When an undead unit is killed by this attack, it becomes living again. Does not work on undead demons, black souls or other otherwordly undead-like abominations.</i></span><br/>
+<span style='color:#808080'><i>When an undead unit is killed by this attack, it becomes living again. Does not work on undead demons, black souls or other otherworldly undead-like abominations.</i></span><br/>
+<br/>
+==== reflects &ndash; dummy ====
+<span style='color:#808080'><i>Causes opponents's attacks to hit the opponent when the opponent misses.</i></span><br/>
 <br/>
 ==== storm &ndash; dummy ====
 <span style='color:#808080'><i>The damage of this attack will affect also a lot of other enemy units around the caster, and will also deal some impact damage. It is so tiring that the unit's damage decreases by 12 after the attack, the damage penalty will half each turn.</i></span><br/>
@@ -380,7 +459,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>When this attack is used, the attacker loses no movement. However, this does not give back the movement lost due to entering a unit's ZoC.</i></span><br/>
 <br/>
 ==== whirlwind &ndash; attacks ====
-<span style='color:#808080'><i>When this attack is used, all enemies adjacent the attacker take the damage and the enemy cannot retaliate. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
+<span style='color:#808080'><i>When this attack is used, all enemies adjacent to the attacker take the damage and the enemy cannot retaliate. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 === Berserk ===
 ==== lesser berserk (COUNT) &ndash; berserk ====
@@ -389,6 +468,9 @@ Other LotI-related wiki pages:
 === Chance to Hit ===
 ==== chaos &ndash; chance_to_hit ====
 <span style='color:#808080'><i>When used defensively, this attacks damages all surrounding foes for a half of the damage, and it always has a 70% chance to hit regardless of the defensive ability of the attacking unit. Whether in defence or on attack, it is so tiring that the unit's damage decreases by 2 afterwards and then halves with each turn.</i></span><br/>
+<br/>
+==== denial of cover &ndash; chance_to_hit ====
+<span style='color:#808080'><i>This attack always has a chance to hit at least 90% against units in villages.</i></span><br/>
 <br/>
 ==== focused &ndash; chance_to_hit ====
 <span style='color:#808080'><i>This attack always has at least a 80% chance to hit.</i></span><br/>
@@ -427,17 +509,23 @@ Other LotI-related wiki pages:
 ==== disintegrate &ndash; damage ====
 <span style='color:#808080'><i>Every blow with this weapon has a 2% chance to kill an enemy without any checks.</i></span><br/>
 <br/>
+==== eager &ndash; damage ====
+<span style='color:#808080'><i>This attack deals 50% more damage to poisoned enemies.</i></span><br/>
+<br/>
 ==== explosive &ndash; damage ====
 <span style='color:#808080'><i>When this attack is used, all enemies adjacent to the target take 75% of the damage, and even those behind them will take a few if the damage is sufficiently high. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 ==== explosive damage &ndash; damage ====
 <span style='color:#808080'><i>When this attack is used offensively, all units adjacent to the target take 10 damage.</i></span><br/>
 <br/>
+==== explosive detonation &ndash; damage ====
+<span style='color:#808080'><i>When used on offense, this attack causes the attacker to explode, killing it instantly.  All adjacent units will take damage of the weapon's type equal to the attacker's hitpoints.</i></span><br/>
+<br/>
 ==== explosive leech &ndash; damage ====
 <span style='color:#808080'><i>When this attack is used, all enemies next to the target take 1/4 of the damage the target was dealt and the life is added to the caster's health. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn.</i></span><br/>
 <br/>
 ==== explosive slow &ndash; damage ====
-<span style='color:#808080'><i>When this attack is used, all enemies adjacent to a target are slowed.</i></span><br/>
+<span style='color:#808080'><i>When this attack is used offensively, all enemies adjacent to a target are slowed.</i></span><br/>
 <br/>
 ==== explosive unprotected &ndash; damage ====
 <span style='color:#808080'><i>When this attack is used, all units adjacent to the target take 75% of the damage, including allies. It is so tiring that the unit's damage decreases by 8 after the attack, the damage penalty will half each turn.</i></span><br/>
@@ -469,11 +557,20 @@ Other LotI-related wiki pages:
 ==== misanthropia &ndash; damage ====
 <span style='color:#808080'><i>This attack does double damage to humans.</i></span><br/>
 <br/>
+==== misdemonia &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to demons.</i></span><br/>
+<br/>
 ==== misdraconia &ndash; damage ====
 <span style='color:#808080'><i>This attack does double damage to drakes and dragons.</i></span><br/>
 <br/>
 ==== misdryadia &ndash; damage ====
 <span style='color:#808080'><i>This attack does double damage to elves.</i></span><br/>
+<br/>
+==== misimpia &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to imps.</i></span><br/>
+<br/>
+==== misinmortuia &ndash; damage ====
+<span style='color:#808080'><i>This attack does double damage to undead.</i></span><br/>
 <br/>
 ==== misnania &ndash; damage ====
 <span style='color:#808080'><i>This attack does double damage to dwarves.</i></span><br/>
@@ -485,7 +582,7 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>Every blow with this attack has a chance to add all the victims' remaining hitpoints to the attacker's hitpoints, killing the victim. The chance depends on victim's level. Works only in offence.</i></span><br/>
 <br/>
 ==== soul annihilation &ndash; damage ====
-<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, dealing arcane damage to nearby enemies, the damage is the amount of victim's remaining health divided by the number of nearby enemies with arcane damage.</i></span><br/>
+<span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, dealing arcane damage to nearby enemies, the damage is the amount of the victim's remaining health divided by the number of nearby enemies with arcane damage.</i></span><br/>
 <br/>
 ==== soul extraction &ndash; damage ====
 <span style='color:#808080'><i>Every blow with this attack has a 1% chance to kill an enemy, summoning a Ghost in the process.</i></span><br/>
@@ -501,6 +598,13 @@ Other LotI-related wiki pages:
 <br/>
 ==== unholybane &ndash; damage ====
 <span style='color:#808080'><i>This attack does triple damage to undead (also other non-monster creations of magic).</i></span><br/>
+<br/>
+=== Disable ===
+==== needs feeding &ndash; disable ====
+<span style='color:#808080'><i>Available only if this unit was fed.</i></span><br/>
+<br/>
+==== uncounterable &ndash; disable ====
+<span style='color:#808080'><i>An enemy cannot use an attack against this one.</i></span><br/>
 <br/>
 === Plague ===
 ==== plague (LANGUAGE_TYPE) &ndash; plague ====

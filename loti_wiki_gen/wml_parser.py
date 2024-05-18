@@ -15,30 +15,33 @@
 # You should have received a copy of the GNU Lesser General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import re
 import collections
-
+import re
 
 BUG_DETECT = False
 
 
-wml_regexes = [("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\""),
-               ("key", r"([\w{}]+)\s*=\s*([^\n]+)\s*\n"),
-               ("keys", r"([\w,]+)\s*=\s*([^\n]+)\s*\n"),
-               ("open", r"\[\+?([\w{}]+)\]"),
-               ("close", r"\[/([\w{}]+)\]"),
-               ("macro_open", r"(\{[^{}]+)"),
-               ("pre", r"#(define|ifdef|else|endif|enddef|ifver) ?([^\n]*)"),
-               ("whitespace", r"(\s+)"),
-               ("comment", r"#[^\n]*"),
-               ("text", r"_?\s*\"(.*?)\"")]
+wml_regexes = [
+    ("key", r"([\w{}]+)\s*=\s*_?\s*\"([^\"]*)\""),
+    ("key", r"([\w{}]+)\s*=\s*([^\n]+)\s*\n"),
+    ("keys", r"([\w,]+)\s*=\s*([^\n]+)\s*\n"),
+    ("open", r"\[\+?([\w{}]+)\]"),
+    ("close", r"\[/([\w{}]+)\]"),
+    ("macro_open", r"(\{[^{}]+)"),
+    ("pre", r"#(define|ifdef|else|endif|enddef|ifver) ?([^\n]*)"),
+    ("whitespace", r"(\s+)"),
+    ("comment", r"#[^\n]*"),
+    ("text", r"_?\s*\"(.*?)\""),
+]
 
 levels = ["EASY", "MEDIUM", "HARD"]
 
 wml_regexes = [(n, re.compile(r, re.DOTALL)) for n, r in wml_regexes]
 
 
-WMLTag = collections.namedtuple("WMLTag", ("keys", "tags", "annotation", "macros", "filename"))
+WMLTag = collections.namedtuple(
+    "WMLTag", ("keys", "tags", "annotation", "macros", "filename")
+)
 
 
 class WMLValue:
@@ -71,7 +74,18 @@ class WMLValue:
         if BUG_DETECT:
             try:
                 direction = name in ("experience", "village_gold")
-                if any(i in filename for i in ["Uria", "Demon", "Lilith.", "Romero", "scenarios", "Beelzebub", "Ice_Dragon"]):
+                if any(
+                    i in filename
+                    for i in [
+                        "Uria",
+                        "Demon",
+                        "Lilith.",
+                        "Romero",
+                        "scenarios",
+                        "Beelzebub",
+                        "Ice_Dragon",
+                    ]
+                ):
                     direction = not direction
                 values = list(map(int, [self.EASY, self.MEDIUM, self.HARD]))
                 if direction:
@@ -79,19 +93,25 @@ class WMLValue:
                 else:
                     cond = list(reversed(values)) == sorted(values)
                 if not cond:
-                    print("BUG DETECT: Possibly inverted difficulty levels {}, {}, {} for key {} at {}:{}".format(*values, name, filename, lineno))
+                    print(
+                        "BUG DETECT: Possibly inverted difficulty levels {}, {}, {} for key {} at {}:{}".format(
+                            *values, name, filename, lineno
+                        )
+                    )
             except ValueError:
                 pass
 
 
 def tokenize(text, lineno, filename):
-    macro_transforms = [(r"\"\s*\+\s*\{([^}]*)\}\s*\+\s*_?\s*\"", "\\1"),
-                        (r"\{([^}]*)\}\s*\+\s*_?\s*\"", "\"\\1"),
-                        (r"\"\s*\+\s*\{([^}]*)\}", "\\1\""),
-                        (r"\"\s*\+\s*_?\s*\"", ""),
-                        (r"\"\s*\+\s*\$(\S+)", "\\1\""),
-                        (r"<<(.*?)>>+", "\"\1\"")
-                        ]
+    macro_transforms = [
+        (r"\"\s*\+\s*\{([^}]*)\}\s*\+\s*_?\s*\"", "\\1"),
+        (r"\{([^}]*)\}\s*\+\s*_?\s*\"", '"\\1'),
+        (r"\"\s*\+\s*\{([^}]*)\}", '\\1"'),
+        (r"\"\s*\+\s*(\d+)", '\\1"'),
+        (r"\"\s*\+\s*_?\s*\"", ""),
+        (r"\"\s*\+\s*\$(\S+)", '\\1"'),
+        (r"<<(.*?)>>+", '"\1"'),
+    ]
     for regex, sub in macro_transforms:
         regex = re.compile(regex, re.MULTILINE + re.DOTALL)
         while regex.search(text):
@@ -101,12 +121,14 @@ def tokenize(text, lineno, filename):
             m = regex.match(text)
             if m:
                 groups = m.groups()
-                text = text[m.end():]
+                text = text[m.end() :]
                 if type in ("whitespace", "comment"):
                     pass
                 elif type == "keys":
-                    yield from (("key", x, lineno)
-                                for x in zip(groups[0].split(","), groups[1].split(",")))
+                    yield from (
+                        ("key", x, lineno)
+                        for x in zip(groups[0].split(","), groups[1].split(","))
+                    )
                 elif type == "macro_open":
                     contents = groups[0]
                     count = 1
@@ -124,7 +146,9 @@ def tokenize(text, lineno, filename):
                 lineno += m.group(0).count("\n")
                 break
         else:
-            raise RuntimeError("Can't parse {} at {}:{}".format(repr(text[:100]), filename, lineno))
+            raise RuntimeError(
+                "Can't parse {} at {}:{}".format(repr(text[:100]), filename, lineno)
+            )
 
 
 def preprocess(tokens):
@@ -139,6 +163,13 @@ def preprocess(tokens):
                 nt = next(tokens)
         else:
             yield type, value, lineno
+
+
+def split(s):
+    return re.findall('(?:_?"[^"]*")|[a-zA-Z0-9_.-]+', s)
+
+
+class MacroString(str): ...
 
 
 def subparse_wml(tokens, filename, first_lineno, tag_ann="all"):
@@ -182,16 +213,21 @@ def subparse_wml(tokens, filename, first_lineno, tag_ann="all"):
             pass
         if type == "macro":
             if value[0].startswith("QUANTITY "):
-                _, name, easy, medium, hard = value[0].split()
+                vs = split(value[0])
+                if len(vs) != 5:
+                    raise ValueError(f"Cannot parse {vs}")
+                _, name, easy, medium, hard = vs
                 keys[name].EASY = easy
                 keys[name].MEDIUM = medium
                 keys[name].HARD = hard
                 keys[name].verify(name, filename, lineno)
             else:
-                macros.append(value[0])
+                mv = MacroString(value[0])
+                mv.annotation = annotation
+                macros.append(mv)
         if type == "pre":
             if value[0] == "ifdef":
-                annotation = {value[1]}
+                annotation = {value[1].strip()}
             elif value[0] == "else":
                 annotation = set(levels) - set(annotation)
             elif value[0] == "endif":
@@ -200,7 +236,7 @@ def subparse_wml(tokens, filename, first_lineno, tag_ann="all"):
                 name = value[1].split()[0]
                 subtokens = []
                 nt = next(tokens)
-                while nt[:2] != ("pre", ("enddef", "")):
+                while not (nt[0] == "pre" and nt[1][0] == "enddef"):
                     subtokens.append(nt)
                     try:
                         nt = next(tokens)
@@ -234,4 +270,6 @@ def format_parsed(tag, level=0):
 
 def parse(text, filename, lineno):
     print(" -> Parsing", filename)
-    return subparse_wml(preprocess(tokenize(text, lineno, filename)), str(filename), lineno)
+    return subparse_wml(
+        preprocess(tokenize(text, lineno, filename)), str(filename), lineno
+    )

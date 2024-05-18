@@ -18,8 +18,7 @@
 import re
 import string
 
-from . import wml_parser, utils
-
+from . import utils, wml_parser
 
 BUG_DETECT = False
 
@@ -54,14 +53,18 @@ special_notes_translation = {
     "SPECIAL_NOTES_DRAIN": " During battle, this unit can drain life from victims to renew its own health.",
     "SPECIAL_NOTES_FIRSTSTRIKE": " The length of this unit’s weapon allows it to strike first in melee, even in defense.",
     "SPECIAL_NOTES_POISON": " The victims of this unit’s poison will continually take damage until they can be cured in town or by a unit which cures.",
-    }
+}
 
 
 def special_notes_sub(str):
-    for name, note in sorted(special_notes_translation.items(), key = lambda kv: -1 * len(kv[0])):
+    for name, note in sorted(
+        special_notes_translation.items(), key=lambda kv: -1 * len(kv[0])
+    ):
         # substitute the names in reverse length order since some names may be substrings of another name
         str = str.replace(name, note)
-    return str.replace("SPECIAL_NOTES", "\nSpecial Notes:").strip().replace("\n\n", "\n")
+    return (
+        str.replace("SPECIAL_NOTES", "\nSpecial Notes:").strip().replace("\n\n", "\n")
+    )
 
 
 def extract_abilities(start):
@@ -82,13 +85,19 @@ def extract_abilities(start):
             if not tags:
                 continue
             elif len(tags) == 1:
-                tag, = tags
-                yield section, tag.keys["name"].any, tag_type, name, tag
+                (tag,) = tags
+                yield section, tag.keys["name"].any.replace("{", "").replace(
+                    "}", ""
+                ), tag_type, name, tag
             elif len(tags) == 2:
                 a, b = tags
                 a.keys["name"].all = a.keys["name"].any + " and " + b.keys["name"].any
-                a.keys["description"].all = a.keys["description"].any + " " + b.keys["description"].any
-                yield section, a.keys["name"].any, tag_type, name, a
+                a.keys["description"].all = (
+                    a.keys["description"].any + " " + b.keys["description"].any
+                )
+                yield section, a.keys["name"].any.replace("{", "").replace(
+                    "}", ""
+                ), tag_type, name, a
             else:
                 raise RuntimeError("Cannot merge 3+ tags yet, implement!")
 
@@ -115,9 +124,17 @@ def extract_unit_advancements(start):
                 amla_mode = "\nThis unit also has god AMLA advancements"
             else:
                 amla_mode = ""
-            data = re.sub("{(?:GENERIC_AMLA|SOUL_EATER_AMLA|AMLA_GOD) [^(]+\((.*)\)[^}]+}", "\\1[/unit_type]", data, 0, re.DOTALL)
+            data = re.sub(
+                "{(?:GENERIC_AMLA|SOUL_EATER_AMLA|AMLA_GOD) [^(]+\((.*)\)[^}]+}",
+                "\\1[/unit_type]",
+                data,
+                0,
+                re.DOTALL,
+            )
             stuff = wml_parser.parse(data, item, 1)
-            fmt_fname = utils.english_title(item.stem.replace("_", " ").lstrip(" " + string.digits))
+            fmt_fname = utils.english_title(
+                item.stem.replace("_", " ").lstrip(" " + string.digits)
+            )
             for unit in stuff.tags["unit_type"]:
                 if not unit.keys["name"].any:
                     name = fmt_fname
@@ -130,26 +147,36 @@ def extract_unit_advancements(start):
                 for adv in unit.tags["advancement"]:
                     if "id" not in adv.keys:
                         print(adv.keys.keys())
-                    adv.keys["description"].all = utils.english_title(adv.keys["description"].any)
+                    adv.keys["description"].all = utils.english_title(
+                        adv.keys["description"].any
+                    )
                     yield name, adv.keys["id"].any, adv, desc
                 for var in unit.tags["variation"]:
                     for adv in var.tags["advancement"]:
                         if "id" not in adv.keys:
                             print(adv.keys.keys())
-                        adv.keys["description"].all = utils.english_title(adv.keys["description"].any)
+                        adv.keys["description"].all = utils.english_title(
+                            adv.keys["description"].any
+                        )
                         yield name, adv.keys["id"].any, adv, desc
 
 
 def extract_standard_advancements(fname):
     x = wml_parser.parse(fname.open(encoding="utf-8").read(), fname, 1)
     for name, tags in x.tags.items():
-        if name.endswith("ADVANCEMENTS") or name in ["ADDITIONAL_AMLA",
-                                                     "LEGACY_DISCOVERY"]:
+        if name.endswith("ADVANCEMENTS") or name in [
+            "ADDITIONAL_AMLA",
+            "LEGACY_DISCOVERY",
+        ]:
             if name == "LEGACY_DISCOVERY":
                 name = "GENERIC_AMLA_ADVANCEMENTS"
             for adv in tags[0].tags["advancement"]:
-                adv.keys["description"].all = utils.english_title(adv.keys["description"].any)
-                yield name, utils.english_title(adv.keys["id"].any), adv
+                adv.keys["description"].all = utils.english_title(
+                    adv.keys["description"].any
+                )
+                yield name, utils.english_title(
+                    adv.keys["id"].any.removesuffix("_dummy")
+                ), adv
 
 
 def extract_scenarios(start):
@@ -157,6 +184,10 @@ def extract_scenarios(start):
         for fname in chapter.glob("*.cfg"):
             x = wml_parser.parse(fname.open(encoding="utf-8").read(), fname, 1)
             for scenario in x.tags["scenario"]:
-                yield (int(chapter.name.replace("scenarios", "")),
-                       "{} &ndash; {}".format(fname.name.split("_")[0], scenario.keys["name"].any),
-                       scenario)
+                yield (
+                    int(chapter.name.replace("scenarios", "")),
+                    "{} &ndash; {}".format(
+                        fname.name.split("_")[0], scenario.keys["name"].any
+                    ),
+                    scenario,
+                )

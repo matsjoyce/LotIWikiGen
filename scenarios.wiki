@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the scenarios currently available in the campaign "Legend of the Invincibles". 
-This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat May 18 17:26:16 2024 using version git-0a0a7e9 of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -87,6 +87,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
 <br/>
 === 07 &ndash; The Return ===
+On HARD difficulty:<br/>
 <span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 4%</span><br/>
 <span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 7%</span><br/>
 <span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
@@ -98,8 +99,29 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+On MEDIUM and EASY difficulty:<br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 2 dropping a gem is 5%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a mace dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 25%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
 <br/>
 === 08 &ndash; Where the Sun Does not Shine ===
+On HARD difficulty:<br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 3%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 5%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 33%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 17%</span><br/>
+<span style='color:#60A0FF'>Chance of a xbow dropping is 17%</span><br/>
+On MEDIUM and EASY difficulty:<br/>
 <span style='color:green'>Chance of a dying enemy on the side 3 dropping a weapon is 4%</span><br/>
 <span style='color:green'>Chance of a dying enemy on the side 3 dropping a gem is 7%</span><br/>
 <span style='color:#60A0FF'>Chance of a dagger dropping is 17%</span><br/>
@@ -759,6 +781,7 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a sword dropping is 20%</span><br/>
 <br/>
 === 03 &ndash; Pirates ===
+On HARD difficulty:<br/>
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 4%</span><br/>
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 4%</span><br/>
 <span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
@@ -769,8 +792,30 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+On MEDIUM and EASY difficulty:<br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 2%</span><br/>
+<span style='color:#B81413'>Enemy bosses do not always drop</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
 <br/>
 === 04 &ndash; Again ===
+On HARD difficulty:<br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 2%</span><br/>
+<span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 4%</span><br/>
+<span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a bow dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a dagger dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a knife dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a spear dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a staff dropping is 14%</span><br/>
+<span style='color:#60A0FF'>Chance of a sword dropping is 14%</span><br/>
+On MEDIUM and EASY difficulty:<br/>
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 3%</span><br/>
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a gem is 5%</span><br/>
 <span style='color:#60A0FF'>Chance of a axe dropping is 14%</span><br/>

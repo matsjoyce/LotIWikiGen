@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements available for categories of units currently available in the campaign "Legend of the Invincibles". See [[LotI Standard Advancements]] for unit-specific advancements.
-This was generated at Sat Aug  5 10:05:44 2023 using version git-e67581e of LotI and version 0.3.5.1 of the generation script.
+This was generated at Sat May 18 17:26:16 2024 using version git-0a0a7e9 of LotI and version 0.3.5.1 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -50,7 +50,6 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This advancement requires the advancement BoF to be achieved first</i></span><br/>
 <span style='color:green'>New attack: fireball (6 - 5, fire)</span><br/>
 <span style='color:green'>New weapon special for the fireball attack: magical</span><br/>
-<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <br/>
 === Better at Casting Fireballs (Book of Fireballs) &ndash; BoF2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -67,6 +66,12 @@ Other LotI-related wiki pages:
 <span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Cast_an_Incinerating_Fireball_(Book_of_Fireballs)_.E2.80.93_BoF1|BoF1]], [[#Better_at_Casting_Fireballs_(Book_of_Fireballs)_.E2.80.93_BoF2|BoF2]] and [[#Casting_Fireballs_that_do_More_Damage_(Book_of_Fireballs)_.E2.80.93_BoF3|BoF3]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
 <span style='color:green'>1 fewer attacks for the fireball attack</span><br/>
+<br/>
+=== Able to Cast Fireballs that Incinerate (Book of Fireballs) &ndash; BoF_incinerate ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Cast_an_Incinerating_Fireball_(Book_of_Fireballs)_.E2.80.93_BoF1|BoF1]], [[#Better_at_Casting_Fireballs_(Book_of_Fireballs)_.E2.80.93_BoF2|BoF2]] and [[#Casting_Fireballs_that_do_More_Damage_(Book_of_Fireballs)_.E2.80.93_BoF3|BoF3]] to be achieved first</i></span><br/>
+<span style='color:green'>New bonus attack: fireball (60% damage and 100% attacks of fireball)</span><br/>
+<span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <br/>
 === Able to Poison Weapons (Book of Herbal Tinctures and Malignancies) &ndash; BoHTaM1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -444,7 +449,7 @@ Other LotI-related wiki pages:
 <span style='color:green'>New attack: dark breath legacy (9 - 4, arcane)</span><br/>
 <span style='color:green'>New weapon special for the dark breath legacy attack: drain</span><br/>
 <br/>
-===  5% Better Resistance to Fire, Arcane and Cold, 5% Arcane Penetration (Dark Dragon Legacy) &ndash; DDL3 ===
+=== 5% Better Resistance to Fire, Arcane and Cold, 5% Arcane Penetration (Dark Dragon Legacy) &ndash; DDL3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy and [[#Able_to_Breathe_Darkness_9-4_(Dark_Dragon_Legacy)_.E2.80.93_DDL2|DDL2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 5%</span><br/>
@@ -454,7 +459,7 @@ Other LotI-related wiki pages:
 <br/>
 === 8% More Arcane Penetration (Dark Dragon Legacy) &ndash; DDL4 ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy and [[#_5%_Better_Resistance_to_Fire,_Arcane_and_Cold,_5%_Arcane_Penetration_(Dark_Dragon_Legacy)_.E2.80.93_DDL3|DDL3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements dark_dragon_legacy and [[#5%_Better_Resistance_to_Fire,_Arcane_and_Cold,_5%_Arcane_Penetration_(Dark_Dragon_Legacy)_.E2.80.93_DDL3|DDL3]] to be achieved first</i></span><br/>
 <span style='color:green'>Enemy resistances to arcane decreased by 8%</span><br/>
 <br/>
 === Highly Precise when Breathing Darkness (Dark Dragon Legacy) &ndash; DDL5 ===
@@ -493,7 +498,6 @@ Other LotI-related wiki pages:
 === Immune to Poison, Drain and Plague (Undead Legacy) &ndash; UL4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements undead_legacy and [[#Able_to_Leech_Enemies_in_Melee_Range;_-10%_Arcane_Resistance_(Undead_Legacy)_.E2.80.93_UL3|UL3]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Unlife (immunity to poison, plague and drain)</span><br/>
 <br/>
 === A Lich After Death (Undead Legacy) &ndash; UL5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -511,18 +515,18 @@ Other LotI-related wiki pages:
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Legacy of Kings (10)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Legacy of Kings (15)]]</span><br/>
 <br/>
-=== 15% Increased Damage For Adjacent Units, 10 % Better Resistances (Legacy of Kings) &ndash; LoK3 ===
+=== 15% Increased Damage For Adjacent Units, 10% Better Resistances (Legacy of Kings) &ndash; LoK3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings and [[#15%_Increased_Damage_For_Adjacent_Units_(Legacy_of_Kings)_.E2.80.93_LoK2|LoK2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#NAME (INTENSITY)_.E2.80.93_leadership|Legacy of Kings (15)]]</span><br/>
 <br/>
-=== 20% Increased Damage For Adjacent Units, 15 % Better Resistances (Legacy of Kings) &ndash; LoK4 ===
+=== 20% Increased Damage For Adjacent Units, 15% Better Resistances (Legacy of Kings) &ndash; LoK4 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings and [[#15%_Increased_Damage_For_Adjacent_Units,_10_%_Better_Resistances_(Legacy_of_Kings)_.E2.80.93_LoK3|LoK3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings and [[#15%_Increased_Damage_For_Adjacent_Units,_10%_Better_Resistances_(Legacy_of_Kings)_.E2.80.93_LoK3|LoK3]] to be achieved first</i></span><br/>
 <br/>
-=== 25% Increased Damage For Adjacent Units, 20 % Better Resistances (Legacy of Kings) &ndash; LoK5 ===
+=== 25% Increased Damage For Adjacent Units, 20% Better Resistances (Legacy of Kings) &ndash; LoK5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings and [[#20%_Increased_Damage_For_Adjacent_Units,_15_%_Better_Resistances_(Legacy_of_Kings)_.E2.80.93_LoK4|LoK4]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements legacy_of_kings and [[#20%_Increased_Damage_For_Adjacent_Units,_15%_Better_Resistances_(Legacy_of_Kings)_.E2.80.93_LoK4|LoK4]] to be achieved first</i></span><br/>
 <br/>
 === 5% Physical Resistances, 1 More Melee Damage (Legacy of Titans) &ndash; LoT1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -586,7 +590,7 @@ Other LotI-related wiki pages:
 === Illuminating (Legacy of Light) &ndash; LoL1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements legacy_of_light and [[#Aware_of_Legacy_Possessed_.E2.80.93_Awareness|awareness]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: illuminates</span><br/>
+<span style='color:#60A0FF'>New ability: illuminates loti</span><br/>
 <br/>
 === Lawful (Legacy of Light) &ndash; LoL-Lawful ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -596,7 +600,7 @@ Other LotI-related wiki pages:
 === Able to Illuminate Also the Day (Legacy of Light) &ndash; LoL2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements legacy_of_light and [[#Illuminating_(Legacy_of_Light)_.E2.80.93_LoL1|LoL1]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: illuminates</span><br/>
+<span style='color:#60A0FF'>Remove ability: illuminates loti</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#improved illumination_.E2.80.93_illuminates|improved illumination]]</span><br/>
 <br/>
 === Illuminating Incredibly (Legacy of Light) &ndash; LoL3 ===
