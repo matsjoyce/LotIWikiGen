@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the scenarios currently available in the campaign "Legend of the Invincibles". 
-This was generated at Sat May 18 17:26:16 2024 using version git-0a0a7e9 of LotI and version 0.3.5.1 of the generation script.
+This was generated at Tue Oct 27 17:29:27 2026 using version git-eec6b77 of LotI and version 0.3.5.2 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -267,7 +267,7 @@ On MEDIUM and EASY difficulty:<br/>
 <span style='color:#60A0FF'>Chance of a staff dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 23%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
-<span style='color:#B81413'>Beelzebub will spawn at 13, 43 and will release 1 fly per turn</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 13, 25 and will release 1 fly per turn</span><br/>
 <br/>
 === 03s &ndash; In the Magical Mirror ===
 <span style='color:#808080'><i>No drop information found</i></span><br/>
@@ -1568,6 +1568,7 @@ On MEDIUM and EASY difficulty:<br/>
 <span style='color:#60A0FF'>Chance of a staff dropping is 8%</span><br/>
 <span style='color:#60A0FF'>Chance of a sword dropping is 15%</span><br/>
 <span style='color:#60A0FF'>Chance of a xbow dropping is 8%</span><br/>
+<span style='color:#B81413'>Beelzebub will spawn at 27, 15 and will release 11 flies per turn</span><br/>
 <br/>
 === 05 &ndash; Stygian Caverns ===
 <span style='color:green'>Chance of a dying enemy on the sides 2, 3 and 4 dropping a weapon is 7%</span><br/>

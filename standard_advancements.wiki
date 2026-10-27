@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements available for categories of units currently available in the campaign "Legend of the Invincibles". See [[LotI Standard Advancements]] for unit-specific advancements.
-This was generated at Sat May 18 17:26:16 2024 using version git-0a0a7e9 of LotI and version 0.3.5.1 of the generation script.
+This was generated at Tue Oct 27 17:29:27 2026 using version git-eec6b77 of LotI and version 0.3.5.2 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -745,7 +745,7 @@ Other LotI-related wiki pages:
 === Regaining Half of the Max MP After Attacking (Legacy of the Free) &ndash; LotF5 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Faster,_1_More_Ranged_Damage_(Legacy_of_the_Free)_.E2.80.93_LotF4|LotF4]] to be achieved first</i></span><br/>
-<span style='color:green'>New weapon special: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#hit and run_.E2.80.93_dummy|hit and run]]</span><br/>
 <br/>
 
 == Soul Eater and God Advancements ==

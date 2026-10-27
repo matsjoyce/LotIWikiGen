@@ -1,5 +1,5 @@
 This is an auto-generated wiki page listing all the advancements that are unit specific currently available in the campaign "Legend of the Invincibles". See [[LotI Standard Advancements]] for general advancements such as legacies and books.
-This was generated at Sat May 18 17:26:16 2024 using version git-0a0a7e9 of LotI and version 0.3.5.1 of the generation script.
+This was generated at Tue Oct 27 17:29:27 2026 using version git-eec6b77 of LotI and version 0.3.5.2 of the generation script.
 As this is auto-generated, DO NOT EDIT THIS PAGE.
 Instead, create a new issue at [https://github.com/matsjoyce/LotIWikiGen/issues/new the tracker] and the script will be adjusted.
 
@@ -191,6 +191,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Ancient Lich ==
@@ -253,7 +254,7 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancement lifeforce transfer to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#withering presence_.E2.80.93_resistance|withering presence]]</span><br/>
 <br/>
-=== More Resistant to Arcane, Fire and Impact is Standing Next to at Least 2 Allied Non-Undead &ndash; memories of life ===
+=== More Resistant to Arcane, Fire and Impact if Standing Next to at Least 2 Allied Non-Undead &ndash; memories of life ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement lifeforce transfer to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#memories of life_.E2.80.93_resistance|memories of life]]</span><br/>
@@ -270,6 +271,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Arch Necromancer ==
@@ -336,8 +338,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#death blending_.E2.80.93_resistance|death blending]]</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Blackguard ==
@@ -380,8 +383,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#blackwatch_.E2.80.93_teleport|blackwatch]]</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Celestial Messenger ==
@@ -431,43 +435,44 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (14)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (16)]]</span><br/>
 <br/>
-=== Able to Make Enemies Feel Their Guilt (-10% to Non-Physical Resistances) &ndash; conviction ===
+=== Able to Make Enemies Feel Their Guilt (-8% to Non-Physical Resistances) &ndash; conviction ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Faster_with_Mace_.E2.80.93_mace|mace]] and [[#Able_to_Heal_Allies_Better_.E2.80.93_heal3|heal3]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (10)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (8)]]</span><br/>
 <br/>
-=== Making Enemies Feel Their Guilt Stronger (-15% to Non-Physical Resistances) &ndash; conviction2 ===
+=== Making Enemies Feel Their Guilt Stronger (-12% to Non-Physical Resistances) &ndash; conviction2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Make_Enemies_Feel_Their_Guilt_(-10%_to_Non-Physical_Resistances)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (10)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (15)]]</span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Make_Enemies_Feel_Their_Guilt_(-8%_to_Non-Physical_Resistances)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (8)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (12)]]</span><br/>
 <br/>
-=== Making Enemies Feel Their Guilt Stronger  (-20% to Non-Physical Resistances) &ndash; conviction3 ===
+=== Making Enemies Feel Their Guilt Stronger (-16% to Non-Physical Resistances) &ndash; conviction3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Making_Enemies_Feel_Their_Guilt_Stronger_(-15%_to_Non-Physical_Resistances)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (15)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (20)]]</span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Making_Enemies_Feel_Their_Guilt_Stronger_(-12%_to_Non-Physical_Resistances)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (12)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (16)]]</span><br/>
 <br/>
 === Making Enemies' Sins Burn Them from Inside (-16 Enemy Heal) &ndash; guilt ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Making_Enemies_Feel_Their_Guilt_Stronger_(-15%_to_Non-Physical_Resistances)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Making_Enemies_Feel_Their_Guilt_Stronger_(-12%_to_Non-Physical_Resistances)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#burns foes (POWER)_.E2.80.93_periodic_damage_aura|burns foes (16)]]</span><br/>
 <br/>
 === Able to Illuminate Even the Day &ndash; aura_illuminate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Heal_Allies_Better_.E2.80.93_heal|heal]] and [[#Able_to_Make_Enemies_Feel_Their_Guilt_(-10%_to_Non-Physical_Resistances)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Heal_Allies_Better_.E2.80.93_heal|heal]] and [[#Able_to_Make_Enemies_Feel_Their_Guilt_(-8%_to_Non-Physical_Resistances)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: illuminates loti</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#improved illumination_.E2.80.93_illuminates|improved illumination]]</span><br/>
 <br/>
 === Illuminating Everything Around Better &ndash; aura_illuminate2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Illuminate_Even_the_Day_.E2.80.93_aura_illuminate|aura_illuminate]], [[#Able_to_Heal_Allies_Better_.E2.80.93_heal2|heal2]] and [[#Making_Enemies_Feel_Their_Guilt_Stronger_(-15%_to_Non-Physical_Resistances)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Illuminate_Even_the_Day_.E2.80.93_aura_illuminate|aura_illuminate]], [[#Able_to_Heal_Allies_Better_.E2.80.93_heal2|heal2]] and [[#Making_Enemies_Feel_Their_Guilt_Stronger_(-12%_to_Non-Physical_Resistances)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#improved illumination_.E2.80.93_illuminates|improved illumination]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#great illumination_.E2.80.93_illuminates|great illumination]]</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Champion ==
@@ -490,11 +495,12 @@ This unit also has generic AMLA advancements</i></span>
 === Faster with Sword &ndash; sword3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Faster_at_Melee_Combat_.E2.80.93_sword|sword]] and [[#Better_with_Sword_.E2.80.93_sword2|sword2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
 === Better with Sword &ndash; sword4 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_at_Melee_Combat_.E2.80.93_sword|sword]], [[#Better_with_Sword_.E2.80.93_sword2|sword2]] and [[#Faster_with_Sword_.E2.80.93_sword3|sword3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Faster_at_Melee_Combat_.E2.80.93_sword|sword]] and [[#Better_with_Sword_.E2.80.93_sword2|sword2]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the saber attack</span><br/>
 <br/>
 === Faster with Crossbow &ndash; crossbow ===
@@ -502,21 +508,21 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:green'>Damage decreased by 9 for the crossbow attack</span><br/>
 <span style='color:green'>1 more attacks for the crossbow attack</span><br/>
 <br/>
-=== Better at Defending (Lowering the Chance to be Hit by 3%) &ndash; block ===
+=== Better at Defending (Lowering the Chance to be Hit by 2%) &ndash; block ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#60A0FF'>Chance to get hit in forests reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit in caves reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit in mushroom groves reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit in villages reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit in castles reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit in shallow waters reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit on coastal reefs reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit in swamps reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit on hills reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit on mountains reduced by 3%</span><br/>
-<span style='color:#60A0FF'>Chance to get hit on sands reduced by 3%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in caves reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in mushroom groves reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in villages reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in castles reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in shallow waters reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on coastal reefs reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit in swamps reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on hills reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on mountains reduced by 2%</span><br/>
+<span style='color:#60A0FF'>Chance to get hit on sands reduced by 2%</span><br/>
 <br/>
 === Better Protected from Physical Blows (3% Better Resistances) &ndash; armour ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -524,21 +530,21 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to impact increased by 3%</span><br/>
 <span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
 <br/>
-=== 10% Better Resistances when Defending &ndash; careful ===
+=== 5% Better Resistances when Defending &ndash; careful ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (5)]]</span><br/>
+<br/>
+=== 10% Better Resistances when Defending &ndash; careful2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#5%_Better_Resistances_when_Defending_.E2.80.93_careful|careful]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (5)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (10)]]</span><br/>
 <br/>
-=== 20% Better Resistances when Defending &ndash; careful2 ===
+=== 15% Better Resistances when Defending &ndash; careful3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#10%_Better_Resistances_when_Defending_.E2.80.93_careful|careful]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#10%_Better_Resistances_when_Defending_.E2.80.93_careful2|careful2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (10)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (20)]]</span><br/>
-<br/>
-=== 25% Better Resistances when Defending &ndash; careful3 ===
-<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#20%_Better_Resistances_when_Defending_.E2.80.93_careful2|careful2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (20)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (25)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#careful_.E2.80.93_resistance|careful (15)]]</span><br/>
 <br/>
 === Better with Crossbow &ndash; crossbow2 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -548,6 +554,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Champion Bowman ==
@@ -575,14 +582,14 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:green'>New weapon special for the bow attack: [[LotI_Abilities#focused_.E2.80.93_chance_to_hit|focused]]</span><br/>
 <span style='color:green'>Remove weapon special for the bow attack: marksman</span><br/>
 <br/>
-=== Able to Shoot a Storm on Arrows Without Giving the Enemy a Chance to Counterattack (New Attack) &ndash; arrowstorm ===
+=== Able to Shoot a Storm of Arrows Without Giving the Enemy a Chance to Counterattack (New Attack) &ndash; arrowstorm ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>New bonus attack: arrow storm (100% damage and 80% attacks of the base attack, ranged)</span><br/>
 <span style='color:green'>New weapon special for the arrow storm attack: [[LotI_Abilities#distant attack_.E2.80.93_attacks|distant attack]]</span><br/>
 <br/>
 === Shooting Arrow Storms Better &ndash; arrowstorm2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Shoot_a_Storm_on_Arrows_Without_Giving_the_Enemy_a_Chance_to_Counterattack_(New_Attack)_.E2.80.93_arrowstorm|arrowstorm]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Shoot_a_Storm_of_Arrows_Without_Giving_the_Enemy_a_Chance_to_Counterattack_(New_Attack)_.E2.80.93_arrowstorm|arrowstorm]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 10% for the arrow storm attack</span><br/>
 <span style='color:green'>5% more attacks for the arrow storm attack</span><br/>
 <br/>
@@ -621,6 +628,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Chaos Rider ==
@@ -770,6 +778,10 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#shadowstalk (radius RADIUS)_.E2.80.93_hides|shadowstalk (2)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#shadowstalk (radius RADIUS)_.E2.80.93_hides|shadowstalk (3)]]</span><br/>
 <br/>
+=== More Resilient After Being Hidden or After Killing &ndash; shadowstalk3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#shade armour_.E2.80.93_resistance|shade armour]]</span><br/>
+<br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
@@ -855,8 +867,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to arcane increased by 4%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Demigod (Efraim God) ==
@@ -885,7 +898,7 @@ This unit also has god AMLA advancements</i></span>
 <br/>
 === More Precise with Sword &ndash; sword2_marksman ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Sword_.E2.80.93_sword1|sword1]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Sword_.E2.80.93_sword6|sword6]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the sword attack: marksman</span><br/>
 <br/>
 === Better with Sword &ndash; sword3 ===
@@ -922,31 +935,31 @@ This unit also has god AMLA advancements</i></span>
 <br/>
 === Able to Attack Twice in a Row &ndash; berserk1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Sword_.E2.80.93_sword1|sword1]], [[#Better_with_Sword_.E2.80.93_sword2_2|sword2]], [[#Better_with_Sword_.E2.80.93_sword3|sword3]] and [[#More_Precise_with_Sword_.E2.80.93_sword2_marksman|sword2_marksman]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Sword_.E2.80.93_sword2_2|sword2]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: mberserk2 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: swarm</span><br/>
-<span style='color:green'>New weapon special for the mberserk2 attack: marksman</span><br/>
+<span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#furious_.E2.80.93_damage|furious]]</span><br/>
 <br/>
 === Able to Attack Thrice in a Row &ndash; berserk2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1|berserk1]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1|berserk1]] and [[#Better_with_Sword_.E2.80.93_sword3|sword3]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: mberserk3 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: swarm</span><br/>
-<span style='color:green'>New weapon special for the mberserk3 attack: marksman</span><br/>
+<span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#furious_.E2.80.93_damage|furious]]</span><br/>
 <br/>
 === Able to Attack Five Times in a Row &ndash; berserk3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2|berserk2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2|berserk2]] and [[#Better_with_Sword_.E2.80.93_sword5|sword5]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: mberserk5 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: swarm</span><br/>
-<span style='color:green'>New weapon special for the mberserk5 attack: marksman</span><br/>
+<span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#furious_.E2.80.93_damage|furious]]</span><br/>
 <br/>
 === Doing More Damage with the Furious Attack &ndash; berserk1_damage ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1|berserk1]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1|berserk1]], [[#Better_with_Sword_.E2.80.93_sword6|sword6]], [[#Better_with_Sword_.E2.80.93_sword6|sword6]] and [[#Better_with_Sword_.E2.80.93_sword6|sword6]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 10% for the mberserk2 attack</span><br/>
 <span style='color:green'>Damage increased by 10% for the mberserk3 attack</span><br/>
 <span style='color:green'>Damage increased by 10% for the mberserk5 attack</span><br/>
@@ -1104,6 +1117,7 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Faster_.E2.80.93_movement_12|movement]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Able to Muster Enough Mental Powers to Levitate Through Hard Terrains &ndash; movement3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -1124,6 +1138,7 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:#60A0FF'>Movement costs across sands set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs above unwalkable places set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs through impassable walls set to {UNREACHABLE}</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Harder to be Hit &ndash; dodge ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -1155,7 +1170,7 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to arcane increased by 2%</span><br/>
 <br/>
 
-== Demigod (Lethalia God) ==
+== Demigoddess (Lethalia God) ==
 <span style='color:#808080'><i>Half-gods are things so rare, that nobody ever cared to describe their full powers. Telling everything a half-god can do would be too lengthy. But a matter to consider is that they have developed compassion out of a desire to save their wretched enemies from sins, pain, suffering and misery, they are able to redeem tormented souls. Even if this 'redeem attack' can be used only once every three turns.<br/>
 Gameplay notes:<br/>
 It is imperative to use the redeem attack from time to time. After redeeming a certain amount of enemies, redeem becomes more effective (possibly also a good offensive weapon) and the unit gains a new advancement line of choice. Some of them add new spells, others add new abilities. Spells gained have huge ranges, incomparable to other spells, and converge into Particle storm, an attack hitting many enemies and dealing severe arcane damage. Physical abilities converge into Spiritual Transformation, that is an attack that makes the unit attack a single target with huge damage and taking only 33% of the damage.<br/>
@@ -1451,6 +1466,7 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on hills reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 1%</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === More Nimble (+1 Movement, 1% Better Defences on All Terrains) &ndash; wings2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -1470,6 +1486,7 @@ This unit also has god AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on hills reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 1%</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === More Nimble (2% Better Defences on All Terrains) &ndash; wings3 ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
@@ -1563,6 +1580,11 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#A_Better_Caster_of_Shadow_Waves_.E2.80.93_magic-shadow2_3|magic-shadow2]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the shadow wave attack: [[LotI_Abilities#leeches_.E2.80.93_damage|leech]]</span><br/>
+<br/>
+=== Able to Take Enemy Life to Heal Allies &ndash; soul_conduit ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#lifeforce conduit_.E2.80.93_dummy|lifeforce conduit]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#soul conduit_.E2.80.93_dummy|soul conduit]]</span><br/>
 <br/>
 === More Spirit-Like Resistance (Improved Resistances, Slightly Worsened Arcane Resistance) &ndash; armour ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
@@ -1679,8 +1701,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to pierce increased by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Divine Emissary (Stormrider) ==
@@ -1862,6 +1885,7 @@ This unit also has generic AMLA advancements</i></span>
 === Able to Move Faster &ndash; movement1 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Doppelgänger (Efraim Doppelganger) ==
@@ -1922,8 +1946,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to pierce increased by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Doppelgänger (Lethalia Doppelganger) ==
@@ -1984,8 +2009,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to pierce increased by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Dragon Rider ==
@@ -2078,6 +2104,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Duelist Wizard ==
@@ -2118,13 +2145,13 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the staff attack</span><br/>
 <br/>
-=== Able to Return 2 Pierce Damage to Every Attacker &ndash; retribution ===
+=== Able to Return 4 Pierce Damage to Every Attacker &ndash; retribution ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#thorns_.E2.80.93_dummy|thorns]]</span><br/>
 <br/>
 === Able to Return a Part of Damage to the Attacker &ndash; retribution2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Return_2_Pierce_Damage_to_Every_Attacker_.E2.80.93_retribution|retribution]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Return_4_Pierce_Damage_to_Every_Attacker_.E2.80.93_retribution|retribution]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#retribution_.E2.80.93_dummy|retribution]]</span><br/>
 <br/>
 === Able to Heal from Enemies' Attacks &ndash; absorb1 ===
@@ -2149,8 +2176,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (15)]]</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Duke ==
@@ -2213,8 +2241,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (12)]]</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Dwarvish Battlerager ==
@@ -2262,8 +2291,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#reflect_.E2.80.93_dummy|reflect]]</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Dwarvish Hero ==
@@ -2361,6 +2391,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Dwarvish Protector ==
@@ -2427,6 +2458,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Dwarvish Technocrat ==
@@ -2607,8 +2639,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:green'>Damage increased by 1 for the staff attack</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Assassin ==
@@ -2617,20 +2650,20 @@ This unit also has generic AMLA advancements</i></span>
 
 === Faster at Melee &ndash; melee ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
 === Better at Melee &ndash; melee2 ===
-<span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_at_Melee_.E2.80.93_melee_2|melee]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
 <br/>
 === Faster with the Bow &ndash; bow ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the longbow attack</span><br/>
 <span style='color:green'>1 more attacks for the longbow attack</span><br/>
 <br/>
 === Better with Bow &ndash; bow2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Faster_with_the_Bow_.E2.80.93_bow|bow]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the longbow attack</span><br/>
 <br/>
 === Shooting Insanely Precisely &ndash; bow-precise ===
@@ -2643,6 +2676,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster with the Bow &ndash; bow3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Faster_with_the_Bow_.E2.80.93_bow|bow]] and [[#Better_with_Bow_.E2.80.93_bow2|bow2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the longbow attack</span><br/>
 <span style='color:green'>1 more attacks for the longbow attack</span><br/>
 <br/>
 === Better with the Bow &ndash; bow4 ===
@@ -2652,12 +2686,12 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Able to Shoot a Storm of Arrows Without Giving the Enemy a Chance to Counterattack (New Attack) &ndash; arrowstorm ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>New bonus attack: arrow storm (80% damage and 60% attacks of longbow, ranged)</span><br/>
+<span style='color:green'>New bonus attack: arrow storm (70% damage and 60% attacks of longbow, ranged)</span><br/>
 <span style='color:green'>New weapon special for the arrow storm attack: [[LotI_Abilities#distant attack_.E2.80.93_attacks|distant attack]]</span><br/>
 <br/>
 === Shooting Arrow Storms Better &ndash; arrowstorm2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Shoot_a_Storm_of_Arrows_Without_Giving_the_Enemy_a_Chance_to_Counterattack_(New_Attack)_.E2.80.93_arrowstorm|arrowstorm]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Shoot_a_Storm_of_Arrows_Without_Giving_the_Enemy_a_Chance_to_Counterattack_(New_Attack)_.E2.80.93_arrowstorm_2|arrowstorm]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 10% for the arrow storm attack</span><br/>
 <span style='color:green'>5% more attacks for the arrow storm attack</span><br/>
 <br/>
@@ -2683,8 +2717,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Gryphon Rider ==
@@ -2709,6 +2744,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Faster with the Bow &ndash; bow ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the longbow attack</span><br/>
 <span style='color:green'>1 more attacks for the longbow attack</span><br/>
 <br/>
 === Better with Bow &ndash; bow2 ===
@@ -2761,6 +2797,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Juggernaut ==
@@ -2774,12 +2811,12 @@ This unit also has generic AMLA advancements</i></span>
 === Striking Faster with Sword &ndash; sword2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Striking_Better_with_Sword_.E2.80.93_sword_3|sword]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage decreased by 1 for the sword attack</span><br/>
+<span style='color:green'>Damage decreased by 2 for the sword attack</span><br/>
 <span style='color:green'>1 more attacks for the sword attack</span><br/>
 <br/>
 === Striking Better with Sword &ndash; sword3 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Striking_Faster_with_Sword_.E2.80.93_sword2_3|sword2]] and [[#Striking_Better_with_Sword_.E2.80.93_sword_3|sword]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Striking_Better_with_Sword_.E2.80.93_sword_3|sword]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the sword attack</span><br/>
 <br/>
 === Faster with the Bow &ndash; bow ===
@@ -2817,7 +2854,7 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_in_a_Terribly_Scary_Way_(New_Attack)_.E2.80.93_horrid|horrid]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 15% for the grim strike attack</span><br/>
 <br/>
-=== Able to Maim Enemies, Lowering Their Damage Until They Advance (New Attack) &ndash; mayhem ===
+=== Able to Maim Enemies, Lowering Their Damage Temporarily (New Attack) &ndash; mayhem ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Striking_Better_with_Sword_.E2.80.93_sword_3|sword]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: mayhem (80% damage and 60% attacks of the base attack, melee)</span><br/>
@@ -2825,9 +2862,25 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Striking Better when Maiming Enemies &ndash; mayhem2 ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Maim_Enemies,_Lowering_Their_Damage_Until_They_Advance_(New_Attack)_.E2.80.93_mayhem|mayhem]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Maim_Enemies,_Lowering_Their_Damage_Temporarily_(New_Attack)_.E2.80.93_mayhem|mayhem]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 10% for the mayhem attack</span><br/>
 <span style='color:green'>5% more attacks for the mayhem attack</span><br/>
+<br/>
+=== Dealing 12 Damage to All Adjacent Enemies &ndash; spinning-swords ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#spinning swords (POWER)_.E2.80.93_periodic_damage_aura|spinning swords (12)]]</span><br/>
+<br/>
+=== Dealing 24 Damage to All Adjacent Enemies &ndash; spinning-swords2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Dealing_12_Damage_to_All_Adjacent_Enemies_.E2.80.93_spinning-swords|spinning-swords]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#spinning swords (POWER)_.E2.80.93_periodic_damage_aura|spinning swords (12)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#spinning swords (POWER)_.E2.80.93_periodic_damage_aura|spinning swords (24)]]</span><br/>
+<br/>
+=== Dealing 32 Damage to All Adjacent Enemies &ndash; spinning-swords3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Dealing_24_Damage_to_All_Adjacent_Enemies_.E2.80.93_spinning-swords2|spinning-swords2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#spinning swords (POWER)_.E2.80.93_periodic_damage_aura|spinning swords (24)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#spinning swords (POWER)_.E2.80.93_periodic_damage_aura|spinning swords (32)]]</span><br/>
 <br/>
 === Regenerating 6 Hitpoints per Turn &ndash; regeneration1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -2871,6 +2924,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Nightprowler ==
@@ -2884,6 +2938,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster with Bow &ndash; bow2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_the_Bow_.E2.80.93_bow|bow]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 (ranged attacks only)</span><br/>
 <span style='color:green'>1 more attacks (ranged attacks only)</span><br/>
 <br/>
 === Shooting Very Precisely &ndash; bow-precise ===
@@ -2894,6 +2949,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster with the Bow &ndash; bow3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_the_Bow_.E2.80.93_bow|bow]] and [[#Faster_with_Bow_.E2.80.93_bow2|bow2]] to be achieved first</i></span><br/>
+<span style='color:green'>Damage decreased by 1 (ranged attacks only)</span><br/>
 <span style='color:green'>1 more attacks (ranged attacks only)</span><br/>
 <br/>
 === Better with the Bow &ndash; bow4 ===
@@ -2903,6 +2959,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Faster at Melee Combat &ndash; sword ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage decreased by 1 (melee attacks only)</span><br/>
 <span style='color:green'>1 more attacks (melee attacks only)</span><br/>
 <br/>
 === Better at Melee Combat &ndash; sword2 ===
@@ -2929,7 +2986,7 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Faster_with_Bow_.E2.80.93_bow2|bow2]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: bow_berserk (70% damage and 60% attacks of bow, ranged)</span><br/>
-<span style='color:green'>New weapon special for the bow_berserk attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
+<span style='color:green'>New weapon special for the bow_berserk attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
 <br/>
 === Shooting Faster when in Shooting Frenzy &ndash; berserk2 ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
@@ -2959,8 +3016,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Overlord ==
@@ -3064,6 +3122,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Seer ==
@@ -3141,8 +3200,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Sprite ==
@@ -3196,6 +3256,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Sylph ==
@@ -3249,6 +3310,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Elvish Warlord ==
@@ -3347,6 +3409,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Exterminator ==
@@ -3448,7 +3511,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending (Lowering the Chance to be Hit by 2%) &ndash; block2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_2|block]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block|block]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 2%</span><br/>
@@ -3465,7 +3528,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending (Lowering the Chance to be Hit by 1%) &ndash; block3 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_2|block]] and [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_2%)_.E2.80.93_block2|block2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block|block]] and [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_2%)_.E2.80.93_block2|block2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 1%</span><br/>
@@ -3500,16 +3563,20 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Ensnaring Faster &ndash; ensnare ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the ensnare attack</span><br/>
 <span style='color:green'>1 more attacks for the ensnare attack</span><br/>
 <br/>
 === Ensnaring Better &ndash; ensnare2 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Ensnaring_Faster_.E2.80.93_ensnare|ensnare]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the ensnare attack</span><br/>
 <br/>
 === Piercing with Thorns Better &ndash; thorns ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>Damage increased by 2 for the thorns attack</span><br/>
+<span style='color:green'>Damage increased by 1 for the thorns attack</span><br/>
+<br/>
+=== Poisoning Enemies with Thorns &ndash; thorns_poison ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>New weapon special for the thorns attack: poison</span><br/>
 <br/>
 === Piercing with Thorns Faster &ndash; thorns2 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
@@ -3542,32 +3609,33 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Heal_Allies_Better_.E2.80.93_heal_3|heal]] and [[#Able_to_Heal_Allies_Better_.E2.80.93_heal2_4|heal2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (28)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (34)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (32)]]</span><br/>
 <br/>
-=== Decreasing Non-Physical Resistances of Adjacent Enemies (-20%) &ndash; conviction ===
+=== Decreasing Non-Physical Resistances of Adjacent Enemies (-12%) &ndash; conviction ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (12)]]</span><br/>
+<br/>
+=== Decreasing Non-Physical Resistances of Adjacent Enemies (-16%) &ndash; conviction2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Non-Physical_Resistances_of_Adjacent_Enemies_(-12%)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (12)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (16)]]</span><br/>
+<br/>
+=== Decreasing Non-Physical Resistances of Adjacent Enemies (-20%) &ndash; conviction3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Non-Physical_Resistances_of_Adjacent_Enemies_(-16%)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (16)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (20)]]</span><br/>
-<br/>
-=== Decreasing Non-Physical Resistances of Adjacent Enemies (-30%) &ndash; conviction2 ===
-<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Non-Physical_Resistances_of_Adjacent_Enemies_(-20%)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (20)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (30)]]</span><br/>
-<br/>
-=== Decreasing Non-Physical Resistances of Adjacent Enemies (-40%) &ndash; conviction3 ===
-<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Non-Physical_Resistances_of_Adjacent_Enemies_(-30%)_.E2.80.93_conviction2|conviction2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (30)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#conviction (INTENSITY)_.E2.80.93_resistance|conviction (40)]]</span><br/>
 <br/>
 === Able to Poison All Adjacent Enemy Units &ndash; vine_toxic ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Non-Physical_Resistances_of_Adjacent_Enemies_(-20%)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Non-Physical_Resistances_of_Adjacent_Enemies_(-12%)_.E2.80.93_conviction|conviction]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#dark aura_.E2.80.93_dummy|dark aura]]</span><br/>
 <br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Fencer ==
@@ -3929,6 +3997,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Goblin Warbanner (Goblin Warbaner) ==
@@ -3999,6 +4068,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Grim Knight ==
@@ -4183,17 +4253,17 @@ This unit also has generic AMLA advancements</i></span>
 === Casting Random Fire Spells on Enemies when Attacking Them with an Axe &ndash; firecast ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Fireball_.E2.80.93_fireball_5|fireball]] and [[#Faster_at_Melee_Combat_.E2.80.93_axe3_2|axe3]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage decreased by 2</span><br/>
+<span style='color:green'>Damage decreased by 3</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#firecast_.E2.80.93_dummy|firecast]]</span><br/>
 <br/>
 === Better at Melee Combat &ndash; axe ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
 <br/>
 === Better at Melee Combat &ndash; axe2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Melee_Combat_.E2.80.93_axe_2|axe]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage increased by 1 (melee attacks only)</span><br/>
+<span style='color:green'>Damage increased by 2 (melee attacks only)</span><br/>
 <br/>
 === Faster at Melee Combat &ndash; axe3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -4208,12 +4278,12 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better with Fireball &ndash; fireball ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>Damage increased by 1 for the fireball attack</span><br/>
+<span style='color:green'>Damage increased by 2 for the fireball attack</span><br/>
 <br/>
 === Faster with Fireball &ndash; fireball2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Fireball_.E2.80.93_fireball_5|fireball]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage decreased by 2 for the fireball attack</span><br/>
+<span style='color:green'>Damage decreased by 1 for the fireball attack</span><br/>
 <span style='color:green'>1 more attacks for the fireball attack</span><br/>
 <br/>
 === Better with Fireball &ndash; fireball3 ===
@@ -4225,7 +4295,6 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Fireball_.E2.80.93_fireball3_4|fireball3]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the fireball attack: [[LotI_Abilities#explosive_.E2.80.93_damage|explosive]]</span><br/>
-<span style='color:green'>1 fewer attacks for the fireball attack</span><br/>
 <br/>
 === A Greater Leader in Battle (Like a Level 5 Unit) &ndash; leadership ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -4236,9 +4305,19 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by 10%</span><br/>
 <br/>
+=== Decreasing Fire Resistance of Opponents by 10% &ndash; fire_penetrate ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 10%</span><br/>
+<br/>
+=== Decreasing Fire Resistance of Opponents by 5% More &ndash; fire_penetrate2 ===
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Decreasing_Fire_Resistance_of_Opponents_by_10%_.E2.80.93_fire_penetrate|fire_penetrate]] to be achieved first</i></span><br/>
+<span style='color:green'>Enemy resistances to fire decreased by 5%</span><br/>
+<br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Lesser Demigod (Krux Later) ==
@@ -4495,6 +4574,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Lesser Demigod (Krux) ==
@@ -4739,6 +4819,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Lich King ==
@@ -4804,13 +4885,30 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#leadership_.E2.80.93_leadership|leadership loti]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#leadership (as level LEVEL unit)_.E2.80.93_leadership|leadership (as level 5 unit)]]</span><br/>
 <br/>
+=== A Leader of Vampires (Adjacent Units Get 15% Melee Drain) &ndash; drain_leadership_1 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#aura of hunger_.E2.80.93_drains|lesser drain leadership]]</span><br/>
+<br/>
+=== A Leader of Vampires (Adjacent Units Get 25% Melee Drain) &ndash; drain_leadership_2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#A_Leader_of_Vampires_(Adjacent_Units_Get_15%_Melee_Drain)_.E2.80.93_drain_leadership_1|drain_leadership_1]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#aura of hunger_.E2.80.93_drains|lesser drain leadership]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#aura of craving_.E2.80.93_drains|aura of hunger]]</span><br/>
+<br/>
+=== A Leader of Vampires (Adjacent Units Get 35% Drain) &ndash; drain_leadership_3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#A_Leader_of_Vampires_(Adjacent_Units_Get_25%_Melee_Drain)_.E2.80.93_drain_leadership_2|drain_leadership_2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#aura of craving_.E2.80.93_drains|aura of hunger]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#ravenous aura_.E2.80.93_drains|greater drain leadership]]</span><br/>
+<br/>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Lord of the Flies (Beelzebub) ==
-<span style='color:#808080'><i>Ancient nobles of demonkind are among the scariest visitors from Inferno. Their vast power and number of followers allow them to destroy armies, bringing death and destruction whenever they come. Fortunately for mankind, they live in Inferno and rarely get out of there. However, some of them have made spells to summon them are known and sometimes come into the hands of the foolish...</i></span>
+<span style='color:#808080'><i>Ancient nobles of demonkind are among the scariest visitors from Inferno. Their vast power and number of followers allow them to destroy armies, bringing death and destruction whenever they come. Fortunately for mankind, they live in Inferno and rarely get out of there. Nonetheless, the peril remains, as spells capable of summoning these formidable nobles exist, occasionally falling into the hands of the reckless or unwise...</i></span>
 
 ===  &ndash; amla_demon_lord ===
 <span style='color:#808080'><i>This advancement can be taken 100 times</i></span><br/>
@@ -4868,6 +4966,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Monstrosity ==
@@ -4908,7 +5007,7 @@ This unit also has generic AMLA advancements</i></span>
 === Wailing Faster &ndash; wail-speed ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Consume_Adjacent_Walking_Corpses_to_Unlock_a_Devastating_Wail_Attack_For_a_Turn_.E2.80.93_wail|wail]] and [[#Wailing_Even_More_Terribly_.E2.80.93_wail-damage|wail-damage]] to be achieved first</i></span><br/>
-<span style='color:green'>1 more attacks (wail attacks only)</span><br/>
+<span style='color:green'>1 more attacks for the wail attack</span><br/>
 <br/>
 === Spreading a Stronger Feeling of Dread &ndash; haunt ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -4947,6 +5046,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Orcish Nightblade ==
@@ -5049,7 +5149,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending &ndash; block2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_3|block]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_2|block]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 2%</span><br/>
@@ -5066,7 +5166,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending &ndash; block3 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_3|block]] and [[#Better_at_Defending_.E2.80.93_block2|block2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_2|block]] and [[#Better_at_Defending_.E2.80.93_block2|block2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 1%</span><br/>
@@ -5084,6 +5184,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Orcish Strafer ==
@@ -5092,24 +5193,30 @@ This unit also has generic AMLA advancements</i></span>
 
 === Better with Crossbow &ndash; xbow ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>Damage increased by 1 for the crossbow attack</span><br/>
+<span style='color:green'>Damage increased by 2 for the crossbow attack</span><br/>
+<span style='color:green'>Damage increased by 1 for the crossbow-whirlwind attack</span><br/>
 <br/>
 === Faster with Crossbow &ndash; xbow2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Crossbow_.E2.80.93_xbow_3|xbow]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage decreased by 1 for the crossbow attack</span><br/>
 <span style='color:green'>1 more attacks for the crossbow attack</span><br/>
+<span style='color:green'>Damage decreased by 2 for the crossbow-whirlwind attack</span><br/>
+<span style='color:green'>1 more attacks for the crossbow-whirlwind attack</span><br/>
 <br/>
 === Shooting Poisonous Arrows &ndash; xbow-poison ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Crossbow_.E2.80.93_xbow_3|xbow]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the crossbow attack: poison</span><br/>
+<span style='color:green'>New weapon special for the crossbow-whirlwind attack: poison</span><br/>
+<span style='color:green'>Damage decreased by 1 for the crossbow-whirlwind attack</span><br/>
 <br/>
 === Faster with Crossbow &ndash; xbow3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Faster_with_Crossbow_.E2.80.93_xbow2_3|xbow2]] and [[#Better_with_Crossbow_.E2.80.93_xbow_3|xbow]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage decreased by 1 for the crossbow attack</span><br/>
 <span style='color:green'>1 more attacks for the crossbow attack</span><br/>
+<span style='color:green'>Damage decreased by 1 for the crossbow-whirlwind attack</span><br/>
+<span style='color:green'>1 more attacks for the crossbow-whirlwind attack</span><br/>
 <br/>
 === Shooting More Precisely &ndash; xbow-marksman ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -5119,17 +5226,18 @@ This unit also has generic AMLA advancements</i></span>
 === Incinerating Enemies with Fiery Shots &ndash; xbow-incinerate ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Faster_with_Crossbow_.E2.80.93_xbow2_3|xbow2]] and [[#Better_with_Crossbow_.E2.80.93_xbow_3|xbow]] to be achieved first</i></span><br/>
-<span style='color:green'>New weapon special for the crossbow attack (fire attacks only): [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
+<span style='color:green'>New weapon special for the crossbow attack: [[LotI_Abilities#incinerate_.E2.80.93_dummy|incinerate]]</span><br/>
 <br/>
 === Better with Crossbow &ndash; xbow4 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Faster_with_Crossbow_.E2.80.93_xbow2_3|xbow2]] and [[#Better_with_Crossbow_.E2.80.93_xbow_3|xbow]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the crossbow attack</span><br/>
+<span style='color:green'>Damage increased by 1 for the crossbow-whirlwind attack</span><br/>
 <br/>
 === Shooting so Hard that Enemies Behind Targets Will be Hit as Well &ndash; xbow-pierce ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Crossbow_.E2.80.93_xbow4|xbow4]] and [[#Faster_with_Crossbow_.E2.80.93_xbow3|xbow3]] to be achieved first</i></span><br/>
-<span style='color:green'>New weapon special for the crossbow attack (pierce attacks only): [[LotI_Abilities#pierce_.E2.80.93_dummy|pierce]]</span><br/>
+<span style='color:green'>New weapon special for the crossbow attack: [[LotI_Abilities#pierce_.E2.80.93_dummy|pierce]]</span><br/>
 <br/>
 === Striking Better with Sword &ndash; sword ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
@@ -5148,8 +5256,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to pierce increased by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Orcish Warmonger ==
@@ -5252,8 +5361,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Phantom ==
@@ -5406,8 +5516,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 3%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Predator ==
@@ -5529,6 +5640,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Preserved Lich (Argan Lich) ==
@@ -5628,7 +5740,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_and_Faster_with_Crossbow_.E2.80.93_xbow|xbow]], [[#Better_with_Crossbow_.E2.80.93_xbow2|xbow2]], [[#Faster_with_Crossbow_.E2.80.93_xbow2_speed_2|xbow2_speed]], [[#Better_with_Crossbow_.E2.80.93_xbow3_3|xbow3]] and [[#Better_with_Crossbow_.E2.80.93_xbow4_2|xbow4]] to be achieved first</i></span><br/>
 <span style='color:green'>1 more attacks for the crossbow attack</span><br/>
 <br/>
-=== Blocking Attacks Better (2 % Better Defence) &ndash; block ===
+=== Blocking Attacks Better (2% Better Defence) &ndash; block ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
@@ -5646,8 +5758,9 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Better Protected from Physical Blows (3% Better Resistances) &ndash; armour ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -5784,6 +5897,7 @@ This unit also has soul eater AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Preserved Lich (Efraim Lich) ==
@@ -5815,7 +5929,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === More Precise with Sword &ndash; sword2_marksman ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Sword_.E2.80.93_sword1_5|sword1]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Sword_.E2.80.93_sword6_5|sword6]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the sword attack: marksman</span><br/>
 <br/>
 === Better with Sword &ndash; sword3 ===
@@ -5828,9 +5942,9 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Sword_.E2.80.93_sword1_5|sword1]], [[#Better_with_Sword_.E2.80.93_sword2_8|sword2]] and [[#Better_with_Sword_.E2.80.93_sword3_6|sword3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the sword attack</span><br/>
 <br/>
-=== Raising Undead with Sword &ndash; sword4_plague ===
+=== Raising Undead with Sword &ndash; sword2_plague ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Sword_.E2.80.93_sword1_5|sword1]], [[#Better_with_Sword_.E2.80.93_sword2_8|sword2]], [[#Better_with_Sword_.E2.80.93_sword3_6|sword3]] and [[#Better_with_Sword_.E2.80.93_sword4_7|sword4]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_Sword_.E2.80.93_sword1_5|sword1]] and [[#Better_with_Sword_.E2.80.93_sword2_8|sword2]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the sword attack: plague</span><br/>
 <br/>
 === Better with Sword &ndash; sword5 ===
@@ -5851,30 +5965,31 @@ This unit also has soul eater AMLA advancements</i></span>
 <br/>
 === Able to Attack Twice in a Row &ndash; berserk1 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_with_Sword_.E2.80.93_sword2_8|sword2]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: mberserk2 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (2)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk2 attack: swarm</span><br/>
-<span style='color:green'>New weapon special for the mberserk2 attack: marksman</span><br/>
+<span style='color:green'>New weapon special for the mberserk2 attack: [[LotI_Abilities#furious_.E2.80.93_damage|furious]]</span><br/>
 <br/>
 === Able to Attack Thrice in a Row &ndash; berserk2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1_2|berserk1]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1_2|berserk1]] and [[#Better_with_Sword_.E2.80.93_sword3_6|sword3]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: mberserk3 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (3)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk3 attack: swarm</span><br/>
-<span style='color:green'>New weapon special for the mberserk3 attack: marksman</span><br/>
+<span style='color:green'>New weapon special for the mberserk3 attack: [[LotI_Abilities#furious_.E2.80.93_damage|furious]]</span><br/>
 <br/>
 === Able to Attack Five Times in a Row &ndash; berserk3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2_2|berserk2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Attack_Thrice_in_a_Row_.E2.80.93_berserk2_2|berserk2]] and [[#Better_with_Sword_.E2.80.93_sword5_5|sword5]] to be achieved first</i></span><br/>
 <span style='color:green'>New bonus attack: mberserk5 (80% damage and 100% attacks of sword, melee blade)</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#lesser berserk (COUNT)_.E2.80.93_berserk|lesser berserk (5)]]</span><br/>
 <span style='color:green'>New weapon special for the mberserk5 attack: swarm</span><br/>
-<span style='color:green'>New weapon special for the mberserk5 attack: marksman</span><br/>
+<span style='color:green'>New weapon special for the mberserk5 attack: [[LotI_Abilities#furious_.E2.80.93_damage|furious]]</span><br/>
 <br/>
 === Doing More Damage with the Furious Attack &ndash; berserk1_damage ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1_2|berserk1]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Attack_Twice_in_a_Row_.E2.80.93_berserk1_2|berserk1]], [[#Better_with_Sword_.E2.80.93_sword6_5|sword6]], [[#Better_with_Sword_.E2.80.93_sword6_5|sword6]] and [[#Better_with_Sword_.E2.80.93_sword6_5|sword6]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 10% for the mberserk2 attack</span><br/>
 <span style='color:green'>Damage increased by 10% for the mberserk3 attack</span><br/>
 <span style='color:green'>Damage increased by 10% for the mberserk5 attack</span><br/>
@@ -6019,11 +6134,13 @@ This unit also has soul eater AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Faster &ndash; movement2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Faster_.E2.80.93_movement_56|movement]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Able to Muster Enough Mental Powers to Levitate Through Hard Terrains &ndash; movement3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -6044,11 +6161,13 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:#60A0FF'>Movement costs across sands set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs above unwalkable places set to 1</span><br/>
 <span style='color:#60A0FF'>Movement costs through impassable walls set to {UNREACHABLE}</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Faster &ndash; movement4 ===
-<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Muster_Enough_Mental_Powers_to_Levitate_Through_Hard_Terrains_.E2.80.93_movement3_2|movement3]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Harder to be Hit &ndash; dodge ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -6389,6 +6508,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on hills reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 1%</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === More Nimble (+1 Movement, 1% Better Defences on All Terrains) &ndash; wings2 ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
@@ -6408,6 +6528,7 @@ This unit also has soul eater AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on hills reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 1%</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === More Nimble (2% Better Defences on All Terrains) &ndash; wings3 ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
@@ -6520,7 +6641,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending (Lowering the Chance to be Hit by 2%) &ndash; block2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_4|block]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_3|block]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 2%</span><br/>
@@ -6537,7 +6658,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending (Lowering the Chance to be Hit by 1%) &ndash; block3 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_4|block]] and [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_2%)_.E2.80.93_block2_2|block2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_3|block]] and [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_2%)_.E2.80.93_block2_2|block2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 1%</span><br/>
@@ -6566,6 +6687,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Prophet ==
@@ -6579,7 +6701,7 @@ This unit also has generic AMLA advancements</i></span>
 === Striking Faster with Lance &ndash; lance2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Striking_Better_with_Lance_.E2.80.93_lance_4|lance]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage decreased by 3 for the lance attack</span><br/>
+<span style='color:green'>Damage decreased by 4 for the lance attack</span><br/>
 <span style='color:green'>1 more attacks for the lance attack</span><br/>
 <br/>
 === Charging More Powerfully with Lance (2.5 Times More Damage) &ndash; lance3 ===
@@ -6601,6 +6723,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Faster with Sword &ndash; sword ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>Damage decreased by 1 for the sword attack</span><br/>
 <span style='color:green'>1 more attacks for the sword attack</span><br/>
 <br/>
 === Better with Sword &ndash; sword2 ===
@@ -6644,42 +6767,43 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (11)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#heals +VALUE_.E2.80.93_heals|heals (14)]]</span><br/>
 <br/>
-=== Able to Make Allies Resist Damage Better (10% to Resistances) &ndash; shield ===
+=== Able to Make Allies Resist Damage Better (8% to Resistances) &ndash; shield ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (10)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (8)]]</span><br/>
 <br/>
-=== Able to Make Allies Resist Damage Better (15% to Resistances) &ndash; shield2 ===
+=== Able to Make Allies Resist Damage Better (12% to Resistances) &ndash; shield2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Make_Allies_Resist_Damage_Better_(10%_to_Resistances)_.E2.80.93_shield|shield]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (10)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (15)]]</span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Make_Allies_Resist_Damage_Better_(8%_to_Resistances)_.E2.80.93_shield|shield]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (8)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (12)]]</span><br/>
 <br/>
-=== Able to Make Allies Resist Damage Better (20% to Resistances) &ndash; shield3 ===
+=== Able to Make Allies Resist Damage Better (16% to Resistances) &ndash; shield3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Make_Allies_Resist_Damage_Better_(15%_to_Resistances)_.E2.80.93_shield2|shield2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (15)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (20)]]</span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Make_Allies_Resist_Damage_Better_(12%_to_Resistances)_.E2.80.93_shield2|shield2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (12)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#shield (INTENSITY)_.E2.80.93_resistance|shield (16)]]</span><br/>
 <br/>
-=== Causing a Severe Frailty Complex in Enemies' Minds (-15% Physical Resistances) &ndash; frail_tide ===
+=== Causing a Severe Frailty Complex in Enemies' Minds (-10% Physical Resistances) &ndash; frail_tide ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Heal_Allies_Better_.E2.80.93_heal2_7|heal2]] and [[#Able_to_Make_Allies_Resist_Damage_Better_(20%_to_Resistances)_.E2.80.93_shield3|shield3]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Able_to_Heal_Allies_Better_.E2.80.93_heal2_7|heal2]] and [[#Able_to_Make_Allies_Resist_Damage_Better_(16%_to_Resistances)_.E2.80.93_shield3|shield3]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (10)]]</span><br/>
+<br/>
+=== Causing an Even Worse Frailty Complex in Enemies' Minds (-15% Physical Resistances) &ndash; frail_tide2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_a_Severe_Frailty_Complex_in_Enemies'_Minds_(-10%_Physical_Resistances)_.E2.80.93_frail_tide_2|frail_tide]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (10)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (15)]]</span><br/>
 <br/>
-=== Causing an Even Worse Frailty Complex in Enemies' Minds (-20% Physical Resistances) &ndash; frail_tide2 ===
+=== Causing a Really Terrible Frailty Complex in Enemies' Minds (-20% Physical Resistances) &ndash; frail_tide3 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_a_Severe_Frailty_Complex_in_Enemies'_Minds_(-15%_Physical_Resistances)_.E2.80.93_frail_tide|frail_tide]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_an_Even_Worse_Frailty_Complex_in_Enemies'_Minds_(-15%_Physical_Resistances)_.E2.80.93_frail_tide2_2|frail_tide2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (15)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (20)]]</span><br/>
 <br/>
-=== Causing a Really Terrible Frailty Complex in Enemies' Minds (-25% Physical Resistances) &ndash; frail_tide3 ===
-<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_an_Even_Worse_Frailty_Complex_in_Enemies'_Minds_(-20%_Physical_Resistances)_.E2.80.93_frail_tide2|frail_tide2]] to be achieved first</i></span><br/>
-<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (20)]]</span><br/>
-<span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (25)]]</span><br/>
-<br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>15 fewer hitpoints</span><br/>
 <br/>
 
 == Reaper ==
@@ -6834,8 +6958,9 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to pierce increased by 2%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Shadow Prince ==
@@ -6933,6 +7058,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Shadowalker ==
@@ -6986,7 +7112,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending &ndash; block2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_5|block]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_4|block]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 2%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 2%</span><br/>
@@ -7003,7 +7129,7 @@ This unit also has generic AMLA advancements</i></span>
 <br/>
 === Better at Defending &ndash; block3 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_5|block]] and [[#Better_at_Defending_.E2.80.93_block2_3|block2]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Better_at_Defending_(Lowering_the_Chance_to_be_Hit_by_3%)_.E2.80.93_block_4|block]] and [[#Better_at_Defending_.E2.80.93_block2_3|block2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Chance to get hit in forests reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on frozen places reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on flat terrains reduced by 1%</span><br/>
@@ -7063,6 +7189,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Siege Troll ==
@@ -7152,6 +7279,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Skeletal Dragon ==
@@ -7205,6 +7333,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Sky Goblin ==
@@ -7247,9 +7376,27 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancements [[#Better_with_the_Bow_.E2.80.93_bow_2|bow]], [[#Better_with_the_Bow_.E2.80.93_bow2_2|bow2]] and [[#Faster_with_the_Bow_.E2.80.93_bow3_5|bow3]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 (ranged attacks only)</span><br/>
 <br/>
-=== A Skirmisher &ndash; skirmisher ===
+=== Able to Escape to a Longer Distance &ndash; escape ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#escape artist_.E2.80.93_teleport|escape artist (2)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#escape artist_.E2.80.93_teleport|escape artist (3)]]</span><br/>
+<br/>
+=== A Skirmisher &ndash; escape2-skirmisher ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Escape_to_a_Longer_Distance_.E2.80.93_escape2|escape2]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>New ability: skirmisher</span><br/>
+<br/>
+=== Able to Escape to a Longer Distance &ndash; escape2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Escape_to_a_Longer_Distance_.E2.80.93_escape|escape]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#escape artist_.E2.80.93_teleport|escape artist (3)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#escape artist_.E2.80.93_teleport|escape artist (4)]]</span><br/>
+<br/>
+=== Able to Escape to a Longer Distance &ndash; escape3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Able_to_Escape_to_a_Longer_Distance_.E2.80.93_escape2|escape2]] to be achieved first</i></span><br/>
+<span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#escape artist_.E2.80.93_teleport|escape artist (4)]]</span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#escape artist_.E2.80.93_teleport|escape artist (5)]]</span><br/>
 <br/>
 === More Nimble (Lowering the Chance to be Hit by 4%) &ndash; dodge ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -7271,6 +7418,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Snow Hunter ==
@@ -7385,6 +7533,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Soul Shooter ==
@@ -7481,6 +7630,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Swordmaster ==
@@ -7551,6 +7701,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Troll Boulderlobber ==
@@ -7559,26 +7710,43 @@ This unit also has generic AMLA advancements</i></span>
 
 === Throwing Boulders Better &ndash; sling ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>Damage increased by 4 for the sling attack</span><br/>
+<span style='color:green'>Damage increased by 6 for the sling attack</span><br/>
 <br/>
 === Throwing Boulders Better &ndash; sling2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Throwing_Boulders_Better_.E2.80.93_sling|sling]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage increased by 3 for the sling attack</span><br/>
+<span style='color:green'>Damage increased by 5 for the sling attack</span><br/>
 <br/>
 === Throwing Boulders Better &ndash; sling3 ===
 <span style='color:#808080'><i>This advancement can be taken 10 times</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Throwing_Boulders_Better_.E2.80.93_sling2|sling2]] to be achieved first</i></span><br/>
-<span style='color:green'>Damage increased by 2 for the sling attack</span><br/>
+<span style='color:green'>Damage increased by 4 for the sling attack</span><br/>
 <br/>
 === Throwing Boulders that Stun Enemies &ndash; sling-slow ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Throwing_Boulders_Better_.E2.80.93_sling2|sling2]] to be achieved first</i></span><br/>
 <span style='color:green'>New weapon special for the sling attack: slow</span><br/>
 <br/>
+=== Throwing Boulder Stronger Through Enemies &ndash; sling-massive ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>New weapon special for the sling attack: [[LotI_Abilities#massive missile_.E2.80.93_dummy|massive missile (75)]]</span><br/>
+<span style='color:green'>Remove weapon special for the sling attack: massive missile</span><br/>
+<br/>
+=== Throwing Boulder Stronger Through Enemies &ndash; sling-massive2 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Throwing_Boulders_Better_.E2.80.93_sling|sling]] and [[#Throwing_Boulder_Stronger_Through_Enemies_.E2.80.93_sling-massive|sling-massive]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the sling attack: [[LotI_Abilities#massive missile_.E2.80.93_dummy|massive missile (80)]]</span><br/>
+<span style='color:green'>Remove weapon special for the sling attack: massive missile</span><br/>
+<br/>
+=== Throwing Boulder Stronger Through Enemies &ndash; sling-massive3 ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancements [[#Throwing_Boulders_Better_.E2.80.93_sling2|sling2]] and [[#Throwing_Boulder_Stronger_Through_Enemies_.E2.80.93_sling-massive2|sling-massive2]] to be achieved first</i></span><br/>
+<span style='color:green'>New weapon special for the sling attack: [[LotI_Abilities#massive missile_.E2.80.93_dummy|massive missile (85)]]</span><br/>
+<span style='color:green'>Remove weapon special for the sling attack: massive missile</span><br/>
+<br/>
 === Punching Enemies Better &ndash; fist ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:green'>Damage increased by 2 for the fist attack</span><br/>
+<span style='color:green'>Damage increased by 3 for the fist attack</span><br/>
 <br/>
 === Punching Enemies Faster &ndash; fist2 ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -7635,6 +7803,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 2 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Unholy Breed (Lethalia Evil Good) ==
@@ -7731,6 +7900,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Unholy Breed (Vritra Later) ==
@@ -7943,13 +8113,14 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Unholy Breed (Vritra) ==
 <span style='color:#808080'><i>Born from a special breed between a serpent and an elf, she inherited elvish appearance and intelligence, and serpent-like malice and dexterity. She is rather good than evil because of her education, but the evil power within her is still hard to control. If it gets bad, a healing potion might help her.<br/>
 This unit also has generic AMLA advancements</i></span>
 
-=== Oops, Something Went Wrong &ndash; backup_amla ===
+=== The Unit Will be Able to Pick One of Powerful Upgrades &ndash; backup_amla ===
 <span style='color:#808080'><i>This advancement can be taken 500 times</i></span><br/>
 <br/>
 
@@ -8078,11 +8249,13 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Faster &ndash; movement2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Faster_.E2.80.93_movement_73|movement]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Better Protected from Physical Blows (2% Better Resistances) &ndash; armour ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -8173,6 +8346,7 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on hills reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 1%</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === More Nimble (+1 Movement, 1% Better Defences on All Terrains) &ndash; wings2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
@@ -8192,6 +8366,7 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Chance to get hit on hills reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit on sands reduced by 1%</span><br/>
 <span style='color:#60A0FF'>Chance to get hit above unwalkable places reduced by 1%</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 === Better Protected from Physical Blows (2% Better Resistances) &ndash; armour ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -8418,6 +8593,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Warlock ==
@@ -8507,6 +8683,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 4 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Werewolf Rider ==
@@ -8550,6 +8727,10 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the fangs attack</span><br/>
 <br/>
+=== Gaining 1% Resistance with Every Bite (Halves Every Turn) &ndash; fangs_rage ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:green'>New weapon special for the fangs attack: [[LotI_Abilities#raging resolve_.E2.80.93_dummy|raging resolve]]</span><br/>
+<br/>
 === Biting Faster &ndash; fangs2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Biting_Better_.E2.80.93_fangs1_2|fangs1]] to be achieved first</i></span><br/>
@@ -8592,6 +8773,7 @@ This unit also has generic AMLA advancements</i></span>
 === Faster &ndash; movement ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
+<span style='color:#60A0FF'>10 fewer hitpoints</span><br/>
 <br/>
 
 == Zombie Rider ==
@@ -8642,15 +8824,23 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#808080'><i>This advancement requires the advancement [[#Transforming_Enemies_into_Monstrosities_with_the_Plague_.E2.80.93_monstrosity|monstrosity]] to be achieved first</i></span><br/>
 <span style='color:green'>Damage increased by 1 for the touch attack</span><br/>
 <br/>
+=== Causing Opponents to Lose 5% Resistances Every Time They Hit (Halves Every Turn) &ndash; revulsion ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#revulsion_.E2.80.93_dummy|revulsion]]</span><br/>
+<br/>
 === Causing a Severe Frailty Complex in Enemies' Minds (-15% Physical Resistances) &ndash; frail_tide ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (15)]]</span><br/>
 <br/>
 === Causing an Even Worse Frailty Complex in Enemies' Minds (-20% Physical Resistances) &ndash; frail_tide2 ===
 <span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
-<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_a_Severe_Frailty_Complex_in_Enemies'_Minds_(-15%_Physical_Resistances)_.E2.80.93_frail_tide_2|frail_tide]] to be achieved first</i></span><br/>
+<span style='color:#808080'><i>This advancement requires the advancement [[#Causing_a_Severe_Frailty_Complex_in_Enemies'_Minds_(-15%_Physical_Resistances)_.E2.80.93_frail_tide|frail_tide]] to be achieved first</i></span><br/>
 <span style='color:#60A0FF'>Remove ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (15)]]</span><br/>
 <span style='color:#60A0FF'>New ability: [[LotI_Abilities#frail tide (INTENSITY)_.E2.80.93_resistance|frail tide (20)]]</span><br/>
+<br/>
+=== Able to Teleport to an Ancient Lich, Arch Necromancer, Demilich or Lich King &ndash; recall ===
+<span style='color:#808080'><i>This advancement can be taken once</i></span><br/>
+<span style='color:#60A0FF'>New ability: [[LotI_Abilities#homecoming_.E2.80.93_teleport|homecoming]]</span><br/>
 <br/>
 === More Undead-Like Resistance (Improved Resistances, Slightly Worsened Weaknesses) &ndash; armour ===
 <span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
@@ -8659,10 +8849,10 @@ This unit also has generic AMLA advancements</i></span>
 <span style='color:#60A0FF'>Resistance to pierce increased by 3%</span><br/>
 <span style='color:#60A0FF'>Resistance to fire increased by -1%</span><br/>
 <span style='color:#60A0FF'>Resistance to cold increased by 3%</span><br/>
-<span style='color:#60A0FF'>Resistance to arcane increased by -2%</span><br/>
+<span style='color:#60A0FF'>Resistance to arcane increased by -1%</span><br/>
 <br/>
 === Faster &ndash; movement ===
-<span style='color:#808080'><i>This advancement can be taken 3 times</i></span><br/>
+<span style='color:#808080'><i>This advancement can be taken 5 times</i></span><br/>
 <span style='color:#60A0FF'>1 more movement points</span><br/>
 <br/>
 

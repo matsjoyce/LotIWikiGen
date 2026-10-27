@@ -242,6 +242,8 @@ def ability_name(index, name, args):
         "SHADOWSTALK",
         "WEAPON_REPULSION",
         "ALL_DAMAGE_AURA",
+        "SPINNING_SWORDS",
+        "ESCAPE_ARTIST",
     ):
         x = "{} ({})".format(name.replace("_", " ").lower(), args[0])
     else:
